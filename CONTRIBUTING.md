@@ -162,11 +162,13 @@ Skills about creating, testing, and sharing skills themselves
 
 Rate skills honestly based on utility and quality:
 
-- ⭐⭐⭐⭐⭐ - Essential, game-changing, widely used
-- ⭐⭐⭐⭐ - Very useful, high quality, well-maintained
-- ⭐⭐⭐ - Solid, useful for specific cases
-- ⭐⭐ - Niche use case, needs improvement
-- ⭐ - Experimental, early stage
+- ⭐⭐⭐⭐⭐ - Essential, game-changing, widely used (100+ GitHub stars, proven in production)
+- ⭐⭐⭐⭐ - Very useful, high quality, well-maintained (50+ stars, good documentation)
+- ⭐⭐⭐ - Solid, useful for specific cases (working, maintained, clear purpose)
+- ⭐⭐ - Niche use case, needs improvement (limited use, sparse docs)
+- ⭐ - Experimental, early stage (beta, incomplete, proof-of-concept)
+
+**When in doubt:** Start with ⭐⭐⭐ and adjust based on adoption and quality.
 
 ## Pull Request Process
 
@@ -212,14 +214,16 @@ When you open a PR, please include:
 
 Before submitting, verify:
 
-- [ ] Skill has been tested and works
-- [ ] README.md alphabetically sorted within category
-- [ ] All links are valid and working
-- [ ] Description is clear and concise
+- [ ] Skill has been tested and works with Claude Code
+- [ ] README.md entry alphabetically sorted within category (by skill name)
+- [ ] All links are valid and working (test them!)
+- [ ] Description is clear, concise, and under 150 characters
 - [ ] Use case is specific and helpful
-- [ ] Star rating is justified
+- [ ] Star rating is justified (1-5 stars based on utility)
 - [ ] No typos or grammatical errors
 - [ ] Follows markdown formatting guidelines
+- [ ] Source repository has commits within last 6 months
+- [ ] Skill has proper SKILL.md file with YAML frontmatter
 
 ## Code of Conduct
 
