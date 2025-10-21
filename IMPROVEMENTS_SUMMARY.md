@@ -2,7 +2,7 @@
 
 ## Overview
 
-Comprehensive review and enhancement of awesome-claude-code-skills repository to maximize viral potential and user value.
+Comprehensive review and enhancement of awesome-claude-skills repository to maximize viral potential and user value.
 
 ---
 

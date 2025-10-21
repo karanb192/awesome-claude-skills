@@ -1,0 +1,94 @@
+name: 🎯 Skill Submission
+description: Submit a new Claude skill to be added to the awesome list
+title: "[SKILL] "
+labels: ["skill-submission", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting a skill! Please fill out the information below.
+
+  - type: input
+    id: skill-name
+    attributes:
+      label: Skill Name
+      description: Name of the skill (e.g., test-driven-development)
+      placeholder: my-awesome-skill
+    validations:
+      required: true
+
+  - type: input
+    id: repository
+    attributes:
+      label: Repository URL
+      description: GitHub repository containing the skill
+      placeholder: https://github.com/username/skill-repo
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category does this skill belong to?
+      options:
+        - 📄 Document & File Processing
+        - 🧪 Testing & Quality
+        - 🐛 Debugging & Troubleshooting
+        - 🤝 Collaboration & Workflow
+        - ⚙️ Development & Architecture
+        - 🔒 Security & Performance
+        - 📚 Documentation & Automation
+        - 🎬 Media & Content Creation
+        - 📊 Data & Analysis
+        - ✍️ Writing & Research
+        - 🎯 Meta Skills
+        - Other (specify in description)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Short description of what the skill does (max 150 chars)
+      placeholder: Brief, clear description of the skill's functionality
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use Case
+      description: When and why should someone use this skill?
+      placeholder: Describe practical scenarios where this skill is useful
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: requirements
+    attributes:
+      label: Submission Requirements
+      description: Please ensure your skill meets these requirements
+      options:
+        - label: Skill has a valid `SKILL.md` file with YAML frontmatter
+          required: true
+        - label: Repository has clear documentation
+          required: true
+        - label: Skill has been tested and works as expected
+          required: true
+        - label: Repository is actively maintained (commits within 6 months)
+          required: true
+        - label: No security vulnerabilities or malicious code
+          required: true
+        - label: Skill is relevant to Claude workflows
+          required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: Any other details you'd like to share?
+      placeholder: Optional additional context
+    validations:
+      required: false

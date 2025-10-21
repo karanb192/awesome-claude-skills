@@ -1,6 +1,6 @@
-# Contributing to awesome-claude-code-skills
+# Contributing to awesome-claude-skills
 
-First off, thank you for considering contributing to awesome-claude-code-skills! It's people like you that make this resource valuable for the entire Claude Code community.
+First off, thank you for considering contributing to awesome-claude-skills! It's people like you that make this resource valuable for the Claude community.
 
 ## Table of Contents
 
@@ -26,8 +26,8 @@ We're always looking for new skills to add to the list! Here's how:
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/awesome-claude-code-skills.git
-   cd awesome-claude-code-skills
+   git clone https://github.com/karanb192/awesome-claude-skills.git
+   cd awesome-claude-skills
    ```
 
 3. **Create a branch**

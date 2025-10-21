@@ -1,4 +1,4 @@
-# Launch Plan for awesome-claude-code-skills
+# Launch Plan for awesome-claude-skills
 
 ## Pre-Launch Checklist ✅
 
@@ -53,7 +53,7 @@ automation
 ### Day 1: GitHub Launch
 
 **Morning (8 AM - 12 PM):**
-1. [ ] Create GitHub repository at: `github.com/YOUR_USERNAME/awesome-claude-code-skills`
+1. [x] Create GitHub repository at: `github.com/karanb192/awesome-claude-skills`
 2. [ ] Push all files to GitHub
 3. [ ] Configure repository settings (description, topics, features)
 4. [ ] Create a nice social preview image (1280x640px)
@@ -64,7 +64,7 @@ automation
    - Open issue: "Comprehensive skills list available"
    - Link to your repo
 7. [ ] Post on Hacker News
-   - Title: "awesome-claude-code-skills: 32+ Agent Skills to Supercharge Claude Code"
+   - Title: "awesome-claude-skills: 50+ Agent Skills to Supercharge Claude"
    - URL: Your GitHub repo
    - Best time: 8-9 AM EST or 6-7 PM EST
 8. [ ] Post on Reddit r/ClaudeAI
@@ -77,7 +77,7 @@ automation
 **Evening (5 PM - 10 PM):**
 10. [ ] Tweet/X post with thread:
     ```
-    🚀 Just launched awesome-claude-code-skills!
+    🚀 Just launched awesome-claude-skills!
 
     A curated list of 32+ Agent Skills to supercharge Claude Code development:
 
@@ -160,7 +160,7 @@ automation
 - [ ] Collaborate with claudeskills.info for listing
 
 **Expansion:**
-- [ ] Launch "awesome-claude-code-skills CLI" tool
+- [ ] Launch "awesome-claude-skills CLI" tool
   - Simple CLI to browse/install skills
   - `npx awesome-claude-skills search <keyword>`
   - `npx awesome-claude-skills install <skill>`

@@ -1,0 +1,54 @@
+name: 🐛 Broken Skill Report
+description: Report a skill that's broken, outdated, or no longer works
+title: "[BROKEN] "
+labels: ["broken-skill", "needs-investigation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting an issue! This helps keep the list high-quality.
+
+  - type: input
+    id: skill-name
+    attributes:
+      label: Skill Name
+      description: Name of the broken skill
+      placeholder: skill-name
+    validations:
+      required: true
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: What's wrong with the skill?
+      options:
+        - Repository no longer exists (404)
+        - Skill doesn't work as described
+        - Repository is unmaintained (no commits in 12+ months)
+        - Documentation is outdated
+        - Security vulnerability
+        - Other (specify below)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please describe the issue in detail
+      placeholder: What went wrong?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce (if applicable)
+      description: How can we verify the issue?
+      placeholder: |
+        1. Clone the skill
+        2. Try to use it
+        3. See error
+    validations:
+      required: false

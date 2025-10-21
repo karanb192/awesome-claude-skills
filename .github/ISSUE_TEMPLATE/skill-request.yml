@@ -1,0 +1,79 @@
+name: 💡 Skill Request
+description: Suggest a new skill that should be created
+title: "[REQUEST] "
+labels: ["skill-request", "community-needed"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea for a skill that doesn't exist yet? Let us know!
+
+  - type: input
+    id: skill-name
+    attributes:
+      label: Proposed Skill Name
+      description: What should this skill be called?
+      placeholder: my-proposed-skill
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category would this skill belong to?
+      options:
+        - 📄 Document & File Processing
+        - 🧪 Testing & Quality
+        - 🐛 Debugging & Troubleshooting
+        - 🤝 Collaboration & Workflow
+        - ⚙️ Development & Architecture
+        - 🔒 Security & Performance
+        - 📚 Documentation & Automation
+        - 🎬 Media & Content Creation
+        - 📊 Data & Analysis
+        - ✍️ Writing & Research
+        - 🎯 Meta Skills
+        - Other (specify in description)
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: What problem would this skill solve?
+      placeholder: Describe the pain point this skill would address
+    validations:
+      required: true
+
+  - type: textarea
+    id: functionality
+    attributes:
+      label: Proposed Functionality
+      description: What should this skill do?
+      placeholder: Describe the expected behavior and features
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-cases
+    attributes:
+      label: Use Cases
+      description: When would someone use this skill?
+      placeholder: List 2-3 practical scenarios
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: contribute
+    attributes:
+      label: Contribution
+      description: Are you interested in creating this skill?
+      options:
+        - label: I'm willing to create this skill
+          required: false
+        - label: I need help creating this skill
+          required: false
+        - label: I'm just suggesting the idea
+          required: false
