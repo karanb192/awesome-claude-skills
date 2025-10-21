@@ -45,3 +45,10 @@ yarn-error.log*
 
 # Misc
 .cache/
+
+# Internal planning documents (keep local only)
+IMPROVEMENTS_SUMMARY.md
+LAUNCH_PLAN.md
+LAUNCH_STRATEGY.md
+READY_TO_LAUNCH.md
+KB-Actions.md
