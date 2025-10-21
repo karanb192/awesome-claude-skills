@@ -67,7 +67,7 @@ All submitted skills must meet these quality standards:
 
 - **Working `SKILL.md` file** - Must have valid YAML frontmatter and markdown content
 - **Clear documentation** - Purpose, usage, and benefits must be obvious
-- **Claude Code relevance** - Specifically useful for CLI development workflows
+- **Claude relevance** - Useful for Claude Code, Claude.ai, or Claude API workflows
 - **Active maintenance** - Repository shows commits within the last 6 months
 - **Open source** - Publicly accessible on GitHub (or similar)
 - **No malicious code** - Code reviewed for security issues and harmful patterns
@@ -201,7 +201,7 @@ When you open a PR, please include:
 - [ ] Has working SKILL.md file
 - [ ] Clear documentation
 - [ ] Active maintenance (commits in last 6 months)
-- [ ] Relevant to Claude Code CLI
+- [ ] Relevant to Claude workflows (Code/Web/API)
 - [ ] No security issues
 - [ ] Follows format requirements
 - [ ] Alphabetically sorted within category
@@ -214,7 +214,7 @@ When you open a PR, please include:
 
 Before submitting, verify:
 
-- [ ] Skill has been tested and works with Claude Code
+- [ ] Skill has been tested and works with Claude
 - [ ] README.md entry alphabetically sorted within category (by skill name)
 - [ ] All links are valid and working (test them!)
 - [ ] Description is clear, concise, and under 150 characters
@@ -268,4 +268,4 @@ All contributors will be:
 
 ---
 
-**Thank you for contributing!** Your efforts help make Claude Code better for everyone.
+**Thank you for contributing!** Your efforts help make Claude better for everyone.

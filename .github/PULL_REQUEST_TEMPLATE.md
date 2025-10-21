@@ -14,7 +14,7 @@ Please verify that your submission meets these requirements:
 - [ ] Has working `SKILL.md` file with YAML frontmatter
 - [ ] Clear, concise documentation
 - [ ] Active maintenance (commits within last 6 months)
-- [ ] Relevant to Claude Code CLI workflows
+- [ ] Relevant to Claude workflows (Code, Web, or API)
 - [ ] No security vulnerabilities or malicious code
 - [ ] Follows format requirements in CONTRIBUTING.md
 - [ ] Alphabetically sorted within category
@@ -36,13 +36,13 @@ Please paste your formatted skill entry here:
 
 ## Why This Skill is Valuable
 
-Please explain why this skill would be valuable to the Claude Code community:
+Please explain why this skill would be valuable to the Claude community:
 
 
 
 ## Testing
 
-- [ ] I have tested this skill with Claude Code
+- [ ] I have tested this skill with Claude (Code/Web/API)
 - [ ] The skill works as described
 - [ ] Installation instructions are clear
 
