@@ -314,6 +314,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🔒 Security & Performance
 
+#### trail-of-bits-security-skills
+**Source:** [trailofbits/skills](https://github.com/trailofbits/skills) | **Verified:** ⏳
+**Description:** Security skills for code auditing and vulnerability detection using static analysis tools.
+**Use Case:** Static analysis with CodeQL/Semgrep, variant analysis across codebases, fix verification, differential code review.
+**Stars:** ⭐⭐⭐⭐⭐
+
 #### security-review
 **Status:** Community-needed
 **Description:** Automated vulnerability scanning and OWASP compliance checks.
