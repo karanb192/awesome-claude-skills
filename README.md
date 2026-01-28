@@ -415,6 +415,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
 
+#### infinite-gratitude
+**Source:** [sstklen/infinite-gratitude](https://github.com/sstklen/infinite-gratitude) | **Verified:** ⏳
+**Description:** Multi-agent parallel research — 10 agents dispatch like cats bringing gifts home.
+**Use Case:** Deep research with real case studies, competitive analysis, technology surveys
+**Stars:** ⭐⭐⭐⭐
+
 #### research-assistant
 **Status:** Community-needed
 **Description:** Gather, synthesize, and cite sources for research projects.
@@ -428,6 +434,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ---
 
 ### 🎯 Meta Skills
+
+
+#### claude-api-cost-optimization
+**Source:** [sstklen/claude-api-cost-optimization](https://github.com/sstklen/claude-api-cost-optimization) | **Verified:** ⏳
+**Description:** Save 50-90% on Claude API costs with Batch API, Prompt Caching, and Extended Thinking.
+**Use Case:** Reducing API costs for multi-agent workflows, batch processing, repeated prompts
+**Stars:** ⭐⭐⭐⭐
 
 #### skill-creator
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
