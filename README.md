@@ -549,6 +549,7 @@ Skills can execute code, so only install from trusted sources. Review the skill'
 ### Community Resources
 - [Claude Skills Hub](https://claudeskills.info/) - Searchable skills directory
 - [Simon Willison's Blog](https://simonwillison.net/2025/Oct/16/claude-skills/) - "Claude Skills are awesome, maybe a bigger deal than MCP"
+- [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions
 
 ### Tools & Utilities
 - [create-claude-skill](https://github.com/anthropics/skills) - Interactive skill creator
