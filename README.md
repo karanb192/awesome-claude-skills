@@ -243,6 +243,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Before submitting PRs, preparing for team review
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### pm-skills
+**Source:** [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills)
+**Description:** 24 product management skills for discovery, definition, development, delivery, measurement, and iteration
+**Use Case:** Full PM workflow: PRDs, user stories, competitive analysis, experiment design, retrospectives, and stakeholder artifacts
+**Stars:** ⭐⭐⭐⭐
+
 #### receiving-code-review
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Constructive feedback integration and iteration on review comments.
@@ -475,6 +481,7 @@ Looking for curated skill bundles? Start with these collections:
 |------------|--------|------------|------------|
 | [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
 | [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
+| [product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills) | 24 | @product-on-purpose | Product management workflows & artifacts |
 
 ---
 
