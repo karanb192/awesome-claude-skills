@@ -295,6 +295,14 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+
+#### oiloil-ui-ux-guide
+**Source:** [oil-oil/oiloil-ui-ux-guide](https://github.com/oil-oil/oiloil-ui-ux-guide) | **Verified:** ⏳
+**Description:** Modern clean UI/UX guidance and review skill with two modes: `guide` for do/don't rules and `review` for P0/P1/P2 actionable fix lists. Covers CRAP principles, task-first UX, cognitive load control, HCI laws, and interaction psychology.
+**Use Case:** Design reviews, new feature UX guidelines, reducing UI clutter and hint sprawl
+```bash
+npx skills add oil-oil/oiloil-ui-ux-guide
+```
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
