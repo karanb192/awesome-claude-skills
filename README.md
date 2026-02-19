@@ -61,6 +61,7 @@ git clone https://github.com/obra/superpowers ~/.claude/skills/superpowers
 **Agent Skills** are modular capabilities that extend Claude's functionality through organized folders containing instructions, scripts, and resources. Each skill teaches Claude how to perform specialized tasks in a repeatable, standardized way.
 
 **Key benefits:**
+
 - **Efficient:** Skills use only 30-50 tokens until loaded
 - **Portable:** Works across Claude Code CLI, Claude.ai, and API
 - **Composable:** Stack multiple skills together
@@ -72,18 +73,18 @@ Skills are available on Claude Pro, Max, Team, and Enterprise plans with code ex
 
 **Start with these top 10 essential skills:**
 
-| Skill | Why You Need It | Category | Verified |
-|-------|----------------|----------|----------|
-| [test-driven-development](https://github.com/obra/superpowers) | Write bulletproof code with RED-GREEN-REFACTOR workflow | 🧪 Testing | ✅ |
-| [systematic-debugging](https://github.com/obra/superpowers) | Find bugs 10x faster with 4-phase root cause analysis | 🐛 Debugging | ✅ |
-| [using-git-worktrees](https://github.com/obra/superpowers) | Work on multiple features simultaneously without context switching | 🤝 Workflow | ✅ |
-| [mcp-builder](https://github.com/anthropics/skills) | Build custom MCP servers to extend Claude's capabilities | ⚙️ Development | ✅ |
-| [pdf](https://github.com/anthropics/skills) | Extract text, tables, metadata from PDFs with merge & annotation support | 📄 Documents | ✅ |
-| [docx](https://github.com/anthropics/skills) | Create, edit, and analyze Word documents with tracked changes | 📄 Documents | ✅ |
-| [artifacts-builder](https://github.com/anthropics/skills) | Build complex React artifacts with Tailwind CSS and shadcn/ui | ⚙️ Development | ✅ |
-| [skill-creator](https://github.com/anthropics/skills) | Create your own skills and contribute to the ecosystem | 🎯 Meta | ✅ |
-| [requesting-code-review](https://github.com/obra/superpowers) | Pre-review preparation with formatted diffs and clear PR descriptions | 🤝 Workflow | ✅ |
-| [subagent-driven-development](https://github.com/obra/superpowers) | Quality-gated iteration with multi-agent workflows for complex tasks | 🎯 Meta | ✅ |
+| Skill                                                              | Why You Need It                                                          | Category       | Verified |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------ | -------------- | -------- |
+| [test-driven-development](https://github.com/obra/superpowers)     | Write bulletproof code with RED-GREEN-REFACTOR workflow                  | 🧪 Testing     | ✅       |
+| [systematic-debugging](https://github.com/obra/superpowers)        | Find bugs 10x faster with 4-phase root cause analysis                    | 🐛 Debugging   | ✅       |
+| [using-git-worktrees](https://github.com/obra/superpowers)         | Work on multiple features simultaneously without context switching       | 🤝 Workflow    | ✅       |
+| [mcp-builder](https://github.com/anthropics/skills)                | Build custom MCP servers to extend Claude's capabilities                 | ⚙️ Development | ✅       |
+| [pdf](https://github.com/anthropics/skills)                        | Extract text, tables, metadata from PDFs with merge & annotation support | 📄 Documents   | ✅       |
+| [docx](https://github.com/anthropics/skills)                       | Create, edit, and analyze Word documents with tracked changes            | 📄 Documents   | ✅       |
+| [artifacts-builder](https://github.com/anthropics/skills)          | Build complex React artifacts with Tailwind CSS and shadcn/ui            | ⚙️ Development | ✅       |
+| [skill-creator](https://github.com/anthropics/skills)              | Create your own skills and contribute to the ecosystem                   | 🎯 Meta        | ✅       |
+| [requesting-code-review](https://github.com/obra/superpowers)      | Pre-review preparation with formatted diffs and clear PR descriptions    | 🤝 Workflow    | ✅       |
+| [subagent-driven-development](https://github.com/obra/superpowers) | Quality-gated iteration with multi-agent workflows for complex tasks     | 🎯 Meta        | ✅       |
 
 ## How to Install Skills
 
@@ -108,6 +109,7 @@ git clone https://github.com/owner/skill-name $env:USERPROFILE\.claude\skills\sk
 3. (Optional) Include supporting scripts and resources
 
 **Verify installation:**
+
 ```bash
 # Check if skill is loaded
 ls ~/.claude/skills/
@@ -119,17 +121,18 @@ ls ~/.claude/skills/
 
 Confused about when to use Skills vs other Claude customization methods? Here's the breakdown:
 
-| Feature | Skills | MCP Servers | System Prompts |
-|---------|--------|-------------|----------------|
-| **Purpose** | Task-specific workflows | External tool integration | General behavior modification |
-| **Setup** | Git clone to `~/.claude/skills/` | Install & configure MCP server | Edit `CLAUDE.md` in project |
-| **Activation** | Automatic (context-aware) | Explicit tool calls | Always active |
-| **Best For** | TDD, debugging, git workflows | APIs, databases, file systems | Project conventions, style guides |
-| **Portability** | Cross-platform (CLI, web, API) | Platform-dependent | Project-specific |
-| **Token Cost** | 30-50 until loaded | Per-call | Always consuming tokens |
-| **Examples** | `test-driven-development` | Weather API, GitHub integration | "Use TypeScript strict mode" |
+| Feature         | Skills                           | MCP Servers                     | System Prompts                    |
+| --------------- | -------------------------------- | ------------------------------- | --------------------------------- |
+| **Purpose**     | Task-specific workflows          | External tool integration       | General behavior modification     |
+| **Setup**       | Git clone to `~/.claude/skills/` | Install & configure MCP server  | Edit `CLAUDE.md` in project       |
+| **Activation**  | Automatic (context-aware)        | Explicit tool calls             | Always active                     |
+| **Best For**    | TDD, debugging, git workflows    | APIs, databases, file systems   | Project conventions, style guides |
+| **Portability** | Cross-platform (CLI, web, API)   | Platform-dependent              | Project-specific                  |
+| **Token Cost**  | 30-50 until loaded               | Per-call                        | Always consuming tokens           |
+| **Examples**    | `test-driven-development`        | Weather API, GitHub integration | "Use TypeScript strict mode"      |
 
 **When to use what:**
+
 - ✅ **Skills** → Repeatable workflows (TDD, debugging, code review)
 - ✅ **MCP** → External data/tools (APIs, search, databases)
 - ✅ **System Prompts** → Project-specific rules and conventions
@@ -139,24 +142,28 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ### 📄 Document & File Processing
 
 #### pdf
+
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Extract text, tables, metadata from PDFs. Merge documents and add annotations.
 **Use Case:** Processing contracts, extracting data from reports, combining PDF files
 **Stars:** ⭐⭐⭐⭐⭐
 
 #### docx
+
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Create, edit, and analyze Word documents with support for tracked changes and comments.
 **Use Case:** Automating document generation, processing feedback, extracting structured data
 **Stars:** ⭐⭐⭐⭐⭐
 
 #### xlsx
+
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Excel spreadsheet operations including formulas, charts, pivot tables, and data validation.
 **Use Case:** Financial reports, data analysis, automated spreadsheet generation
 **Stars:** ⭐⭐⭐⭐⭐
 
 #### pptx
+
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** PowerPoint presentation creation with templates, charts, and multimedia integration.
 **Use Case:** Automated slide generation, presentation analysis, template customization
@@ -167,35 +174,41 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ### 🧪 Testing & Quality
 
 #### test-driven-development
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** RED-GREEN-REFACTOR cycle: write failing tests, implement code, refactor for quality
 **Use Case:** Building new features with strong test coverage guarantees
 **Stars:** ⭐⭐⭐⭐⭐
 
 #### webapp-testing
+
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Playwright-based web app testing for UI verification and debugging
 **Use Case:** Testing web UIs, validating user flows, catching visual regressions
 **Stars:** ⭐⭐⭐⭐
 
 #### condition-based-waiting
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Async testing patterns with proper wait conditions to prevent flaky tests
 **Use Case:** Testing asynchronous operations, API calls, animations
 **Stars:** ⭐⭐⭐⭐
 
 #### testing-anti-patterns
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Identifies common testing mistakes: brittle assertions, test interdependence, poor isolation
 **Use Case:** Code reviews, refactoring existing test suites
 **Stars:** ⭐⭐⭐
 
 #### e2e-testing-skill
+
 **Status:** Community-needed
 **Description:** End-to-end test automation across multiple services and browser environments.
 **Use Case:** Integration testing, cross-browser compatibility validation
 
 #### snapshot-testing
+
 **Status:** Community-needed
 **Description:** Visual regression testing with component snapshot management.
 **Use Case:** Component libraries, design system maintenance
@@ -205,30 +218,35 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ### 🐛 Debugging & Troubleshooting
 
 #### systematic-debugging
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Four-phase root cause process: reproduce, isolate, identify, verify fix.
 **Use Case:** Complex bugs, production issues, multi-component failures
 **Stars:** ⭐⭐⭐⭐⭐
 
 #### root-cause-tracing
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Deep problem investigation with dependency chain analysis.
 **Use Case:** Tracing cascading failures, understanding system interactions
 **Stars:** ⭐⭐⭐⭐
 
 #### verification-before-completion
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Ensures fixes are validated before marking work complete.
 **Use Case:** Bug fixes, refactoring work, feature additions
 **Stars:** ⭐⭐⭐⭐
 
 #### defense-in-depth
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Multiple validation layers for comprehensive error handling.
 **Use Case:** Critical systems, production code, API endpoints
 **Stars:** ⭐⭐⭐
 
 #### performance-profiling
+
 **Status:** Community-needed
 **Description:** Identify performance bottlenecks, memory leaks, and CPU-intensive operations.
 **Use Case:** Optimization work, scaling applications, investigating slowness
@@ -238,42 +256,49 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ### 🤝 Collaboration & Workflow
 
 #### requesting-code-review
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Pre-review preparation and PR best practices with formatted diffs.
 **Use Case:** Before submitting PRs, preparing for team review
 **Stars:** ⭐⭐⭐⭐⭐
 
 #### receiving-code-review
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Constructive feedback integration and iteration on review comments.
 **Use Case:** Responding to PR feedback, implementing requested changes
 **Stars:** ⭐⭐⭐⭐
 
 #### using-git-worktrees
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Parallel development branches for context switching optimization.
 **Use Case:** Juggling multiple features, emergency hotfixes, experimental branches
 **Stars:** ⭐⭐⭐⭐⭐
 
 #### finishing-a-development-branch
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Guides merge/PR decisions and maintaining clean git history.
 **Use Case:** Preparing features for merge, cleaning up commit history
 **Stars:** ⭐⭐⭐⭐
 
 #### brainstorming
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Socratic design refinement and feature exploration through guided questioning.
 **Use Case:** Architecture decisions, API design, feature planning
 **Stars:** ⭐⭐⭐⭐
 
 #### writing-plans
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Creates detailed implementation strategies and architecture documentation.
 **Use Case:** Complex features, system design, technical specs
 **Stars:** ⭐⭐⭐⭐⭐
 
 #### executing-plans
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Batch execution with checkpoints for progress tracking and recovery.
 **Use Case:** Large refactors, multi-step implementations
@@ -284,52 +309,68 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ### ⚙️ Development & Architecture
 
 #### mcp-builder
+
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Create high-quality Model Context Protocol servers for external integrations.
 **Use Case:** Building custom MCP servers, extending Claude's capabilities
 **Stars:** ⭐⭐⭐⭐⭐
 
 #### artifacts-builder
+
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Build complex claude.ai HTML artifacts using React, Tailwind CSS, and shadcn/ui.
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
 #### api-development
+
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
 **Use Case:** Building backend services, documenting APIs
 
 #### database-migration
+
 **Status:** Community-needed
 **Description:** Schema version management and safe migration patterns for production.
 **Use Case:** Database evolution, schema changes, data migrations
 
 #### refactoring-patterns
+
 **Status:** Community-needed
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
+
+#### b12-claude-plugin
+
+**Source:** [b12io/b12-claude-plugin](https://github.com/b12io/b12-claude-plugin) | **Verified:** ⏳
+**Description:** AI-powered website generator that creates a production-ready website from a business name and description.
+**Use Case:** Businesses and entrepreneurs needing a professional website instantly without manual design or coding
+**Stars:** ⭐⭐⭐
 
 ---
 
 ### 🔒 Security & Performance
 
 #### security-review
+
 **Status:** Community-needed
 **Description:** Automated vulnerability scanning and OWASP compliance checks.
 **Use Case:** Security audits, pre-deployment checks, compliance validation
 
 #### dependency-audit
+
 **Status:** Community-needed
 **Description:** Supply chain security analysis with CVE detection in dependencies.
 **Use Case:** Regular security checks, updating vulnerable packages
 
 #### performance-optimization
+
 **Status:** Community-needed
 **Description:** Algorithmic improvements and resource usage optimization strategies.
 **Use Case:** Improving application speed, reducing memory footprint
 
 #### load-testing
+
 **Status:** Community-needed
 **Description:** Stress testing patterns and performance benchmarking.
 **Use Case:** Capacity planning, finding breaking points
@@ -339,16 +380,19 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ### 📚 Documentation & Automation
 
 #### documentation-generator
+
 **Status:** Community-needed
 **Description:** Auto-generate API documentation and keep docs synchronized with code.
 **Use Case:** Maintaining up-to-date documentation, API references
 
 #### changelog-automation
+
 **Status:** Community-needed
 **Description:** Conventional commits integration with automated release note generation.
 **Use Case:** Release management, version tracking
 
 #### ci-cd-integration
+
 **Status:** Community-needed
 **Description:** GitHub Actions workflow creation and automated deployment pipelines.
 **Use Case:** DevOps automation, continuous delivery
@@ -358,24 +402,28 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ### 🎬 Media & Content Creation
 
 #### canvas-design
+
 **Source:** Community | **Verified:** ⏳
 **Description:** Create visual designs and graphics using Claude's canvas capabilities.
 **Use Case:** Quick mockups, diagrams, visual brainstorming
 **Stars:** ⭐⭐⭐
 
 #### slack-gif-creator
+
 **Source:** Community | **Verified:** ⏳
 **Description:** Generate custom GIFs for Slack communication and team engagement.
 **Use Case:** Team communication, visual humor, notifications
 **Stars:** ⭐⭐
 
 #### algorithmic-art
+
 **Source:** Community | **Verified:** ⏳
 **Description:** Generate procedural art and visualizations using code-based techniques.
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
 #### video-editing-helper
+
 **Status:** Community-needed
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
 **Use Case:** Video production, content creation, media processing
@@ -385,16 +433,19 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ### 📊 Data & Analysis
 
 #### data-visualization
+
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
 **Use Case:** Data exploration, reporting, presentation of insights
 
 #### sql-query-builder
+
 **Status:** Community-needed
 **Description:** Generate optimized SQL queries with proper indexing and performance tuning.
 **Use Case:** Database queries, data extraction, performance optimization
 
 #### csv-processing
+
 **Status:** Community-needed
 **Description:** Parse, transform, and analyze CSV files with data cleaning and validation.
 **Use Case:** Data migration, ETL processes, data quality checks
@@ -404,23 +455,27 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ### ✍️ Writing & Research
 
 #### brand-guidelines
+
 **Source:** Community | **Verified:** ⏳
 **Description:** Maintain and enforce brand voice, style, and messaging consistency.
 **Use Case:** Content creation, marketing materials, company communications
 **Stars:** ⭐⭐⭐⭐
 
 #### internal-comms
+
 **Source:** Community | **Verified:** ⏳
 **Description:** Draft internal communications, memos, and team announcements.
 **Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
 
 #### research-assistant
+
 **Status:** Community-needed
 **Description:** Gather, synthesize, and cite sources for research projects.
 **Use Case:** Academic research, market analysis, competitive intelligence
 
 #### technical-writing
+
 **Status:** Community-needed
 **Description:** Create clear technical documentation following industry best practices.
 **Use Case:** API docs, user manuals, technical specifications
@@ -430,36 +485,42 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ### 🎯 Meta Skills
 
 #### skill-creator
+
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Teaches methods for developing effective skills following best practices.
 **Use Case:** Building custom skills, contributing to the ecosystem
 **Stars:** ⭐⭐⭐⭐⭐
 
 #### template-skill
+
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Minimal skeleton for new skill projects with proper structure.
 **Use Case:** Starting new skills from scratch
 **Stars:** ⭐⭐⭐⭐
 
 #### writing-skills
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Creating skills following best practices with proper YAML frontmatter.
 **Use Case:** Contributing new skills, maintaining skill quality
 **Stars:** ⭐⭐⭐⭐
 
 #### sharing-skills
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Contributing skills via branches and pull requests to community repositories.
 **Use Case:** Open-source contributions, sharing expertise
 **Stars:** ⭐⭐⭐
 
 #### testing-skills-with-subagents
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Validating skill quality and effectiveness using subagent-driven testing.
 **Use Case:** Quality assurance for skills, debugging skill behavior
 **Stars:** ⭐⭐⭐⭐
 
 #### subagent-driven-development
+
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Quality-gated iteration with multi-agent workflows for complex tasks.
 **Use Case:** Large-scale refactoring, parallel development streams
@@ -471,10 +532,10 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 Looking for curated skill bundles? Start with these collections:
 
-| Collection | Skills | Maintainer | Focus Area |
-|------------|--------|------------|------------|
-| [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
-| [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
+| Collection                                                | Skills | Maintainer  | Focus Area                             |
+| --------------------------------------------------------- | ------ | ----------- | -------------------------------------- |
+| [obra/superpowers](https://github.com/obra/superpowers)   | 20+    | @obra       | Development workflows & best practices |
+| [anthropics/skills](https://github.com/anthropics/skills) | 10+    | @anthropics | Official skills & document processing  |
 
 ---
 
@@ -483,6 +544,7 @@ Looking for curated skill bundles? Start with these collections:
 ### How do I know if a skill is working?
 
 Skills load automatically when Claude detects they're relevant. You'll see Claude using skill-specific patterns (like RED-GREEN-REFACTOR for TDD). To check installed skills:
+
 ```bash
 ls ~/.claude/skills/
 ```
@@ -534,23 +596,28 @@ Skills can execute code, so only install from trusted sources. Review the skill'
 ## Resources
 
 ### Official Documentation
+
 - [Agent Skills Documentation](https://docs.claude.com/en/docs/claude-code/skills) - Official Anthropic skills docs
 - [Skills Announcement](https://www.anthropic.com/news/skills) - Claude Skills launch announcement
 - [Engineering Deep Dive](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Technical details
 
 ### Official Repositories
+
 - [anthropics/skills](https://github.com/anthropics/skills) - Official Anthropic skills repository
 - [obra/superpowers](https://github.com/obra/superpowers) - Battle-tested core skills library (20+ skills)
 
 ### Related Awesome Lists
+
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Commands, workflows, and tools for Claude Code
 - [awesome-claude](https://github.com/alvinunreal/awesome-claude) - General Claude resources
 
 ### Community Resources
+
 - [Claude Skills Hub](https://claudeskills.info/) - Searchable skills directory
 - [Simon Willison's Blog](https://simonwillison.net/2025/Oct/16/claude-skills/) - "Claude Skills are awesome, maybe a bigger deal than MCP"
 
 ### Tools & Utilities
+
 - [create-claude-skill](https://github.com/anthropics/skills) - Interactive skill creator
 - [template-skill](https://github.com/anthropics/skills) - Minimal skill template
 
@@ -561,7 +628,9 @@ Skills can execute code, so only install from trusted sources. Review the skill'
 Thanks to these amazing people who have contributed to this list:
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
+
 This awesome list is maintained by the community. Want to see your name here? [Contribute!](#contributing)
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
@@ -571,6 +640,7 @@ This awesome list is maintained by the community. Want to see your name here? [C
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 **Quick contribution checklist:**
+
 - ✅ Skill has working `SKILL.md` with YAML frontmatter
 - ✅ Clear documentation and use cases
 - ✅ Actively maintained (commits within 6 months)
@@ -578,6 +648,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 - ✅ No security vulnerabilities or malicious code
 
 **Ways to contribute:**
+
 1. Add new skills to existing categories
 2. Create entirely new categories
 3. Improve skill descriptions
@@ -598,6 +669,7 @@ This awesome list is licensed under MIT. Individual skills maintain their own li
 ## Acknowledgments
 
 Special thanks to:
+
 - **Anthropic** for creating Agent Skills and Claude Code
 - **[@obra](https://github.com/obra)** for the incredible superpowers skills library
 - **The Claude community** for continuous innovation and contributions
