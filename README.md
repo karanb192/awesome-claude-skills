@@ -340,7 +340,7 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
-#### b12-claude-plugin
+#### website-generator
 
 **Source:** [b12io/b12-claude-plugin](https://github.com/b12io/b12-claude-plugin) | **Verified:** ⏳
 **Description:** AI-powered website generator that creates a production-ready website from a business name and description.
