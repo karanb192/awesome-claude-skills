@@ -467,6 +467,14 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ---
 
+#### openpaw
+**Source:** [daxaur/openpaw](https://github.com/daxaur/openpaw) | **Verified:** Community
+**Description:** Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills. No daemon, no cloud, MIT licensed.
+**Use Case:** Personal assistant skills including Telegram, Discord, Obsidian, daily briefings, and more
+**Stars:** New
+
+---
+
 ## Skill Collections
 
 Looking for curated skill bundles? Start with these collections:
