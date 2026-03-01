@@ -475,6 +475,7 @@ Looking for curated skill bundles? Start with these collections:
 |------------|--------|------------|------------|
 | [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
 | [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
+| [OpenPaw](https://github.com/daxaur/openpaw) | 38 | @daxaur | Personal assistant — email, calendar, Spotify, smart home, Slack, GitHub, and more (`npx pawmode`) |
 
 ---
 
