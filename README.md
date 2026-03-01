@@ -473,8 +473,9 @@ Looking for curated skill bundles? Start with these collections:
 
 | Collection | Skills | Maintainer | Focus Area |
 |------------|--------|------------|------------|
-| [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
 | [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
+| [noizai/skills](https://github.com/noizai/skills) | 2+ | @noizai | TTS dubbing and companion voice presets |
+| [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
 
 ---
 
