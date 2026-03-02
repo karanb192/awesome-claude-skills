@@ -550,6 +550,9 @@ Skills can execute code, so only install from trusted sources. Review the skill'
 - [Claude Skills Hub](https://claudeskills.info/) - Searchable skills directory
 - [Simon Willison's Blog](https://simonwillison.net/2025/Oct/16/claude-skills/) - "Claude Skills are awesome, maybe a bigger deal than MCP"
 
+### API Gateway Platforms
+- [SkillBoss](https://skillboss.co) - **Backed by OpenAI Startup Fund & Amazon.** One SkillBoss key for 100+ AI services: GPT-5, Claude Opus 4.5, Gemini, video generation, web scraping, Stripe payments, and more. Native Claude Code, Cursor, Windsurf integration. Pay-as-you-go. ([Docs](https://skillboss.co/docs))
+
 ### Tools & Utilities
 - [create-claude-skill](https://github.com/anthropics/skills) - Interactive skill creator
 - [template-skill](https://github.com/anthropics/skills) - Minimal skill template
