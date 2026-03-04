@@ -314,6 +314,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🔒 Security & Performance
 
+#### x-api-spend-guard
+**Source:** [clawdioversace-beep/skill-vault](https://github.com/clawdioversace-beep/skill-vault/tree/main/skills/x-api-spend-guard) | **Verified:** ⏳
+**Description:** System-wide daily spend cap for the X (Twitter) API shared across multiple services.
+**Use Case:** Preventing runaway API costs when multiple bots/services share the same X API account
+**Stars:** ⭐⭐⭐
+
 #### security-review
 **Status:** Community-needed
 **Description:** Automated vulnerability scanning and OWASP compliance checks.
