@@ -279,6 +279,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large refactors, multi-step implementations
 **Stars:** ⭐⭐⭐⭐
 
+#### product-manager-skills
+**Source:** [Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills) | **Verified:** ⏳
+**Description:** Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks for discovery, strategy, delivery, SaaS metrics, PM career coaching, and AI product craft.
+**Use Case:** Product discovery, strategy documents, PRDs, roadmap planning, SaaS metrics analysis, PM career development
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
