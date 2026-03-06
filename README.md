@@ -310,6 +310,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
+
+#### emblem-ai-agent-wallet
+**Source:** [EmblemCompany/Agent-skills](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) | **Verified:** ✅
+**Description:** Multi-chain crypto wallet management across Solana, Ethereum, Base, BSC, Polygon, Hedera, and Bitcoin with swaps/transfers via EmblemAI.
+**Use Case:** Agentic treasury operations, portfolio ops, cross-chain wallet workflows
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### 🔒 Security & Performance
