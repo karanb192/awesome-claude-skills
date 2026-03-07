@@ -459,6 +459,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Quality assurance for skills, debugging skill behavior
 **Stars:** ⭐⭐⭐⭐
 
+#### detect-user-preferences
+**Source:** [held0/claude-skill-detect-preferences](https://github.com/held0/claude-skill-detect-preferences) | **Verified:** ⏳
+**Description:** Auto-detect and remember system preferences (timezone, locale, language, OS, shell) so Claude always shows local times and speaks your language.
+**Use Case:** Ensuring Claude uses correct timezone, language, date format, and OS-specific commands in every session
+**Stars:** ⭐⭐⭐⭐
+
 #### subagent-driven-development
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Quality-gated iteration with multi-agent workflows for complex tasks.
