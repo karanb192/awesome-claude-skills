@@ -353,6 +353,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** GitHub Actions workflow creation and automated deployment pipelines.
 **Use Case:** DevOps automation, continuous delivery
 
+#### noizai-skills
+**Source:** [NoizAI/skills](https://github.com/NoizAI/skills) | **Verified:** ⏳
+**Description:** Human-like TTS workflow skills with style control and app delivery.
+**Use Case:** Natural voice generation, audio broadcasting, cross-app voice messaging
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### 🎬 Media & Content Creation
