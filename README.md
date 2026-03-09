@@ -399,6 +399,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Parse, transform, and analyze CSV files with data cleaning and validation.
 **Use Case:** Data migration, ETL processes, data quality checks
 
+
+#### bgpt-mcp
+**Source:** [connerlambden/bgpt-mcp](https://github.com/connerlambden/bgpt-mcp) | **Verified:** ⏳
+**Description:** Search scientific papers with full-text experimental data via MCP. SSE + Streamable HTTP endpoints.
+**Use Case:** Literature search, experiment data extraction, scientific research workflows
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ✍️ Writing & Research
