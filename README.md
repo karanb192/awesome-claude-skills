@@ -389,6 +389,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
 **Use Case:** Data exploration, reporting, presentation of insights
 
+#### progressive-estimation
+**Source:** [Enreign/progressive-estimation](https://github.com/Enreign/progressive-estimation)
+**Description:** Estimate AI-assisted and hybrid dev work with PERT statistics, confidence bands, and calibration
+**Use Case:** When you need time/effort estimates for AI-assisted development tasks, batch backlog sizing, or staffing plans
+**Stars:** ⭐⭐⭐
+
 #### sql-query-builder
 **Status:** Community-needed
 **Description:** Generate optimized SQL queries with proper indexing and performance tuning.
