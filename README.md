@@ -312,7 +312,7 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 #### shipwise
 **Source:** [harmansidhudev/shipwise](https://github.com/harmansidhudev/shipwise) | **Verified:** ✅
-**Description:** 15-skill webapp launch lifecycle plugin covering idea validation, architecture, fullstack development, OWASP security, billing, legal compliance, and growth ops. Includes codebase auditor, deploy gate hooks, and experience-level calibration. 12/12 test scenarios passed.
+**Description:** 15-skill webapp launch lifecycle plugin covering idea validation, architecture, fullstack development, OWASP security, billing, legal compliance, and growth ops. Includes 60+ reference docs, codebase auditor, deploy gate hooks, and experience-level calibration. 25/25 test scenarios passed.
 **Use Case:** Full launch lifecycle guidance, pre-deploy security audits, production readiness tracking
 **Stars:** ⭐⭐⭐⭐⭐
 
