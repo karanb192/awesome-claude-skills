@@ -26,6 +26,7 @@
   - [📄 Document & File Processing](#-document--file-processing)
   - [🧪 Testing & Quality](#-testing--quality)
   - [🐛 Debugging & Troubleshooting](#-debugging--troubleshooting)
+- [claude-debug](https://github.com/krabat-l/claude-debug) - Phase-gated debugging. Hooks block code edits until root cause is confirmed. 6 strategies, 3 read-only agents.
   - [🤝 Collaboration & Workflow](#-collaboration--workflow)
   - [⚙️ Development & Architecture](#️-development--architecture)
   - [🔒 Security & Performance](#-security--performance)
