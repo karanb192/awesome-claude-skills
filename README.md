@@ -553,6 +553,7 @@ Skills can execute code, so only install from trusted sources. Review the skill'
 ### Tools & Utilities
 - [create-claude-skill](https://github.com/anthropics/skills) - Interactive skill creator
 - [template-skill](https://github.com/anthropics/skills) - Minimal skill template
+- [claude-dash](https://github.com/krabat-l/claude-dash) - Real-time statusline plugin for Claude Code showing context health, quota, cost, cache efficiency, and tool activity
 
 ---
 
