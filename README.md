@@ -15,6 +15,7 @@
 
 > 💡 **New to Skills?** Start with the [Quick Start Guide](#quick-start) • **Looking for something specific?** Use `Ctrl+F` to search • **Want to contribute?** Check [Contributing](#contributing)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent skills and system prompts for Claude Code multi-agent orchestration with task registry and quality gates. MIT licensed.
 ## Contents
 
 - [Quick Start](#quick-start)
