@@ -425,6 +425,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Create clear technical documentation following industry best practices.
 **Use Case:** API docs, user manuals, technical specifications
 
+#### Satori
+**Source:** [MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori) | **Verified:** ⏳
+**Description:** Clinically informed wisdom companion blending IFS, DBT, Stoicism, Buddhism, and six other traditions into a structured thinking partner. Features Shadow Work protocol, Dark Night protocol, and guided onboarding.
+**Use Case:** Deep personal reflection, philosophical exploration, emotional processing using clinical frameworks and wisdom traditions
+**Stars:** ⭐⭐
+
 ---
 
 ### 🎯 Meta Skills
