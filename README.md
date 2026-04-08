@@ -84,6 +84,7 @@ Skills are available on Claude Pro, Max, Team, and Enterprise plans with code ex
 | [skill-creator](https://github.com/anthropics/skills) | Create your own skills and contribute to the ecosystem | 🎯 Meta | ✅ |
 | [requesting-code-review](https://github.com/obra/superpowers) | Pre-review preparation with formatted diffs and clear PR descriptions | 🤝 Workflow | ✅ |
 | [subagent-driven-development](https://github.com/obra/superpowers) | Quality-gated iteration with multi-agent workflows for complex tasks | 🎯 Meta | ✅ |
+| [cera-reasoning-harness](https://github.com/miketepUR/cera-reasoning-harness) | Preserves reasoning, logical provenance, and collaborative state across Claude Project sessions — not just facts | 🎯 Meta | ✅ |
 
 ## How to Install Skills
 
@@ -463,6 +464,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Quality-gated iteration with multi-agent workflows for complex tasks.
 **Use Case:** Large-scale refactoring, parallel development streams
+**Stars:** ⭐⭐⭐⭐⭐
+
+#### cera-reasoning-harness
+**Source:** [miketepUR/cera-reasoning-harness](https://github.com/miketepUR/cera-reasoning-harness) | **Verified:** ✅
+**Description:** A reasoning harness for Claude Projects. Preserves logical provenance, strategic posture, and collaborative state across sessions — not just facts. Two-tier architecture: per-session reasoning maps + cross-session CERA Index managed by a dedicated integrator. Apache 2.0, patent pending.
+**Use Case:** Long-running projects where reasoning continuity matters more than fact recall (legal strategy, research, systems design, policy analysis)
 **Stars:** ⭐⭐⭐⭐⭐
 
 ---
