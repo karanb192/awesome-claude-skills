@@ -375,6 +375,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
+#### puzzlegenio
+**Source:** Community | **Verified:** ⏳
+**Repo:** [fruitwyatt/puzzlegenio-claude-skill](https://github.com/fruitwyatt/puzzlegenio-claude-skill)
+**Description:** Generate free printable puzzles (crossword, word search, sudoku, jigsaw, bingo, nonogram) with pre-filled deep links to PuzzleGenio.
+**Use Case:** Classroom worksheets, party games, educational activities, brain training
+**Stars:** ⭐⭐⭐
+
 #### video-editing-helper
 **Status:** Community-needed
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
