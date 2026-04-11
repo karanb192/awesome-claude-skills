@@ -310,6 +310,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
+#### nanobananas-api-guide
+**Source:** [ailingqu/nanobananas-api-guide](https://github.com/ailingqu/nanobananas-api-guide) | **Verified:** ✅
+**Description:** Complete guide for NanoBananas.AI API — image generation (5 models including Flux, Recraft, Ideogram), video generation (4 models including Kling, Wan, Hunyuan), pricing, authentication, and code examples.
+**Use Case:** Building apps with AI image/video generation, checking model pricing, integrating NanoBananas API
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 🔒 Security & Performance
