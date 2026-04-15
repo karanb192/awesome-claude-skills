@@ -425,6 +425,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Create clear technical documentation following industry best practices.
 **Use Case:** API docs, user manuals, technical specifications
 
+#### llm-wiki
+**Source:** [praneybehl/llm-wiki-plugin](https://github.com/praneybehl/llm-wiki-plugin) | **Verified:** ⏳
+**Description:** Build a compounding, LLM-curated personal knowledge base in any project — Karpathy's LLM Wiki pattern with sharded indexes, BM25 search, and a structural lint script.
+**Use Case:** Accumulating research notes, literature reviews, second-brain knowledge bases that scale to thousands of pages without becoming a context bottleneck.
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### 🎯 Meta Skills
