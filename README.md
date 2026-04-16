@@ -389,6 +389,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
 **Use Case:** Data exploration, reporting, presentation of insights
 
+#### openaccountants
+**Source:** [openaccountants/openaccountants](https://github.com/openaccountants/openaccountants) | **Verified:** ⏳
+**Description:** Classify bank transactions by VAT category across 134 countries and prepare tax return working papers.
+**Use Case:** VAT classification, tax returns, transaction categorization from bank statements
+**Stars:** ⭐⭐⭐
+
 #### sql-query-builder
 **Status:** Community-needed
 **Description:** Generate optimized SQL queries with proper indexing and performance tuning.
