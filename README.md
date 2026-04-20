@@ -409,7 +409,7 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Content creation, marketing materials, company communications
 **Stars:** ⭐⭐⭐⭐
 
-#### buyer-eval
+#### buyer-eval-skill
 **Source:** [salespeak-ai/buyer-eval-skill](https://github.com/salespeak-ai/buyer-eval-skill) | **Verified:** ⏳
 **Description:** Structured vendor evaluations with identical buyer criteria, side-by-side scorecards, and evidence citations.
 **Use Case:** Procurement decisions, vendor comparisons, RFP evaluation, build-vs-buy analysis
