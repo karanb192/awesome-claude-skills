@@ -384,6 +384,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📊 Data & Analysis
 
+#### claude-ecom
+**Source:** [takechanman1228/claude-ecom](https://github.com/takechanman1228/claude-ecom) | **Verified:** ⏳
+**Description:** Ecommerce business review: turn order CSVs into KPI trees, ~30 health checks, RFM cohorts, and action plans across 30d/90d/365d
+**Use Case:** Monthly D2C business reviews, revenue/retention/margin diagnostics, automated consultant-quality analysis
+**Stars:** ⭐⭐⭐
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
