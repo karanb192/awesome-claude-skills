@@ -375,6 +375,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
+#### prompt-to-asset
+**Source:** [MohamedAbdallah-14/prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) | **Verified:** ⏳
+**Description:** MCP server and CLI that generates production-ready visual assets (app icons, favicons, OG images, logos) by routing each request across 30+ image generation models.
+**Use Case:** App icons, OG images, favicons, brand logos — zero API key for first run via free-tier providers
+**Stars:** ⭐⭐⭐
+
 #### video-editing-helper
 **Status:** Community-needed
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
@@ -419,6 +425,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Status:** Community-needed
 **Description:** Gather, synthesize, and cite sources for research projects.
 **Use Case:** Academic research, market analysis, competitive intelligence
+
+#### unslop
+**Source:** [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) | **Verified:** ⏳
+**Description:** Removes named AI writing tells from text: tricolons, em-dash pileups, hedging stacks, sycophancy openers, overused vocab like "delve" and "crucial". Lint-only mode audits without rewriting.
+**Use Case:** Post-processing AI-generated copy, docs, and comms to remove robotic patterns
+**Stars:** ⭐⭐⭐
 
 #### technical-writing
 **Status:** Community-needed
