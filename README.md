@@ -375,6 +375,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
+#### [stock-images](https://github.com/jeanpfs/stock-images)
+**Source:** Community | **Verified:** ⏳
+**Description:** Search and download stock photos from Pexels, Unsplash, and Pixabay through an Agent Skill compatible with Claude Code and Codex.
+**Use Case:** Landing pages, UI mockups, profile placeholders, content images
+**Stars:** ⭐⭐
+
 #### video-editing-helper
 **Status:** Community-needed
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
