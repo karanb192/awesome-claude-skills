@@ -465,6 +465,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### master-skill
+**Source:** [voidborne-d/master-skill](https://github.com/voidborne-d/master-skill)
+**Description:** A skill that *generates* domain-expert skills. Input a sub-niche industry; runs a 6-track research pipeline (practitioners, tool stack, workflows, canonical knowledge, information sources, terminology) and outputs a runnable `{industry}-master.skill` directory loadable into any Claude Code / Codex / OpenClaw / Hermes agent. Each generated skill ships with an Agentic Protocol so the agent searches facts first, then applies the industry's judgment heuristics — not encyclopedia lookup, but "how a senior in this field actually decides."
+**Use Case:** Equipping an agent to operate inside a vertical (RAG infra, e-commerce compliance, performance-marketing ROAS, etc.) without weeks of manual prompt-engineering. Third in the lineage colleague-skill (distill one person) → nuwa-skill (distill any thinking style) → master-skill (distill an entire field).
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ## Skill Collections
