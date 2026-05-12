@@ -399,6 +399,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Parse, transform, and analyze CSV files with data cleaning and validation.
 **Use Case:** Data migration, ETL processes, data quality checks
 
+#### news-sentiment-engine
+**Source:** [tellmefrankie/news-engine](https://github.com/tellmefrankie/news-engine) | **Verified:** ✅
+**Description:** Collect AI/tech news from 4+ RSS feeds, deduplicate, rank by impact, and generate sentiment-tagged summaries.
+**Use Case:** Daily tech briefings, investment signals, media monitoring, Slack/Telegram news bots
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### ✍️ Writing & Research
