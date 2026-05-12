@@ -409,6 +409,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Content creation, marketing materials, company communications
 **Stars:** ⭐⭐⭐⭐
 
+#### claude-persona
+**Source:** [takechanman1228/claude-persona](https://github.com/takechanman1228/claude-persona) | **Verified:** ⏳
+**Description:** Build AI persona panels and pressure-test concepts with agent-separated simulation, then synthesize themes, cross-tabs, and verbatims into a research report
+**Use Case:** Pre-fieldwork qualitative research, concept/message/packaging tests, persona-driven copy and feature decisions
+**Stars:** ⭐⭐⭐
+
 #### internal-comms
 **Source:** Community | **Verified:** ⏳
 **Description:** Draft internal communications, memos, and team announcements.
