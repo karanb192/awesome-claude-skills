@@ -576,6 +576,18 @@ This awesome list is maintained by the community. Want to see your name here? [C
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
+
+---
+
+### 💹 Finance & Investment
+
+#### ai-investment-skills
+**Source:** Community | **Verified:** ⏳
+**Repo:** [tellmefrankie/ai-investment-skills](https://github.com/tellmefrankie/ai-investment-skills)
+**Description:** Six daily-use investment analysis skills: options flow scanner with real/lottery call filtering, news sentiment analyzer (200+ articles → per-ticker score), EV cost calculator, stop-loss monitor, sector rotation signal, and 9-wave investment briefing agent. Caught XLI P/C 5.32 anomaly 5 weeks running.
+**Use Case:** Daily market analysis, options flow monitoring, portfolio risk management
+**Stars:** ⭐⭐⭐⭐
+
 **Quick contribution checklist:**
 - ✅ Skill has working `SKILL.md` with YAML frontmatter
 - ✅ Clear documentation and use cases
