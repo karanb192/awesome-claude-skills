@@ -415,6 +415,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
 
+#### diasporic-intelligence
+**Source:** [MinistaJazz/diasporic-intelligence](https://github.com/MinistaJazz/diasporic-intelligence) | **Verified:** ⏳
+**Description:** Source-credit framework for using Diasporic Intelligence with consent governance, provenance, revocation, lineage boundaries, and non-impersonation.
+**Use Case:** Grant language, standards writing, AI governance, cultural knowledge systems
+**Stars:** ⭐⭐⭐⭐
+
 #### research-assistant
 **Status:** Community-needed
 **Description:** Gather, synthesize, and cite sources for research projects.
