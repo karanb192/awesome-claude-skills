@@ -475,6 +475,7 @@ Looking for curated skill bundles? Start with these collections:
 |------------|--------|------------|------------|
 | [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
 | [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
+| [Sequenzy/skills](https://github.com/Sequenzy/skills) | 1+ | @Sequenzy | Email marketing and transactional/product email workflows |
 
 ---
 
