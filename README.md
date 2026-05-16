@@ -310,6 +310,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
+#### recsys-pipeline-architect
+**Source:** [mturac/recsys-pipeline-architect](https://github.com/mturac/recsys-pipeline-architect) | **Verified:** ✅
+**Description:** Designs composable recommendation, ranking, and feed pipelines using the six-stage Source→Hydrator→Filter→Scorer→Selector→SideEffect framework popularized by xAI's open-sourced X For You algorithm. Surfaces architectural trade-offs (multi-action vs single-score, candidate isolation vs joint, online vs offline batch) explicitly; ships 3 runnable scaffolds (Strapi/TS, Go, Python/FastAPI — 9/9 tests passing).
+**Use Case:** For-you feeds, RAG retrieval rerankers, task prioritizers, notification triage, search reranking, ad ranking
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 🔒 Security & Performance
