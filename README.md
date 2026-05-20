@@ -353,6 +353,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** GitHub Actions workflow creation and automated deployment pipelines.
 **Use Case:** DevOps automation, continuous delivery
 
+#### pgyer-skill
+**Source:** [PGYER/pgyer-skill](https://github.com/PGYER/pgyer-skill) | **Verified:** ✅
+**Description:** Upload iOS/Android/HarmonyOS app builds to PGYER (蒲公英) for beta distribution; bundles GitHub Actions and GitLab CI templates.
+**Use Case:** Vendor-official skill from PGYER (since 2014, China's leading beta-distribution platform). Triggers on `.ipa` / `.apk` / `.hap` upload, install-link/QR generation, tester-group management, and CI/CD wiring.
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 🎬 Media & Content Creation
