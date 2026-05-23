@@ -338,6 +338,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📚 Documentation & Automation
 
+#### flowhunt-skill
+**Source:** [heyneuron/flowhunt-skill](https://github.com/heyneuron/flowhunt-skill) | **Verified:** ⏳
+**Description:** Automation discovery audit — 5-question workflow intake + connected source analysis to identify automation opportunities.
+**Use Case:** Discovering automation opportunities, auditing connected sources (Gmail, Calendar, Slack, task trackers), workflow intake sessions
+**Stars:** ⭐⭐⭐⭐
+**Install:** `npx skills add heyneuron/flowhunt-skill`
+
 #### documentation-generator
 **Status:** Community-needed
 **Description:** Auto-generate API documentation and keep docs synchronized with code.
