@@ -267,6 +267,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Architecture decisions, API design, feature planning
 **Stars:** ⭐⭐⭐⭐
 
+#### before-you-build
+**Source:** [bin1874/before-you-build-skill](https://github.com/bin1874/before-you-build-skill) | **Verified:** ✅
+**Description:** Reviews product and feature risks before an AI coding agent starts building.
+**Use Case:** Sanity-checking ideas, feature requests, pivots, and scope changes before implementation
+**Stars:** ⭐⭐⭐
+
 #### writing-plans
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Creates detailed implementation strategies and architecture documentation.
