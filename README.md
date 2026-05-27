@@ -384,6 +384,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📊 Data & Analysis
 
+#### alpha-insights
+**Source:** [Ericyoung-183/alpha-insights](https://github.com/Ericyoung-183/alpha-insights)
+**Description:** Harness-enforced AI business research skill with consulting frameworks, evidence grading, stage gates, and HTML reports.
+**Use Case:** Business research, competitive analysis, market entry strategy, due diligence
+**Stars:** ⭐⭐⭐
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
