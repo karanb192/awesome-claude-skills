@@ -190,6 +190,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Code reviews, refactoring existing test suites
 **Stars:** ⭐⭐⭐
 
+#### align
+**Source:** [ggrigo/align](https://github.com/ggrigo/align) | **Verified:** ✅
+**Description:** Personal evals for Claude Code — rate LLM claims in a local HTML form, archive as machine-readable markdown corrections, feed patterns back into prompts and CLAUDE.md
+**Use Case:** Catching mutter-and-forget corrections during sessions; building a per-project corrections corpus; closing the diagnostic loop with /diagnose (root-cause tracing) and /retro (cross-session pattern mining)
+**Stars:** ⭐⭐⭐
+
 #### e2e-testing-skill
 **Status:** Community-needed
 **Description:** End-to-end test automation across multiple services and browser environments.
