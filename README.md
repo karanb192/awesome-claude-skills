@@ -162,6 +162,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Automated slide generation, presentation analysis, template customization
 **Stars:** ⭐⭐⭐⭐
 
+#### docs-to-book
+**Source:** [EliaTolin/docs-to-book-skills](https://github.com/EliaTolin/docs-to-book-skills) | **Verified:** ❓
+**Description:** Crawl an online technical documentation site and turn it into a colorful, readable PDF book, translated into the language of your choice.
+**Use Case:** Studying docs offline, building a printable manual or ebook from a documentation website
+
 ---
 
 ### 🧪 Testing & Quality
