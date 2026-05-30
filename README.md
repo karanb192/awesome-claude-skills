@@ -310,6 +310,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
+#### regulex-plus
+**Source:** [PipeDream941/regulex-plus](https://github.com/PipeDream941/regulex-plus) | **Verified:** ✅
+**Description:** Renders JavaScript regex as railroad-style SVG/PNG diagrams via a Playwright-driven CLI. Native CJK/Chinese support, dark/light themes, npm-published.
+**Use Case:** Explaining or debugging complex regex (alternations, lookarounds, quantifiers), verifying AI-generated regex before merging, documenting regex in PRs/docs with inline images
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### 🔒 Security & Performance
