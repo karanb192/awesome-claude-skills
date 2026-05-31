@@ -398,6 +398,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Status:** Community-needed
 **Description:** Parse, transform, and analyze CSV files with data cleaning and validation.
 **Use Case:** Data migration, ETL processes, data quality checks
+#### doc2math
+**Source:** [thebrierfox/doc2math-skill](https://github.com/thebrierfox/doc2math-skill) | **Verified:** ⏳
+**Description:** Extract and formalize mathematical structures, formulas, and equations from documents into structured notation.
+**Use Case:** Research paper analysis, technical documentation, formula extraction, academic workflows
+**Stars:** ⭐⭐⭐⭐
 
 ---
 
