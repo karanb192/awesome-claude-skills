@@ -398,6 +398,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Status:** Community-needed
 **Description:** Parse, transform, and analyze CSV files with data cleaning and validation.
 **Use Case:** Data migration, ETL processes, data quality checks
+#### moat-mri
+**Source:** [thebrierfox/moatmri-skill](https://github.com/thebrierfox/moatmri-skill) | **Verified:** ⏳
+**Description:** Automated competitive moat analysis with multi-dimensional sustainability scoring for companies and products.
+**Use Case:** Startup evaluation, investment research, competitive strategy, M&A due diligence
+**Stars:** ⭐⭐⭐⭐
 
 ---
 
