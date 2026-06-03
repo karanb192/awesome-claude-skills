@@ -234,6 +234,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Optimization work, scaling applications, investigating slowness
 
 ---
+#### bsod-analyzer
+**Source:** [sitabanubanu/bsod-analyzer](https://github.com/sitabanubanu/bsod-analyzer) | **Verified:** ✅
+**Description:** Complete Windows BSOD diagnosis pipeline: dump analysis -> driver audit -> residue cleanup -> prevention. 62 BugCheck codes + known-bad driver database. Zero-dependency fallback.
+**Use Case:** Windows blue screen crashes, kernel driver debugging, system stability
+**Stars:** ⭐
+
+---
 
 ### 🤝 Collaboration & Workflow
 
