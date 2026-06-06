@@ -382,7 +382,7 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 #### runapi-cli
 **Source:** [runapi-ai/cli-skill](https://github.com/runapi-ai/cli-skill) | **Verified:** ⏳
-**Description:** Run AI image, video, music, audio, and other model API jobs through the RunAPI CLI.
+**Description:** Generate AI images, videos, and music/audio through the RunAPI CLI, plus run other model API jobs.
 **Use Case:** Agent-driven media generation, async model jobs, JSON-first CLI workflows
 **Install:** `git clone https://github.com/runapi-ai/cli-skill ~/.claude/skills/runapi-cli`
 **Stars:** ⭐⭐⭐
