@@ -380,6 +380,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
 **Use Case:** Video production, content creation, media processing
 
+#### runapi-cli
+**Source:** [runapi-ai/cli-skill](https://github.com/runapi-ai/cli-skill) | **Verified:** ⏳
+**Description:** Run AI image, video, music, audio, and other model API jobs through the RunAPI CLI.
+**Use Case:** Agent-driven media generation, async model jobs, JSON-first CLI workflows
+**Install:** `git clone https://github.com/runapi-ai/cli-skill ~/.claude/skills/runapi-cli`
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 📊 Data & Analysis
