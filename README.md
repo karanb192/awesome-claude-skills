@@ -475,6 +475,7 @@ Looking for curated skill bundles? Start with these collections:
 |------------|--------|------------|------------|
 | [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
 | [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
+| [Whitefield-Labs/rarefriend-skills](https://github.com/Whitefield-Labs/rarefriend-skills) | 6 | @Whitefield-Labs | Personal network manager — contacts, calendar, LinkedIn, Outlook |
 
 ---
 
