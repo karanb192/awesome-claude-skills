@@ -200,6 +200,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Visual regression testing with component snapshot management.
 **Use Case:** Component libraries, design system maintenance
 
+#### ui-ux-audit
+**Source:** [EnchStyle/ui-ux-audit-skill](https://github.com/EnchStyle/ui-ux-audit-skill)
+**Description:** Scored UI/UX audits across 15 categories with a severity rubric; also prevents common AI UI failures before they ship
+**Use Case:** Auditing, reviewing, or polishing any UI/screen/component, and as a guardrail while generating frontend code
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 🐛 Debugging & Troubleshooting
