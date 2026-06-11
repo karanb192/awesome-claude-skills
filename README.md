@@ -237,6 +237,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🤝 Collaboration & Workflow
 
+#### ariadne-loop
+**Source:** [zhangzeyu99-web/ariadne-loop](https://github.com/zhangzeyu99-web/ariadne-loop) | **Verified:** ✅
+**Description:** Creates verifiable loop specs, gates, and handoff packets for AI coding agents.
+**Use Case:** Planning repeatable Codex, Claude Code, and OpenClaw workflows with reviewable artifacts
+**Stars:** ⭐⭐⭐
+
 #### requesting-code-review
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Pre-review preparation and PR best practices with formatted diffs.
