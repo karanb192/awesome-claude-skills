@@ -375,6 +375,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
+#### seedance-prompts-skill
+**Source:** [mantoufan/seedance-prompts-skill](https://github.com/mantoufan/seedance-prompts-skill)
+**Description:** Turns an idea or novel into a short-drama screenplay, then into ready-to-use Seedance 2.0 video prompts and storyboards.
+**Use Case:** Producing AI short-drama / micro-film scripts and Seedance 2.0 video prompts at volume
+**Stars:** ⭐⭐⭐⭐
+
 #### video-editing-helper
 **Status:** Community-needed
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
