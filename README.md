@@ -427,6 +427,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ---
 
+### 💼 Business & Professional
+
+- **[Finance Skills](https://github.com/Uhudsavasindankacanokcu2/finance-skills-for-claude)** - Cash flow, burn & runway, invoice extraction, budget vs actual, pricing & scenario modeling for founders and finance teams.
+- **[Legal Skills](https://github.com/Uhudsavasindankacanokcu2/legal-skills-for-claude)** - Review, summarize & draft contracts in plain English with risk flags and paste-ready negotiation redlines.
+- **[Recruiting & HR Skills](https://github.com/Uhudsavasindankacanokcu2/recruiting-skills-for-claude)** - Write job descriptions, screen resumes (bias-aware), and build structured interview kits.
+- **[E-commerce Seller Skills](https://github.com/Uhudsavasindankacanokcu2/ecommerce-skills-for-claude)** - Optimize listings, mine reviews, and fix ad spend for Amazon/Shopify/Etsy sellers.
+
 ### 🎯 Meta Skills
 
 #### skill-creator
