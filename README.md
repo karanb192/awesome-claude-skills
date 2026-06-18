@@ -338,6 +338,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📚 Documentation & Automation
 
+#### okf
+**Source:** [mattjoyce/okf-skill](https://github.com/mattjoyce/okf-skill) | **Verified:** ⏳
+**Description:** Authors and validates Open Knowledge Format (OKF) bundles — vendor-neutral knowledge as markdown files with YAML frontmatter.
+**Use Case:** Building a knowledge bundle/catalog as markdown, authoring concept docs, checking OKF conformance
+**Stars:** ⭐⭐⭐
+
 #### documentation-generator
 **Status:** Community-needed
 **Description:** Auto-generate API documentation and keep docs synchronized with code.
