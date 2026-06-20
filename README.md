@@ -310,6 +310,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
+#### context-architecture
+**Source:** [sergioazoc/context-architecture](https://github.com/sergioazoc/context-architecture/tree/main/skills/context-architecture) | **Status:** ⏳ Community-pending
+**Description:** Audit and rework an existing codebase against the eight principles of Context Architecture: `AGENTS.md` at boundaries, conventions codified in lint and types, and no context-rot.
+**Use Case:** Making a repo that grew messy legible to people and AI agents, one bounded change at a time.
+
 ---
 
 ### 🔒 Security & Performance
