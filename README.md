@@ -33,6 +33,7 @@
   - [🎬 Media & Content Creation](#-media--content-creation)
   - [📊 Data & Analysis](#-data--analysis)
   - [✍️ Writing & Research](#️-writing--research)
+  - [💼 Business & Sales](#-business--sales)
   - [🎯 Meta Skills](#-meta-skills)
 - [Skill Collections](#skill-collections)
 - [FAQ](#faq)
@@ -424,6 +425,16 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Status:** Community-needed
 **Description:** Create clear technical documentation following industry best practices.
 **Use Case:** API docs, user manuals, technical specifications
+
+---
+
+### 💼 Business & Sales
+
+#### forward-deployed-selling
+**Source:** [vonarmen-wq/forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) | **Verified:** ✅
+**Description:** Enterprise AI sales methodology skill. Teaches discovery-led selling, economic buyer navigation, and deal architecture for complex multi-stakeholder AI initiatives.
+**Use Case:** Enterprise account strategy, AI deal coaching, objection handling, pipeline qualification
+**Stars:** ⭐⭐⭐⭐
 
 ---
 
