@@ -283,6 +283,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### ⚙️ Development & Architecture
 
+#### trace-my-code
+**Source:** [kgohil/trace-my-code](https://github.com/kgohil/trace-my-code) | **Verified:** ✅
+**Description:** Keeps a living trace of your codebase (domain language, architecture, reuse patterns), current via a drift hook, so the agent reads it and reuses what already exists instead of rebuilding it.
+**Use Case:** Feature development, safe refactors, onboarding — read the map, follow the pattern, fix shared code once
+**Stars:** ⭐⭐⭐
+
 #### mcp-builder
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Create high-quality Model Context Protocol servers for external integrations.
