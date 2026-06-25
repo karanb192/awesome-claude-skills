@@ -474,6 +474,7 @@ Looking for curated skill bundles? Start with these collections:
 | Collection | Skills | Maintainer | Focus Area |
 |------------|--------|------------|------------|
 | [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
+| [Linked-API/linkedin-skills](https://github.com/Linked-API/linkedin-skills) | 2 | @Linked-API | LinkedIn automation for profiles, messaging, posting, and growth |
 | [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
 
 ---
