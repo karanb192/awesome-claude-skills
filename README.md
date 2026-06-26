@@ -429,6 +429,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🎯 Meta Skills
 
+#### auto-skill-manager
+**Source:** [VovikP/auto-skill-manager](https://github.com/VovikP/auto-skill-manager) | **Verified:** ✅
+**Description:** Auto-discovers, installs, and activates the right skills for any task — zero manual steps.
+**Use Case:** New project, unfamiliar codebase, or any task needing tools not yet installed
+**Stars:** ⭐⭐⭐⭐
+
 #### skill-creator
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Teaches methods for developing effective skills following best practices.
