@@ -310,6 +310,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
+#### enterprise-architect
+**Source:** [rafalr100/enterprise-architect-skill](https://github.com/rafalr100/enterprise-architect-skill) | **Verified:** ⏳ (pending maintainer review)
+**Description:** Makes Claude operate as a world-class, organisation-agnostic Enterprise Architect — discovery-first, capability-first, with named trade-offs and one clear recommendation. TOGAF, Zachman, C4, Wardley, and DDD applied as silent lenses.
+**Use Case:** Target/reference architectures, ADRs, capability maps, technology strategy & roadmaps, trade-off analysis, audience-tiered architecture decks (board / solution-architect / engineering)
+
 ---
 
 ### 🔒 Security & Performance
