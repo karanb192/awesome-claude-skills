@@ -310,6 +310,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
+#### multi-stack-mcp
+**Source:** [VovikP/multi-stack-mcp](https://github.com/VovikP/multi-stack-mcp) | **Verified:** Community
+**Description:** Generates native UI sections (hero, pricing, features, CTA) for Next.js, Flutter, WordPress, and Vue from a unified pattern catalog with shared design tokens. Ships a token + slot denylist and atomic safe-write.
+**Use Case:** Multi-stack landing pages, brand-consistent UI across Next.js/Flutter/WordPress/Vue with one tokens.json
+**Stars:** Community submission
+
 ---
 
 ### 🔒 Security & Performance
