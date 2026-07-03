@@ -382,7 +382,7 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 #### youtube-skills
 **Source:** [sergebulaev/youtube-skills](https://github.com/sergebulaev/youtube-skills) | **Verified:** ⏳
-**Description:** Bundle of 6 Claude Code and Codex skills for YouTube and Shorts: high-CTR titles, SEO descriptions, retention hooks, thumbnail briefs, and a content planner. Install with `/plugin marketplace add sergebulaev/youtube-skills`. MIT.
+**Description:** 6 Claude Code and Codex skills for YouTube and Shorts: high-CTR titles, SEO descriptions, retention hooks, thumbnail briefs, planner. MIT.
 **Use Case:** Planning and optimizing YouTube videos and Shorts, writing titles and descriptions, scripting retention hooks
 
 ---
