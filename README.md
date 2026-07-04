@@ -338,6 +338,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📚 Documentation & Automation
 
+#### process-builder
+**Source:** [Castaldo-Solutions/process-builder](https://github.com/Castaldo-Solutions/process-builder) | **Verified:** ⏳
+**Description:** Interviews you about a business process and generates a BPMN swimlane diagram as a .drawio file.
+**Use Case:** Process mapping, AS-IS analysis with pain points, TO-BE automation roadmaps
+**Stars:** ⭐⭐⭐
+
 #### documentation-generator
 **Status:** Community-needed
 **Description:** Auto-generate API documentation and keep docs synchronized with code.
