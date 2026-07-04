@@ -556,6 +556,7 @@ Skills can execute code, so only install from trusted sources. Review the skill'
 
 ---
 
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills for giving AI agents deep personal context. MIT-licensed, one-command install.
 ## Contributors
 
 Thanks to these amazing people who have contributed to this list:
