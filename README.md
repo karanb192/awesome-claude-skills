@@ -314,6 +314,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🔒 Security & Performance
 
+#### [deep-security-check](https://github.com/give-jd/deep-security-check)
+**Status:** Available
+**Description:** Defensive read-only security assessment: Semgrep SAST, osv-scanner dependency CVEs, and gitleaks secrets detection with a reproducible 0-100 (A-F) grade.
+**Use Case:** Security audits, pre-release checks, due-diligence on codebases you own
+
 #### security-review
 **Status:** Community-needed
 **Description:** Automated vulnerability scanning and OWASP compliance checks.
