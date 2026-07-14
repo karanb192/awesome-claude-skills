@@ -34,6 +34,7 @@
   - [📊 Data & Analysis](#-data--analysis)
   - [✍️ Writing & Research](#️-writing--research)
   - [🎯 Meta Skills](#-meta-skills)
+  - [💼 Career & Job Search](#-career--job-search)
 - [Skill Collections](#skill-collections)
 - [FAQ](#faq)
 - [Resources](#resources)
@@ -464,6 +465,15 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Quality-gated iteration with multi-agent workflows for complex tasks.
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
+
+---
+
+### 💼 Career & Job Search
+
+#### kochab
+**Source:** [btmoriarty/kochab](https://github.com/btmoriarty/kochab) | **Verified:** ⏳
+**Description:** A recurring, resume-based job search and everything downstream: transparent fit scoring that tells you what is missing on each role (never a bare 0-100), cover notes and tailored resumes that never fabricate, study plans, interview prep, an application pipeline, and offer help. It drafts; a human sends. No auto-apply, no scraping, no manipulated scores.
+**Use Case:** Running an honest, human-in-the-loop job search from your resume
 
 ---
 
