@@ -283,6 +283,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### ⚙️ Development & Architecture
 
+#### anti-ui-slop
+**Source:** [samuelbushi/uizze](https://github.com/samuelbushi/uizze/tree/main/skills/anti-ui-slop)
+**Description:** Uses 800,000+ real web and iOS screens, a design contract, and a finish gate to stop generic Claude-built UI before it ships.
+**Use Case:** Building or reviewing React, Next.js, web, and iOS interfaces that need product-specific design decisions
+**Stars:** ⭐⭐⭐
+
 #### mcp-builder
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Create high-quality Model Context Protocol servers for external integrations.
