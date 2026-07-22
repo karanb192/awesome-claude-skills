@@ -314,25 +314,43 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🔒 Security & Performance
 
-#### security-review
-**Status:** Community-needed
-**Description:** Automated vulnerability scanning and OWASP compliance checks.
-**Use Case:** Security audits, pre-deployment checks, compliance validation
+#### cra-vulnerability-obligations-skill
+**Source:** [Ansvar-Systems/cra-vulnerability-obligations-skill](https://github.com/Ansvar-Systems/cra-vulnerability-obligations-skill)
+**Description:** Maps a product to EU Cyber Resilience Act scope, classification, and Article 14 reporting duties, checked against live CVE/KEV/EPSS data
+**Use Case:** Determining CRA scope, product classification, and reporting obligations for a specific CVE
+**Stars:** ⭐⭐⭐
 
 #### dependency-audit
 **Status:** Community-needed
 **Description:** Supply chain security analysis with CVE detection in dependencies.
 **Use Case:** Regular security checks, updating vulnerable packages
 
-#### performance-optimization
-**Status:** Community-needed
-**Description:** Algorithmic improvements and resource usage optimization strategies.
-**Use Case:** Improving application speed, reducing memory footprint
+#### incident-reporting-navigator-skill
+**Source:** [Ansvar-Systems/incident-reporting-navigator-skill](https://github.com/Ansvar-Systems/incident-reporting-navigator-skill)
+**Description:** Screens one incident across NIS2, GDPR, DORA, and the CRA, resolving the receiving authority per EU member state and reporting deadlines
+**Use Case:** Determining who to notify, where, and by when after a security incident or breach
+**Stars:** ⭐⭐⭐
 
 #### load-testing
 **Status:** Community-needed
 **Description:** Stress testing patterns and performance benchmarking.
 **Use Case:** Capacity planning, finding breaking points
+
+#### performance-optimization
+**Status:** Community-needed
+**Description:** Algorithmic improvements and resource usage optimization strategies.
+**Use Case:** Improving application speed, reducing memory footprint
+
+#### regulatory-threat-model-skill
+**Source:** [Ansvar-Systems/regulatory-threat-model-skill](https://github.com/Ansvar-Systems/regulatory-threat-model-skill)
+**Description:** STRIDE and LINDDUN threat modeling with a cited EU security-obligations screen (GDPR, NIS2, CRA, AI Act) and live CVE/KEV/EPSS screening
+**Use Case:** Server-enforced threat modeling plus a cited EU regulatory-obligations screen for a system design
+**Stars:** ⭐⭐⭐
+
+#### security-review
+**Status:** Community-needed
+**Description:** Automated vulnerability scanning and OWASP compliance checks.
+**Use Case:** Security audits, pre-deployment checks, compliance validation
 
 ---
 
