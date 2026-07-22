@@ -284,7 +284,7 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ### ⚙️ Development & Architecture
 
 #### anti-ui-slop
-**Source:** [samuelbushi/uizze](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop)
+**Source:** [uizze/uizze](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop)
 **Description:** Uses 800,000+ real web and iOS screens, a design contract, and a finish gate to stop generic Claude-built UI before it ships.
 **Use Case:** Building or reviewing React, Next.js, web, and iOS interfaces that need product-specific design decisions
 **Stars:** ⭐⭐⭐
