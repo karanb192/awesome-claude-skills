@@ -475,6 +475,7 @@ Looking for curated skill bundles? Start with these collections:
 |------------|--------|------------|------------|
 | [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
 | [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
+| [sjh9714/skill-receipts](https://github.com/sjh9714/skill-receipts) | 2 (admitted) | @sjh9714 | Benchmark-gated skills: each must beat baseline AND a placebo on hidden hold-out tests; rejects published |
 
 ---
 
