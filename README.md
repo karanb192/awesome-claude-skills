@@ -409,17 +409,17 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Content creation, marketing materials, company communications
 **Stars:** ⭐⭐⭐⭐
 
-#### internal-comms
-**Source:** Community | **Verified:** ⏳
-**Description:** Draft internal communications, memos, and team announcements.
-**Use Case:** HR communications, team updates, policy announcements
-**Stars:** ⭐⭐⭐
-
 #### business-name-fit
 **Source:** [elfarajnejad-commits/business-name-fit](https://github.com/elfarajnejad-commits/business-name-fit) | **Verified:** ⏳
 **Description:** Vet or generate business names that fit the founder's cultural origin and read well in target markets.
 **Use Case:** Naming a company or product that must work across languages and regions
 **Stars:** ⭐⭐
+
+#### internal-comms
+**Source:** Community | **Verified:** ⏳
+**Description:** Draft internal communications, memos, and team announcements.
+**Use Case:** HR communications, team updates, policy announcements
+**Stars:** ⭐⭐⭐
 
 #### research-assistant
 **Status:** Community-needed
