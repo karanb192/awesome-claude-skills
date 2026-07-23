@@ -415,6 +415,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
 
+#### signs-of-ai
+**Source:** [peopleworks/SignsofAI](https://github.com/peopleworks/SignsofAI) | **Verified:** ⏳
+**Description:** De-slop AI writing in English & Spanish — rewrite a draft to remove AI tells, or judge whether text reads as AI-written.
+**Use Case:** Editing AI-generated prose and academic/writing integrity; the front end of a scored engine (web app, CLI, and MCP server)
+**Stars:** ⭐⭐⭐
+
 #### research-assistant
 **Status:** Community-needed
 **Description:** Gather, synthesize, and cite sources for research projects.
