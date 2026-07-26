@@ -411,7 +411,7 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 #### business-name-fit
 **Source:** [Elham-Farajnejad/business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | **Verified:** ⏳
-**Description:** Pick or vet a business, startup, or product name that stays authentic to your cultural origin while working in your target markets. Runs each name through eight checks: hidden meanings, look-alikes, pronunciation, spelling, legal distinctiveness, sound, tone fit, and origin authenticity.
+**Description:** Picks or vets a business name that stays authentic to your culture while working in your target market, via 8 cross-cultural checks.
 **Use Case:** Naming a company or product across languages; catching a name that reads well at home but fails abroad
 **Stars:** ⭐⭐⭐
 
