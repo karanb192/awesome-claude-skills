@@ -415,6 +415,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
 
+#### business-name-fit
+**Source:** [Elham-Farajnejad/business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | **Verified:** ⏳
+**Description:** Pick or vet a business, startup, or product name that stays authentic to your cultural origin while working in your target markets. Runs each name through eight checks: hidden meanings, look-alikes, pronunciation, spelling, legal distinctiveness, sound, tone fit, and origin authenticity.
+**Use Case:** Naming a company or product across languages; catching a name that reads well at home but fails abroad
+**Stars:** ⭐⭐⭐
+
 #### research-assistant
 **Status:** Community-needed
 **Description:** Gather, synthesize, and cite sources for research projects.
