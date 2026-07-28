@@ -420,6 +420,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### ✍️ Writing & Research
 
+#### ai-content-skills
+**Source:** [MarchTalk/ai-content-skills](https://github.com/MarchTalk/ai-content-skills)
+**Description:** Quality-gated Chinese content-writing skills that force real research before drafting and veto AI-sounding output.
+**Use Case:** Blog/social copywriting, content quality review, catching generic AI-flavored drafts before publishing
+**Stars:** ⭐⭐⭐
+
 #### brand-guidelines
 **Source:** Community | **Verified:** ⏳
 **Description:** Maintain and enforce brand voice, style, and messaging consistency.
