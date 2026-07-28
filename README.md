@@ -32,6 +32,7 @@
   - [📚 Documentation & Automation](#-documentation--automation)
   - [🎬 Media & Content Creation](#-media--content-creation)
   - [📊 Data & Analysis](#-data--analysis)
+  - [💰 Finance & Tax](#-finance--tax)
   - [✍️ Writing & Research](#️-writing--research)
   - [🎯 Meta Skills](#-meta-skills)
 - [Skill Collections](#skill-collections)
@@ -398,6 +399,22 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Status:** Community-needed
 **Description:** Parse, transform, and analyze CSV files with data cleaning and validation.
 **Use Case:** Data migration, ETL processes, data quality checks
+
+---
+
+### 💰 Finance & Tax
+
+#### itr-wala
+**Source:** [karanb192/itr-wala](https://github.com/karanb192/itr-wala) | **Verified:** ✅
+**Description:** Prepares Indian income-tax returns (AY 2026-27): AI reads Form 16/AIS, deterministic Python computes every rupee.
+**Use Case:** Filing ITR-1/2/3/4 yourself: both regimes compared, deductions interviewed, portal walkthrough
+**Stars:** ⭐⭐⭐
+
+#### file-itr
+**Source:** [shivprime94/file-itr](https://github.com/shivprime94/file-itr) | **Verified:** ✅
+**Description:** The first Indian ITR skill: prompt-driven portal walkthrough with hard-won field notes and AIS research.
+**Use Case:** Prompt-based guidance through the income-tax portal for Indian returns
+**Stars:** ⭐⭐⭐
 
 ---
 
