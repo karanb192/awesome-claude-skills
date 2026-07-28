@@ -566,6 +566,7 @@ Skills can execute code, so only install from trusted sources. Review the skill'
 ### Community Resources
 - [Claude Skills Hub](https://claudeskills.info/) - Searchable skills directory
 - [Simon Willison's Blog](https://simonwillison.net/2025/Oct/16/claude-skills/) - "Claude Skills are awesome, maybe a bigger deal than MCP"
+- [Remote OpenClaw](https://www.remoteopenclaw.com/skills) - searchable directory of skills and mcp servers for Claude Code, OpenClaw, Hermes and Codex
 
 ### Tools & Utilities
 - [create-claude-skill](https://github.com/anthropics/skills) - Interactive skill creator
