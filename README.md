@@ -280,6 +280,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large refactors, multi-step implementations
 **Stars:** ⭐⭐⭐⭐
 
+#### absolutely-not
+**Source:** [TahaZahit/absolutely-not](https://github.com/TahaZahit/absolutely-not)
+**Description:** Bans reflexive agreement and unverified completion claims, with a Stop hook that blocks "done" when files changed and nothing ran.
+**Use Case:** Sessions where the agent agrees before checking, or reports success without running anything
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
