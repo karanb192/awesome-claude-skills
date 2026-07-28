@@ -238,6 +238,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🤝 Collaboration & Workflow
 
+#### product-decision-agent
+**Source:** [atdy/maoxuan-product-agent](https://github.com/atdy/maoxuan-product-agent)
+**Description:** Chinese-first product decision agent distilled from On Contradiction and On Practice; identifies core constraints and returns prioritized actions.
+**Use Case:** Prioritizing requirements, planning roadmaps, diagnosing growth or metric anomalies, and unblocking cross-team delivery
+**Stars:** ⭐⭐⭐
+
 #### requesting-code-review
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Pre-review preparation and PR best practices with formatted diffs.
