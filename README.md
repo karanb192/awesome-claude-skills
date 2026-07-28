@@ -280,6 +280,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large refactors, multi-step implementations
 **Stars:** ⭐⭐⭐⭐
 
+#### todo.txt-skill
+**Source:** [aguilera-ee/todo.txt-skill](https://github.com/aguilera-ee/todo.txt-skill)
+**Description:** Manage a todo.txt task list conversationally by driving the official todo.sh CLI.
+**Use Case:** Keeping a durable plain text task list your agent can use across conversations
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
