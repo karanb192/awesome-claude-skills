@@ -238,6 +238,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🤝 Collaboration & Workflow
 
+#### cowork-tasks
+**Source:** [sabbah13/cowork-tasks](https://github.com/sabbah13/cowork-tasks)
+**Description:** Kanban task manager plugin for Claude Cowork bundling 5 skills for chat capture, triage, coaching, and a live board artifact.
+**Use Case:** Capturing tasks from chat, on-demand triage from connected sources, daily coaching, and kanban tracking inside Claude Cowork.
+**Stars:** ⭐⭐⭐
+
 #### requesting-code-review
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Pre-review preparation and PR best practices with formatted diffs.
@@ -492,6 +498,7 @@ Looking for curated skill bundles? Start with these collections:
 |------------|--------|------------|------------|
 | [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
 | [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
+| [sabbah13/cowork-tasks](https://github.com/sabbah13/cowork-tasks) | 5 | @sabbah13 | Kanban task management & triage for Claude Cowork |
 
 ---
 
