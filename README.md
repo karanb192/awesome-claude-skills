@@ -400,6 +400,22 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Parse, transform, and analyze CSV files with data cleaning and validation.
 **Use Case:** Data migration, ETL processes, data quality checks
 
+#### x-twitter-scraper
+
+**Source:** [Xquik-dev/x-twitter-scraper][xquik-skill] | **Verified:** ⏳
+**Description:** Route X research, monitoring, exports, and confirmation-gated publishing
+through REST, MCP, webhooks, and SDKs.
+**Use Case:** Social listening, account research, bulk datasets, webhook alerts,
+and confirmed X account actions
+**Stars:** ⭐⭐⭐⭐⭐
+
+**Install:** `npx skills add Xquik-dev/x-twitter-scraper`
+
+Xquik is an independent third-party service. Not affiliated with X Corp.
+"Twitter" and "X" are trademarks of X Corp.
+
+[xquik-skill]: https://github.com/Xquik-dev/x-twitter-scraper
+
 ---
 
 ### 💰 Finance & Tax
