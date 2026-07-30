@@ -238,6 +238,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🤝 Collaboration & Workflow
 
+#### ai-meeting
+**Source:** [bin1874/ai-meeting-skill](https://github.com/bin1874/ai-meeting-skill) | **Verified:** ✅
+**Description:** Runs structured AI meetings with Codex and Claude, preserving sessions across rounds.
+**Use Case:** Multi-agent proposal reviews, technical decisions, planning debates
+**Stars:** ⭐⭐⭐
+
 #### requesting-code-review
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Pre-review preparation and PR best practices with formatted diffs.
