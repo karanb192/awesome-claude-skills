@@ -426,6 +426,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Content creation, marketing materials, company communications
 **Stars:** ⭐⭐⭐⭐
 
+#### fact-check-x
+**Source:** [ASI2030/Fact-Check-X](https://github.com/ASI2030/Fact-Check-X/tree/main/skills/fact-check-x-complete) | **Verified:** ⏳
+**Description:** Evidence-gated multi-platform fact checking with citation audits and authoritative verification.
+**Use Case:** Compare AI answers, verify atomic claims, and produce auditable HTML reports.
+**Stars:** ⭐⭐⭐
+
 #### internal-comms
 **Source:** Community | **Verified:** ⏳
 **Description:** Draft internal communications, memos, and team announcements.
