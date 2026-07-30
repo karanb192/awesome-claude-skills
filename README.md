@@ -426,6 +426,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Content creation, marketing materials, company communications
 **Stars:** ⭐⭐⭐⭐
 
+#### corpspeak
+**Source:** [giorgiozamboni/corpspeak](https://github.com/giorgiozamboni/corpspeak) | **Verified:** ⏳
+**Description:** Rewrites text into corporate/C-suite register at three levels without sounding AI-generated.
+**Use Case:** Emails, decks, and LinkedIn posts; bilingual English and Italian
+**Stars:** ⭐⭐⭐⭐
+
 #### internal-comms
 **Source:** Community | **Verified:** ⏳
 **Description:** Draft internal communications, memos, and team announcements.
