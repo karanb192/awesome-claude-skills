@@ -280,6 +280,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large refactors, multi-step implementations
 **Stars:** ⭐⭐⭐⭐
 
+#### aligned-delivery
+**Source:** [ahnbingbing/aligned-delivery](https://github.com/ahnbingbing/aligned-delivery)
+**Description:** Diagnoses delivery health with runnable DORA/flow/Monte-Carlo analytics and coaches PM/EM judgment calls; ships a measured eval. EN/KO.
+**Use Case:** Reading whether a team is healthy (sprint/Jira + DORA), forecasting completion dates, prioritizing (WSJF/CoD), and coaching PM/EM decisions
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
