@@ -572,6 +572,7 @@ Skills can execute code, so only install from trusted sources. Review the skill'
 - [template-skill](https://github.com/anthropics/skills) - Minimal skill template
 
 ---
+- [WeekLife](https://letmethink.cc/app/weeklife/) - A lightweight life check-in tool for reclaiming everyday life beyond work.
 
 ## Contributors
 
