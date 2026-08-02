@@ -339,6 +339,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📚 Documentation & Automation
 
+#### renwei
+**Source:** [dbhosbu-dotcom/renwei](https://github.com/dbhosbu-dotcom/renwei)
+**Description:** Removes AI writing patterns from Chinese book manuscripts, including cross-chapter inconsistencies
+**Use Case:** When editing a Chinese non-fiction or fiction manuscript where AI-generated text drifts across chapters
+**Stars:** ⭐⭐⭐
+
 #### documentation-generator
 **Status:** Community-needed
 **Description:** Auto-generate API documentation and keep docs synchronized with code.
