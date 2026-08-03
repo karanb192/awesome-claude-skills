@@ -385,6 +385,15 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📊 Data & Analysis
 
+#### octav-api-skill
+**Source:** [Octav-Labs/octav-api-skill](https://github.com/Octav-Labs/octav-api-skill) | **Verified:** ✅
+**Description:** Query Octav's crypto portfolio API: wallet balances, transaction history, DeFi protocol positions, and token analytics across 20+ chains.
+**Use Case:** Crypto portfolio tracking, DeFi analytics, multi-chain wallet monitoring
+**Stars:** ⭐⭐⭐
+
+---
+
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
