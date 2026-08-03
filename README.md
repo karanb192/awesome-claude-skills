@@ -385,6 +385,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📊 Data & Analysis
 
+#### [longbridge-warrant-hunter](https://github.com/naisi-alibaba/longbridge-warrant-hunter)
+**Source:** Community | **Verified:** ⏳
+**Description:** Hong Kong warrant (窝轮) & CBBC risk-reward analysis, long and short, on the Longbridge OpenAPI MCP via a "fish-positioning" workflow.
+**Use Case:** HK warrant/option selection, entry timing, stop & target planning (research only, not investment advice)
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
