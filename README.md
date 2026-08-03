@@ -385,6 +385,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📊 Data & Analysis
 
+#### youtube-full
+**Source:** [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills)
+**Description:** Fetch YouTube transcripts, search videos/channels, and pull playlist/channel data via TranscriptAPI.
+**Use Case:** Research, content summarization, and channel monitoring where the source is video, not text.
+**Stars:** ⭐⭐⭐⭐
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
