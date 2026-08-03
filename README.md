@@ -280,6 +280,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large refactors, multi-step implementations
 **Stars:** ⭐⭐⭐⭐
 
+#### karpathy-guidelines
+**Source:** [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) | **Verified:** ⏳
+**Description:** Enforces clarity, minimal diffs, and verification for Claude Code and other coding agents.
+**Use Case:** General coding sessions, PR prep, and preventing overengineering
+**Stars:** ⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
