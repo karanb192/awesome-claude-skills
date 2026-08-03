@@ -385,6 +385,17 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📊 Data & Analysis
 
+#### apify-linkedin-posts-scraper
+**Source:** [johnisanerd/claude-skill-linkedin-posts-scraper](https://github.com/johnisanerd/claude-skill-linkedin-posts-scraper) | **Verified:** ⏳
+**Description:** Scrape public LinkedIn posts into structured JSON via the Apify LinkedIn Posts API.
+**Use Case:** Content research, competitor monitoring, building a LinkedIn posts dataset
+
+#### apify-linkedin-post-engagement
+**Source:** [johnisanerd/claude-skill-linkedin-post-engagement](https://github.com/johnisanerd/claude-skill-linkedin-post-engagement) | **Verified:** ⏳
+**Description:** Analyze LinkedIn post engagement (reactions, comments, shares) via the Apify LinkedIn Posts API.
+**Use Case:** Rank top-performing posts, benchmark competitors, engagement reporting
+
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
