@@ -191,6 +191,18 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Code reviews, refactoring existing test suites
 **Stars:** ⭐⭐⭐
 
+#### playwright-expert
+**Source:** [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills/tree/main/skills/playwright-expert)
+**Description:** E2E testing with Playwright including selectors, assertions, and CI integration
+**Use Case:** Writing and debugging end-to-end browser tests
+**Stars:** ⭐⭐⭐⭐
+
+#### test-master
+**Source:** [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills/tree/main/skills/test-master)
+**Description:** Comprehensive testing patterns including unit, integration, and snapshot testing
+**Use Case:** Building test suites with proper coverage and isolation
+**Stars:** ⭐⭐⭐⭐
+
 #### e2e-testing-skill
 **Status:** Community-needed
 **Description:** End-to-end test automation across multiple services and browser environments.
@@ -228,6 +240,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Multiple validation layers for comprehensive error handling.
 **Use Case:** Critical systems, production code, API endpoints
 **Stars:** ⭐⭐⭐
+
+#### debugging-wizard
+**Source:** [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills/tree/main/skills/debugging-wizard)
+**Description:** Systematic debugging with root cause analysis and performance profiling
+**Use Case:** Investigating bugs, tracing issues, profiling bottlenecks
+**Stars:** ⭐⭐⭐⭐
 
 #### performance-profiling
 **Status:** Community-needed
@@ -296,6 +314,24 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### api-designer
+**Source:** [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills/tree/main/skills/api-designer)
+**Description:** REST and GraphQL API design with OpenAPI specs and versioning patterns
+**Use Case:** Designing scalable, well-documented APIs
+**Stars:** ⭐⭐⭐⭐
+
+#### postgres-pro
+**Source:** [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills/tree/main/skills/postgres-pro)
+**Description:** PostgreSQL administration, migrations, and performance optimization
+**Use Case:** Database schema design, migrations, and query tuning
+**Stars:** ⭐⭐⭐⭐
+
+#### legacy-modernizer
+**Source:** [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills/tree/main/skills/legacy-modernizer)
+**Description:** Incremental refactoring patterns for modernizing legacy codebases
+**Use Case:** Safely refactoring old code while maintaining functionality
+**Stars:** ⭐⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
@@ -314,6 +350,18 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ---
 
 ### 🔒 Security & Performance
+
+#### security-reviewer
+**Source:** [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills/tree/main/skills/security-reviewer)
+**Description:** Security code review covering OWASP top 10 and auth patterns
+**Use Case:** Auditing code for vulnerabilities and security best practices
+**Stars:** ⭐⭐⭐⭐
+
+#### secure-code-guardian
+**Source:** [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills/tree/main/skills/secure-code-guardian)
+**Description:** Proactive security hardening and dependency audit patterns
+**Use Case:** Building secure-by-default applications
+**Stars:** ⭐⭐⭐⭐
 
 #### security-review
 **Status:** Community-needed
@@ -338,6 +386,18 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ---
 
 ### 📚 Documentation & Automation
+
+#### code-documenter
+**Source:** [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills/tree/main/skills/code-documenter)
+**Description:** Automated documentation generation with JSDoc, docstrings, and READMEs
+**Use Case:** Generating and maintaining code documentation
+**Stars:** ⭐⭐⭐⭐
+
+#### devops-engineer
+**Source:** [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills/tree/main/skills/devops-engineer)
+**Description:** CI/CD pipelines, GitHub Actions, and deployment automation
+**Use Case:** Setting up continuous integration and deployment workflows
+**Stars:** ⭐⭐⭐⭐
 
 #### documentation-generator
 **Status:** Community-needed
@@ -385,6 +445,18 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📊 Data & Analysis
 
+#### pandas-pro
+**Source:** [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills/tree/main/skills/pandas-pro)
+**Description:** Data manipulation, visualization, and CSV processing with pandas
+**Use Case:** Analyzing datasets, building visualizations, processing CSV files
+**Stars:** ⭐⭐⭐⭐
+
+#### sql-pro
+**Source:** [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills/tree/main/skills/sql-pro)
+**Description:** Advanced SQL queries, optimization, and cross-database patterns
+**Use Case:** Writing complex queries and optimizing database performance
+**Stars:** ⭐⭐⭐⭐
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
@@ -431,6 +503,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Draft internal communications, memos, and team announcements.
 **Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
+
+#### code-documenter
+**Source:** [jeffallan/claude-skills](https://github.com/jeffallan/claude-skills/tree/main/skills/code-documenter)
+**Description:** Technical writing for APIs, READMEs, and developer documentation
+**Use Case:** Creating clear, maintainable technical documentation
+**Stars:** ⭐⭐⭐⭐
 
 #### research-assistant
 **Status:** Community-needed
