@@ -492,6 +492,7 @@ Looking for curated skill bundles? Start with these collections:
 |------------|--------|------------|------------|
 | [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
 | [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
+| [mambalabsdev/mamba-labs-skills](https://github.com/mambalabsdev/mamba-labs-skills) | 4 | @mambalabsdev | Signal-based GTM outbound: ICP definition, cold email audits, domain health, hiring signals |
 
 ---
 
