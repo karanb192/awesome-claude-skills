@@ -280,6 +280,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large refactors, multi-step implementations
 **Stars:** ⭐⭐⭐⭐
 
+#### feishu-send-file
+**Source:** [shouldnotappearcalm/feishu-skills](https://github.com/shouldnotappearcalm/feishu-skills) | **Verified:** ⏳
+**Description:** Send files and images to Feishu/Lark chats and groups via API. Supports private chats (ou_ prefix) and group chats (oc_ prefix). Built for OpenClaw/Claude Code.
+**Use Case:** Automated notifications, sending analysis results to team chats, Feishu/Lark integration for AI workflows
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
@@ -399,6 +405,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Status:** Community-needed
 **Description:** Parse, transform, and analyze CSV files with data cleaning and validation.
 **Use Case:** Data migration, ETL processes, data quality checks
+
+#### a-share-skill
+**Source:** [shouldnotappearcalm/a-share-skill](https://github.com/shouldnotappearcalm/a-share-skill) | **Verified:** ⏳
+**Description:** China A-share market data analysis with real-time quotes, historical K-line data, and 12 technical indicators (MA/EMA/MACD/KDJ/RSI/BOLL/ATR and more). Built for OpenClaw/Claude Code.
+**Use Case:** Stock market data retrieval, technical analysis, financial data research for China A-share market
+**Stars:** ⭐⭐⭐⭐
 
 ---
 
