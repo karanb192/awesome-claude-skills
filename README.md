@@ -385,6 +385,17 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📊 Data & Analysis
 
+#### apify-youtube-transcript-api
+**Source:** [johnisanerd/claude-skill-youtube-transcript-api](https://github.com/johnisanerd/claude-skill-youtube-transcript-api) | **Verified:** ⏳
+**Description:** Fetch YouTube transcripts as structured JSON, SRT, or VTT via a hosted YouTube transcript API on Apify.
+**Use Case:** Video summarization, subtitle export, transcript datasets
+
+#### apify-youtube-transcripts-llm-training-data
+**Source:** [johnisanerd/claude-skill-youtube-transcripts-llm-training-data](https://github.com/johnisanerd/claude-skill-youtube-transcripts-llm-training-data) | **Verified:** ⏳
+**Description:** Build LLM training data from YouTube transcripts in bulk, with provenance metadata per video.
+**Use Case:** Fine-tuning corpora, RAG document collections, dataset cards
+
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
