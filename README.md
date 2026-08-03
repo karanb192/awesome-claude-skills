@@ -492,6 +492,7 @@ Looking for curated skill bundles? Start with these collections:
 |------------|--------|------------|------------|
 | [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
 | [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
+| [Claude Skills 中文市集](https://claudeskill.me) | 104+ | [@fanshanhong](https://github.com/fanshanhong/claude-skills-cn) | Chinese-language deep-dive articles covering superpowers, oh-my-claudecode, ecc, gstack and more |
 
 ---
 
