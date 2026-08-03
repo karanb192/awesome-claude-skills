@@ -492,6 +492,7 @@ Looking for curated skill bundles? Start with these collections:
 |------------|--------|------------|------------|
 | [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
 | [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
+| [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | 20+ | @nowork-studio | SEO, GEO, Google Ads & Meta Ads via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP |
 
 ---
 
