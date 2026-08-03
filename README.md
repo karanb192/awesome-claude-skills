@@ -280,6 +280,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large refactors, multi-step implementations
 **Stars:** ⭐⭐⭐⭐
 
+#### idea-os
+**Source:** [Slashworks-biz/idea-os](https://github.com/Slashworks-biz/idea-os) | **Verified:** ✅
+**Description:** Five-phase pipeline turning a raw idea into questions, research, PRD, and phased plan.
+**Use Case:** Non-technical founders, PMs, or hobbyists with an idea and no structured path to build-ready artifacts.
+**License:** MIT
+
 ---
 
 ### ⚙️ Development & Architecture
