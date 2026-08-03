@@ -385,6 +385,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📊 Data & Analysis
 
+#### formo-analytics
+**Source:** [getformo/cli](https://github.com/getformo/cli/tree/main/skills/formo-analytics)
+**Description:** Query [Formo](https://formo.so) product and onchain analytics through MCP, CLI, or REST.
+**Use Case:** Analyze KPIs, SQL, funnels, retention, revenue, users, and wallet profiles.
+**Stars:** ⭐⭐⭐
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
