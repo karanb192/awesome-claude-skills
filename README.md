@@ -385,6 +385,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📊 Data & Analysis
 
+#### shopify-review-triage
+**Source:** [alfredtech2026/shopify-app-review-brief](https://github.com/alfredtech2026/shopify-app-review-brief/tree/main/docs/skills/shopify-review-triage) | **Verified:** ⏳
+**Description:** Turns public 1–3-star Shopify App Store reviews into a P0–P3 triage brief with source links and a needs-human-read bucket.
+**Use Case:** Weekly product or support triage of low-star reviews for one Shopify app or a portfolio
+**Stars:** ⭐
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
