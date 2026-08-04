@@ -34,6 +34,7 @@
   - [📊 Data & Analysis](#-data--analysis)
   - [💰 Finance & Tax](#-finance--tax)
   - [✍️ Writing & Research](#️-writing--research)
+  - [🛒 E-commerce & UX](#-e-commerce--ux)
   - [🎯 Meta Skills](#-meta-skills)
 - [Skill Collections](#skill-collections)
 - [FAQ](#faq)
@@ -441,6 +442,16 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Status:** Community-needed
 **Description:** Create clear technical documentation following industry best practices.
 **Use Case:** API docs, user manuals, technical specifications
+
+---
+
+### 🛒 E-commerce & UX
+
+#### pdp-audit
+**Source:** [llizell/pdp-audit](https://github.com/llizell/pdp-audit)
+**Description:** Audits ecommerce product detail pages against 82 UX/conversion guidelines and outputs a prioritized, evidence-based report
+**Use Case:** CRO reviews, product page audits, design QA for ecommerce and Shopify teams
+**Stars:** ⭐⭐⭐⭐
 
 ---
 
