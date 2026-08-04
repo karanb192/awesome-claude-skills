@@ -280,6 +280,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large refactors, multi-step implementations
 **Stars:** ⭐⭐⭐⭐
 
+#### pr-review
+**Source:** [priyank766/OpenSource-SKILL](https://github.com/priyank766/OpenSource-SKILL) | **Verified:** ⏳
+**Description:** Detection-first pull request review; a weighted 10-point filter keeps only the 2-3 findings worth a comment.
+**Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
