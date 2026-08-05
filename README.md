@@ -244,6 +244,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🤝 Collaboration & Workflow
 
+#### ax-extract-workflow
+
+**Source:** [Necmttn/ax](https://github.com/Necmttn/ax) | **Verified:** ⏳
+**Description:** Reconstructs shipped-feature workflows from local ax session history.
+**Use Case:** Replaying the decisions and handoffs behind a finished feature
+**Stars:** ⭐⭐⭐
+
 #### requesting-code-review
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Pre-review preparation and PR best practices with formatted diffs.
