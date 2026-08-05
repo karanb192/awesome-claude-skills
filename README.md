@@ -480,6 +480,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Gather, synthesize, and cite sources for research projects.
 **Use Case:** Academic research, market analysis, competitive intelligence
 
+#### swedish-mentor
+**Source:** [mh-mansouri/help_with_swedish](https://github.com/mh-mansouri/help_with_swedish) | **Verified:** ⏳
+**Description:** Recommends CEFR-leveled Swedish YouTube clips and podcasts, building a listening/reading/writing/speaking learning path.
+**Use Case:** Self-directed Swedish learners choosing what to watch or listen to next, from complete beginner (A1) to advanced (C2)
+**Stars:** ⭐⭐⭐
+
 #### technical-writing
 **Status:** Community-needed
 **Description:** Create clear technical documentation following industry best practices.
