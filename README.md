@@ -635,4 +635,6 @@ Special thanks to:
 
 **Follow** this repo for updates | **Star** to support | **Contribute** to grow the ecosystem
 
+Maintained by [Karan Bansal](https://karanbansal.in) · [Blog: Claude Code, MCP, production agentic AI](https://karanbansal.in/blog/)
+
 </div>
