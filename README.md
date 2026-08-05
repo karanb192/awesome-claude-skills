@@ -205,6 +205,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🐛 Debugging & Troubleshooting
 
+#### agenttrace-session-audit
+**Source:** [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace)
+**Description:** Audits agent sessions for cost, tokens, failures, and latency.
+**Use Case:** Debugging Claude Code, Codex, Gemini, Aider, and Cursor runs.
+**Stars:** ⭐⭐⭐
+
 #### systematic-debugging
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Four-phase root cause process: reproduce, isolate, identify, verify fix.
