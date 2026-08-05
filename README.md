@@ -542,6 +542,7 @@ Looking for curated skill bundles? Start with these collections:
 | [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills) | 3 | @ZengLiangYi | Local-first memory recall and writeback for AI coding sessions |
 | [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) | 45 | @Affitor | Affiliate marketing full funnel: research, content, SEO, landing pages, distribution, analytics, automation |
 | [noizai/skills](https://github.com/noizai/skills) | 2+ | @noizai | TTS dubbing and companion voice presets |
+| [Skill Locker](https://skilllocker.ai) | 296 | @miniminer-droid | Non-developer-first: business, marketing, career, course creation, health, agency ops, fundraising |
 
 ---
 
