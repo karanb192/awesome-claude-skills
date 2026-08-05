@@ -407,6 +407,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
+#### vox-director
+**Source:** [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director) | **Verified:** ⏳
+**Description:** Turn a one-line topic into a finished paper-collage explainer video, generating script, keyframes, motion, voice-over, music and captions, then assembling them with ffmpeg.
+**Use Case:** Explainer videos, product ads, faceless short-form content
+**Stars:** ⭐⭐⭐⭐
+
 #### video-editing-helper
 **Status:** Community-needed
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
