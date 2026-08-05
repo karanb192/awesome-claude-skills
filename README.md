@@ -32,6 +32,7 @@
   - [📚 Documentation & Automation](#-documentation--automation)
   - [🎬 Media & Content Creation](#-media--content-creation)
   - [📊 Data & Analysis](#-data--analysis)
+  - [💰 Finance & Tax](#-finance--tax)
   - [✍️ Writing & Research](#️-writing--research)
   - [🎯 Meta Skills](#-meta-skills)
 - [Skill Collections](#skill-collections)
@@ -204,6 +205,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🐛 Debugging & Troubleshooting
 
+#### agenttrace-session-audit
+**Source:** [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace)
+**Description:** Audits agent sessions for cost, tokens, failures, and latency.
+**Use Case:** Debugging Claude Code, Codex, Gemini, Aider, and Cursor runs.
+**Stars:** ⭐⭐⭐
+
 #### systematic-debugging
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Four-phase root cause process: reproduce, isolate, identify, verify fix.
@@ -236,6 +243,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ---
 
 ### 🤝 Collaboration & Workflow
+
+#### ax-extract-workflow
+
+**Source:** [Necmttn/ax](https://github.com/Necmttn/ax) | **Verified:** ⏳
+**Description:** Reconstructs shipped-feature workflows from local ax session history.
+**Use Case:** Replaying the decisions and handoffs behind a finished feature
+**Stars:** ⭐⭐⭐
 
 #### requesting-code-review
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
@@ -278,6 +292,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Batch execution with checkpoints for progress tracking and recovery.
 **Use Case:** Large refactors, multi-step implementations
 **Stars:** ⭐⭐⭐⭐
+
+#### pr-review
+**Source:** [priyank766/OpenSource-SKILL](https://github.com/priyank766/OpenSource-SKILL) | **Verified:** ⏳
+**Description:** Detection-first pull request review; a weighted 10-point filter keeps only the 2-3 findings worth a comment.
+**Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
+**Stars:** ⭐⭐⭐
 
 ---
 
@@ -338,6 +358,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📚 Documentation & Automation
 
+#### process-builder
+**Source:** [Castaldo-Solutions/process-builder](https://github.com/Castaldo-Solutions/process-builder) | **Verified:** ⏳
+**Description:** Interviews you about a business process and generates a BPMN swimlane diagram as a .drawio file.
+**Use Case:** Process mapping, AS-IS analysis with pain points, TO-BE automation roadmaps
+**Stars:** ⭐⭐⭐
+
 #### documentation-generator
 **Status:** Community-needed
 **Description:** Auto-generate API documentation and keep docs synchronized with code.
@@ -356,6 +382,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ---
 
 ### 🎬 Media & Content Creation
+
+#### bria-ai
+**Source:** [Bria-AI/bria-skill](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) | **Verified:** ⏳
+**Description:** Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, transparent PNGs.
+**Use Case:** Hero images, product photos, icons, and cutouts for web, e-commerce, and marketing pipelines
+**Stars:** ⭐⭐⭐⭐
 
 #### canvas-design
 **Source:** Community | **Verified:** ⏳
@@ -384,6 +416,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📊 Data & Analysis
 
+#### claude-ecom
+**Source:** [takechanman1228/claude-ecom](https://github.com/takechanman1228/claude-ecom) | **Verified:** ⏳
+**Description:** Ecommerce business review: turn order CSVs into KPI trees, ~30 health checks, RFM cohorts, and action plans across 30d/90d/365d
+**Use Case:** Monthly D2C business reviews, revenue/retention/margin diagnostics, automated consultant-quality analysis
+**Stars:** ⭐⭐⭐
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
@@ -401,6 +439,22 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ---
 
+### 💰 Finance & Tax
+
+#### itr-wala
+**Source:** [karanb192/itr-wala](https://github.com/karanb192/itr-wala) | **Verified:** ✅
+**Description:** Prepares Indian income-tax returns (AY 2026-27): AI reads Form 16/AIS, deterministic Python computes every rupee.
+**Use Case:** Filing ITR-1/2/3/4 yourself: both regimes compared, deductions interviewed, portal walkthrough
+**Stars:** ⭐⭐⭐
+
+#### file-itr
+**Source:** [shivprime94/file-itr](https://github.com/shivprime94/file-itr) | **Verified:** ✅
+**Description:** The first Indian ITR skill: prompt-driven portal walkthrough with hard-won field notes and AIS research.
+**Use Case:** Prompt-based guidance through the income-tax portal for Indian returns
+**Stars:** ⭐⭐⭐
+
+---
+
 ### ✍️ Writing & Research
 
 #### brand-guidelines
@@ -408,6 +462,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Maintain and enforce brand voice, style, and messaging consistency.
 **Use Case:** Content creation, marketing materials, company communications
 **Stars:** ⭐⭐⭐⭐
+
+#### business-name-fit
+**Source:** [Elham-Farajnejad/business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | **Verified:** ⏳
+**Description:** Picks or vets a business name that stays authentic to your culture while working in your target market, via 8 cross-cultural checks.
+**Use Case:** Naming a company or product across languages; catching a name that reads well at home but fails abroad
+**Stars:** ⭐⭐⭐
 
 #### internal-comms
 **Source:** Community | **Verified:** ⏳
@@ -475,6 +535,9 @@ Looking for curated skill bundles? Start with these collections:
 |------------|--------|------------|------------|
 | [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
 | [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
+| [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | 49 | @coreyhaines31 | Marketing: SEO, copywriting, cold email, pricing, CRO, ads, analytics |
+| [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | 67 | @JasonColapietro | Code quality, design, marketing & shipping |
+| [inhouseseo/superseo-skills](https://github.com/inhouseseo/superseo-skills) | 11 | @inhouseseo | SEO audits, content writing, link building, E-E-A-T |
 | [kpab/claude-fable-5-skills](https://github.com/kpab/claude-fable-5-skills) | 10 | @kpab | Fable 5-native skills: effort calibration, scope guarding & subagent orchestration |
 
 ---
@@ -550,6 +613,7 @@ Skills can execute code, so only install from trusted sources. Review the skill'
 ### Community Resources
 - [Claude Skills Hub](https://claudeskills.info/) - Searchable skills directory
 - [Simon Willison's Blog](https://simonwillison.net/2025/Oct/16/claude-skills/) - "Claude Skills are awesome, maybe a bigger deal than MCP"
+- [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions
 
 ### Tools & Utilities
 - [create-claude-skill](https://github.com/anthropics/skills) - Interactive skill creator
@@ -618,5 +682,7 @@ Special thanks to:
 ### 🚀 Built with skills. For skills. By the community.
 
 **Follow** this repo for updates | **Star** to support | **Contribute** to grow the ecosystem
+
+Maintained by [Karan Bansal](https://karanbansal.in) · [Blog: Claude Code, MCP, production agentic AI](https://karanbansal.in/blog/)
 
 </div>
