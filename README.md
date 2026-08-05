@@ -453,6 +453,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Prompt-based guidance through the income-tax portal for Indian returns
 **Stars:** ⭐⭐⭐
 
+#### indian-stocks-fundamental-analysis
+**Source:** [AlenSarangSatheesh/Indian-Stocks-Fundamental-Analysis-SKILL](https://github.com/AlenSarangSatheesh/Indian-Stocks-Fundamental-Analysis-SKILL) | **Verified:** ⏳
+**Description:** Sector-relative fundamental analysis of listed companies — India-first (NSE/BSE), works globally; document-first, never-invent-a-number.
+**Use Case:** Judging if a stock is fundamentally strong or cheap, forensic accounting checks, and IPO/DRHP assessment — research, not advice
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ✍️ Writing & Research
