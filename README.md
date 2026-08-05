@@ -376,6 +376,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🎬 Media & Content Creation
 
+#### bria-ai
+**Source:** [Bria-AI/bria-skill](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) | **Verified:** ⏳
+**Description:** Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, transparent PNGs.
+**Use Case:** Hero images, product photos, icons, and cutouts for web, e-commerce, and marketing pipelines
+**Stars:** ⭐⭐⭐⭐
+
 #### canvas-design
 **Source:** Community | **Verified:** ⏳
 **Description:** Create visual designs and graphics using Claude's canvas capabilities.
