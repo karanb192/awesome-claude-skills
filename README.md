@@ -487,6 +487,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ---
 
+#### seo-translator
+**Source:** [Skillproofdev/seo-translator](https://github.com/Skillproofdev/seo-translator) | **Verified:** ⏳
+**Description:** SEO-aware translation for localizing sites and content — per-market registers, protected product names and code, anti-AI-pattern pass; measured 10-language benchmark in the README.
+**Use Case:** Multilingual SEO, site localization, hreflang content preparation
+
 ### 🎯 Meta Skills
 
 #### skill-creator
