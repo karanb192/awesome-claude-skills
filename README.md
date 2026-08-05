@@ -538,6 +538,7 @@ Looking for curated skill bundles? Start with these collections:
 | [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | 49 | @coreyhaines31 | Marketing: SEO, copywriting, cold email, pricing, CRO, ads, analytics |
 | [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | 67 | @JasonColapietro | Code quality, design, marketing & shipping |
 | [inhouseseo/superseo-skills](https://github.com/inhouseseo/superseo-skills) | 11 | @inhouseseo | SEO audits, content writing, link building, E-E-A-T |
+| [kpab/claude-fable-5-skills](https://github.com/kpab/claude-fable-5-skills) | 10 | @kpab | Fable 5-native skills: effort calibration, scope guarding & subagent orchestration |
 
 ---
 
