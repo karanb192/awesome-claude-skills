@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### embedded-iot-mentor
+**Source:** [mh-mansouri/embedded-iot-mentor](https://github.com/mh-mansouri/embedded-iot-mentor) | **Verified:** ⏳
+**Description:** Picks the MCU, board, and toolchain for an embedded/IoT project and hands you a build plan to a working breadboard.
+**Use Case:** Scoping a hardware project — parts list, time/cost estimate, and circuit-design guidance from breadboard MVP to production PCB
+**Stars:** ⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
