@@ -426,6 +426,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Content creation, marketing materials, company communications
 **Stars:** ⭐⭐⭐⭐
 
+#### business-name-fit
+**Source:** [Elham-Farajnejad/business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | **Verified:** ⏳
+**Description:** Picks or vets a business name that stays authentic to your culture while working in your target market, via 8 cross-cultural checks.
+**Use Case:** Naming a company or product across languages; catching a name that reads well at home but fails abroad
+**Stars:** ⭐⭐⭐
+
 #### internal-comms
 **Source:** Community | **Verified:** ⏳
 **Description:** Draft internal communications, memos, and team announcements.
