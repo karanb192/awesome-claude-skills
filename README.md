@@ -475,6 +475,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
 
+#### stop-ai-slop
+**Source:** [Lekha-Reddy-git-hub/stop-ai-slop](https://github.com/Lekha-Reddy-git-hub/stop-ai-slop) | **Verified:** ⏳
+**Description:** Strips AI tells from writing without flattening it into beige, tuned per channel (X, LinkedIn, cold and warm email). Self-improving via an excess-vocabulary miner that finds new tells as models change.
+**Use Case:** Cleaning AI-drafted posts, emails, and articles so they read human
+**Stars:** ⭐⭐⭐
+
 #### research-assistant
 **Status:** Community-needed
 **Description:** Gather, synthesize, and cite sources for research projects.
