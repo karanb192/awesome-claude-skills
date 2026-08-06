@@ -457,6 +457,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### ✍️ Writing & Research
 
+#### academic-claude-skills
+**Source:** [Nero1688/claude-academic-skills](https://github.com/Nero1688/claude-academic-skills) | **Verified:** ⏳
+**Description:** A 35-skill library for the full research lifecycle: method selection, data scouting, cleaning, causal identification (staggered DiD/IV/RDD), literature matrices, peer-review simulation, submission, and reproducible replication packages; quantitative, qualitative, experimental, and mixed methods.
+**Use Case:** Academic research from framing a question to a reproducible replication package, with an anti-hallucination discipline (citations checkable, a data miss fails loudly instead of fabricating one)
+
 #### brand-guidelines
 **Source:** Community | **Verified:** ⏳
 **Description:** Maintain and enforce brand voice, style, and messaging consistency.
