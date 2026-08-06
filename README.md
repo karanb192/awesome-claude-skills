@@ -354,6 +354,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Stress testing patterns and performance benchmarking.
 **Use Case:** Capacity planning, finding breaking points
 
+#### 16-eyes
+**Source:** [kigiela/16-eyes](https://github.com/kigiela/16-eyes)
+**Description:** AI-driven security audits (full-repo or diff/PR-scoped) with adversarial multi-agent verification
+**Use Case:** Occasional deep full-repo sweeps, or lighter diff-scoped review wired into every PR
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### 📚 Documentation & Automation
