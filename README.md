@@ -161,7 +161,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** PowerPoint presentation creation with templates, charts, and multimedia integration.
 **Use Case:** Automated slide generation, presentation analysis, template customization
-**Stars:** ⭐⭐⭐⭐
+
+#### mubu-integration
+**Source:** [liuboacean/mubu-integration](https://github.com/liuboacean/mubu-integration) | **Verified:** ✅
+**Description:** Mubu (幕布) outline CLI & AI Agent Skill — import/export Markdown with true round-trip fidelity, plus OPML/FreeMind export.
+**Use Case:** Syncing Mubu outlines with Markdown, converting outlines to OPML/FreeMind
+**Stars:** ⭐**Stars:** ⭐⭐⭐⭐
 
 ---
 
