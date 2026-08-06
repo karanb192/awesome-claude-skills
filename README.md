@@ -407,6 +407,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
+#### auteur
+**Source:** [agiwhitelist/auteur](https://github.com/agiwhitelist/auteur) | **Verified:** ⏳
+**Description:** Build complete websites from a written art-direction commitment, gated by a zero-dependency slop linter and a Playwright FPS/contrast check that fail the build.
+**Use Case:** Landing pages, scroll-driven storytelling sites, multi-screen product UI held to one design system
+
 #### video-editing-helper
 **Status:** Community-needed
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
