@@ -475,6 +475,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
 
+#### niubiskill
+**Source:** [nathanskill/niubiskill](https://github.com/nathanskill/niubiskill) | **Verified:** ⏳
+**Description:** Monetization-first decision skill (Chinese): stops unvalidated building and picks the single revenue step closest to real money.
+**Use Case:** Business model decisions, monetization strategy, running 7-day payment-evidence tests
+**Stars:** ⭐⭐⭐⭐
+
 #### research-assistant
 **Status:** Community-needed
 **Description:** Gather, synthesize, and cite sources for research projects.
