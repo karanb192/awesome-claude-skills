@@ -469,6 +469,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Naming a company or product across languages; catching a name that reads well at home but fails abroad
 **Stars:** ⭐⭐⭐
 
+#### sales-framework
+**Source:** [KudoMetrics-Techologies-Private-Limited/sales-framework](https://github.com/KudoMetrics-Techologies-Private-Limited/sales-framework) | **Verified:** ⏳
+**Description:** Loads proven sales psychology into landing pages, pitches, and conversion copy. Combines goatherders' 7 principles (20yr sales veteran) with Ramachandran's CXO deal-making framework.
+**Use Case:** Landing page copy, pricing pages, conversion optimization, client proposals, cold outreach sequences
+**Stars:** ⭐⭐⭐⭐
+
 #### internal-comms
 **Source:** Community | **Verified:** ⏳
 **Description:** Draft internal communications, memos, and team announcements.
