@@ -525,6 +525,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### claude-memory-manager
+**Source:** [jau123/claude-memory-manager](https://github.com/jau123/claude-memory-manager)
+**Description:** Schema + audit on top of Claude Code's auto-memory; flags drift before the library becomes unsearchable.
+**Use Case:** Long-running Claude Code projects where the memory library has grown past a few dozen files
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ## Skill Collections
