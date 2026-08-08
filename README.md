@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### game-build-team
+**Source:** [Varalix-Digitech-Solutions/game-build-team-skill](https://github.com/Varalix-Digitech-Solutions/game-build-team-skill)
+**Description:** Multi-agent team that builds Godot 4 / GDScript game features behind two unskippable gates — a headless test gate and an "is it fun" creative gate — then verifies on a real device.
+**Use Case:** Game features that arrive tested AND fun: gameplay logic + game-feel juice + real tests, resumable across usage-limit cutoffs
+**Stars:** ⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
