@@ -437,6 +437,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Parse, transform, and analyze CSV files with data cleaning and validation.
 **Use Case:** Data migration, ETL processes, data quality checks
 
+#### moodtrip-hotel-search
+**Source:** [adiny/moodtrip-hotel-search](https://github.com/adiny/moodtrip-hotel-search) | **Verified:** ⏳
+**Description:** Search, compare, evaluate, and book hotels through MoodTrip.ai MCP server. 12 tools: semantic search, real-time pricing, reviews with sentiment analysis, room matching, price intelligence, and booking handoff.
+**Use Case:** Hotel discovery, price comparison, travel planning, booking automation
+**Tags:** `MCP` `Travel` `API`
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 💰 Finance & Tax
