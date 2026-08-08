@@ -70,6 +70,7 @@ git clone https://github.com/obra/superpowers ~/.claude/skills/superpowers
 Skills are available on Claude Pro, Max, Team, and Enterprise plans with code execution enabled.
 
 ## Featured Skills
+- [AuraKit](https://github.com/smorky850612/Aurakit) - All-in-one Claude Code skill: 46 modes, 23 sub-agents, 6-layer OWASP security, 10 lifecycle hooks, ~55% token savings. Cross-platform. `npx @smorky85/aurakit`
 
 **Start with these top 10 essential skills:**
 
