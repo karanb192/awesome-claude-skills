@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### ditto
+**Source:** [ohad6k/ditto](https://github.com/ohad6k/ditto) | **Verified:** ⏳
+**Description:** Mines your local Claude Code/Codex/OpenCode session logs into a personal profile your agent loads before every task.
+**Use Case:** Starting every session with your working preferences and conventions instead of a cold start
+**Stars:** ⭐⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
