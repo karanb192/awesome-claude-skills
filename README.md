@@ -525,6 +525,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### first-principles-destructor
+**Source:** [reshadat/first-principles-destructor](https://github.com/reshadat/first-principles-destructor) | **Verified:** ✅
+**Description:** Strips a problem to its reality floor, prices the convention tax, and rebuilds from first principles. Works with Claude Code, Codex CLI, Gemini CLI, Cursor, and Kiro.
+**Use Case:** Challenging inherited assumptions, architecture decisions, cost and complexity audits
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ## Skill Collections
