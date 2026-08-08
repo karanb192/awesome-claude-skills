@@ -480,6 +480,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Gather, synthesize, and cite sources for research projects.
 **Use Case:** Academic research, market analysis, competitive intelligence
 
+#### no-slop
+**Source:** [Byk3y/no-slop](https://github.com/Byk3y/no-slop) | **Verified:** ⏳
+**Description:** A prose linter that catches AI writing patterns. 13 rules with 40+ banned words and annotated before/after examples, sourced from Wikipedia's Signs of AI Writing.
+**Use Case:** Blog posts, documentation, emails, PR descriptions, any long-form prose
+**Stars:** ⭐⭐⭐
+
 #### technical-writing
 **Status:** Community-needed
 **Description:** Create clear technical documentation following industry best practices.
