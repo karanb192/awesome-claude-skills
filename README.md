@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### routerbase-agent-skills
+**Source:** [zenlee123/routerbase-agent-skills](https://github.com/zenlee123/routerbase-agent-skills)
+**Description:** Routes Claude and Codex requests through [routerbase](https://routerbase.com/) for model routing, API, and media workflows.
+**Use Case:** Using an OpenAI-compatible gateway across model selection and media generation tasks
+**Stars:** ⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
