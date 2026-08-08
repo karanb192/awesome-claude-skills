@@ -485,6 +485,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Create clear technical documentation following industry best practices.
 **Use Case:** API docs, user manuals, technical specifications
 
+#### winston-coach
+**Source:** [Anastasios3/winston-coach](https://github.com/Anastasios3/winston-coach) | **Verified:** ⏳
+**Description:** Apply Patrick Winston's MIT framework (How to Speak + Make It Clear) to any writing or speaking task. Mandatory humanizer pass strips AI tells from every written output.
+**Use Case:** Talks, decks, reports, emails, pitches, papers, abstracts, job talks — anywhere clear, persuasive, undetectable-as-AI communication matters.
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### 🎯 Meta Skills
