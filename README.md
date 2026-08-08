@@ -334,6 +334,37 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🔒 Security & Performance
 
+#### prompt-guard ⭐
+**Status:** Available
+**Repository:** [aptratcn/prompt-guard](https://github.com/aptratcn/prompt-guard)
+**Description:** Detect and resist prompt injection attacks for security-first AI interactions.
+**Use Case:** Preventing prompt injection, sanitizing untrusted input
+
+#### llm-sanitizer
+**Status:** Available
+**Repository:** [aptratcn/skill-llm-sanitizer](https://github.com/aptratcn/skill-llm-sanitizer)
+**Description:** Strip PII, secrets, credentials, and IPs from text before sending to any LLM. 20+ regex patterns.
+**Use Case:** Preventing data leaks to LLMs, compliance, privacy protection
+
+#### cognitive-debt-guard ⭐
+**Status:** Available
+**Repository:** [aptratcn/cognitive-debt-guard](https://github.com/aptratcn/cognitive-debt-guard)
+**Description:** Prevent the 23.5% incident spike from AI-generated code with comprehension gates and review frameworks.
+**Use Case:** Code quality enforcement, preventing AI-generated incidents
+
+#### token-budget-guard
+**Status:** Available
+**Repository:** [aptratcn/token-budget-guard](https://github.com/aptratcn/token-budget-guard)
+**Description:** Token budget management with progressive disclosure, claiming 99% context savings.
+**Use Case:** Reducing API costs, managing context window usage
+
+#### error-recovery ⭐
+**Status:** Available
+**Repository:** [aptratcn/skill-error-recovery](https://github.com/aptratcn/skill-error-recovery)
+**Description:** 4R error recovery framework (Recognize → Route → Resolve → Review) for AI agents.
+**Use Case:** Systematic error handling, preventing silent failures
+
+
 #### security-review
 **Status:** Community-needed
 **Description:** Automated vulnerability scanning and OWASP compliance checks.
