@@ -412,6 +412,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
 **Use Case:** Video production, content creation, media processing
 
+#### youtube-skills
+**Source:** [sergebulaev/youtube-skills](https://github.com/sergebulaev/youtube-skills) | **Verified:** ⏳
+**Description:** 6 Claude Code and Codex skills for YouTube and Shorts: high-CTR titles, SEO descriptions, retention hooks, thumbnail briefs, planner. MIT.
+**Use Case:** Planning and optimizing YouTube videos and Shorts, writing titles and descriptions, scripting retention hooks
+
 ---
 
 ### 📊 Data & Analysis
