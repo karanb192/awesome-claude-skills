@@ -525,6 +525,14 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+### Developer Marketing
+
+#### docs-auditor
+**Source** [infrasity-labs/dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) | **Verified:** ✅
+**Description:** Developer marketing focused skill collection which includes main focus on GEO Optimization, AI Visibility and GTM Workflows
+**Use Case:** Developer GTM, GEO, AI Visibility
+**Stars:** ⭐⭐⭐⭐⭐
+
 ---
 
 ## Skill Collections
