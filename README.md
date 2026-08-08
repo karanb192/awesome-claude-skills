@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### software-graph-analysis
+**Source:** [0xsarwagya/ontoly](https://github.com/0xsarwagya/ontoly/tree/main/skills)
+**Description:** Query Ontoly's deterministic Software Graph for architecture, dependency, route, config, and impact analysis.
+**Use Case:** Understanding a codebase through graph evidence before broad source search
+**Stars:** ⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
