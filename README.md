@@ -407,6 +407,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
+#### collage-design
+**Source:** [polgarp/collage-design](https://github.com/polgarp/collage-design)
+**Description:** Cuts and layers real open-licensed archive imagery into finished collage art as .svg and .png, with a full licence ledger
+**Use Case:** Posters, album and book covers, prints — publishable art built only from verifiably licensed source material
+**Stars:** ⭐⭐⭐⭐
+
 #### video-editing-helper
 **Status:** Community-needed
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
