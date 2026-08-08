@@ -407,6 +407,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
+#### ltx2-vidgen-skill
+**Source:** [patraxo/ltx2-vidgen-skill](https://github.com/patraxo/ltx2-vidgen-skill) | **Verified:** ⏳
+**Description:** Self-hosted LTX-2.3 (22B) AI video, driven from Claude Code — deploys your own Modal serverless-GPU backend, then text/image/keyframe/video-to-video + IC-LoRA canny/depth/pose control, with synced audio.
+**Use Case:** Generate reels/shorts from a photo or prompt on your own GPU — a few cents a clip, no per-clip meter; batch many takes (`--variations N`) and keep the best.
+
 #### video-editing-helper
 **Status:** Community-needed
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
