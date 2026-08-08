@@ -437,6 +437,30 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Parse, transform, and analyze CSV files with data cleaning and validation.
 **Use Case:** Data migration, ETL processes, data quality checks
 
+#### haruspex-stock-analyst
+**Source:** [Haruspex-guru/haruspex-skills](https://github.com/Haruspex-guru/haruspex-skills) | **Verified:** ✅
+**Description:** Single-ticker fundamental + signals analysis powered by Haruspex's multi-dimension stock scoring. Default for "what about [TICKER]?" questions.
+**Use Case:** Quick reads on a single stock — score, signal, top dimensional drivers, 30-day trajectory, share URL.
+**Stars:** ⭐⭐⭐⭐⭐
+
+#### haruspex-watchlist-review
+**Source:** [Haruspex-guru/haruspex-skills](https://github.com/Haruspex-guru/haruspex-skills) | **Verified:** ✅
+**Description:** Batched review of a multi-ticker watchlist. Ranked tables, biggest movers, dimensional flags.
+**Use Case:** Daily / weekly watchlist scan — single batched API call across up to 50 tickers.
+**Stars:** ⭐⭐⭐⭐⭐
+
+#### haruspex-thesis-tracker
+**Source:** [Haruspex-guru/haruspex-skills](https://github.com/Haruspex-guru/haruspex-skills) | **Verified:** ✅
+**Description:** Maps a stated investment thesis to relevant Haruspex dimensions and reports whether the data still aligns (Supported / Mixed / Challenged).
+**Use Case:** "I'm long X because Y. Is Y still supported?" — thesis-vs-data evaluation.
+**Stars:** ⭐⭐⭐⭐⭐
+
+#### haruspex-stock-analyst-ja
+**Source:** [Haruspex-guru/haruspex-skills](https://github.com/Haruspex-guru/haruspex-skills) | **Verified:** ✅
+**Description:** 日本語版 of the flagship analyst, for traders working in Japanese on US-listed equities (NYSE/NASDAQ).
+**Use Case:** Japanese-language stock analysis on US equities — same workflow as the flagship, output in Japanese.
+**Stars:** ⭐⭐⭐⭐⭐
+
 ---
 
 ### 💰 Finance & Tax
