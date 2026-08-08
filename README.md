@@ -370,9 +370,10 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Maintaining up-to-date documentation, API references
 
 #### changelog-automation
-**Status:** Community-needed
-**Description:** Conventional commits integration with automated release note generation.
-**Use Case:** Release management, version tracking
+**Source:** [wyktor33/changelog-automation](https://github.com/wyktor33/changelog-automation) | **Verified:** ⏳
+**Description:** Generate changelogs from conventional commits with type grouping, scope support, and Keep a Changelog output.
+**Use Case:** Release management, version tracking, automated release notes
+**Stars:** ⭐⭐⭐
 
 #### ci-cd-integration
 **Status:** Community-needed
