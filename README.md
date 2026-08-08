@@ -487,6 +487,16 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ---
 
+### 🔍 SEO & Content Marketing
+
+#### easetoolz-seo
+**Source:** [ariarihantmedia-bit/easetoolz-seo-skill](https://github.com/ariarihantmedia-bit/easetoolz-seo-skill) | **Verified:** ⏳
+**Description:** Universal SEO + GEO skill for Claude Code. Technical audit, competitor gap analysis, schema generation, blog writing (Hindi+English), SERP clustering, AI search optimization. Built for tool sites & SaaS.
+**Use Case:** SEO audits, content strategy, competitor analysis, schema markup, local SEO India
+**Stars:** ⭐⭐⭐⭐⭐
+
+---
+
 ### 🎯 Meta Skills
 
 #### skill-creator
