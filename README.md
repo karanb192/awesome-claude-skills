@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### clone-team
+**Source:** [Varalix-Digitech-Solutions/clone-team](https://github.com/Varalix-Digitech-Solutions/clone-team)
+**Description:** Multi-agent team that clones any website into a pixel-perfect UI in your stack, plus reverse-engineered architecture docs.
+**Use Case:** Exact UI clones in React/Vue/Svelte behind an unskippable test gate, plus an ARCHITECTURE.md to rebuild the site
+**Stars:** ⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
