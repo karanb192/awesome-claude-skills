@@ -330,6 +330,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
+#### agentic-design-patterns
+**Source:** [albertoclemente/agentic-design-patterns-skills](https://github.com/albertoclemente/agentic-design-patterns-skills) | **Verified:** ⏳
+**Description:** Router plus 21 skills that route any agent problem to the right agentic design pattern.
+**Use Case:** Designing or refactoring an agent when unsure which pattern fits
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 🔒 Security & Performance
