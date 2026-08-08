@@ -436,6 +436,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Status:** Community-needed
 **Description:** Parse, transform, and analyze CSV files with data cleaning and validation.
 **Use Case:** Data migration, ETL processes, data quality checks
+#### yield-intelligence
+**Source:** [thebrierfox/yield-intelligence-skill](https://github.com/thebrierfox/yield-intelligence-skill) | **Verified:** ⏳
+**Description:** Real-time Treasury yield intelligence with portfolio calculator and AI-powered market analysis.
+**Use Case:** Passive income research, yield optimization, investment allocation decisions
+**Stars:** ⭐⭐⭐⭐
 
 ---
 
