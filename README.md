@@ -330,6 +330,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
+#### building-blog
+**Source:** [BuildShipGrowRepeat/nextjs-sanity-blog-skill](https://github.com/BuildShipGrowRepeat/nextjs-sanity-blog-skill) | **Verified:** ✅
+**Description:** Adds an SEO-first, i18n-ready blog to a Next.js + Sanity site via 40-question intake, one-page plan, and a 20-section spec.
+**Use Case:** Blog scaffolding, Sanity schema design, hreflang/JSON-LD setup, AI hero images via Gemini 3 Pro Image
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### 🔒 Security & Performance
