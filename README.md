@@ -475,6 +475,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
 
+#### [swarmvault](https://github.com/swarmclawai/swarmvault)
+**Source:** [SwarmClaw AI](https://swarmvault.ai) | **Verified:** ⏳
+**Description:** Local-first RAG knowledge vault skill. Compiles raw sources (books, notes, transcripts, files, URLs, code) into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Ships a built-in MCP server so Claude can search pages, traverse the graph, and run query, ingest, compile, and lint over the user's vault.
+**Use Case:** Long-term memory across projects, research synthesis with citations, codebase knowledge graphs, PKM
+
 #### research-assistant
 **Status:** Community-needed
 **Description:** Gather, synthesize, and cite sources for research projects.
