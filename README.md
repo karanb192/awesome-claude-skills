@@ -480,6 +480,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Gather, synthesize, and cite sources for research projects.
 **Use Case:** Academic research, market analysis, competitive intelligence
 
+#### resume-studio
+**Source:** [Sidgit11/resume-studio](https://github.com/Sidgit11/resume-studio) | **Verified:** ⏳
+**Description:** Builds a permanent memory of your career and tailors an ATS-safe, evidence-backed resume for every job, with no fabricated claims.
+**Use Case:** Tailoring resumes per job posting while maintaining a reusable, evolving career history
+**Stars:** ⭐⭐⭐
+
 #### technical-writing
 **Status:** Community-needed
 **Description:** Create clear technical documentation following industry best practices.
