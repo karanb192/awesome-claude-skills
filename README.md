@@ -330,6 +330,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
+#### chrome-store-publish
+**Source:** [ofelipelourenco/chrome-store-publish](https://github.com/ofelipelourenco/chrome-store-publish) | **Verified:** ⏳
+**Description:** Automates Chrome extension preparation for Chrome Web Store publishing with 7-phase workflow (audit, cleanup, build, legal, listing, assets, validation).
+**Use Case:** Chrome extension publishing, MV3 compliance, store submission prep
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 🔒 Security & Performance
