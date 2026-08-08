@@ -334,6 +334,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🔒 Security & Performance
 
+#### mac-cleanup
+**Source:** [sai-na/claude-mac-cleanup](https://github.com/sai-na/claude-mac-cleanup)
+**Description:** Safely reclaim disk space and RAM on Apple Silicon macOS — scan-first, confirm-before-delete, for devs & creative pros
+**Use Case:** Low on disk or RAM; clear dev-tool and creative-app caches, stop runaway background dev servers
+**Stars:** ⭐⭐⭐⭐
+
 #### security-review
 **Status:** Community-needed
 **Description:** Automated vulnerability scanning and OWASP compliance checks.
