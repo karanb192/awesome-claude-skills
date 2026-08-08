@@ -525,6 +525,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### submit-to-agentlaunch
+**Source:** [agents-launch.lovable.app](https://agents-launch.lovable.app/SKILL.md)
+**Description:** Lists or launches an AI agent on the agentlaunch directory and upvotes agents via a public, no-auth REST API.
+**Use Case:** Publishing, registering, or upvoting an agent on agentlaunch
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ## Skill Collections
