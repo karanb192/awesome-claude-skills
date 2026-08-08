@@ -407,6 +407,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
+#### keyword-icons
+**Source:** [Community](https://github.com/ruthless-coder-ai/keyword-icons) | **Verified:** ⏳
+**Description:** Generate presentation-ready PNG icons from a keyword — three distinct concepts, 1:1 transparent line icons, recolorable via lossless SVG re-render.
+**Use Case:** PowerPoint/Keynote decks, slide iconography, brand-colored icon sets
+
 #### video-editing-helper
 **Status:** Community-needed
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
