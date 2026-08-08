@@ -315,6 +315,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### build-cms
+**Source:** [thabxi/cms-skills](https://github.com/thabxi/cms-skills)
+**Description:** Retrofit a secure, SEO-ready, Webflow-like CMS onto any vibe-coded app — maps every hardcoded front-end field to an editable admin panel.
+**Use Case:** Making vibe-coded apps production-ready — editable content, SEO (sitemap, meta, JSON-LD, redirects), secure admin
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
