@@ -330,6 +330,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
+#### tree-ring-memory
+**Source:** [TerminallyLazy/tree-ring-memory-skill](https://github.com/TerminallyLazy/tree-ring-memory-skill)
+**Description:** Guides local-first recall, capture, audit, consolidation, and forgetting for AI-agent memory.
+**Use Case:** Durable project memory, privacy-safe capture, evidence records, and explicit forgetting
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 🔒 Security & Performance
