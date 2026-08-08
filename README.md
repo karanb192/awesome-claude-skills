@@ -485,6 +485,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Create clear technical documentation following industry best practices.
 **Use Case:** API docs, user manuals, technical specifications
 
+#### feynman-it
+**Source:** [TadTheFisherman/feynman-it](https://github.com/TadTheFisherman/feynman-it) | **Verified:** ⏳
+**Description:** Turns any topic into a hand-illustrated PDF using the Feynman technique -- plain language, an analogy diagram, and named misconceptions.
+**Use Case:** Understanding a confusing AI answer, a jargon-heavy article, an unfamiliar codebase, or compressing a book.
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 🎯 Meta Skills
