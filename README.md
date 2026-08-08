@@ -412,6 +412,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
 **Use Case:** Video production, content creation, media processing
 
+#### socialclaw
+**Source:** [ndesv21/socialclaw](https://github.com/ndesv21/socialclaw) | **Verified:** ✅
+**Description:** Schedule and publish social media posts across 13 platforms via SocialClaw. Supports X, LinkedIn (profile + page), Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, and Pinterest through a single workspace API key.
+**Use Case:** Social media automation, multi-platform publishing, campaign scheduling, media upload and analytics
+**Install:** `npx skills add ndesv21/socialclaw`
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### 📊 Data & Analysis
