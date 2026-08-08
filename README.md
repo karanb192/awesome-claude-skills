@@ -587,6 +587,7 @@ See the [comparison table](#skills-vs-mcp-vs-system-prompts) above. TL;DR: Skill
 - [anthropics/skills](https://github.com/anthropics/skills) - Official Anthropic skills
 - [claudeskills.info](https://claudeskills.info/) - Searchable directory
 - This list! Browse the categories above
+- [ai-identity-persistence-contract](https://github.com/thebrierfox/ai-identity-persistence-contract) - AI identity persistence via read-only document contract. Four-layer architecture for persistent AI agents that survive context window resets.
 
 ### Can I share my skills?
 
