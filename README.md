@@ -412,6 +412,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
 **Use Case:** Video production, content creation, media processing
 
+#### claude-code-marketing-skills
+**Source:** [cognyai/claude-code-marketing-skills](https://github.com/cognyai/claude-code-marketing-skills) | **Verified:** ⏳
+**Description:** AI-powered marketing skills — SEO Audit, Landing Page Review, Competitor Analysis, Ad Copy Writer, and Lead Qualification. Free to use, no account required.
+**Use Case:** Content creation, marketing materials, SEO optimization, competitor research
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 📊 Data & Analysis
