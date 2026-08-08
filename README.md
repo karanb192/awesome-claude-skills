@@ -412,6 +412,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
 **Use Case:** Video production, content creation, media processing
 
+#### [puzzle-activity-planner](https://github.com/fruitwyatt/puzzle-activity-planner)
+**Source:** Community | **Verified:** ⏳
+**Description:** Plan puzzle-based activities for classrooms, parties, and events with pre-configured generator links for word search, crossword, bingo, sudoku, and jigsaw puzzles.
+**Use Case:** Classroom lesson planning, party game coordination, team-building sessions
+**Stars:** ⭐⭐
+
 ---
 
 ### 📊 Data & Analysis
