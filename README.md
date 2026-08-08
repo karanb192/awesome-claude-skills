@@ -315,6 +315,18 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### figma-design-extract
+**Source:** [jeltehomminga/figma-design-skills](https://github.com/jeltehomminga/figma-design-skills) | **Verified:** ✅
+**Description:** Read exact design values (tokens, sizes, structure) from a Figma node via the Figma MCP into a build-ready spec table mapped to your repo's own tokens, instead of eyeballing a screenshot.
+**Use Case:** Implementing a Figma component faithfully, extracting tokens/spacing/colors, avoiding hardcoded values
+**Stars:** ⭐⭐⭐
+
+#### design-fidelity-verify
+**Source:** [jeltehomminga/figma-design-skills](https://github.com/jeltehomminga/figma-design-skills) | **Verified:** ✅
+**Description:** Run a bounded vision+numeric loop that measures the actually-rendered values off the live web/mobile app and walks every spec row to PASS/FAIL, instead of declaring "looks done".
+**Use Case:** Design QA, checking a built screen against Figma, proving token/visual fidelity
+**Stars:** ⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
