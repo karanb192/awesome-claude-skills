@@ -275,6 +275,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Preparing features for merge, cleaning up commit history
 **Stars:** ⭐⭐⭐⭐
 
+#### agent-workflow-pack
+**Source:** [MemoAsh/agent-workflow-pack](https://github.com/MemoAsh/agent-workflow-pack/tree/main/skills/pr-review-workflow) | **Verified:** ✅
+**Description:** Packages repeatable AI coding workflows into skills, templates, and verification checks.
+**Use Case:** PR review workflows, reusable agent procedures, team handoff checklists
+**Stars:** ⭐⭐⭐
 #### brainstorming
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Socratic design refinement and feature exploration through guided questioning.
