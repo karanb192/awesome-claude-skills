@@ -525,6 +525,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### task-observer
+**Source:** [rebelytics/one-skill-to-rule-them-all](https://github.com/rebelytics/one-skill-to-rule-them-all)
+**Description:** A meta-skill that watches your work sessions, captures corrections and judgment calls, and turns them into skill improvements and new skills automatically.
+**Use Case:** When you want your skill library to grow and improve automatically rather than through manual skill creation — the observer runs alongside your normal work and logs improvement candidates.
+
 ---
 
 ## Skill Collections
