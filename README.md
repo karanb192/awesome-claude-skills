@@ -485,6 +485,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Create clear technical documentation following industry best practices.
 **Use Case:** API docs, user manuals, technical specifications
 
+#### write-like-human
+**Source:** [hamidkkhan/write-like-human](https://github.com/hamidkkhan/write-like-human) | **Verified:** ⏳
+**Description:** Removes AI tells from prose using structural checks and a linter that measures sentence-length variance.
+**Use Case:** Blog posts, landing pages, newsletters; auditing why a draft reads as machine-written
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 🎯 Meta Skills
