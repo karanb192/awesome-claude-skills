@@ -489,6 +489,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🎯 Meta Skills
 
+#### checkup
+**Source:** [agentvitals/checkup](https://github.com/agentvitals/checkup)
+**Description:** Agent runs a standardized self-checkup: server-side probes, independent judge, score across reliability and welfare axes
+**Use Case:** Benchmarking your own agent's stability and answer quality, comparing setups before and after a prompt or model change
+**Stars:** ⭐⭐⭐⭐
+
 #### skill-creator
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Teaches methods for developing effective skills following best practices.
