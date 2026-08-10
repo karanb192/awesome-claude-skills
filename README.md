@@ -299,6 +299,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
 **Stars:** ⭐⭐⭐
 
+#### guashuai-junshi
+**Source:** [DENGYUFAN0/guashuai-junshi](https://github.com/DENGYUFAN0/guashuai-junshi)
+**Description:** Dual-model collaboration doctrine: a strong model orchestrates while a cheap model executes, with adapters for Claude Code, OpenCode, and Codex.
+**Use Case:** Splitting a large multi-file task across a planning/orchestrator model and a cheaper execution model to cut cost
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
