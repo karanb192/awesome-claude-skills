@@ -395,6 +395,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Quick mockups, diagrams, visual brainstorming
 **Stars:** ⭐⭐⭐
 
+#### seedance-25-prompting
+**Source:** [gbeyrouti/seedance-prompting-claude-skill](https://github.com/gbeyrouti/seedance-prompting-claude-skill) | **Verified:** ⏳
+**Description:** Write, optimize, and debug prompts for ByteDance's Seedance 2.5 / 2.0 video model — 6-block formula, `@` reference roles, time staging, realism layer, native audio and lip-sync syntax.
+**Use Case:** AI UGC ads, product videos, talking heads, and long single-pass shots on Dreamina, Jimeng, Doubao, BytePlus or fal.ai
+**Stars:** ⭐⭐⭐
+
 #### slack-gif-creator
 **Source:** Community | **Verified:** ⏳
 **Description:** Generate custom GIFs for Slack communication and team engagement.
