@@ -495,6 +495,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Building custom skills, contributing to the ecosystem
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### skill-forge
+**Source:** [DENGYUFAN0/skill-forge](https://github.com/DENGYUFAN0/skill-forge)
+**Description:** Closed-loop, low-cost skill-tuning pipeline: a cheap model mass-generates adversarial evals, a capable model surgically tunes.
+**Use Case:** Iterating an existing skill's instructions against a generated eval set instead of hand-writing test cases
+**Stars:** ⭐⭐⭐
+
 #### template-skill
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Minimal skeleton for new skill projects with proper structure.
