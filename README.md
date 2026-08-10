@@ -251,6 +251,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Replaying the decisions and handoffs behind a finished feature
 **Stars:** ⭐⭐⭐
 
+#### dev-cookbook
+**Source:** [Malloy-yang/Dev-cookbook](https://github.com/Malloy-yang/Dev-cookbook)
+**Description:** Requirement-aligned development workflow with a role-aware PM/Developer pipeline and a pre-coding confirmation gate.
+**Use Case:** When AI agents need to align scope, acceptance criteria, and PM sign-off before writing code
+**Stars:** ⭐⭐⭐
+
 #### requesting-code-review
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Pre-review preparation and PR best practices with formatted diffs.
