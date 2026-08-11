@@ -334,6 +334,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🔒 Security & Performance
 
+#### wp-security-audit
+**Source:** [mwstech/wp-security-audit-skill](https://github.com/mwstech/wp-security-audit-skill)
+**Description:** Audits a live WordPress site from outside the PHP runtime (SSH + external HTTP), finding existing compromises and plugin CVEs
+**Use Case:** Checking whether a running production site is hardened or already breached, including a site you suspect was hacked
+**Stars:** ⭐⭐⭐⭐
+
 #### security-review
 **Status:** Community-needed
 **Description:** Automated vulnerability scanning and OWASP compliance checks.
