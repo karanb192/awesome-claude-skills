@@ -151,6 +151,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Automating document generation, processing feedback, extracting structured data
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### humanpen-skill
+**Source:** [humanpen/humanpen-skill](https://github.com/humanpen/humanpen-skill) | **Verified:** ⬜
+**Description:** Lowers a Word/PowerPoint/PDF document's AI-detection score so it reads as human-written, keeping every fact, number, table and all formatting intact.
+**Use Case:** Making an AI-drafted thesis, report, or slides read as human-written before submission
+**Stars:** ⭐⭐⭐
+
 #### xlsx
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Excel spreadsheet operations including formulas, charts, pivot tables, and data validation.
