@@ -457,6 +457,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### ✍️ Writing & Research
 
+#### ai-hot
+**Source:** [buzzradr/ai-hot](https://github.com/buzzradr/ai-hot) | **Verified:** ⏳
+**Description:** Query BuzzRadr's public AI trend radar: trending AI topics with why-trending signals and daily digests, no API key.
+**Use Case:** "What's hot in AI today" roundups, AI news monitoring, trend research and content ideation
+**Stars:** ⭐⭐⭐
+
 #### brand-guidelines
 **Source:** Community | **Verified:** ⏳
 **Description:** Maintain and enforce brand voice, style, and messaging consistency.
