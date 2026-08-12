@@ -153,7 +153,7 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 #### humanpen-skill
 **Source:** [humanpen/humanpen-skill](https://github.com/humanpen/humanpen-skill) | **Verified:** ⬜
-**Description:** Lowers a Word/PowerPoint/PDF document's AI-detection score so it reads as human-written, keeping every fact, number, table and all formatting intact.
+**Description:** Document-level AI humanizer for .docx/.pptx — rewrite the whole file, selected passages, or just the text flagged by a Turnitin/iThenticate report, keeping formatting, tables, citations and formulas intact.
 **Use Case:** Making an AI-drafted thesis, report, or slides read as human-written before submission
 **Stars:** ⭐⭐⭐
 
