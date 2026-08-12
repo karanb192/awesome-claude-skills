@@ -453,12 +453,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Prompt-based guidance through the income-tax portal for Indian returns
 **Stars:** ⭐⭐⭐
 
-
 #### stipend
 **Source:** [stipend-sh/stipend](https://github.com/stipend-sh/stipend) | **Verified:** ⏳
 **Description:** Gives an agent a non-custodial USDC wallet on Base, with spending limits enforced in code before signing rather than in a prompt.
 **Use Case:** An agent that needs to be paid for its work or pay for an API, without a human holding its key or approving each payment
 **Stars:** ⭐⭐⭐
+
 ---
 
 ### ✍️ Writing & Research
