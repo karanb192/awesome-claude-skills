@@ -26,9 +26,11 @@ We're always looking for new skills to add to the list! Here's how:
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/karanb192/awesome-claude-skills.git
+   git clone https://github.com/YOUR-USERNAME/awesome-claude-skills.git
    cd awesome-claude-skills
    ```
+
+   Replace `YOUR-USERNAME` with your GitHub username.
 
 3. **Create a branch**
    ```bash
