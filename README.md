@@ -269,6 +269,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Juggling multiple features, emergency hotfixes, experimental branches
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### using-lwc
+**Source:** [JanYork/llm-wiki-cli](https://github.com/JanYork/llm-wiki-cli/tree/main/skills/using-lwc) | **Verified:** ⏳
+**Description:** Keeps source-grounded project memory across sessions with bounded recall, citations, and atomic writeback.
+**Use Case:** Recalling project decisions before coding and preserving verified knowledge after work
+**Stars:** ⭐⭐⭐
+
 #### finishing-a-development-branch
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Guides merge/PR decisions and maintaining clean git history.
