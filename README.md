@@ -167,6 +167,15 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🧪 Testing & Quality
 
+#### agent-qa-authoring
+
+**Source:** [vostride/agent-qa](https://github.com/vostride/agent-qa)
+**Description:** Authors and validates natural-language web and mobile tests
+with canonical IDs and MCP-backed schemas
+**Use Case:** Creating agent-qa tests, suites, and hooks without inventing
+configuration fields
+**Stars:** ⭐⭐⭐⭐⭐
+
 #### test-driven-development
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** RED-GREEN-REFACTOR cycle: write failing tests, implement code, refactor for quality
