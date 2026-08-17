@@ -457,6 +457,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### ✍️ Writing & Research
 
+#### ai-tell-detector
+**Source:** [aragossa/ai-tell-detector](https://github.com/aragossa/ai-tell-detector) | **Verified:** ⏳
+**Description:** Audits a finished draft for 24 patterns that make text read as AI-generated (rhetorical symmetry, uniform rhythm, fabricated personal experience) and flags each with the line it's on and a suggested fix. EN + RU.
+**Use Case:** Pre-publish check for posts, comments, and emails that need to sound human
+**Stars:** ⭐⭐⭐
+
 #### brand-guidelines
 **Source:** Community | **Verified:** ⏳
 **Description:** Maintain and enforce brand voice, style, and messaging consistency.
