@@ -305,7 +305,7 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 #### anti-ui-slop
 **Source:** [uizze/uizze](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop)
-**Description:** Uses 800,000+ real web and iOS screens, a design contract, and a finish gate to stop generic Claude-built UI before it ships.
+**Description:** The free MIT Skill gives coding agents a product-specific design contract, required loading/empty/error states, and a hard finish gate for generic UI. The optional UIZZE workflow adds no-account preview checks and live search, validation, and audits across 800,000+ real web and iOS screens.
 **Use Case:** Building or reviewing React, Next.js, web, and iOS interfaces that need product-specific design decisions
 **Stars:** ⭐⭐⭐
 
