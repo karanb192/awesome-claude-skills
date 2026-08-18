@@ -395,6 +395,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Quick mockups, diagrams, visual brainstorming
 **Stars:** ⭐⭐⭐
 
+#### rigmeshy-by-ricky
+**Source:** [rickyworld/rigmeshy-by-ricky](https://github.com/rickyworld/rigmeshy-by-ricky) | **Verified:** ⏳
+**Description:** Pose-photo checklist and full Meshy AI Auto-Rig workflow, with a troubleshooting table and a free self-hosted (UniRig) alternative.
+**Use Case:** Rigging a character for animation via Meshy AI, or setting up a self-hosted/open-source auto-rigging pipeline
+**Stars:** ⭐⭐⭐
+
 #### slack-gif-creator
 **Source:** Community | **Verified:** ⏳
 **Description:** Generate custom GIFs for Slack communication and team engagement.
