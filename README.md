@@ -453,6 +453,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Prompt-based guidance through the income-tax portal for Indian returns
 **Stars:** ⭐⭐⭐
 
+#### simmer-tennis-live-gate
+**Source:** [livetennisapi/simmer-tennis-live-gate](https://github.com/livetennisapi/simmer-tennis-live-gate) | **Verified:** ⏳
+**Description:** Observe-only gate for Simmer/Polymarket tennis event-market entries: reads live match state (score, server, break-point flag, retirement/walkover) from the Live Tennis API free tier and returns a trade/no-trade decision plus a suggested size — it places no orders.
+**Use Case:** Stopping a tennis strategy from firing into a break point or a stopped (retired/walkover/suspended) match before it sizes a position
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ✍️ Writing & Research
