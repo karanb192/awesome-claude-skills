@@ -469,6 +469,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Naming a company or product across languages; catching a name that reads well at home but fails abroad
 **Stars:** ⭐⭐⭐
 
+#### humanizing-writing
+**Source:** [AshwinSathian/humanize-writing-skill](https://github.com/AshwinSathian/humanize-writing-skill)
+**Description:** Shapes AI-written text to avoid recognizable AI tells, using cited stylometry research instead of a banned-word list.
+**Use Case:** Editing prose, docs, or reports before finalizing so output reads as specific and human, not generic or templated
+**Stars:** ⭐⭐⭐
+
 #### internal-comms
 **Source:** Community | **Verified:** ⏳
 **Description:** Draft internal communications, memos, and team announcements.
