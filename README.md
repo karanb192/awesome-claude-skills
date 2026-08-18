@@ -163,6 +163,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Automated slide generation, presentation analysis, template customization
 **Stars:** ⭐⭐⭐⭐
 
+#### slide-smith
+**Source:** [Lesile-Yin/agent-skills](https://github.com/Lesile-Yin/agent-skills/tree/main/skills/slide-smith)
+**Description:** Batch PowerPoint automation: deck inventory audit, design-token standardization, accessibility presets. Copy-never-overwrite by design.
+**Use Case:** Unifying inconsistent courseware decks at scale; generating large-type accessible variants
+**Stars:** ⭐⭐⭐
+
+
 ---
 
 ### 🧪 Testing & Quality
@@ -200,6 +207,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Status:** Community-needed
 **Description:** Visual regression testing with component snapshot management.
 **Use Case:** Component libraries, design system maintenance
+
+#### prism-review
+**Source:** [Lesile-Yin/agent-skills](https://github.com/Lesile-Yin/agent-skills/tree/main/skills/prism-review)
+**Description:** Splits a change into four parallel review lenses (correctness, security, performance, contracts) and merges findings by severity.
+**Use Case:** Pre-merge review of non-trivial changes; auto-escalates to deep review on auth/payment/crypto paths
+**Stars:** ⭐⭐⭐⭐
+
 
 ---
 
@@ -353,6 +367,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Status:** Community-needed
 **Description:** Stress testing patterns and performance benchmarking.
 **Use Case:** Capacity planning, finding breaking points
+
+#### token-warden
+**Source:** [Lesile-Yin/agent-skills](https://github.com/Lesile-Yin/agent-skills/tree/main/skills/token-warden)
+**Description:** Models token spend across four layers (reading, tool output, conversation, codegen) and routes each to the cheapest adequate tool.
+**Use Case:** Long coding sessions and large repos; cutting context bloat and API cost
+**Stars:** ⭐⭐⭐⭐
+
 
 ---
 
@@ -525,6 +546,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### prompt-forge
+**Source:** [Lesile-Yin/agent-skills](https://github.com/Lesile-Yin/agent-skills/tree/main/skills/prompt-forge)
+**Description:** Forges vague requests into engineering-grade prompts using the CRAFT framework (Context/Role/Action/Format/Tests).
+**Use Case:** Turning ambiguous requirements into first-try-executable prompts before delegating to any agent
+**Stars:** ⭐⭐⭐⭐
+
+
 ---
 
 ## Skill Collections
@@ -542,6 +570,7 @@ Looking for curated skill bundles? Start with these collections:
 | [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills) | 3 | @ZengLiangYi | Local-first memory recall and writeback for AI coding sessions |
 | [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) | 45 | @Affitor | Affiliate marketing full funnel: research, content, SEO, landing pages, distribution, analytics, automation |
 | [noizai/skills](https://github.com/noizai/skills) | 2+ | @noizai | TTS dubbing and companion voice presets |
+| [Lesile-Yin/agent-skills](https://github.com/Lesile-Yin/agent-skills) | 4 | @Lesile-Yin | Prompt engineering, multi-lens code review, token budgets & PPT automation |
 
 ---
 
