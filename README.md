@@ -525,6 +525,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### skillreaper
+**Source:** [thousandflowers/skillreaper](https://github.com/thousandflowers/skillreaper) | **Verified:** ✅
+**Description:** Measures which loaded skills, MCP servers, subagents and hooks ever actually fire, from your own session transcripts, then prunes the unused ones reversibly.
+**Use Case:** Cutting context bloat, auditing an over-installed skill setup
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ## Skill Collections
