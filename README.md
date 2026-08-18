@@ -437,6 +437,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Parse, transform, and analyze CSV files with data cleaning and validation.
 **Use Case:** Data migration, ETL processes, data quality checks
 
+#### converly
+**Source:** [converlyio/converly-agent](https://github.com/converlyio/converly-agent) | **Verified:** ⏳
+**Description:** Set up server-side conversion tracking without writing tracking code: connect Google Ads, Meta, GA4, LinkedIn or TikTok, build and publish the conversion flow, install the tracking snippet, then verify with a test event and real conversions
+**Use Case:** Tracking form submissions as ad conversions, capturing GCLID/FBCLID, fixing broken conversion tracking, setting up Enhanced Conversions or Meta CAPI
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 💰 Finance & Tax
