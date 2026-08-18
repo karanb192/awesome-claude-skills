@@ -299,6 +299,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
 **Stars:** ⭐⭐⭐
 
+#### simple-man
+**Source:** [Maksim-Burtsev/simple-man](https://github.com/Maksim-Burtsev/simple-man) | **Verified:** ⏳
+**Description:** Strips praise, recaps and filler from answers while keeping every fact you act on.
+**Use Case:** Reading agent output all day; findings keep their fix, tutorials stay long-form
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
