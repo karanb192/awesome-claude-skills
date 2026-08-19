@@ -422,6 +422,16 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Monthly D2C business reviews, revenue/retention/margin diagnostics, automated consultant-quality analysis
 **Stars:** ⭐⭐⭐
 
+#### apify-remote-startup-jobs
+**Source:** [johnisanerd/claude-skill-remote-startup-jobs](https://github.com/johnisanerd/claude-skill-remote-startup-jobs) | **Verified:** ⏳
+**Description:** Pull live remote startup jobs from Wellfound as structured rows, with salary and equity parsed into numbers.
+**Use Case:** Filling a startup job board, sourcing remote roles, building a jobs dataset with real pay data
+
+#### apify-yc-startup-jobs
+**Source:** [johnisanerd/claude-skill-yc-startup-jobs](https://github.com/johnisanerd/claude-skill-yc-startup-jobs) | **Verified:** ⏳
+**Description:** Benchmark what YC startup jobs pay, sampling Y Combinator and top-investor postings with salary and equity parsed.
+**Use Case:** Weighing a startup offer, setting a comp band, researching typical seed and Series A equity
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
