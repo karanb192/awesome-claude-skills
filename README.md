@@ -525,6 +525,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### danshari-skill (断舍离.skill)
+**Source:** [swaylq/danshari-skill](https://github.com/swaylq/danshari-skill) | **Verified:** ✅
+**Description:** Audits every installed skill and archives the ones the current model, harness, or MCP servers already cover — capability/environment/knowledge triage, blind-test evidence before removal, never `rm`.
+**Use Case:** Cleaning up after a model upgrade or a new MCP server, cutting the per-turn description-token cost of skills you no longer need
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ## Skill Collections
