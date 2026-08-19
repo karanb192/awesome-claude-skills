@@ -489,6 +489,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🎯 Meta Skills
 
+#### orchestrating-subagents
+**Source:** [PapiScholz/symphony](https://github.com/PapiScholz/symphony) | **Verified:** ⏳
+**Description:** Set the model tier per delegated subagent instead of silently inheriting the orchestrator's.
+**Use Case:** Parallel fan-outs, delegated batches, writing .claude/agents definitions
+**Stars:** ⭐⭐⭐⭐
+
 #### skill-creator
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Teaches methods for developing effective skills following best practices.
