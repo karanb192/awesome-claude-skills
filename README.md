@@ -301,6 +301,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ---
 
+#### workflow-design
+**Source:** [ghorbanies/workflow-design](https://github.com/ghorbanies/workflow-design) | **Verified:** ⏳
+**Description:** Design, prove, measure, and safely change workflows — approval chains, ticketing, human gates over AI output.
+**Use Case:** Modeling states/gates before building, auditing whether tests actually guard a flow, finding where items stall, migrating a live flow
+**Stars:** ⭐⭐⭐⭐
+
 ### ⚙️ Development & Architecture
 
 #### mcp-builder
