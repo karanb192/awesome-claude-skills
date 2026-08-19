@@ -475,6 +475,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
 
+#### multi-source-search
+**Source:** [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills/tree/main/research/multi-source-search) | **Verified:** ⏳
+**Description:** Cross-validates web and academic evidence across independent providers and outputs an offline-verifiable evidence ledger.
+**Use Case:** Fact-checking and research where source agreement, conflicts, confidence, and traceability matter
+**Stars:** ⭐⭐⭐
+
 #### research-assistant
 **Status:** Community-needed
 **Description:** Gather, synthesize, and cite sources for research projects.
