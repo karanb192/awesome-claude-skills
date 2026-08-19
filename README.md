@@ -334,6 +334,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🔒 Security & Performance
 
+#### deep-security-audit
+**Source:** [ravindrakele/claude-skills](https://github.com/ravindrakele/claude-skills)
+**Description:** Multi-agent security audit that maps the attack surface, reads the code, and adversarially verifies every finding with CVSS scoring.
+**Use Case:** Auditing WordPress plugins, Laravel, Next.js, or Node apps for vulnerabilities before release
+**Stars:** ⭐⭐⭐
+
 #### security-review
 **Status:** Community-needed
 **Description:** Automated vulnerability scanning and OWASP compliance checks.
