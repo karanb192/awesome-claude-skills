@@ -525,6 +525,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+
+#### sijiao-skill (私教.skill)
+**Source:** [swaylq/sijiao-skill](https://github.com/swaylq/sijiao-skill) | **Verified:** ✅
+**Description:** Distils any skill into a stateful tutor: eight research tracks, a learning-science curriculum, and a tutor that remembers your progress, grades at your level, and schedules SM-2 spaced review.
+**Use Case:** Learning a new language, framework or domain with adaptive drilling instead of a one-off study plan
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ## Skill Collections
