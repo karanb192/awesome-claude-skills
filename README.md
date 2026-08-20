@@ -611,6 +611,7 @@ Skills can execute code, so only install from trusted sources. Review the skill'
 
 ### Related Awesome Lists
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Commands, workflows, and tools for Claude Code
+- [awesome-claude-code-hooks](https://github.com/loqimean/awesome-claude-code-hooks) - Curated list of hooks for Claude Code
 - [awesome-claude](https://github.com/alvinunreal/awesome-claude) - General Claude resources
 
 ### Community Resources
