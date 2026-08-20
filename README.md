@@ -480,6 +480,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Gather, synthesize, and cite sources for research projects.
 **Use Case:** Academic research, market analysis, competitive intelligence
 
+#### take-notes
+**Source:** [davertor/take-notes](https://github.com/davertor/take-notes) | **Verified:** ⏳
+**Description:** Turns a video, article, paper, or repo into a self-contained HTML study note.
+**Use Case:** Turning long-form sources into notes you keep instead of a folder of unread tabs
+**Stars:** ⭐
+
 #### technical-writing
 **Status:** Community-needed
 **Description:** Create clear technical documentation following industry best practices.
