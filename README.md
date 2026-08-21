@@ -469,6 +469,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Naming a company or product across languages; catching a name that reads well at home but fails abroad
 **Stars:** ⭐⭐⭐
 
+#### easy-auto-research
+**Source:** [wjc2830/Easy-AutoResearch-for-DeepLearning](https://github.com/wjc2830/Easy-AutoResearch-for-DeepLearning) | **Verified:** ⏳
+**Description:** Runs a human-supervised, multi-role deep-learning research loop in Claude Code with versioned experiments and evidence-gated evaluation.
+**Use Case:** Iteratively improving a local ML codebase against a user-defined goal while retaining human control
+**Stars:** ⭐⭐⭐
+
 #### internal-comms
 **Source:** Community | **Verified:** ⏳
 **Description:** Draft internal communications, memos, and team announcements.
