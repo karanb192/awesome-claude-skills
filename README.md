@@ -416,6 +416,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📊 Data & Analysis
 
+#### apitube-news-api
+**Source:** [apitube/news-api-skills](https://github.com/apitube/news-api-skills/tree/main/skills/apitube-news-api) | **Verified:** ⏳
+**Description:** Query the APITube News API: search worldwide news by keyword, entity, sentiment, source, country and date, then parse the JSON.
+**Use Case:** Media monitoring, market intelligence, or feeding a RAG pipeline with live news
+**Stars:** ⭐⭐⭐
+
 #### claude-ecom
 **Source:** [takechanman1228/claude-ecom](https://github.com/takechanman1228/claude-ecom) | **Verified:** ⏳
 **Description:** Ecommerce business review: turn order CSVs into KPI trees, ~30 health checks, RFM cohorts, and action plans across 30d/90d/365d
