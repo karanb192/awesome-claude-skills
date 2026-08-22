@@ -191,6 +191,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Code reviews, refactoring existing test suites
 **Stars:** ⭐⭐⭐
 
+#### crosscheck
+**Source:** [moveju112/skill_verify](https://github.com/moveju112/skill_verify)
+**Description:** Claude and Codex analyze the same question blind, exchange findings, then Codex verifies the finished work.
+**Use Case:** Design calls and reviews where one model's confidence is not enough
+
 #### e2e-testing-skill
 **Status:** Community-needed
 **Description:** End-to-end test automation across multiple services and browser environments.
@@ -518,6 +523,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Validating skill quality and effectiveness using subagent-driven testing.
 **Use Case:** Quality assurance for skills, debugging skill behavior
 **Stars:** ⭐⭐⭐⭐
+
+#### rule-architect
+**Source:** [moveju112/rule-architect](https://github.com/moveju112/rule-architect)
+**Description:** Generates a project's AI rule set: a slim CLAUDE.md index plus on-demand docs/*.md rule files.
+**Use Case:** Projects with no CLAUDE.md, or one that has grown into a single bloated file
 
 #### subagent-driven-development
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
