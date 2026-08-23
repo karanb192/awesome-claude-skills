@@ -373,10 +373,10 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Auto-generate API documentation and keep docs synchronized with code.
 **Use Case:** Maintaining up-to-date documentation, API references
 
-#### famulor-skill
-**Source:** [bekservice/Famulor-Skill](https://github.com/bekservice/Famulor-Skill/tree/main/skills/famulor-skill)
-**Description:** Operates Famulor assistants, omnichannel history, campaigns, messaging, knowledge, and automations through its hosted MCP server.
-**Use Case:** Operating or auditing a Famulor workspace from Claude when a request needs live customer-facing data or authorized actions.
+#### famulor-assistants-history
+**Source:** [bekservice/Famulor-Skill](https://github.com/bekservice/Famulor-Skill/tree/main/claude-store/skills/famulor-assistants-history)
+**Description:** Reads Famulor assistant configurations and omnichannel interaction history through an OAuth-protected MCP profile.
+**Use Case:** Auditing assistant setup or reviewing call, messaging, email, WhatsApp, and Instagram history without mutations.
 **Stars:** ⭐⭐⭐
 
 #### process-builder
