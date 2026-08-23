@@ -422,6 +422,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Monthly D2C business reviews, revenue/retention/margin diagnostics, automated consultant-quality analysis
 **Stars:** ⭐⭐⭐
 
+#### polymarket-tennis
+**Source:** [livetennisapi/polymarket-tennis](https://github.com/livetennisapi/polymarket-tennis) | **Verified:** ⏳
+**Description:** Observe-only Polymarket/Kalshi tennis market data: discover markets, match to live scores, surface venue settlement rules.
+**Use Case:** Prototyping a tennis prediction-market watcher that stays under the free-tier budget and never hard-codes a walkover payout
+**Stars:** ⭐⭐⭐
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
