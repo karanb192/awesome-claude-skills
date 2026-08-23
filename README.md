@@ -358,17 +358,6 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📚 Documentation & Automation
 
-#### process-builder
-**Source:** [Castaldo-Solutions/process-builder](https://github.com/Castaldo-Solutions/process-builder) | **Verified:** ⏳
-**Description:** Interviews you about a business process and generates a BPMN swimlane diagram as a .drawio file.
-**Use Case:** Process mapping, AS-IS analysis with pain points, TO-BE automation roadmaps
-**Stars:** ⭐⭐⭐
-
-#### documentation-generator
-**Status:** Community-needed
-**Description:** Auto-generate API documentation and keep docs synchronized with code.
-**Use Case:** Maintaining up-to-date documentation, API references
-
 #### changelog-automation
 **Status:** Community-needed
 **Description:** Conventional commits integration with automated release note generation.
@@ -378,6 +367,23 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Status:** Community-needed
 **Description:** GitHub Actions workflow creation and automated deployment pipelines.
 **Use Case:** DevOps automation, continuous delivery
+
+#### documentation-generator
+**Status:** Community-needed
+**Description:** Auto-generate API documentation and keep docs synchronized with code.
+**Use Case:** Maintaining up-to-date documentation, API references
+
+#### famulor-skill
+**Source:** [bekservice/Famulor-Skill](https://github.com/bekservice/Famulor-Skill/tree/main/skills/famulor-skill)
+**Description:** Operates Famulor assistants, omnichannel history, campaigns, messaging, knowledge, and automations through its hosted MCP server.
+**Use Case:** Operating or auditing a Famulor workspace from Claude when a request needs live customer-facing data or authorized actions.
+**Stars:** ⭐⭐⭐
+
+#### process-builder
+**Source:** [Castaldo-Solutions/process-builder](https://github.com/Castaldo-Solutions/process-builder) | **Verified:** ⏳
+**Description:** Interviews you about a business process and generates a BPMN swimlane diagram as a .drawio file.
+**Use Case:** Process mapping, AS-IS analysis with pain points, TO-BE automation roadmaps
+**Stars:** ⭐⭐⭐
 
 ---
 
