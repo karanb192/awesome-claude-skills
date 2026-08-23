@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### cohesivity
+**Source:** [cohesivity-org/cohesivity-plugin](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/claude/skills/cohesivity) | **Verified:** ⏳
+**Description:** cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API.
+**Use Case:** Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
+**Stars:** ⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
