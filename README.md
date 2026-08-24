@@ -457,6 +457,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### ✍️ Writing & Research
 
+#### humanize-chinese
+**Source:** [swaylq/humanize-chinese](https://github.com/swaylq/humanize-chinese) | **Verified:** ⏳
+**Description:** Detects AI-generated Chinese text (rule categories + statistical features + scene-aware LR fusion across general/academic/longform) and rewrites it to drop the score, with 8 style transforms. Pure Python, zero dependencies, fully offline.
+**Use Case:** Checking and softening AI-sounding Chinese drafts — papers, reports, social posts — without sending text to any API
+**Stars:** ⭐⭐⭐
+
 #### brand-guidelines
 **Source:** Community | **Verified:** ⏳
 **Description:** Maintain and enforce brand voice, style, and messaging consistency.
