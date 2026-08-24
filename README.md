@@ -453,6 +453,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Prompt-based guidance through the income-tax portal for Indian returns
 **Stars:** ⭐⭐⭐
 
+#### verify-polish-company
+**Source:** [bartosz-kuc/skanfirmy-mcp](https://github.com/bartosz-kuc/skanfirmy-mcp/tree/main/skill) | **Verified:** ⏳
+**Description:** Verify Polish companies by NIP/KRS/REGON, check VAT status and bank accounts on the MF White List, validate EU VAT via VIES.
+**Use Case:** Counterparty due diligence on a Polish business from inside Claude, before releasing a B2B payment
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### ✍️ Writing & Research
