@@ -525,6 +525,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### fabling
+**Source:** [gncdev/fabling](https://github.com/gncdev/fabling) | **Verified:** ✅
+**Description:** Behavior profile that makes Opus 5 and Sonnet 5 work like Fable 5: deep investigation, render-before-claiming, 100% sweep discipline, evidence-priced claims
+**Use Case:** Daily driving with fabling-fast (~1.1x Fable wall clock) or deep reviews with the full profile; blind judges preferred it over the reference 12/12
+**Stars:** ⭐⭐⭐⭐⭐
+
 ---
 
 ## Skill Collections
