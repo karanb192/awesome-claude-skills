@@ -299,6 +299,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
 **Stars:** ⭐⭐⭐
 
+#### punchcard
+**Source:** [Maksim-Burtsev/punchcard](https://github.com/Maksim-Burtsev/punchcard) | **Verified:** ⏳
+**Description:** Architecture-level review of a diff, branch or PR: one verdict, every blocker demonstrated by running the code.
+**Use Case:** Pre-merge review of larger changes — boundaries, dependency direction, data model, error paths
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
