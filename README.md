@@ -33,6 +33,7 @@
   - [🎬 Media & Content Creation](#-media--content-creation)
   - [📊 Data & Analysis](#-data--analysis)
   - [💰 Finance & Tax](#-finance--tax)
+  - [🎓 Career & Interview Prep](#-career--interview-prep)
   - [✍️ Writing & Research](#️-writing--research)
   - [🎯 Meta Skills](#-meta-skills)
 - [Skill Collections](#skill-collections)
@@ -454,6 +455,14 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Stars:** ⭐⭐⭐
 
 ---
+
+### 🎓 Career & Interview Prep
+
+#### interview-sim
+**Source:** [chrisjacksonn/interview-sim](https://github.com/chrisjacksonn/interview-sim)
+**Description:** Turns a pasted job posting into a timed interview sitting in your IDE: original question, solution file, sample tests, running clock.
+**Use Case:** Practicing timed OAs and technical screens under exam conditions, with hidden-test grading and a per-question time report
+**Stars:** ⭐⭐⭐⭐
 
 ### ✍️ Writing & Research
 
