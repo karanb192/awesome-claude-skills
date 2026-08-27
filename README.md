@@ -407,6 +407,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
+#### youtube-transcripts
+**Source:** [haljishi/vidwords-mcp](https://github.com/haljishi/vidwords-mcp/tree/main/skills/youtube-transcripts) | **Verified:** ⏳
+**Description:** Read and search any YouTube video through the VidWords MCP server — transcripts and subtitles (TXT/SRT/VTT), a quote with a citable timestamp, or one question answered across a whole channel.
+**Use Case:** Research, competitor and earnings-call monitoring, content repurposing, and sourcing quotes with a deep link the reader can click and verify
+**Stars:** ⭐⭐⭐
+
 #### video-editing-helper
 **Status:** Community-needed
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
