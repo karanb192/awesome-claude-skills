@@ -412,6 +412,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
 **Use Case:** Video production, content creation, media processing
 
+#### publishport
+**Source:** [karuha-m/publishport-skill](https://github.com/karuha-m/publishport-skill) | **Verified:** ⏳
+**Description:** Publish and cross-post to 60+ social and content platforms through your own logged-in browser, no API keys.
+**Use Case:** Shipping a launch post to X, Reddit and Dev.to at once, or reaching platforms with no public write API (Xiaohongshu, Douyin, Zhihu, WeChat)
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### 📊 Data & Analysis
