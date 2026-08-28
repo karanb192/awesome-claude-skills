@@ -293,6 +293,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large refactors, multi-step implementations
 **Stars:** ⭐⭐⭐⭐
 
+#### planning-with-files
+**Source:** [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | **Verified:** ⏳
+**Description:** Persists plans, findings, and progress in Markdown so AI agents recover context and stay aligned during long-running work.
+**Use Case:** Multi-step projects, research, long-running coding tasks, and recovery after context resets
+**Stars:** ⭐⭐⭐⭐⭐
+
 #### pr-review
 **Source:** [priyank766/OpenSource-SKILL](https://github.com/priyank766/OpenSource-SKILL) | **Verified:** ⏳
 **Description:** Detection-first pull request review; a weighted 10-point filter keeps only the 2-3 findings worth a comment.
