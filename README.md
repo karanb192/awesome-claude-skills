@@ -412,6 +412,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
 **Use Case:** Video production, content creation, media processing
 
+#### metaphrasis
+**Source:** [Pr1m4lc0d3/metaphrasis](https://github.com/Pr1m4lc0d3/metaphrasis) | **Verified:** ⏳
+**Description:** Turns music and narrated video into measurable structure: tempo, key, loudness, sections, cut points, and whether the music is burying the voice.
+**Use Case:** Choosing background music; triaging a music library; QA on a narrated marketing video
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 📊 Data & Analysis
@@ -473,6 +479,24 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Source:** Community | **Verified:** ⏳
 **Description:** Draft internal communications, memos, and team announcements.
 **Use Case:** HR communications, team updates, policy announcements
+**Stars:** ⭐⭐⭐
+
+#### janus
+**Source:** [Pr1m4lc0d3/janus](https://github.com/Pr1m4lc0d3/janus) | **Verified:** ⏳
+**Description:** Builds positioning out of a product's contradictions by holding both sides rather than resolving them.
+**Use Case:** Positioning a product that must be two opposed things at once; auditing a design doc for contradictions carried unnamed
+**Stars:** ⭐⭐⭐
+
+#### paraphrasis
+**Source:** [Pr1m4lc0d3/paraphrasis](https://github.com/Pr1m4lc0d3/paraphrasis) | **Verified:** ⏳
+**Description:** Sense-for-sense restatement for a new audience, with a fidelity ledger and nine named ways a claim drifts under rewriting.
+**Use Case:** Rewriting copy for a different reader without moving what is claimed
+**Stars:** ⭐⭐⭐
+
+#### peitho
+**Source:** [Pr1m4lc0d3/peitho](https://github.com/Pr1m4lc0d3/peitho) | **Verified:** ⏳
+**Description:** Prose method built on classical rhetoric, carrying an em-dash ceiling, a banned-word list, and a catalog of machine-prose tells.
+**Use Case:** Editing AI-written drafts; openings and hooks; auditing copy for slop
 **Stars:** ⭐⭐⭐
 
 #### research-assistant
@@ -542,6 +566,8 @@ Looking for curated skill bundles? Start with these collections:
 | [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills) | 3 | @ZengLiangYi | Local-first memory recall and writeback for AI coding sessions |
 | [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) | 45 | @Affitor | Affiliate marketing full funnel: research, content, SEO, landing pages, distribution, analytics, automation |
 | [noizai/skills](https://github.com/noizai/skills) | 2+ | @noizai | TTS dubbing and companion voice presets |
+| [Pr1m4lc0d3/KiSYSTEM](https://github.com/Pr1m4lc0d3/KiSYSTEM) | 10 | @Pr1m4lc0d3 | Clean-code discipline: planning, code mapping, size budgets, blast-radius checks, debt audit |
+| [Maverick's Monkey Werx](https://github.com/Pr1m4lc0d3/mavericks-monkey-werx) | 24 | @Pr1m4lc0d3 | Guerrilla marketing across three packs: reconnaissance, campaigns, and a claim register with an unsourced-claim linter |
 
 ---
 
