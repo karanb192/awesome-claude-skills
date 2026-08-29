@@ -299,6 +299,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
 **Stars:** ⭐⭐⭐
 
+#### delegate
+**Source:** [aayushpokhrel1/delegation-pipeline](https://github.com/aayushpokhrel1/delegation-pipeline) | **Verified:** ⏳
+**Description:** Offloads mechanical coding work to free/cheap worker models, then reviews their diffs, keeping paid Claude usage for thinking.
+**Use Case:** Bulk grunt work (boilerplate, refactors, docstrings, test stubs) done cheaply while design stays in-session
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
