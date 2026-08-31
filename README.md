@@ -251,6 +251,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Replaying the decisions and handoffs behind a finished feature
 **Stars:** ⭐⭐⭐
 
+#### breather
+
+**Source:** [ilandahan/breather](https://github.com/ilandahan/breather) | **Verified:** ⏳
+**Description:** Offers a stopping point and a written handoff before a session becomes endless.
+**Use Case:** Leaving a long session without losing the thread you were holding
+**Stars:** ⭐⭐⭐
+
 #### requesting-code-review
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Pre-review preparation and PR best practices with formatted diffs.
