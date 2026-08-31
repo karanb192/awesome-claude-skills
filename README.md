@@ -167,6 +167,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🧪 Testing & Quality
 
+#### test-forge
+**Source:** [Hahaknight/claude-skills-pro](https://github.com/Hahaknight/claude-skills-pro)
+**Description:** Generates tests that catch real bugs: boundary values, failure paths, plus a mutation self-check
+**Use Case:** Backfilling tests for legacy code; making AI-generated code trustworthy
+**Stars:** ⭐⭐⭐
+
 #### test-driven-development
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** RED-GREEN-REFACTOR cycle: write failing tests, implement code, refactor for quality
@@ -204,6 +210,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 ---
 
 ### 🐛 Debugging & Troubleshooting
+
+#### bug-hunter
+**Source:** [Hahaknight/claude-skills-pro](https://github.com/Hahaknight/claude-skills-pro)
+**Description:** Root-cause debugging: reproduce → bisect → single hypothesis → minimal fix → regression test
+**Use Case:** Breaking shotgun-patch cycles on intermittent or long-standing bugs
+**Stars:** ⭐⭐⭐
 
 #### agenttrace-session-audit
 **Source:** [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace)
