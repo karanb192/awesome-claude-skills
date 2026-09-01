@@ -315,6 +315,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### novu-agent-skills
+**Source:** [novuhq/skills](https://github.com/novuhq/skills)
+**Description:** Build Novu notification workflows and connect an agent to Slack, Microsoft Teams, WhatsApp, Telegram, and email.
+**Use Case:** Multi-channel notifications, in-app inbox, and agent chat channels
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
