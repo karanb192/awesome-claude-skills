@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### erupt-admin
+**Source:** [plinian/erupt-skill](https://github.com/plinian/erupt-skill) | **Verified:** ⏳
+**Description:** Generates a complete runnable Java admin backend — login, CRUD, search, Excel, RBAC — from one sentence.
+**Use Case:** Standing up an internal tool or data admin panel without writing frontend or boilerplate backend code
+**Stars:** ⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
