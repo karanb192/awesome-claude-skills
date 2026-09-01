@@ -395,6 +395,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Quick mockups, diagrams, visual brainstorming
 **Stars:** ⭐⭐⭐
 
+#### ruxi-skill
+**Source:** [swaylq/ruxi-skill](https://github.com/swaylq/ruxi-skill) | **Verified:** ⏳
+**Description:** Turn any book into a playable visual novel — play an overlooked side character, every branch cites a source sentence, output is one HTML file.
+**Use Case:** Interactive reading, literature study, playable demos from public-domain books
+**Stars:** ⭐⭐⭐
+
 #### slack-gif-creator
 **Source:** Community | **Verified:** ⏳
 **Description:** Generate custom GIFs for Slack communication and team engagement.
