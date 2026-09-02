@@ -525,6 +525,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### whetstone
+**Source:** [TbusOS/whetstone](https://github.com/TbusOS/whetstone) | **Verified:** ✅
+**Description:** Distills a finished session into a portable skill package, then checks its evidence with a command that exits non-zero.
+**Use Case:** Keeping a growing skill library from filling with confident but unverifiable entries
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ## Skill Collections
