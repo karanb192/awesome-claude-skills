@@ -240,6 +240,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Identify performance bottlenecks, memory leaks, and CPU-intensive operations.
 **Use Case:** Optimization work, scaling applications, investigating slowness
 
+#### where-am-i
+**Source:** [list91/where-am-i](https://github.com/list91/where-am-i)
+**Description:** `/wai` draws your spot in agent-written code as one picture: 7 shapes, 40 words, your location in colour.
+**Use Case:** After long agent coding sessions, when you can't say where anything happens in your own project.
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### 🤝 Collaboration & Workflow
