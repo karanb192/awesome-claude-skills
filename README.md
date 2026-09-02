@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### chamnan
+**Source:** [ArcticFox2029/chamnan](https://github.com/ArcticFox2029/chamnan)
+**Description:** Keeps a repository's architecture index, impact map, and decisions as markdown beside the code, so a session reads context instead of rediscovering.
+**Use Case:** Long-lived repositories where every new session re-reads the same files to work out how the project fits together
+**Stars:** ⭐⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
