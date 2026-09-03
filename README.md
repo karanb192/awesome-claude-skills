@@ -485,6 +485,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Create clear technical documentation following industry best practices.
 **Use Case:** API docs, user manuals, technical specifications
 
+#### translate-book-arxiv
+**Source:** [kcy4334-lgtm/translate-book-arxiv](https://github.com/kcy4334-lgtm/translate-book-arxiv) | **Verified:** ⏳
+**Description:** Turns an arXiv paper into a translated, printable book from its LaTeX source, so equations and numbering survive
+**Use Case:** Reading a paper in another language when the maths has to stay intact
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### 🎯 Meta Skills
