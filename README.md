@@ -475,6 +475,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
 
+#### publora-post-ideas
+**Source:** [publora-team/publora-post-ideas](https://github.com/publora-team/publora-post-ideas) | **Verified:** ⏳
+**Description:** Offers three angles for a social post from a 40-entry library, then drafts the one you pick instead of guessing at a single version.
+**Use Case:** Open-ended asks like "write me a post" or "I need content ideas", when one guessed draft gives you nothing to push back on
+**Stars:** ⭐⭐⭐
+
 #### research-assistant
 **Status:** Community-needed
 **Description:** Gather, synthesize, and cite sources for research projects.
