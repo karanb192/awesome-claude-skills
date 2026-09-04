@@ -334,6 +334,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🔒 Security & Performance
 
+#### hanria
+**Source:** [HANRIA-AI/hanria-skill](https://github.com/HANRIA-AI/hanria-skill)
+**Description:** Checks a proposed agent action against an operator-written policy, then records the decision in a hash-chained log
+**Use Case:** Making delegated authority explicit before an agent touches real tools, and keeping a reviewable record afterward
+**Stars:** ⭐⭐⭐
+
 #### security-review
 **Status:** Community-needed
 **Description:** Automated vulnerability scanning and OWASP compliance checks.
