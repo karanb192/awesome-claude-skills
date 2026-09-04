@@ -407,6 +407,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
+#### kavel-image
+**Source:** [hanshs474/kavel-image-skill](https://github.com/hanshs474/kavel-image-skill) | **Verified:** ⏳
+**Description:** Generate images and edit photos from a prompt with no API key and no account, through Kavel's anonymous endpoint — text-to-image plus face-preserving edits.
+**Use Case:** One-off visuals when no provider key is configured; hairstyle, outfit and expression edits that keep the same face
+**Stars:** ⭐⭐⭐
+
 #### video-editing-helper
 **Status:** Community-needed
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
