@@ -358,6 +358,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 📚 Documentation & Automation
 
+#### canva-recontent
+**Source:** [aminehaddad-git/presentation-skills](https://github.com/aminehaddad-git/presentation-skills)
+**Description:** Rebuilds an existing Canva design with new content while its layout, build steps and animations survive intact.
+**Use Case:** Filling a Canva template, reusing a shared deck, rebranding or translating a presentation through the Canva connector, without losing the original's design work.
+**Stars:** ⭐⭐⭐
+
 #### process-builder
 **Source:** [Castaldo-Solutions/process-builder](https://github.com/Castaldo-Solutions/process-builder) | **Verified:** ⏳
 **Description:** Interviews you about a business process and generates a BPMN swimlane diagram as a .drawio file.
