@@ -299,6 +299,18 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
 **Stars:** ⭐⭐⭐
 
+#### dialog-tree
+**Source:** [ikotelkin/claude-skills](https://github.com/ikotelkin/claude-skills) | **Verified:** ⏳
+**Description:** Interactive HTML tree of a branching conversation with resolve/delete marks and incremental updates.
+**Use Case:** Deep-dive discussions where unexplored side-threads pile up and get lost
+**Stars:** ⭐⭐⭐⭐
+
+#### working-memory
+**Source:** [ikotelkin/claude-skills](https://github.com/ikotelkin/claude-skills) | **Verified:** ⏳
+**Description:** Keeps a WORKING.md with the current stage's state so project context survives compaction and new sessions.
+**Use Case:** Long-running projects where context resets would lose decisions and progress
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
