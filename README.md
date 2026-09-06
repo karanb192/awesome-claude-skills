@@ -332,6 +332,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ---
 
+#### unflat
+**Source:** [merturl4576/unflat](https://github.com/merturl4576/unflat)
+**Description:** Appends one reversible CSS block that gives flat AI-built sites a ground, a light source and mounted surfaces in their own palette
+**Use Case:** When a landing page built with an agent has every section on one flat color and reads as a mockup
+**Stars:** ⭐⭐⭐⭐
+
 ### 🔒 Security & Performance
 
 #### security-review
