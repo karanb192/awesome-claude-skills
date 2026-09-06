@@ -303,6 +303,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### ⚙️ Development & Architecture
 
+#### aeon
+**Source:** [aeonfun/aeon](https://github.com/aeonfun/aeon) | **Verified:** ⏳
+**Description:** 70+ Claude Code skills plus a framework that runs them autonomously on GitHub Actions, self-healing and fleet-replicating.
+**Use Case:** Running scheduled, self-improving Claude Code agents entirely in CI with no server
+**Stars:** ⭐⭐⭐⭐
+
 #### mcp-builder
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Create high-quality Model Context Protocol servers for external integrations.
