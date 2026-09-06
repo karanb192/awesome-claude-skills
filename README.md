@@ -334,6 +334,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🔒 Security & Performance
 
+#### sechelix
+**Source:** [omarmohelal/SecHelix](https://github.com/omarmohelal/SecHelix) | **Verified:** ⏳
+**Description:** Evidence-first AppSec review: an independent verifier tries to disprove every finding before it is reported.
+**Use Case:** Pre-merge and pre-release review of authorization (BOLA/IDOR), business logic, supply chain and AI/MCP surfaces
+**Stars:** ⭐⭐⭐
+
 #### security-review
 **Status:** Community-needed
 **Description:** Automated vulnerability scanning and OWASP compliance checks.
