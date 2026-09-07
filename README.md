@@ -211,6 +211,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Debugging Claude Code, Codex, Gemini, Aider, and Cursor runs.
 **Stars:** ⭐⭐⭐
 
+#### orca-replay
+**Source:** [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay/tree/main/skills/orca-replay)
+**Description:** Answers questions about a past run from its recording, and replays or forks that run.
+**Use Case:** Working out why an earlier Claude Code run did something, or reproducing a failure offline.
+**Stars:** ⭐⭐
+
 #### systematic-debugging
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Four-phase root cause process: reproduce, isolate, identify, verify fix.
