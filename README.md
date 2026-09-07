@@ -475,6 +475,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
 
+#### grounded
+**Source:** [jostelzer/grounded](https://github.com/jostelzer/grounded)
+**Description:** Writes scientific literature reviews with zero citations from memory; every DOI is verified against Crossref and screened for retractions.
+**Use Case:** Research summaries, background sections, or checking a draft's references when the citations must be real and say what the text claims
+**Stars:** ⭐⭐⭐
+
 #### research-assistant
 **Status:** Community-needed
 **Description:** Gather, synthesize, and cite sources for research projects.
