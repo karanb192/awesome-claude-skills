@@ -469,16 +469,16 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Naming a company or product across languages; catching a name that reads well at home but fails abroad
 **Stars:** ⭐⭐⭐
 
-#### internal-comms
-**Source:** Community | **Verified:** ⏳
-**Description:** Draft internal communications, memos, and team announcements.
-**Use Case:** HR communications, team updates, policy announcements
-**Stars:** ⭐⭐⭐
-
 #### grounded
 **Source:** [jostelzer/grounded](https://github.com/jostelzer/grounded)
 **Description:** Writes scientific literature reviews with zero citations from memory; every DOI is verified against Crossref and screened for retractions.
 **Use Case:** Research summaries, background sections, or checking a draft's references when the citations must be real and say what the text claims
+**Stars:** ⭐⭐⭐
+
+#### internal-comms
+**Source:** Community | **Verified:** ⏳
+**Description:** Draft internal communications, memos, and team announcements.
+**Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
 
 #### research-assistant
