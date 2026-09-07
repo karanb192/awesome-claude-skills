@@ -480,6 +480,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Gather, synthesize, and cite sources for research projects.
 **Use Case:** Academic research, market analysis, competitive intelligence
 
+#### say-it-plainly
+**Source:** [adjustleads/provenskills-free-packs](https://github.com/adjustleads/provenskills-free-packs) | **Verified:** ⏳
+**Description:** Rewrites a draft that sounds machine-written into plain English, with the facts unchanged.
+**Use Case:** Cleaning up AI-drafted emails, docs, and posts before they go to a customer or the public
+**Stars:** ⭐⭐⭐
+
 #### technical-writing
 **Status:** Community-needed
 **Description:** Create clear technical documentation following industry best practices.
