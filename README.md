@@ -326,6 +326,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Database evolution, schema changes, data migrations
 
 #### refactoring-patterns
+\n#### ironloop
+**Source:** [edouard-claude/ironloop](https://github.com/edouard-claude/ironloop) | **Verified:** ✅
+**Description:** Verification-first 5-layer engineering harness — spec → gen → test → sim → pentest. Wraps AI-generated code in an iron harness. Code is disposable, the harness is permanent.
+**Use Case:** Guaranteeing correctness of AI-generated code, TDD enforcement, chaos simulation, multi-model pentesting
+**Stars:** ⭐
 **Status:** Community-needed
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
