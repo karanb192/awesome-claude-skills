@@ -485,6 +485,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Create clear technical documentation following industry best practices.
 **Use Case:** API docs, user manuals, technical specifications
 
+#### zh-tw-humanizer
+**Source:** [acchuang/zh-tw-humanizer](https://github.com/acchuang/zh-tw-humanizer) | **Verified:** ⏳
+**Description:** Removes AI-writing tells from Traditional Chinese and localizes it to Taiwanese Mandarin (56 patterns, no fabrication).
+**Use Case:** Editing zh-TW blog posts, newsletters, or docs that read as machine-translated or mainland-style
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 🎯 Meta Skills
