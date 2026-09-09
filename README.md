@@ -330,6 +330,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
+#### pit-stop
+**Source:** [Finn763/pit-stop](https://github.com/Finn763/pit-stop) | **Verified:** ⏳
+**Description:** One instruction runs a full codebase improvement loop — find, fix, verify, report — every finding with path:line evidence.
+**Use Case:** End-to-end codebase improvement runs without mid-run questions
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 🔒 Security & Performance
