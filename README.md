@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### iphone-duo-skills
+**Source:** [mirzaaghazadeh/iphone-duo-skills](https://github.com/mirzaaghazadeh/iphone-duo-skills)
+**Description:** Adapt iOS apps to iPhone Duo, Apple's first foldable: fold-aware layout, vertical bars, hinge and scene APIs, dual cameras.
+**Use Case:** Porting iPhone apps to the foldable, laying out around the fold, vertical toolbars, dual-display camera work
+**Stars:** ⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
