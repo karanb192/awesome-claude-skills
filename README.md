@@ -251,6 +251,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Replaying the decisions and handoffs behind a finished feature
 **Stars:** ⭐⭐⭐
 
+#### decision-doc
+**Source:** [tushaarmehtaa/tushar-skills](https://github.com/tushaarmehtaa/tushar-skills/tree/main/decision-doc)
+**Description:** Creates decision records with options, evidence, tradeoffs, ownership, and review triggers.
+**Use Case:** Recording a product or engineering decision, or auditing an existing decision record
+**Stars:** ⭐⭐⭐
+
 #### requesting-code-review
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Pre-review preparation and PR best practices with formatted diffs.
