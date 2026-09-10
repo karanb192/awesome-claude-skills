@@ -469,6 +469,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Naming a company or product across languages; catching a name that reads well at home but fails abroad
 **Stars:** ⭐⭐⭐
 
+#### humanize-pro
+**Source:** [msdanyg/humanize-pro](https://github.com/msdanyg/humanize-pro) | **Verified:** ⏳
+**Description:** Removes AI tells, refits text to its channel (LinkedIn, cold email, Slack, memo), and learns your voice from your edits. Never fabricates.
+**Use Case:** Cleaning up AI-drafted LinkedIn posts, X threads, cold and internal email, exec memos, Slack replies, blogs, and landing pages before they ship
+**Stars:** ⭐⭐⭐⭐
+
 #### internal-comms
 **Source:** Community | **Verified:** ⏳
 **Description:** Draft internal communications, memos, and team announcements.
