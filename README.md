@@ -407,10 +407,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
-#### video-editing-helper
-**Status:** Community-needed
-**Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
-**Use Case:** Video production, content creation, media processing
+#### i-hate-editing
+**Source:** [ranahaani/i-hate-editing](https://github.com/ranahaani/i-hate-editing) | **Verified:** ⏳
+**Description:** Turns raw talking-head footage into a finished cut with local whisper.cpp, ffmpeg, and 67 craft rules.
+**Use Case:** Talking-head reels and explainers that must stay on-machine
+**Stars:** ⭐⭐⭐
 
 ---
 
