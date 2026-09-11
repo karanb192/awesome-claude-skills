@@ -163,6 +163,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Automated slide generation, presentation analysis, template customization
 **Stars:** ⭐⭐⭐⭐
 
+#### cue-omni-reader
+**Source:** [sensedeal/cue-skills](https://github.com/sensedeal/cue-skills) | **Verified:** ✅
+**Description:** Web pages (including in-page video/attachments), plus authorized local documents, audio, or video to Markdown.
+**Use Case:** Pre-processing non-text inputs that downstream document skills already consume
+**Stars:** ⭐⭐
+
 ---
 
 ### 🧪 Testing & Quality
