@@ -299,6 +299,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
 **Stars:** ⭐⭐⭐
 
+#### kgai-knowledge-graph
+**Source:** [kgaidev/kgai](https://github.com/kgaidev/kgai) | **Verified:** ⏳
+**Description:** Records structural decisions as an immutable log and recalls only the ones still in force.
+**Use Case:** When a repo's architectural decisions outlive the sessions that made them
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
