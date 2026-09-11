@@ -364,6 +364,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Process mapping, AS-IS analysis with pain points, TO-BE automation roadmaps
 **Stars:** ⭐⭐⭐
 
+#### mindpalace
+**Source:** [aashutosh396/mindpalace-skill](https://github.com/aashutosh396/mindpalace-skill) | **Verified:** ⏳
+**Description:** Maintains a vault where servers, accounts and projects link via YAML frontmatter, so each credential lives in exactly one file.
+**Use Case:** Stopping an agent re-learning your infrastructure every session; one-file credential rotation
+**Stars:** ⭐⭐⭐
+
 #### documentation-generator
 **Status:** Community-needed
 **Description:** Auto-generate API documentation and keep docs synchronized with code.
