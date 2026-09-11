@@ -453,6 +453,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Prompt-based guidance through the income-tax portal for Indian returns
 **Stars:** ⭐⭐⭐
 
+#### claude-trade-skills
+**Source:** [Om-Talaviya/claude-trade-skills](https://github.com/Om-Talaviya/claude-trade-skills) | **Verified:** ✅
+**Description:** Cross-border export trade & India GST export compliance: LUT (RFD-11), ICEGATE refund error diagnostics, Rule 96(10) safeguards, Rule 89(4) ITC calculations, and country-accurate export paperwork (IEC, GSTIN, EORI, TRN).
+**Use Case:** Generating compliant export commercial invoices/packing lists, navigating GST export refund reconciliations, and avoiding lethal tax & customs traps.
+**Stars:** ⭐⭐⭐⭐⭐
+
 ---
 
 ### ✍️ Writing & Research
