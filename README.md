@@ -469,6 +469,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Naming a company or product across languages; catching a name that reads well at home but fails abroad
 **Stars:** ⭐⭐⭐
 
+#### humanizer-ru
+**Source:** [ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru) | **Verified:** ⏳
+**Description:** Strips AI-generation markers from Russian text: bureaucratese, English calques, ChatGPT fingerprints. Ships a deterministic scanner.
+**Use Case:** Editing Russian drafts written with an LLM; auditing a text before publishing and seeing a 0-100 cleanliness score
+**Stars:** ⭐⭐⭐⭐
+
 #### internal-comms
 **Source:** Community | **Verified:** ⏳
 **Description:** Draft internal communications, memos, and team announcements.
