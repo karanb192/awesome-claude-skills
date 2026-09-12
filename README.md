@@ -689,3 +689,5 @@ Special thanks to:
 Maintained by [Karan Bansal](https://karanbansal.in) · [Blog: Claude Code, MCP, production agentic AI](https://karanbansal.in/blog/)
 
 </div>
+
+- [claude-curl-to-skill](https://github.com/Om-Talaviya/claude-curl-to-skill-) - One-shot synthesizer that turns any API curl command into a runnable Claude Agent Skill with schema inference and auth guards.
