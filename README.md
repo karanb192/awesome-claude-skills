@@ -118,6 +118,7 @@ ls ~/.claude/skills/
 
 ## Skills vs MCP vs System Prompts
 
+- [claude-curl-to-skill](https://github.com/Om-Talaviya/claude-curl-to-skill-) - One-shot synthesizer that turns any API curl command into a runnable Claude Agent Skill with schema inference and auth guards.
 Confused about when to use Skills vs other Claude customization methods? Here's the breakdown:
 
 | Feature | Skills | MCP Servers | System Prompts |
