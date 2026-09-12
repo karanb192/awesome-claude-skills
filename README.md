@@ -427,6 +427,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
 **Use Case:** Data exploration, reporting, presentation of insights
 
+#### ecommerce-claude-skills
+**Source:** [mardab96/ecommerce-claude-skills](https://github.com/mardab96/ecommerce-claude-skills) | **Verified:** ⏳
+**Description:** 20 skills that turn Shopify/WooCommerce exports into LTV cohorts, per-SKU contribution margin, churn, returns, and weekly growth readouts.
+**Use Case:** Diagnosing store margin, retention, and inventory issues from order/ads/email CSV exports without a BI tool
+**Stars:** ⭐⭐⭐
+
 #### sql-query-builder
 **Status:** Community-needed
 **Description:** Generate optimized SQL queries with proper indexing and performance tuning.
