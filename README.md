@@ -303,6 +303,8 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### ⚙️ Development & Architecture
 
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) - Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills`
+
 #### mcp-builder
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Create high-quality Model Context Protocol servers for external integrations.
