@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### keyboard-shortcuts
+**Source:** [nparashar150/claude-keyboard-shortcuts](https://github.com/nparashar150/claude-keyboard-shortcuts)
+**Description:** Audits a web app for missing keyboard shortcuts and implements them end to end.
+**Use Case:** Adding a command palette, hotkeys, and WCAG 2.1.4 keyboard access to a UI
+**Stars:** ⭐⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
