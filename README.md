@@ -303,6 +303,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### ⚙️ Development & Architecture
 
+#### tldr
+**Source:** [SurefireStudios/tldr](https://github.com/SurefireStudios/tldr) | **Verified:** ⏳
+**Description:** Leads every response with a three-line TL;DR and folds the full detail underneath. Never folds destructive commands, security findings, verbatim errors or diffs.
+**Use Case:** Cutting scroll in long agent output, compressing subagent reports to a parseable block
+**Stars:** ⭐⭐⭐
+
 #### mcp-builder
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Create high-quality Model Context Protocol servers for external integrations.
