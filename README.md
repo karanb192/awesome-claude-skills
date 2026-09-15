@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### godmode-lite
+**Source:** [Lotron-Electrical/godmode-lite](https://github.com/Lotron-Electrical/godmode-lite)
+**Description:** Applies a 4-layer execution protocol to any task: deep context load, complete execution, exhaustive testing, polish.
+**Use Case:** Finishing a feature end to end without stubs, TODOs, or untested failure paths
+**Stars:** ⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
