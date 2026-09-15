@@ -269,6 +269,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Juggling multiple features, emergency hotfixes, experimental branches
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### a2ui-ask
+
+**Source:** [YuniqueUnic/a2ui-ask](https://github.com/YuniqueUnic/a2ui-ask) | **Verified:** ⏳
+**Description:** Turns an agent's structured questions into a validated browser form (JSON Schema in, answers out as versioned JSON files), with cross-platform helper scripts.
+**Use Case:** Deployment config confirmation, requirements gathering, approvals — whenever an agent needs structured user input but has no TTY
+**Stars:** ⭐⭐⭐
+
 #### finishing-a-development-branch
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** Guides merge/PR decisions and maintaining clean git history.
