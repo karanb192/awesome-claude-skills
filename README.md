@@ -203,6 +203,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ---
 
+#### never-again
+**Source:** [malaysherasia-ai/claude-never-again](https://github.com/malaysherasia-ai/claude-never-again)
+**Description:** Turns each bug you fix into a hook that blocks the mistake before it happens, or one capped line in LESSONS.md
+**Use Case:** Stopping Claude Code from repeating a mistake you already fixed, without paying for a reminder on every turn
+**Stars:** ⭐⭐⭐
+
 ### 🐛 Debugging & Troubleshooting
 
 #### agenttrace-session-audit
