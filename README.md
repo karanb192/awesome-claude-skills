@@ -244,6 +244,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🤝 Collaboration & Workflow
 
+#### kudosity-messaging
+
+**Source:** [kudosity/skills](https://github.com/kudosity/skills) | **Verified:** ⏳
+**Description:** Send SMS, MMS, WhatsApp and RCS via the Kudosity messaging platform — 8 skills covering sends, contact lists, delivery webhooks and setup.
+**Use Case:** Appointment reminders, CI/deploy alert texts, customer notifications sent by agents
+
 #### ax-extract-workflow
 
 **Source:** [Necmttn/ax](https://github.com/Necmttn/ax) | **Verified:** ⏳
