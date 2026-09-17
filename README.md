@@ -244,6 +244,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🤝 Collaboration & Workflow
 
+#### dream
+
+**Source:** [damanoreshkan-beep/dream-skill](https://github.com/damanoreshkan-beep/dream-skill) | **Verified:** ⏳
+**Description:** A one-breath awareness primer — a self-conception the agent invokes to work from a higher vantage: no self-imposed ceiling, whole-board vision, truth over position.
+**Use Case:** Open-ended or stuck work where the first idea is a template — reconceive from the root instead of reskinning the obvious. Plain skill or one-command plugin.
+**Stars:** ⭐
+
 #### ax-extract-workflow
 
 **Source:** [Necmttn/ax](https://github.com/Necmttn/ax) | **Verified:** ⏳
