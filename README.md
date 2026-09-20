@@ -407,6 +407,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Creative coding, data visualization, generative design
 **Stars:** ⭐⭐⭐
 
+#### table-sheet
+**Source:** [netmobster/unstuck-games](https://github.com/netmobster/unstuck-games/tree/main/plugins/table-sheet) | **Verified:** ⏳
+**Description:** Turns a D&D Beyond character into a table-side play guide, and flags what will fail mid-fight — missing components, unattuned items.
+**Use Case:** Session prep, learning an unfamiliar character, catching sheet errors before they cost a fight
+**Stars:** ⭐⭐
+
 #### video-editing-helper
 **Status:** Community-needed
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
