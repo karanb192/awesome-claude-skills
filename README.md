@@ -33,6 +33,7 @@
   - [🎬 Media & Content Creation](#-media--content-creation)
   - [📊 Data & Analysis](#-data--analysis)
   - [💰 Finance & Tax](#-finance--tax)
+  - [📣 Marketing & Growth](#-marketing--growth)
   - [✍️ Writing & Research](#️-writing--research)
   - [🎯 Meta Skills](#-meta-skills)
 - [Skill Collections](#skill-collections)
@@ -452,6 +453,16 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** The first Indian ITR skill: prompt-driven portal walkthrough with hard-won field notes and AIS research.
 **Use Case:** Prompt-based guidance through the income-tax portal for Indian returns
 **Stars:** ⭐⭐⭐
+
+---
+
+### 📣 Marketing & Growth
+
+#### marketing-mindset
+**Source:** [axelfreeman/marketing-mindset](https://github.com/axelfreeman/marketing-mindset) | **Verified:** ⏳
+**Description:** Marketer's decision framework: test volume floors, channel kill rules, positioning, offers, outreach
+**Use Case:** Deciding what acquisition work to run with zero or few paying clients, and when a test result means anything
+**Stars:** ⭐⭐⭐⭐
 
 ---
 
