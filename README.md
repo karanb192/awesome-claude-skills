@@ -389,6 +389,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Hero images, product photos, icons, and cutouts for web, e-commerce, and marketing pipelines
 **Stars:** ⭐⭐⭐⭐
 
+#### 3d-logo
+**Source:** [hasuwini77/3d-logo-skill](https://github.com/hasuwini77/3d-logo-skill) | **Verified:** ⏳
+**Description:** Turn any flat logo image into a 3D spinning coin as one self-contained React Three Fiber component. Removes solid backgrounds, traces the logo's real outline for a chrome rim, adds environment reflections.
+**Use Case:** Hero sections, landing pages, brand showcases, loading screens
+**Stars:** ⭐⭐⭐
+
 #### canvas-design
 **Source:** Community | **Verified:** ⏳
 **Description:** Create visual designs and graphics using Claude's canvas capabilities.
