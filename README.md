@@ -422,6 +422,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Monthly D2C business reviews, revenue/retention/margin diagnostics, automated consultant-quality analysis
 **Stars:** ⭐⭐⭐
 
+#### travel-skills
+**Source:** [stayingapi/travel-skills](https://github.com/stayingapi/travel-skills) | **Verified:** ⏳
+**Description:** Live accommodation search, availability, pricing and cross-OTA price comparison across Airbnb, Booking.com, Vrbo and Google Hotels via StayingAPI.
+**Use Case:** Building travel agents that check real availability, quote live prices, and compare rates across booking sites
+**Stars:** ⭐⭐⭐
+
 #### data-visualization
 **Status:** Community-needed
 **Description:** Create charts, graphs, and interactive visualizations from datasets.
