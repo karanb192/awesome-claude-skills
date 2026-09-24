@@ -339,6 +339,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Automated vulnerability scanning and OWASP compliance checks.
 **Use Case:** Security audits, pre-deployment checks, compliance validation
 
+#### awesome-bug-bounty
+**Source:** [YangTech-gh/Awesome-Bug-Bounty](https://github.com/YangTech-gh/Awesome-Bug-Bounty)
+**Description:** Scope-first bug bounty workflow: recon, impact routing, 36 vuln playbooks, payloads, business logic
+**Use Case:** Authorized bug bounty hunting and security research with agents
+**Stars:** ⭐⭐⭐
+
 #### dependency-audit
 **Status:** Community-needed
 **Description:** Supply chain security analysis with CVE detection in dependencies.
