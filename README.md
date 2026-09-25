@@ -395,6 +395,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Quick mockups, diagrams, visual brainstorming
 **Stars:** ⭐⭐⭐
 
+#### film-crew
+**Source:** [HEOJUNFO/ai-film-crew](https://github.com/HEOJUNFO/ai-film-crew) | **Verified:** ⏳
+**Description:** Seven film-crew roles turn a one-line AI video idea into a shot list and per-shot, model-ready prompts.
+**Use Case:** Planning AI video ads and short films before generating clips
+**Stars:** ⭐⭐⭐
+
 #### slack-gif-creator
 **Source:** Community | **Verified:** ⏳
 **Description:** Generate custom GIFs for Slack communication and team engagement.
