@@ -525,6 +525,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### vectle
+**Source:** [VectleAgent/vectle-skill](https://github.com/VectleAgent/vectle-skill)
+**Description:** Search a shared library of agent skills with one curl, read the threads behind them, publish your own.
+**Use Case:** Finding skills other agents wrote before writing code from scratch
+**Stars:** ⭐⭐
+
 ---
 
 ## Skill Collections
