@@ -383,6 +383,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🎬 Media & Content Creation
 
+#### upres-upscaler
+**Source:** [auroracapital/upres-cli](https://github.com/auroracapital/upres-cli) | **Verified:** ⏳
+**Description:** AI image and video upscaler to 8K resolution across 14 public model aliases with batch processing, developer REST API, and MCP server support.
+**Use Case:** Enhancing AI-generated images, restoring blurry product shots, upscaling video to 4K/8K, print preparation
+**Stars:** ⭐⭐⭐⭐⭐
+
 #### bria-ai
 **Source:** [Bria-AI/bria-skill](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) | **Verified:** ⏳
 **Description:** Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, transparent PNGs.
