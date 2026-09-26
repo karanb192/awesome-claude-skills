@@ -412,6 +412,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
 **Use Case:** Video production, content creation, media processing
 
+#### youtube-transcript-skills
+**Source:** [tubeagentkit/youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills) | **Verified:** ⏳
+**Description:** Fetch YouTube transcripts, search videos/channels, browse channel uploads, and extract playlists via the getyoutubetranscript.com API — free tier, no card required.
+**Use Case:** Summarizing videos, building research corpora, monitoring creator channels, repurposing video content into blog posts
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 📊 Data & Analysis
