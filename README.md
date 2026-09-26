@@ -480,6 +480,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Gather, synthesize, and cite sources for research projects.
 **Use Case:** Academic research, market analysis, competitive intelligence
 
+#### structured-gist
+**Source:** [domattioli/structured-gist](https://github.com/domattioli/structured-gist)
+**Description:** Renders explanations and process recaps as a nested lecture-note outline instead of paragraphs
+**Use Case:** When a long answer or recap needs to be skimmable: concept → attribute → enumeration → one-line explanation
+**Stars:** ⭐⭐
+
 #### technical-writing
 **Status:** Community-needed
 **Description:** Create clear technical documentation following industry best practices.
