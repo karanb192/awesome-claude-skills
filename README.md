@@ -469,6 +469,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Naming a company or product across languages; catching a name that reads well at home but fails abroad
 **Stars:** ⭐⭐⭐
 
+#### grill
+**Source:** [mtangoz/grill](https://github.com/mtangoz/grill) | **Verified:** ⏳
+**Description:** Sends a decision to a judge model from a different AI company that argues against it, names the cheapest test for each doubt, and gives a verdict.
+**Use Case:** Stress-testing a plan, decision, or forecast before committing, with a critic that doesn't share your assistant's blind spots
+**Stars:** ⭐⭐⭐
+
 #### internal-comms
 **Source:** Community | **Verified:** ⏳
 **Description:** Draft internal communications, memos, and team announcements.
