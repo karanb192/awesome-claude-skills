@@ -618,6 +618,8 @@ Skills can execute code, so only install from trusted sources. Review the skill'
 - [Simon Willison's Blog](https://simonwillison.net/2025/Oct/16/claude-skills/) - "Claude Skills are awesome, maybe a bigger deal than MCP"
 - [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions
 
+- [AgentHub](https://myagenthub.cn) - Chinese directory for discovering MCP servers and agent skills, with one-click install support for Cursor, Claude Code, VS Code, Trae and other clients.
+
 ### Tools & Utilities
 - [create-claude-skill](https://github.com/anthropics/skills) - Interactive skill creator
 - [template-skill](https://github.com/anthropics/skills) - Minimal skill template
