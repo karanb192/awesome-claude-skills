@@ -481,10 +481,10 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Academic research, market analysis, competitive intelligence
 
 #### structured-gist
-**Source:** [domattioli/structured-gist](https://github.com/domattioli/structured-gist)
-**Description:** Renders explanations and process recaps as a nested lecture-note outline instead of paragraphs
-**Use Case:** When a long answer or recap needs to be skimmable: concept → attribute → enumeration → one-line explanation
-**Stars:** ⭐⭐
+**Source:** [domattioli/structured-gist](https://github.com/domattioli/structured-gist) | **Verified:** ⏳
+**Description:** Renders explanations and process recaps as nested, skimmable lecture-note outlines instead of paragraphs.
+**Use Case:** Long answers, end-of-task recaps, and handoff notes that readers need to skim rather than read top to bottom
+**Stars:** ⭐⭐⭐
 
 #### technical-writing
 **Status:** Community-needed
