@@ -412,13 +412,13 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
 **Use Case:** Video production, content creation, media processing
 
----
-
 #### nsfw-ai
 **Source:** [Spicy-API/nsfw-ai-skill](https://github.com/Spicy-API/nsfw-ai-skill/tree/main/skills/nsfw-ai) | **Verified:** ⏳
 **Description:** Generate adult (18+) images, image-to-video clips and image edits through the SpicyAPI API, with a cost quote before every run.
 **Use Case:** Adult-content apps and creator workflows that need uncensored image and video models behind one CLI, with adults-only and consent rules enforced
 **Stars:** ⭐⭐⭐
+
+---
 
 ### 📊 Data & Analysis
 
