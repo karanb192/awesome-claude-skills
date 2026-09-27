@@ -475,6 +475,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** HR communications, team updates, policy announcements
 **Stars:** ⭐⭐⭐
 
+#### reddit-marketing
+**Source:** [arthuryuzbashev/mediafast-skills](https://github.com/arthuryuzbashev/mediafast-skills) | **Verified:** ⏳
+**Description:** Markets a product on Reddit: finds subreddits that allow promotion, drafts posts in each subreddit's accepted format, and builds a growth plan.
+**Use Case:** Launching or growing a product on Reddit without getting banned or downvoted for breaking a subreddit's rules
+**Stars:** ⭐⭐⭐
+
 #### research-assistant
 **Status:** Community-needed
 **Description:** Gather, synthesize, and cite sources for research projects.
