@@ -414,6 +414,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ---
 
+#### screenbrowser
+**Source:** [screenbrowser/skill](https://github.com/screenbrowser/skill) | **Verified:** ⏳
+**Description:** Narrated demo and tutorial videos of your web app from a plain-language guide, through the Screen Browser MCP server
+**Use Case:** Product demos, onboarding and release videos of a web app, written from the source and rerun after changes
+**Stars:** ⭐⭐⭐
+
 ### 📊 Data & Analysis
 
 #### claude-ecom
