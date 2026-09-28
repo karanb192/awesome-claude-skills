@@ -364,6 +364,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Process mapping, AS-IS analysis with pain points, TO-BE automation roadmaps
 **Stars:** ⭐⭐⭐
 
+#### linkedin-outreach
+**Source:** [vanshyadav1408/Omentir](https://github.com/vanshyadav1408/Omentir/tree/main/plugins/omentir/skills/linkedin-outreach) | **Verified:** ⏳
+**Description:** Runs LinkedIn prospecting and outreach through the Omentir MCP server: finds people, scores fit, drafts messages, and checks campaigns without the agent signing into LinkedIn.
+**Use Case:** B2B prospecting, outbound message drafting, campaign and reply checks
+**Stars:** ⭐⭐
+
 #### documentation-generator
 **Status:** Community-needed
 **Description:** Auto-generate API documentation and keep docs synchronized with code.
