@@ -299,6 +299,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
 **Stars:** ⭐⭐⭐
 
+#### tlgr
+**Source:** [tlgrcli/tlgr](https://github.com/tlgrcli/tlgr) | **Verified:** ⏳
+**Description:** Reads, searches and sends Telegram messages and manages chats from a personal account through the tlgr CLI, in JSON.
+**Use Case:** Catching up on Telegram chats, replying, or automating a personal account from Claude Code without leaving the terminal
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
