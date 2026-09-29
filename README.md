@@ -1,19 +1,34 @@
 # awesome-claude-skills
 
-> The definitive collection of Agent Skills for Claude - supercharge your AI workflows across Claude Code, Claude.ai, and API
+A directory of Agent Skills for Claude. Find a skill for your task, read its
+instructions, and follow its source repository's install guide.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Skills Count](https://img.shields.io/badge/skills-50+-brightgreen)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Verified](https://img.shields.io/badge/verified-community-blue)
-![Updated](https://img.shields.io/badge/updated-daily-success)
 
-**Claude just got Skills!** This is the definitive collection of **50+ Agent Skills** for Claude Code, Claude.ai, and Claude API to boost productivity, enforce best practices, and automate complex workflows.
+| I want to... | Start with |
+|---|---|
+| Work with PDFs, documents, or spreadsheets | [Document & File Processing](#-document--file-processing) |
+| Write tests or debug code | [Testing & Quality](#-testing--quality) · [Debugging](#-debugging--troubleshooting) |
+| Build a development workflow | [Development & Architecture](#️-development--architecture) |
+| Browse complete collections | [Skill Collections](#skill-collections) |
 
-🎯 **Why this list?** Verified skills ✓ | Active maintenance ✓ | Clear use cases ✓ | Community-driven ✓ | 50+ Skills ✓
+## Quick Start
 
-> 💡 **New to Skills?** Start with the [Quick Start Guide](#quick-start) • **Looking for something specific?** Use `Ctrl+F` to search • **Want to contribute?** Check [Contributing](#contributing)
+For document work in Claude Code, install Anthropic's document skills from
+your terminal:
+
+```bash
+claude plugin marketplace add anthropics/skills
+claude plugin install document-skills@anthropic-agent-skills
+```
+
+Then ask Claude to extract the form fields from a PDF you provide.
+[Anthropic's installation guide](https://github.com/anthropics/skills#claude-code)
+covers the plugin and other supported environments.
+
+Read the skill's instructions and bundled scripts before enabling it. A listing
+is not a security audit or a guarantee that the skill fits your project.
 
 ## Contents
 
@@ -41,21 +56,6 @@
 - [Contributors](#contributors)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Quick Start
-
-**Get your first skill running in 30 seconds:**
-
-```bash
-# 1. Install obra's superpowers collection (20+ battle-tested skills)
-git clone https://github.com/obra/superpowers ~/.claude/skills/superpowers
-
-# 2. Try test-driven-development skill
-# In Claude Code, just say: "Let's use TDD to build a user authentication system"
-# Claude will automatically load the TDD skill and guide you through RED-GREEN-REFACTOR!
-```
-
-**That's it!** Skills load automatically when relevant. No configuration needed.
 
 ## What are Skills?
 
@@ -88,33 +88,21 @@ Skills are available on Claude Pro, Max, Team, and Enterprise plans with code ex
 
 ## How to Install Skills
 
-### Method 1: Git Clone (Recommended)
+Use the install guide in the source repository. Collections can ship as plugins,
+individual skill folders, or both; choose one route for each collection.
 
-```bash
-# Linux/macOS
-mkdir -p ~/.claude/skills
-git clone https://github.com/owner/skill-name ~/.claude/skills/skill-name
+- [Anthropic skills](https://github.com/anthropics/skills#claude-code) provides
+  document and example plugins.
+- [Superpowers](https://github.com/obra/superpowers#installation) provides
+  installation instructions for each supported coding agent.
+- For a standalone Claude Code skill, place its folder at
+  `~/.claude/skills/<skill-name>/` for personal use or
+  `.claude/skills/<skill-name>/` inside one project. The folder must contain
+  `SKILL.md`; keep its supporting files with it. See the
+  [Claude Code skill guide](https://code.claude.com/docs/en/skills#choose-where-skills-load).
 
-# Windows (PowerShell)
-mkdir $env:USERPROFILE\.claude\skills
-git clone https://github.com/owner/skill-name $env:USERPROFILE\.claude\skills\skill-name
-```
-
-**Pro tip:** Clone entire skill collections like [obra/superpowers](https://github.com/obra/superpowers) to get 20+ skills at once!
-
-### Method 2: Manual Installation
-
-1. Create a folder in `~/.claude/skills/`
-2. Add a `SKILL.md` file with YAML frontmatter and instructions
-3. (Optional) Include supporting scripts and resources
-
-**Verify installation:**
-```bash
-# Check if skill is loaded
-ls ~/.claude/skills/
-
-# Skills load automatically - just start using Claude!
-```
+Use the source project's own verification steps after installation. This
+directory does not install or update the listed skills.
 
 ## Skills vs MCP vs System Prompts
 
@@ -672,20 +660,7 @@ Special thanks to:
 
 ---
 
-**Star this repo** if you find it helpful! ⭐
+Found an outdated entry? [Report it](https://github.com/karanb192/awesome-claude-skills/issues/new/choose)
+or read the [contribution guide](CONTRIBUTING.md) to propose a correction.
 
-**Have a skill to share?** Open a PR or create an issue!
-
-**Questions?** Check the [discussions](../../discussions) or open an issue.
-
----
-
-<div align="center">
-
-### 🚀 Built with skills. For skills. By the community.
-
-**Follow** this repo for updates | **Star** to support | **Contribute** to grow the ecosystem
-
-Maintained by [Karan Bansal](https://karanbansal.in) · [Blog: Claude Code, MCP, production agentic AI](https://karanbansal.in/blog/)
-
-</div>
+Maintained by [Karan Bansal](https://karanbansal.in).
