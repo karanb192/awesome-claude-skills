@@ -116,10 +116,10 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 | Feature | Skills | MCP Servers | System Prompts |
 |---------|--------|-------------|----------------|
 | **Purpose** | Task-specific workflows | External tool integration | General behavior modification |
-| **Setup** | Git clone to `~/.claude/skills/` | Install & configure MCP server | Edit `CLAUDE.md` in project |
+| **Setup** | Source install guide | Server config | Project instructions |
 | **Activation** | Automatic (context-aware) | Explicit tool calls | Always active |
 | **Best For** | TDD, debugging, git workflows | APIs, databases, file systems | Project conventions, style guides |
-| **Portability** | Cross-platform (CLI, web, API) | Platform-dependent | Project-specific |
+| **Portability** | Host-dependent | Host-dependent | Project-specific |
 | **Token Cost** | 30-50 until loaded | Per-call | Always consuming tokens |
 | **Examples** | `test-driven-development` | Weather API, GitHub integration | "Use TypeScript strict mode" |
 
@@ -542,10 +542,11 @@ Looking for curated skill bundles? Start with these collections:
 
 ### How do I know if a skill is working?
 
-Skills load automatically when Claude detects they're relevant. You'll see Claude using skill-specific patterns (like RED-GREEN-REFACTOR for TDD). To check installed skills:
-```bash
-ls ~/.claude/skills/
-```
+Follow the source project's verification steps, then try a task it covers.
+For the document plugin in [Quick Start](#quick-start), provide a PDF and
+ask Claude to extract its form fields. Check the result against the file.
+Listing `~/.claude/skills/` only checks standalone folders in that
+directory; it does not list skills installed through plugins.
 
 ### Can I use multiple skills at once?
 
@@ -553,14 +554,23 @@ Yes! Skills are composable. Claude automatically loads and coordinates multiple 
 
 ### Do skills work on all platforms?
 
-Yes! Skills use the same format across Claude Code CLI, Claude.ai, and the Claude API. Install once, use everywhere.
+The skill format is shared, but installation and available tools depend
+on the host. Check the source project's supported environments and install
+instructions. Installing a Claude Code plugin does not install it in
+Claude.ai or the API. [Anthropic's guide][anthropic-install] describes
+the separate routes for its skills.
+
+[anthropic-install]: https://github.com/anthropics/skills#try-in-claude-code-claudeai-and-the-api
 
 ### How do I update skills?
 
-```bash
-cd ~/.claude/skills/skill-name
-git pull origin main
-```
+Use the update route for your installation. For a Claude Code plugin,
+follow the [plugin update guide][plugin-updates]. For a standalone skill
+folder, follow its source repository's update instructions; use Git only
+if that folder is a Git checkout. Copied folders and plugin-managed
+installs do not share a universal `git pull` command.
+
+[plugin-updates]: https://code.claude.com/docs/en/discover-plugins#keep-plugins-updated
 
 ### Can I create my own skills?
 
@@ -668,4 +678,6 @@ Special thanks to:
 Found an outdated entry? [Report it](https://github.com/karanb192/awesome-claude-skills/issues/new/choose)
 or read the [contribution guide](CONTRIBUTING.md) to propose a correction.
 
-Maintained by [Karan Bansal](https://karanbansal.in).
+Maintained by [Karan Bansal](https://karanbansal.in) · [Blog][blog].
+
+[blog]: https://karanbansal.in/blog/
