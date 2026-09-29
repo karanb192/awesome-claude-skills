@@ -9,9 +9,12 @@ instructions, and follow its source repository's install guide.
 | I want to... | Start with |
 |---|---|
 | Work with PDFs, documents, or spreadsheets | [Document & File Processing](#-document--file-processing) |
-| Write tests or debug code | [Testing & Quality](#-testing--quality) · [Debugging](#-debugging--troubleshooting) |
+| Write tests or debug code | [Tests][tests] · [Debugging][debugging] |
 | Build a development workflow | [Development & Architecture](#️-development--architecture) |
 | Browse complete collections | [Skill Collections](#skill-collections) |
+
+[tests]: #-testing--quality
+[debugging]: #-debugging--troubleshooting
 
 ## Quick Start
 
@@ -99,7 +102,9 @@ individual skill folders, or both; choose one route for each collection.
   `~/.claude/skills/<skill-name>/` for personal use or
   `.claude/skills/<skill-name>/` inside one project. The folder must contain
   `SKILL.md`; keep its supporting files with it. See the
-  [Claude Code skill guide](https://code.claude.com/docs/en/skills#choose-where-skills-load).
+  [Claude Code skill guide][skill-guide].
+
+[skill-guide]: https://code.claude.com/docs/en/skills#choose-where-skills-load
 
 Use the source project's own verification steps after installation. This
 directory does not install or update the listed skills.
