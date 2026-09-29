@@ -330,6 +330,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Code smell detection and systematic refactoring techniques.
 **Use Case:** Legacy code modernization, improving code quality
 
+#### prime-worker
+**Source:** [alperiox/prime-worker](https://github.com/alperiox/prime-worker)
+**Description:** Delegate multi-turn work to a local prime-agent subagent that keeps context across turns, with citation contracts and completion gates.
+**Use Case:** Long analyses or refactors on a cheaper model, branching an investigation, keeping the main context free
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 🔒 Security & Performance
