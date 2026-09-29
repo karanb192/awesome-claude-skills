@@ -315,6 +315,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Interactive demos, prototypes, data visualizations
 **Stars:** ⭐⭐⭐⭐
 
+#### better-design
+**Source:** [better-designs/better-design-plugin](https://github.com/better-designs/better-design-plugin) | **Verified:** ⏳
+**Description:** Chooses, installs and builds on a design system through the Better Design MCP server, then reviews the screen.
+**Use Case:** Building or redesigning a web or mobile interface that should follow a real design system
+**Stars:** ⭐⭐⭐
+
 #### api-development
 **Status:** Community-needed
 **Description:** RESTful API design patterns with OpenAPI/Swagger generation.
