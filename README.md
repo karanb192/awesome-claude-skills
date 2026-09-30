@@ -299,6 +299,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
 **Stars:** ⭐⭐⭐
 
+#### shipreel
+**Source:** [theBstar/shipreel](https://github.com/theBstar/shipreel) | **Verified:** ⏳
+**Description:** Turns a pull request into a short narrated walkthrough video with diagrams, code panels, screen recordings and captions, rendered locally.
+**Use Case:** Giving reviewers a video of a change instead of a raw diff
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
