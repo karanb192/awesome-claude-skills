@@ -299,6 +299,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
 **Stars:** ⭐⭐⭐
 
+#### clueless
+**Source:** [ADanMan/clueless](https://github.com/ADanMan/clueless) | **Verified:** ⏳
+**Description:** Responsibility-flip mode for when the user cannot review the output: irreversible steps first, defaults named with alternatives.
+**Use Case:** Non-programmers asking for code, non-lawyers for contracts, anyone who will copy-paste without checking
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
