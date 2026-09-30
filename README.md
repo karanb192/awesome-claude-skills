@@ -395,6 +395,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Quick mockups, diagrams, visual brainstorming
 **Stars:** ⭐⭐⭐
 
+#### generate-3d-model
+**Source:** [nirholas/three.ws](https://github.com/nirholas/three.ws/tree/main/public/skills/3d-studio/generate-3d-model) | **Verified:** ⏳
+**Description:** Turn a text prompt into a textured, downloadable 3D model (GLB) with a viewer link, via a free endpoint that needs no API key.
+**Use Case:** Game props, web and AR assets, and quick 3D prototypes without opening a modeling tool
+**Stars:** ⭐⭐⭐⭐
+
 #### slack-gif-creator
 **Source:** Community | **Verified:** ⏳
 **Description:** Generate custom GIFs for Slack communication and team engagement.
