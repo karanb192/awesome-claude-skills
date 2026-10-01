@@ -334,6 +334,11 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🔒 Security & Performance
 
+#### gedik
+**Source:** [onur-kesim/gedik](https://github.com/onur-kesim/gedik)
+**Description:** Read-only security audit of your own project: measures the architecture first, every finding ships a working PoC, and it mutates your test suite to check the tests would catch it.
+**Use Case:** Pre-release security audits, Supabase/Firebase RLS checks, LLM/MCP tool-permission review
+
 #### security-review
 **Status:** Community-needed
 **Description:** Automated vulnerability scanning and OWASP compliance checks.
