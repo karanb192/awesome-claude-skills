@@ -191,6 +191,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Code reviews, refactoring existing test suites
 **Stars:** ⭐⭐⭐
 
+#### what-could-break
+**Source:** [stas4000/what-could-break](https://github.com/stas4000/what-could-break)
+**Description:** Finds what a change breaks outside its own diff and proves the one safe fact by running real code, not an essay about risk
+**Use Case:** Before a multi-file edit or a change to a shared path, or any small diff you do not trust
+**Stars:** ⭐⭐⭐⭐
+
 #### e2e-testing-skill
 **Status:** Community-needed
 **Description:** End-to-end test automation across multiple services and browser environments.
@@ -313,6 +319,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
 **Description:** Build complex claude.ai HTML artifacts using React, Tailwind CSS, and shadcn/ui.
 **Use Case:** Interactive demos, prototypes, data visualizations
+**Stars:** ⭐⭐⭐⭐
+
+#### tastegate
+**Source:** [stas4000/tastegate](https://github.com/stas4000/tastegate)
+**Description:** Builds a frontend to a craft floor, then renders it in a real browser and fails on text overlap, low contrast, tiny tap targets and AI-gradient tells
+**Use Case:** Any UI build, redesign or polish pass that has to survive a real browser check before "done"
 **Stars:** ⭐⭐⭐⭐
 
 #### api-development
