@@ -167,6 +167,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🧪 Testing & Quality
 
+#### test-checklist
+**Source:** [Ifeanyiejindu/qarunbook](https://github.com/Ifeanyiejindu/qarunbook/tree/main/plugins/qarunbook/skills/test-checklist)
+**Description:** Derives a QA test plan from an app's code: every module, feature and user journey per platform, written for non-technical testers
+**Use Case:** Preparing an app for user acceptance testing, a release or a demo, when nobody has written the checklist yet
+**Stars:** ⭐⭐⭐
+
 #### test-driven-development
 **Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
 **Description:** RED-GREEN-REFACTOR cycle: write failing tests, implement code, refactor for quality
