@@ -299,6 +299,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
 **Stars:** ⭐⭐⭐
 
+#### slop-post
+**Source:** [useslop/claude-plugins](https://github.com/useslop/claude-plugins) | **Verified:** ⏳
+**Description:** Turns a Claude Code session into a private Slop draft with a Build Receipt (model, tools, run time, commits) read from the local transcript.
+**Use Case:** Ending a session by sharing what was built, with its receipt, after reviewing the draft and publishing it yourself
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
