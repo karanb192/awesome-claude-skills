@@ -26,7 +26,7 @@ Find a skill for the task at hand. A community directory for
 | [Testing](#testing--quality) | [Documents](#document--file-processing) | [Workflow](#collaboration--workflow) |
 | [Debugging](#debugging--troubleshooting) | [Media](#media--content-creation) | [Data](#data--analysis) |
 | [Build apps](#development--architecture) | [Writing](#writing--research) | [Finance & tax](#finance--tax) |
-| [Security ideas](#security--performance) | [Create skills](#meta-skills) | [Automation](#documentation--automation) |
+| [Security](#security--performance) | [Create skills](#meta-skills) | [Automation](#documentation--automation) |
 
 Skill names link to their source. Read the install guide there before enabling
 a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to search.
