@@ -325,6 +325,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Description:** Schema version management and safe migration patterns for production.
 **Use Case:** Database evolution, schema changes, data migrations
 
+#### dropthehassle-publish
+**Source:** [bosmdavid-gif/dropthehassle-skill](https://github.com/bosmdavid-gif/dropthehassle-skill)
+**Description:** Publishes a finished static site to a free HTTPS link with one command, checks it is live, never spends money.
+**Use Case:** When Claude has built a site and the user wants it online without setting up hosting or DNS
+**Stars:** ⭐⭐⭐
+
 #### refactoring-patterns
 **Status:** Community-needed
 **Description:** Code smell detection and systematic refactoring techniques.
