@@ -430,6 +430,8 @@ Some entries now live inside other skills or use a different name.
   Related directory of Claude Code hook workflows.
 - [500k.io Skills Bank](https://500k.io/skills): Related directory of skills,
   MCP servers, GPTs, and agent tools.
+- [PolySkill](https://polyskill.ai): Skill registry and CLI with [public
+  source](https://github.com/MrSpacemann/polyskill).
 
 <a id="contributors"></a>
 
