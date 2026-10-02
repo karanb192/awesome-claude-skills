@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="240" viewBox="0 0 1120 240" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome Claude Skills</title>
+  <desc id="desc">An open directory of skills, represented by a small set of index cards.</desc>
+  <rect width="1120" height="240" rx="16" fill="#f5f1e9"/>
+  <path d="M0 224H1120V240H0Z" fill="#ca694a"/>
+  <text x="48" y="88" fill="#805342" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="5">THE COMMUNITY DIRECTORY</text>
+  <text x="44" y="169" fill="#282722" font-family="Georgia, 'Times New Roman', serif" font-size="70">Awesome Claude Skills</text>
+  <g fill="none" stroke="#ca694a" stroke-width="3">
+    <rect x="946" y="40" width="112" height="134" rx="9" transform="rotate(12 1002 107)"/>
+    <rect x="923" y="47" width="112" height="134" rx="9" transform="rotate(-6 979 114)" fill="#f5f1e9"/>
+    <path d="M946 81H1009M943 97H1006M940 113H986"/>
+  </g>
+  <circle cx="999" cy="150" r="10" fill="#ca694a"/>
+</svg>
