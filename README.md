@@ -332,6 +332,7 @@ Browse these repositories when you want a related set of skills.
 | [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills) | Local memory recall and writeback for coding sessions. |
 | [Chisanan232/requirement-zero](https://github.com/Chisanan232/requirement-zero) | Review requirement necessity and audit whether existing code still earns its upkeep. |
 | [claude-fable-5-skills](https://github.com/kpab/claude-fable-5-skills) | Effort calibration, scope control, and subagent orchestration. |
+| [Cogny Marketing Skills](https://github.com/cognyai/claude-code-marketing-skills) | Marketing audits and copywriting; live account integrations require a Cogny subscription. |
 | [Cowork Tasks](https://github.com/sabbah13/cowork-tasks) | Create and triage a local task board from authorized Cowork connectors; includes prioritization and board-review skills. |
 | [dbhq-uk/marketplace](https://github.com/dbhq-uk/marketplace) | Remote diagnostics, code search, repository checks, research, writing, and work-service integrations. |
 | [DurdeuVlad/persona-write](https://github.com/DurdeuVlad/persona-write) | Persona-based drafting, rewriting, sample-based voice extraction, and independent review. |
