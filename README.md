@@ -257,6 +257,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [resume-studio](https://github.com/Sidgit11/resume-studio) | Maintain a career evidence corpus and tailor resumes to job requirements without inventing claims. |
 | [sales-framework](https://github.com/KudoMetrics-Techologies-Private-Limited/sales-framework/tree/main/skills/sales-framework) | Review sales copy, pitches, and objections against a published persuasion framework. |
 | [Say it plainly](https://github.com/adjustleads/provenskills-free-packs/tree/main/plain-writing/say-it-plainly) | Rewrite prose for a reader without changing its claims. Noncommercial license. |
+| [seo-translator](https://github.com/Skillproofdev/seo-translator) | Localize content with market-specific registers while preserving keywords, links, and structure. |
 | [signs-of-ai](https://github.com/peopleworks/SignsofAI) | Edit English and Spanish writing patterns and interpret optional analysis-tool results with limits. |
 | [structured-gist](https://github.com/domattioli/structured-gist/tree/main/skills/structured-gist) | Format explanations and process recaps as nested outlines for skimming. |
 | [swedish_mentor](https://github.com/mh-mansouri/help_with_swedish/tree/master/swedish_mentor) | Plan Swedish practice with level-matched video, podcast, and speaking exercises. |
