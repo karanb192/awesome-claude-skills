@@ -316,6 +316,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [skill-creator][creator] | Create skills, evaluate them, and refine their descriptions. |
 | [skill-tuner](https://github.com/DENGYUFAN0/skill-forge/tree/main/skill-tuner) | Refine an installed skill through a small baseline, focused edits, and a rollback decision. |
 | [subagent-driven-development][subagents] | Implement a plan through delegated tasks and review steps. |
+| [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) | Capture task friction and propose reviewed changes to reusable skills. |
 | [template-skill][template] | Start a skill from a minimal `SKILL.md` template. |
 | [whetstone](https://github.com/TbusOS/whetstone) | Distil session lessons into reviewable skill proposals with evidence and duplication checks. |
 | [writing-skills][writing-skills] | Write and test skill instructions before distributing them. |
