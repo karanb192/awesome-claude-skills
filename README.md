@@ -23,10 +23,10 @@ Find a skill for the task at hand. A community directory for
 
 | Code | Create | Work |
 | --- | --- | --- |
-| [Testing](#testing--quality) | [Documents](#document--file-processing) | [Workflow](#collaboration--workflow) |
+| [Testing](#testing--quality) | [Files](#document--file-processing) | [Workflow](#collaboration--workflow) |
 | [Debugging](#debugging--troubleshooting) | [Media](#media--content-creation) | [Data](#data--analysis) |
 | [Build apps](#development--architecture) | [Writing](#writing--research) | [Finance & tax](#finance--tax) |
-| [Security](#security--performance) | [Create skills](#meta-skills) | [Automation](#documentation--automation) |
+| [Security](#security--performance) | [Skills](#meta-skills) | [Automation](#documentation--automation) |
 
 Skill names link to their source. Read the install guide there before enabling
 a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to search.
@@ -345,10 +345,10 @@ Maintained by [Karan Bansal](https://karanbansal.in) · [Blog][blog].
 [writing-plans]: https://github.com/obra/superpowers/tree/main/skills/writing-plans
 [subagents]: https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development
 [writing-skills]: https://github.com/obra/superpowers/tree/main/skills/writing-skills
-[waiting]: https://github.com/obra/superpowers/blob/main/skills/systematic-debugging/condition-based-waiting.md
-[defense]: https://github.com/obra/superpowers/blob/main/skills/systematic-debugging/defense-in-depth.md
-[tracing]: https://github.com/obra/superpowers/blob/main/skills/systematic-debugging/root-cause-tracing.md
-[testing-skills]: https://github.com/obra/superpowers/blob/main/skills/writing-skills/testing-skills-with-subagents.md
+[waiting]: https://raw.githubusercontent.com/obra/superpowers/main/skills/systematic-debugging/condition-based-waiting.md
+[defense]: https://raw.githubusercontent.com/obra/superpowers/main/skills/systematic-debugging/defense-in-depth.md
+[tracing]: https://raw.githubusercontent.com/obra/superpowers/main/skills/systematic-debugging/root-cause-tracing.md
+[testing-skills]: https://raw.githubusercontent.com/obra/superpowers/main/skills/writing-skills/testing-skills-with-subagents.md
 [superpowers-catalog]: https://github.com/obra/superpowers/tree/main/skills
 [anthropic-install]: https://github.com/anthropics/skills#try-in-claude-code-claudeai-and-the-api
 [skill-guide]: https://code.claude.com/docs/en/skills
