@@ -38,6 +38,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [cue-omni-reader](https://github.com/sensedeal/cue-skills/tree/main/cue-omni-reader) | Parse documents and web sources into text through the Cue Omni Reader MCP service. |
 | [docx][docx] | Create and edit Word documents with tracked changes and comments. |
 | [equalang](https://github.com/equalang/equalang-skill) | Translate files or transcribe recordings through Equalang using an API key and credits. |
 | [pdf][pdf] | Extract text and tables, combine PDFs, and fill forms. |
