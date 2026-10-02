@@ -39,6 +39,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | Skill | Use it to |
 | --- | --- |
 | [docx][docx] | Create and edit Word documents with tracked changes and comments. |
+| [equalang](https://github.com/equalang/equalang-skill) | Translate files or transcribe recordings through Equalang using an API key and credits. |
 | [pdf][pdf] | Extract text and tables, combine PDFs, and fill forms. |
 | [pptx][pptx] | Create, edit, and inspect PowerPoint presentations. |
 | [xlsx][xlsx] | Build and edit spreadsheets with formulas and formatting. |
