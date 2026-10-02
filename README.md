@@ -120,6 +120,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [algorithmic-art][algorithmic-art] | Create generative art with p5.js. |
 | [bria-ai](https://github.com/Bria-AI/bria-skill/tree/dev/skills/bria-ai) | Generate and edit images or remove backgrounds through the Bria API. |
 | [canvas-design][canvas-design] | Create visual designs as PNG and PDF files. |
+| [screenbrowser](https://github.com/screenbrowser/skill/tree/main/skills/screenbrowser) | Produce narrated web-app tutorials through the Screen Browser MCP service. |
 | [slack-gif-creator][slack-gif-creator] | Make animated GIFs sized for Slack. |
 
 <a id="-data--analysis"></a>
