@@ -148,6 +148,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [16-eyes](https://github.com/kigiela/16-eyes/tree/main/skills/16-eyes) | Audit a repository or PR diff through saved investigation lenses and skeptical verification. |
 | [awesome-bug-bounty](https://github.com/YangTech-gh/Awesome-Bug-Bounty/tree/main/skills/awesome-bug-bounty) | Plan authorized bug-bounty research with scope checks, vulnerability guides, and report templates. |
 | [claude-security-skills](https://github.com/NovaCode37/claude-security-skills) | Check secrets, Python code, dependencies, containers, JWTs, CORS, and HTTP headers. |
 | [cra-vulnerability-obligations](https://github.com/Ansvar-Systems/cra-vulnerability-obligations-skill) | Screen CRA scope and vulnerability-reporting questions using cited provisions through Ansvar Gateway. |
