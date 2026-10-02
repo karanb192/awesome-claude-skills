@@ -95,6 +95,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [anti-slop-design](https://github.com/wwewtech/anti-slop-design/tree/main/skills/anti-slop-design) | Review and refine UI typography, color tokens, interactions, and accessibility. |
 | [birdview](https://github.com/Qiuner/birdview) | Map architecture, constraints, and planned changes back to source evidence. |
 | [build-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/build-with-better-design) | Select and install a design system through the Better Design MCP service. |
 | [dropthehassle-publish](https://github.com/bosmdavid-gif/dropthehassle-skill/tree/main/skills/dropthehassle-publish) | Publish built static sites through DropTheHassle and connect an existing backend. |
