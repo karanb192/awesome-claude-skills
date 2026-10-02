@@ -208,6 +208,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [skill-creator][creator] | Create skills, evaluate them, and refine their descriptions. |
 | [subagent-driven-development][subagents] | Implement a plan through delegated tasks and review steps. |
 | [template-skill][template] | Start a skill from a minimal `SKILL.md` template. |
+| [whetstone](https://github.com/TbusOS/whetstone) | Distil session lessons into reviewable skill proposals with evidence and duplication checks. |
 | [writing-skills][writing-skills] | Write and test skill instructions before distributing them. |
 
 [Back to categories ↑](#browse-skills)
