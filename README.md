@@ -80,6 +80,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [clueless](https://github.com/ADanMan/clueless/tree/main/skills/clueless) | Name assumptions, irreversible steps, and review gaps when a user needs extra guidance. |
 | [executing-plans][executing-plans] | Carry out an implementation plan with review checkpoints. |
 | [finishing-a-development-branch][finishing] | Decide how to integrate finished work and clean up the branch. |
+| [kgai knowledge-graph](https://github.com/kgaidev/kgai) | Capture project decisions and domain knowledge in a linked graph through the kgai CLI. |
 | [pr-review](https://github.com/priyank766/OpenSource-SKILL) | Filter a pull request review down to actionable findings. |
 | [receiving-code-review][receiving-review] | Evaluate review feedback and work through requested changes. |
 | [requesting-code-review][requesting-review] | Request a review before work proceeds or merges. |
