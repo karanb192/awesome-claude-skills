@@ -244,6 +244,7 @@ Browse these repositories when you want a related set of skills.
 | [Baodao skills](https://github.com/tahodev/baodao-skill) | Taiwan public-service lookups for invoices, weather, alerts, transit, and public data. |
 | [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills) | Local memory recall and writeback for coding sessions. |
 | [claude-fable-5-skills](https://github.com/kpab/claude-fable-5-skills) | Effort calibration, scope control, and subagent orchestration. |
+| [dbhq-uk/marketplace](https://github.com/dbhq-uk/marketplace) | Remote diagnostics, code search, repository checks, research, writing, and work-service integrations. |
 | [E-commerce skills](https://github.com/mardab96/ecommerce-claude-skills) | Review checkout, product content, margin, inventory, retention, and disputes from store data. |
 | [Growth Cab GTM Skills](https://github.com/federicodon/growthcab-gtm-skills) | Sending-domain checks, cold-email grading, lead-list QA, and meeting benchmarks. |
 | [iOS agents and skills](https://github.com/apexbymanish/claude-ai-agents-ios) | Swift/iOS implementation, testing, accessibility, performance, security, and release checks. |
