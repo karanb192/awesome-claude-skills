@@ -92,9 +92,9 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 ### Security & Performance
 
-Looking for security reviews, dependency audits, or performance work?
-This category has [skill ideas awaiting a source](#skill-ideas), with no
-installable entries yet. [Suggest one][suggest].
+| Skill | Use it to |
+| --- | --- |
+| [claude-security-skills](https://github.com/NovaCode37/claude-security-skills) | Check secrets, Python code, dependencies, containers, JWTs, CORS, and HTTP headers. |
 
 <a id="-documentation--automation"></a>
 
