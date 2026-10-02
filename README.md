@@ -88,6 +88,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [delegate](https://github.com/aayushpokhrel1/delegation-pipeline/tree/master/skills/delegate) | Delegate a precisely specified coding task to a worker, then review its diff and tests. |
 | [dialog-tree](https://github.com/ikotelkin/claude-skills/tree/main/skills/dialog-tree) | Track conversation branches in an interactive dialogue tree. |
 | [executing-plans][executing-plans] | Carry out an implementation plan with review checkpoints. |
+| [fabling](https://github.com/gncdev/fabling/tree/main/fabling) | Apply a work profile for proportionate investigation, visual checks, and task completion. |
 | [finishing-a-development-branch][finishing] | Decide how to integrate finished work and clean up the branch. |
 | [kgai knowledge-graph](https://github.com/kgaidev/kgai) | Capture project decisions and domain knowledge in a linked graph through the kgai CLI. |
 | [mindpalace](https://github.com/aashutosh396/mindpalace-skill) | Organize a local knowledge vault around resources, project pointers, logs, and runbooks. |
