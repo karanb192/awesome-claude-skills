@@ -654,6 +654,12 @@ subagent-driven testing.
 **Use Case:** Large-scale refactoring, parallel development streams
 **Stars:** ⭐⭐⭐⭐⭐
 
+#### prompt-engineer
+**Source:** [AdrianAdem/prompt-engineer-skill](https://github.com/AdrianAdem/prompt-engineer-skill)
+**Description:** Turns a request into a production-ready prompt with tests, and routes to a hook or skill when a prompt is the wrong artifact.
+**Use Case:** Writing, revising or migrating prompts; deciding whether an instruction belongs in a prompt at all
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ## Skill Collections
