@@ -329,6 +329,8 @@ Some entries now live inside other skills or use a different name.
 - [Claude Skills Hub](https://claudeskills.info/)
 - [Claudebin](https://claudebin.com) and its
   [source](https://github.com/wunderlabs-dev/claudebin.com/)
+- [AgentHub](https://myagenthub.cn): offers a Chinese-language directory of MCP
+  servers and agent skills.
 
 <a id="contributors"></a>
 
