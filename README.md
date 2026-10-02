@@ -185,6 +185,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [file-itr](https://github.com/shivprime94/file-itr) | Follow a guided walkthrough of India's income-tax filing portal. |
 | [furusato-nozei](https://github.com/tahodev/kurashi-skill/tree/main/furusato-nozei) | Estimate Japan's hometown-tax donation cap with stated assumptions and official sources. |
 | [itr-wala](https://github.com/karanb192/itr-wala) | Prepare Indian income-tax returns using document extraction and Python calculations. |
+| [verify-polish-company](https://github.com/bartosz-kuc/skanfirmy-mcp/tree/main/skill) | Look up Polish company registrations, VAT status, bank accounts, and EU VAT numbers. |
 
 <a id="️-writing--research"></a>
 
