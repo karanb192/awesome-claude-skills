@@ -58,6 +58,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [test-checklist](https://github.com/Ifeanyiejindu/qarunbook/tree/main/plugins/qarunbook/skills/test-checklist) | Derive a QA plan from app code with steps and expected results for each platform. |
 | [test-driven-development][tdd] | Write a failing test, implement the change, then refactor. |
 | [webapp-testing][webapp-testing] | Exercise a local web app with Playwright and inspect its behavior. |
+| [what-could-break](https://github.com/stas4000/what-could-break/tree/main/what-could-break) | Trace a change through consumers, stored data and duplicated rules, then design a concrete check for the critical assumption. |
 
 <a id="-debugging--troubleshooting"></a>
 
@@ -107,6 +108,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [keyboard-shortcuts](https://github.com/nparashar150/claude-keyboard-shortcuts/tree/main/skills/keyboard-shortcuts) | Audit and implement web-app shortcuts, command palettes, and keyboard help. |
 | [mcp-builder][mcp-builder] | Build Model Context Protocol servers that connect tools and APIs to Claude. |
 | [regulex-plus](https://github.com/PipeDream941/regulex-plus) | Render JavaScript regular expressions as SVG, PNG, or Mermaid diagrams through a CLI. |
+| [tastegate](https://github.com/stas4000/tastegate/tree/main/tastegate) | Build a frontend from a design brief, then check layout, contrast and other visible defects with a bundled Playwright browser gate. |
 | [tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-skill) | Recall, capture, audit, and forget durable project memory through Tree Ring Memory. |
 | [web-artifacts-builder][artifacts] | Build web artifacts with React, Tailwind CSS, and shadcn/ui. |
 
