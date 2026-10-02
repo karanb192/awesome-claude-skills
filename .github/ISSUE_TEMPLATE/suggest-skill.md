@@ -13,6 +13,7 @@ assignees: ''
 **Repository URL (if exists):**
 
 **Category:**
+
 - [ ] 🧪 Testing & Quality
 - [ ] 🐛 Debugging & Troubleshooting
 - [ ] 🤝 Collaboration & Workflow
@@ -25,13 +26,9 @@ assignees: ''
 
 Provide a clear, concise description (max 150 characters):
 
-
-
 ## Use Case
 
 When and why would developers use this skill?
-
-
 
 ## Skill Status
 
@@ -42,8 +39,6 @@ When and why would developers use this skill?
 ## Additional Context
 
 Add any other context, examples, or screenshots:
-
-
 
 ---
 
