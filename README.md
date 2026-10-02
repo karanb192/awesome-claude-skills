@@ -334,6 +334,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 ### 🔒 Security & Performance
 
+#### claude-security-skills
+**Source:** [NovaCode37/claude-security-skills](https://github.com/NovaCode37/claude-security-skills)
+**Description:** Eight security skills: secret scanning, Python SAST, dependency CVEs, Dockerfile, JWT, CORS and prompt-injection tests. Stdlib only.
+**Use Case:** Security reviews and dependency audits before a merge or deploy; the same engines also run in CI and as a GitHub Action with SARIF output
+**Stars:** ⭐⭐⭐⭐
+
 #### security-review
 **Status:** Community-needed
 **Description:** Automated vulnerability scanning and OWASP compliance checks.
