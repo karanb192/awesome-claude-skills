@@ -101,6 +101,7 @@ installable entries yet. [Suggest one][suggest].
 
 | Skill | Use it to |
 | --- | --- |
+| [brickwise](https://github.com/JCPetrelli/brickwise) | Explain a codebase or topic as an interactive 3D brick model in one HTML page. |
 | [process-builder](https://github.com/Castaldo-Solutions/process-builder) | Turn a process interview into a BPMN swimlane diagram in a .drawio file. |
 
 <a id="-media--content-creation"></a>
