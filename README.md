@@ -140,6 +140,7 @@ installable entries yet. [Suggest one][suggest].
 | --- | --- |
 | [brand-guidelines][brand-guidelines] | Apply Anthropic's brand colors and typography to artifacts. |
 | [business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | Assess a business name across cultures, languages, and target markets. |
+| [goethecoach](https://github.com/janosszaboaipm-design/goethecoach-claude-skill/tree/main/goethecoach) | Practise Goethe exam writing, reading, and speaking with rubric-based feedback. |
 | [internal-comms][internal-comms] | Draft updates, newsletters, and other internal communications. |
 
 <a id="-meta-skills"></a>
