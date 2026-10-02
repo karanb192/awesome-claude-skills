@@ -467,7 +467,7 @@ code.
 #### bria-ai
 
 **Source:**
-[Bria-AI/bria-skill](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai)
+[Bria-AI/bria-skill](https://github.com/Bria-AI/bria-skill/tree/dev/skills/bria-ai)
 | **Verified:** ⏳
 **Description:** Generate, edit, and remove image backgrounds via the Bria.ai
 API — text-to-image, natural-language edits, transparent PNGs.
