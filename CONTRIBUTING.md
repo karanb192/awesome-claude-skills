@@ -90,36 +90,30 @@ All submitted skills must meet these quality standards:
 
 ### Basic Structure
 
-Each skill entry must follow this format:
+Add one row to the matching category table. Link the skill name directly to
+its source folder when available. Describe a concrete task in 150 characters
+or fewer.
 
 ```markdown
-#### skill-name
-**Source:** [owner/repo](https://github.com/owner/repo)
-**Description:** One-sentence description of what the skill does (max 150 chars)
-**Use Case:** When and why to use this skill
-**Stars:** ⭐⭐⭐⭐⭐ (1-5 stars based on quality/utility)
+| [skill-name](https://github.com/owner/repo) | Describe a concrete task. |
 ```
 
 ### For Community-Needed Skills
 
-If proposing a skill idea that doesn't exist yet:
+If an idea has no implementation, add its name to the matching row in the
+README's **Skill ideas** section, or open a skill request. Keep ideas out of
+the installable catalog.
 
 ```markdown
-#### skill-name
-**Status:** Community-needed
-**Description:** What this skill should do
-**Use Case:** When and why it would be useful
+| Category | proposed-skill-name |
 ```
 
 ### Example
 
 ```markdown
-#### test-driven-development
-**Source:** [obra/superpowers](https://github.com/obra/superpowers)
-**Description:** Implements the RED-GREEN-REFACTOR cycle workflow for
-test-driven development
-**Use Case:** When building new features with strong test coverage guarantees
-**Stars:** ⭐⭐⭐⭐⭐
+| [test-driven-development][tdd] | Test, implement, then refactor. |
+
+[tdd]: https://github.com/obra/superpowers/tree/main/skills/test-driven-development
 ```
 
 ## Category Guidelines
@@ -167,26 +161,17 @@ Skills about creating, testing, and sharing skills themselves
 
 ### Formatting
 
-- **Skill names** - Use kebab-case: `test-driven-development`, not `Test Driven Development`
-- **Bold important info** - Use **bold** for field labels like `**Source:**`
-- **Links** - Always link to source repositories
-- **Emojis** - Use category emojis consistently: 🧪 🐛 🤝 ⚙️ 🔒 📚 🎯
+- **Skill names** - Use kebab-case, such as `test-driven-development`
+- **One row per skill** - Use the existing two-column category table
+- **Links** - Link to the source skill folder, or its repository if standalone
+- **Categories** - Use the README's existing category names
 
-### Star Rating Guidelines
-
-Rate skills honestly based on utility and quality:
-
-- ⭐⭐⭐⭐⭐ - Essential, game-changing, widely used (100+ GitHub stars, proven in production)
-- ⭐⭐⭐⭐ - Very useful, high quality, well-maintained (50+ stars, good documentation)
-- ⭐⭐⭐ - Solid, useful for specific cases (working, maintained, clear purpose)
-- ⭐⭐ - Niche use case, needs improvement (limited use, sparse docs)
-- ⭐ - Experimental, early stage (beta, incomplete, proof-of-concept)
-
-**When in doubt:** Start with ⭐⭐⭐ and adjust based on adoption and quality.
+Do not add star ratings, popularity counts, or verified badges. A directory
+entry is not a certification. Describe what you tested in the pull request.
 
 ## Pull Request Process
 
-1. **Check existing PRs** - Make sure someone hasn't already submitted the same skill
+1. **Check existing PRs** - Look for an existing submission of the same skill
 
 2. **Follow the format** - Use the exact format specified above
 
@@ -233,7 +218,7 @@ Before submitting, verify:
 - [ ] All links are valid and working (test them!)
 - [ ] Description is clear, concise, and under 150 characters
 - [ ] Use case is specific and helpful
-- [ ] Star rating is justified (1-5 stars based on utility)
+- [ ] Entry uses the two-column format without ratings or verified badges
 - [ ] No typos or grammatical errors
 - [ ] Follows markdown formatting guidelines
 - [ ] Source repository has commits within last 6 months
