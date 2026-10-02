@@ -338,6 +338,8 @@ Some entries now live inside other skills or use a different name.
   [source](https://github.com/wunderlabs-dev/claudebin.com/)
 - [AgentHub](https://myagenthub.cn): offers a Chinese-language directory of MCP
   servers and agent skills.
+- [Hypit video guide](https://hypit.video/guides/how-to-clone-a-video/): walks
+  through planning and rendering a video from a reference format.
 
 <a id="contributors"></a>
 
