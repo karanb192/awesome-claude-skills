@@ -270,6 +270,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | Skill | Use it to |
 | --- | --- |
 | [danshari-skill](https://github.com/swaylq/danshari-skill) | Audit installed skills and archive redundant ones after user approval, with a restore path. |
+| [emulo](https://github.com/ohad6k/emulo/tree/main/.agents/skills/emulo) | Mine local agent-session history into a personal working profile after approving the scope and cost. |
 | [prime-worker](https://github.com/alperiox/prime-worker) | Delegate multi-turn tasks to persistent local prime-agent worker sessions. |
 | [reap (skillreaper)](https://github.com/thousandflowers/skillreaper/tree/main/plugins/skillreaper/skills/reap) | Measure unused loaded context from local agent transcripts and review reversible cleanup. |
 | [rule-architect](https://github.com/moveju112/rule-architect) | Generate modular project rules with a shared index and runtime-specific entrypoints. |
