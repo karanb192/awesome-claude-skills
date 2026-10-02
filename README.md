@@ -250,6 +250,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [humanizer-ru](https://github.com/ilyautov/humanizer-ru) | Edit Russian prose for its audience while preserving facts, voice, and protected text. |
 | [humanizing-writing](https://github.com/AshwinSathian/humanize-writing-skill) | Edit prose for generic structure, filler, weak claims, and repeated writing patterns. |
 | [internal-comms][internal-comms] | Draft updates, newsletters, and other internal communications. |
+| [kochab](https://github.com/btmoriarty/kochab/tree/main/skills/kochab) | Run a resume-based job search with tailored drafts, interview preparation, and pipeline tracking. |
 | [publora-post-ideas](https://github.com/publora-team/publora-post-ideas/tree/main/skills/publora-post-ideas) | Choose among three social-post angles, then draft the one the user selects. |
 | [reading-analysis](https://github.com/shenquan520/reading-analysis) | Analyse English exam passages, answer choices, and recurring errors. Noncommercial license. |
 | [renwei](https://github.com/dbhosbu-dotcom/renwei) | Edit Chinese manuscripts for syntax, chapter rhythm, factual consistency, and generic prose. |
