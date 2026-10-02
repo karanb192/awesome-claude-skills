@@ -563,6 +563,12 @@ with hard-won field notes and AIS research.
 
 ### ✍️ Writing & Research
 
+#### ai-hot
+**Source:** [buzzradr/ai-hot](https://github.com/buzzradr/ai-hot) | **Verified:** ⏳
+**Description:** Query BuzzRadr's public AI trend radar: trending AI topics with why-trending signals and daily digests, no API key.
+**Use Case:** "What's hot in AI today" roundups, AI news monitoring, trend research and content ideation
+**Stars:** ⭐⭐⭐
+
 #### brand-guidelines
 
 **Source:** Community | **Verified:** ⏳
