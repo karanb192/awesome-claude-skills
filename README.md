@@ -84,6 +84,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [breather](https://github.com/ilandahan/breather/tree/main/skills/breather) | Offer session stopping points with attended-time context and a written handoff. |
 | [clueless](https://github.com/ADanMan/clueless/tree/main/skills/clueless) | Name assumptions, irreversible steps, and review gaps when a user needs extra guidance. |
 | [communication-protocol-setup](https://github.com/cez0060405/communication-protocol-setup) | Agree on assistant communication preferences and export a reusable protocol. |
+| [delegate](https://github.com/aayushpokhrel1/delegation-pipeline/tree/master/skills/delegate) | Delegate a precisely specified coding task to a worker, then review its diff and tests. |
 | [dialog-tree](https://github.com/ikotelkin/claude-skills/tree/main/skills/dialog-tree) | Track conversation branches in an interactive dialogue tree. |
 | [executing-plans][executing-plans] | Carry out an implementation plan with review checkpoints. |
 | [finishing-a-development-branch][finishing] | Decide how to integrate finished work and clean up the branch. |
