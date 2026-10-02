@@ -328,6 +328,7 @@ Browse these repositories when you want a related set of skills.
 | [sjh9714/skill-receipts](https://github.com/sjh9714/skill-receipts) | Small code-scope and reproduction-first skills with published admission and rejection evidence. |
 | [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Code quality, design, marketing, and shipping. |
 | [superseo-skills](https://github.com/inhouseseo/superseo-skills) | SEO audits, content writing, and link building. |
+| [YouTube Skills](https://github.com/sergebulaev/youtube-skills) | Draft YouTube titles, descriptions, hooks, thumbnail briefs, and upload plans; optional Publora publishing. |
 | [YYLO skills](https://github.com/yylo-dev/yylo-skills) | Manage tasks, artifacts, benchmarks, and durable work records through the YYLO CLI. |
 
 <a id="how-to-install-skills"></a>
