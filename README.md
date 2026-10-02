@@ -129,6 +129,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | --- | --- |
 | [anti-slop-design](https://github.com/wwewtech/anti-slop-design/tree/main/skills/anti-slop-design) | Review and refine UI typography, color tokens, interactions, and accessibility. |
 | [anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) | Define product-specific UI decisions, cover required states, and review rendered interfaces. |
+| [AuraKit](https://github.com/smorky850612/Aurakit/tree/main/skills/aura) | Coordinate build, fix, review, and deployment modes with state snapshots and optional local hooks. |
 | [auteur](https://github.com/agiwhitelist/auteur) | Build websites from a written art direction and check design consistency and rendered output. |
 | [birdview](https://github.com/Qiuner/birdview) | Map architecture, constraints, and planned changes back to source evidence. |
 | [build-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/build-with-better-design) | Select and install a design system through the Better Design MCP service. |
