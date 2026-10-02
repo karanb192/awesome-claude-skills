@@ -24,25 +24,17 @@ assignees: ''
 
 Describe the issue clearly:
 
-
-
 ## Expected Behavior
 
 What should happen instead?
-
-
 
 ## Screenshots (if applicable)
 
 Add screenshots to help explain the problem:
 
-
-
 ## Suggested Fix (optional)
 
 If you have a suggestion for how to fix this:
-
-
 
 ---
 
