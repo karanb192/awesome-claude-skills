@@ -27,11 +27,7 @@ Please verify that your submission meets these requirements:
 Please paste your formatted skill entry here:
 
 ```markdown
-#### skill-name
-**Source:** [owner/repo](https://github.com/owner/repo)
-**Description:**
-**Use Case:**
-**Stars:** ⭐⭐⭐⭐⭐
+| [skill-name](https://github.com/owner/repo) | Describe a concrete task. |
 ```
 
 ## Why This Skill is Valuable
