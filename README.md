@@ -102,6 +102,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [orchestrating-subagents](https://github.com/PapiScholz/symphony/tree/main/skills/orchestrating-subagents) | Choose model tiers for delegated work and review dispatch cost and duration. |
 | [planning-with-files](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files) | Persist plans, findings, and progress across long tasks and context resets. |
 | [pr-review](https://github.com/priyank766/OpenSource-SKILL) | Filter a pull request review down to actionable findings. |
+| [product-decision-agent](https://github.com/atdy/maoxuan-product-agent/tree/main/product-decision-agent) | Review product priorities, growth problems, and delivery constraints in Chinese. |
 | [punchcard](https://github.com/Maksim-Burtsev/punchcard/tree/master/skills/punchcard) | Review a code change for module boundaries, dependencies, data models, and error paths. |
 | [receiving-code-review][receiving-review] | Evaluate review feedback and work through requested changes. |
 | [requesting-code-review][requesting-review] | Request a review before work proceeds or merges. |
