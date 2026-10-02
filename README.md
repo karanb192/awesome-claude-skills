@@ -488,6 +488,8 @@ Some entries now live inside other skills or use a different name.
   MCP servers, GPTs, and agent tools.
 - [PolySkill](https://polyskill.ai): Skill registry and CLI with [public
   source](https://github.com/MrSpacemann/polyskill).
+- [Claude Skills 中文市集](https://claudeskill.me): Read Chinese-language tutorials
+  for Claude skills and plugins.
 
 <a id="contributors"></a>
 
