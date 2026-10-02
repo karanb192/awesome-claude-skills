@@ -62,9 +62,11 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [ironloop](https://github.com/edouard-claude/ironloop/tree/main/skills/engineering/ironloop) | Plan Rust work through specifications, tests, simulation, and authorized security checks. |
 | [never-again](https://github.com/malaysherasia-ai/claude-never-again/tree/main/skills/never-again) | Capture repaired bugs as enforceable hooks or brief lessons for future sessions. |
 | [pdp-audit](https://github.com/llizell/pdp-audit) | Audit ecommerce product pages with desktop/mobile evidence and prioritized UX findings. |
+| [playwright-expert](https://github.com/jeffallan/claude-skills/tree/main/skills/playwright-expert) | Write and debug Playwright browser tests with fixtures, page objects, visual checks, and CI integration. |
 | [sim (interview-sim)](https://github.com/chrisjacksonn/interview-sim/tree/main/skills/sim) | Practice timed coding interviews with script-managed clocks and hidden-test grading. |
 | [test-checklist](https://github.com/Ifeanyiejindu/qarunbook/tree/main/plugins/qarunbook/skills/test-checklist) | Derive a QA plan from app code with steps and expected results for each platform. |
 | [test-driven-development][tdd] | Write a failing test, implement the change, then refactor. |
+| [test-master](https://github.com/jeffallan/claude-skills/tree/main/skills/test-master) | Plan and implement unit, integration, performance, and security tests with coverage and defect analysis. |
 | [webapp-testing][webapp-testing] | Exercise a local web app with Playwright and inspect its behavior. |
 | [what-could-break](https://github.com/stas4000/what-could-break/tree/main/what-could-break) | Trace a change through consumers, stored data and duplicated rules, then design a concrete check for the critical assumption. |
 
@@ -75,6 +77,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | Skill | Use it to |
 | --- | --- |
 | [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace) | Inspect agent sessions for cost, tokens, failures, and latency. |
+| [debugging-wizard](https://github.com/jeffallan/claude-skills/tree/main/skills/debugging-wizard) | Reproduce failures, test hypotheses, identify root causes, and verify fixes. |
 | [systematic-debugging][debugging] | Investigate a bug's cause before attempting a fix. |
 | [verification-before-completion][verification] | Run checks and inspect their output before calling work done. |
 
@@ -131,6 +134,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | --- | --- |
 | [anti-slop-design](https://github.com/wwewtech/anti-slop-design/tree/main/skills/anti-slop-design) | Review and refine UI typography, color tokens, interactions, and accessibility. |
 | [anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) | Define product-specific UI decisions, cover required states, and review rendered interfaces. |
+| [api-designer](https://github.com/jeffallan/claude-skills/tree/main/skills/api-designer) | Design REST and GraphQL contracts with resource models, OpenAPI specifications, and validation. |
 | [AuraKit](https://github.com/smorky850612/Aurakit/tree/main/skills/aura) | Coordinate build, fix, review, and deployment modes with state snapshots and optional local hooks. |
 | [auteur](https://github.com/agiwhitelist/auteur) | Build websites from a written art direction and check design consistency and rendered output. |
 | [birdview](https://github.com/Qiuner/birdview) | Map architecture, constraints, and planned changes back to source evidence. |
@@ -147,9 +151,11 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [figma-design-extract](https://github.com/jeltehomminga/figma-design-skills/tree/main/skills/figma-design-extract) | Extract Figma values into a design specification mapped to the project tokens. |
 | [game-build-team](https://github.com/Varalix-Digitech-Solutions/game-build-team-skill/tree/main/skills/game-build-team) | Build Godot game features with agent roles, headless tests, visual review, and resumable progress. |
 | [keyboard-shortcuts](https://github.com/nparashar150/claude-keyboard-shortcuts/tree/main/skills/keyboard-shortcuts) | Audit and implement web-app shortcuts, command palettes, and keyboard help. |
+| [legacy-modernizer](https://github.com/jeffallan/claude-skills/tree/main/skills/legacy-modernizer) | Plan incremental migrations and refactor legacy systems with dependency maps and behavior checks. |
 | [mcp-builder][mcp-builder] | Build Model Context Protocol servers that connect tools and APIs to Claude. |
 | [multi-stack-mcp](https://github.com/VovikP/multi-stack-mcp) | Generate hero, pricing, features, and CTA sections for Next.js, Flutter, WordPress, or Vue from shared tokens. |
 | [pit-stop](https://github.com/Finn763/pit-stop) | Find a small repository maintenance fix, support it with evidence, and review the patch. |
+| [postgres-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/postgres-pro) | Analyze PostgreSQL queries, replication, JSONB, extensions, and database maintenance. |
 | [regulex-plus](https://github.com/PipeDream941/regulex-plus) | Render JavaScript regular expressions as SVG, PNG, or Mermaid diagrams through a CLI. |
 | [tastegate](https://github.com/stas4000/tastegate/tree/main/tastegate) | Build a frontend from a design brief, then check layout, contrast and other visible defects with a bundled Playwright browser gate. |
 | [tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-skill) | Recall, capture, audit, and forget durable project memory through Tree Ring Memory. |
@@ -172,6 +178,8 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [incident-reporting-navigator](https://github.com/Ansvar-Systems/incident-reporting-navigator-skill) | Map EU incident-notification questions to cited duties, authorities, and deadlines through Ansvar Gateway. |
 | [regulatory-threat-model](https://github.com/Ansvar-Systems/regulatory-threat-model-skill) | Build evidence-cited threat models and selected EU obligation screens through Ansvar Gateway. |
 | [SecHelix](https://github.com/omarmohelal/SecHelix/tree/main/skills/sechelix) | Review authorized local code for security issues with evidence and a refutation pass. |
+| [secure-code-guardian](https://github.com/jeffallan/claude-skills/tree/main/skills/secure-code-guardian) | Implement authentication, authorization, input validation, and secure coding controls. |
+| [security-reviewer](https://github.com/jeffallan/claude-skills/tree/main/skills/security-reviewer) | Review code and infrastructure for security issues and produce prioritized remediation guidance. |
 | [wp-security-audit](https://github.com/mwstech/wp-security-audit-skill) | Audit WordPress configuration, plugin vulnerabilities, and indicators of compromise. |
 
 <a id="-documentation--automation"></a>
@@ -180,6 +188,8 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [code-documenter](https://github.com/jeffallan/claude-skills/tree/main/skills/code-documenter) | Write docstrings, API specifications, documentation portals, and developer guides. |
+| [devops-engineer](https://github.com/jeffallan/claude-skills/tree/main/skills/devops-engineer) | Configure CI/CD, containers, infrastructure templates, deployment checks, and rollback plans. |
 | [docs-to-book](https://github.com/EliaTolin/docs-to-book-skills/tree/main/docs-to-book) | Crawl technical documentation and compile an offline PDF book with Typst, optionally translated. |
 | [famulor-assistants-history](https://github.com/bekservice/Famulor-Skill/tree/main/claude-store/skills/famulor-assistants-history) | Read Famulor assistant settings and interaction history through its restricted MCP profile. |
 | [linkedin-outreach](https://github.com/vanshyadav1408/Omentir/tree/main/plugins/omentir/skills/linkedin-outreach) | Research prospects, draft outreach, and inspect campaigns through Omentir MCP. |
@@ -241,9 +251,11 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [formo-analytics](https://github.com/getformo/cli/tree/main/skills/formo-analytics) | Query Formo product and onchain analytics through MCP, CLI, or REST. |
 | [invoice-winning-numbers](https://github.com/tahodev/baodao-skill/tree/main/invoice-winning-numbers) | Look up Taiwan invoice winning numbers by period from official sources. |
 | [octav-api](https://github.com/Octav-Labs/octav-api-skill) | Integrate wallet balances, history and DeFi positions using an API key; selected agent endpoints also support x402 payments. |
+| [pandas-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/pandas-pro) | Clean, join, aggregate, and transform pandas DataFrames and time-series data. |
 | [polymarket-tennis](https://github.com/livetennisapi/polymarket-tennis/tree/main/skills/polymarket-tennis) | Build an observe-only tennis market watcher joining market prices to live match scores. |
 | [pvr-inox-radar](https://github.com/karanb192/pvr-inox-radar/tree/main/skills/pvr-inox-radar) | Map PVR INOX showtimes in India with seats-together counts and travel-time estimates. |
 | [shopify-review-triage](https://github.com/alfredtech2026/shopify-app-review-brief/tree/main/docs/skills/shopify-review-triage) | Turn supplied Shopify reviews into source-linked incident, friction, pricing, and feature triage. |
+| [sql-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/sql-pro) | Write and optimize SQL queries, inspect execution plans, and compare database dialects. |
 | [youtube-full](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-full) | Fetch YouTube transcripts, search results, channel data, and playlists through TranscriptAPI; requires an API key. |
 
 <a id="-finance--tax"></a>
