@@ -245,6 +245,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [rule-architect](https://github.com/moveju112/rule-architect) | Generate modular project rules with a shared index and runtime-specific entrypoints. |
 | [sijiao-skill](https://github.com/swaylq/sijiao-skill) | Build a stateful learning tutor with researched lessons, exercises, and spaced review. |
 | [skill-creator][creator] | Create skills, evaluate them, and refine their descriptions. |
+| [skill-tuner](https://github.com/DENGYUFAN0/skill-forge/tree/main/skill-tuner) | Refine an installed skill through a small baseline, focused edits, and a rollback decision. |
 | [subagent-driven-development][subagents] | Implement a plan through delegated tasks and review steps. |
 | [template-skill][template] | Start a skill from a minimal `SKILL.md` template. |
 | [whetstone](https://github.com/TbusOS/whetstone) | Distil session lessons into reviewable skill proposals with evidence and duplication checks. |
