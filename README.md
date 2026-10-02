@@ -283,6 +283,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [structured-gist](https://github.com/domattioli/structured-gist/tree/main/skills/structured-gist) | Format explanations and process recaps as nested outlines for skimming. |
 | [swedish_mentor](https://github.com/mh-mansouri/help_with_swedish/tree/master/swedish_mentor) | Plan Swedish practice with level-matched video, podcast, and speaking exercises. |
 | [tldr](https://github.com/SurefireStudios/tldr/tree/main/skills/tldr) | Lead with a short summary while preserving full details and critical caveats. |
+| [unslop](https://github.com/MohamedAbdallah-14/unslop/tree/main/skills/unslop) | Rewrite prose to remove repeated AI writing patterns while preserving technical content. |
 | [zh-tw-humanizer](https://github.com/acchuang/zh-tw-humanizer) | Edit Traditional Chinese prose with Taiwan terminology and protected-fact rules. |
 
 <a id="-meta-skills"></a>
@@ -347,6 +348,7 @@ Browse these repositories when you want a related set of skills.
 | [Novu skills](https://github.com/novuhq/skills) | Build Novu notification workflows, inboxes, preferences, and hosted agent channels. |
 | [Ontoly skills](https://github.com/0xsarwagya/ontoly/tree/main/skills) | Architecture, dependency, refactoring, and documentation workflows grounded in Ontoly graph evidence. |
 | [Pathmode](https://github.com/pathmodeio/claude-plugin) | Turn product ideas into intent specifications, challenge assumptions, and verify implementation evidence. |
+| [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) | Route image briefs, create software assets, and export platform bundles through a CLI and MCP server. |
 | [RouterBase Agent Skills](https://github.com/zenlee123/routerbase-agent-skills) | Integrate the RouterBase gateway, choose models, and handle media-generation API jobs; requires a RouterBase key. |
 | [Sequenzy skills](https://github.com/Sequenzy/skills) | Run lifecycle, campaign, and transactional email work through the Sequenzy CLI or MCP server; requires a Sequenzy account. |
 | [sjh9714/skill-receipts](https://github.com/sjh9714/skill-receipts) | Small code-scope and reproduction-first skills with published admission and rejection evidence. |
