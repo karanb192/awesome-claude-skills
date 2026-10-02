@@ -107,6 +107,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [pr-review](https://github.com/priyank766/OpenSource-SKILL) | Filter a pull request review down to actionable findings. |
 | [product-decision-agent](https://github.com/atdy/maoxuan-product-agent/tree/main/product-decision-agent) | Review product priorities, growth problems, and delivery constraints in Chinese. |
 | [punchcard](https://github.com/Maksim-Burtsev/punchcard/tree/master/skills/punchcard) | Review a code change for module boundaries, dependencies, data models, and error paths. |
+| [puzzle-activity-planner](https://github.com/fruitwyatt/puzzle-activity-planner) | Plan puzzle-based activities with timing, difficulty, preparation steps, and links to printable puzzle tools. |
 | [receiving-code-review][receiving-review] | Evaluate review feedback and work through requested changes. |
 | [requesting-code-review][requesting-review] | Request a review before work proceeds or merges. |
 | [shipreel](https://github.com/theBstar/shipreel/tree/main/plugins/shipreel/skills/shipreel) | Render a narrated PR walkthrough with diagrams, code panels, and optional app recordings. |
