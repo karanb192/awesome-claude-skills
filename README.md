@@ -82,6 +82,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [ax-extract-workflow](https://github.com/Necmttn/ax) | Reconstruct a shipped feature's workflow from local ax session history. |
 | [brainstorming][brainstorming] | Work through requirements and design choices before implementation. |
 | [clueless](https://github.com/ADanMan/clueless/tree/main/skills/clueless) | Name assumptions, irreversible steps, and review gaps when a user needs extra guidance. |
+| [dialog-tree](https://github.com/ikotelkin/claude-skills/tree/main/skills/dialog-tree) | Track conversation branches in an interactive dialogue tree. |
 | [executing-plans][executing-plans] | Carry out an implementation plan with review checkpoints. |
 | [finishing-a-development-branch][finishing] | Decide how to integrate finished work and clean up the branch. |
 | [kgai knowledge-graph](https://github.com/kgaidev/kgai) | Capture project decisions and domain knowledge in a linked graph through the kgai CLI. |
@@ -93,6 +94,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [slop-post](https://github.com/useslop/claude-plugins/tree/main/plugins/slop/skills/slop-post) | Create a private Slop draft from a session with a receipt of model, tools, and commits. |
 | [tlgr](https://github.com/tlgrcli/tlgr/tree/main/plugin/skills/tlgr) | Read, search, and manage a personal Telegram account through a JSON CLI. |
 | [using-git-worktrees][worktrees] | Work in isolated checkouts for separate development tasks. |
+| [working-memory](https://github.com/ikotelkin/claude-skills/tree/main/skills/working-memory) | Preserve a bounded work checkpoint across context compaction. |
 | [writing-plans][writing-plans] | Break a specification into implementation steps. |
 
 <a id="️-development--architecture"></a>
