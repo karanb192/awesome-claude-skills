@@ -108,6 +108,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | Skill | Use it to |
 | --- | --- |
 | [claude-security-skills](https://github.com/NovaCode37/claude-security-skills) | Check secrets, Python code, dependencies, containers, JWTs, CORS, and HTTP headers. |
+| [gedik](https://github.com/onur-kesim/gedik/tree/main/skills/gedik) | Audit authorized project surfaces and attach reproducible evidence to security findings. |
 
 <a id="-documentation--automation"></a>
 
