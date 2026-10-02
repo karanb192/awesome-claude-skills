@@ -213,6 +213,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [itr-wala](https://github.com/karanb192/itr-wala) | Prepare Indian income-tax returns using document extraction and Python calculations. |
 | [simmer-tennis-live-gate](https://github.com/livetennisapi/simmer-tennis-live-gate) | Gate simulated tennis market entries on live match state without placing orders. |
 | [stipend](https://github.com/stipend-sh/stipend) | Manage a self-custodied USDC wallet and x402 payments with configurable spending policies. |
+| [stock-analysis](https://github.com/AlenSarangSatheesh/Indian-Stocks-Fundamental-Analysis-SKILL/tree/main/stock-analysis) | Analyze listed companies using primary filings, sector comparisons, and accounting-quality checks. |
 | [verify-polish-company](https://github.com/bartosz-kuc/skanfirmy-mcp/tree/main/skill) | Look up Polish company registrations, VAT status, bank accounts, and EU VAT numbers. |
 
 <a id="️-writing--research"></a>
