@@ -337,6 +337,7 @@ Browse these repositories when you want a related set of skills.
 | [NotFair](https://github.com/nowork-studio/notfair-plugin) | SEO, search visibility, advertising, and analytics workflows with service-specific MCP integrations. |
 | [Novu skills](https://github.com/novuhq/skills) | Build Novu notification workflows, inboxes, preferences, and hosted agent channels. |
 | [Ontoly skills](https://github.com/0xsarwagya/ontoly/tree/main/skills) | Architecture, dependency, refactoring, and documentation workflows grounded in Ontoly graph evidence. |
+| [Pathmode](https://github.com/pathmodeio/claude-plugin) | Turn product ideas into intent specifications, challenge assumptions, and verify implementation evidence. |
 | [RouterBase Agent Skills](https://github.com/zenlee123/routerbase-agent-skills) | Integrate the RouterBase gateway, choose models, and handle media-generation API jobs; requires a RouterBase key. |
 | [Sequenzy skills](https://github.com/Sequenzy/skills) | Run lifecycle, campaign, and transactional email work through the Sequenzy CLI or MCP server; requires a Sequenzy account. |
 | [sjh9714/skill-receipts](https://github.com/sjh9714/skill-receipts) | Small code-scope and reproduction-first skills with published admission and rejection evidence. |
