@@ -276,6 +276,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [internal-comms][internal-comms] | Draft updates, newsletters, and other internal communications. |
 | [kochab](https://github.com/btmoriarty/kochab/tree/main/skills/kochab) | Run a resume-based job search with tailored drafts, interview preparation, and pipeline tracking. |
 | [niubiskill](https://github.com/nathanskill/niubiskill/tree/main/skills/niubiskill) | Review business ideas and choose a next monetization test with explicit evidence and assumptions. |
+| [no-slop](https://github.com/Byk3y/no-slop) | Review prose for vague attribution, promotional phrasing, repetitive structures, and other writing patterns. |
 | [prospeak](https://github.com/giorgiozamboni/prospeak) | Rewrite existing text for professional audiences with English and Italian register controls. |
 | [publora-post-ideas](https://github.com/publora-team/publora-post-ideas/tree/main/skills/publora-post-ideas) | Choose among three social-post angles, then draft the one the user selects. |
 | [reading-analysis](https://github.com/shenquan520/reading-analysis) | Analyse English exam passages, answer choices, and recurring errors. Noncommercial license. |
