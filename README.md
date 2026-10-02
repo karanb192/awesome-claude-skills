@@ -204,6 +204,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [ltx2-video](https://github.com/patraxo/ltx2-vidgen-skill/tree/main/skills/ltx2-video) | Generate clips from text, images, or video through an LTX-2.3 backend deployed to the user Modal account. |
 | [meshy-pose-rigging](https://github.com/rickyworld/rigmeshy-by-ricky/tree/master/meshy-pose-rigging) | Prepare character references and work through Meshy auto-rigging and export troubleshooting. |
 | [publishport](https://github.com/karuha-m/publishport-skill/tree/main/skills/publishport) | Publish and cross-post through connected accounts in the user's PublishPort browser app. |
+| [puzzlegenio](https://github.com/fruitwyatt/puzzlegenio-claude-skill) | Choose a puzzle type and build prefilled links to PuzzleGenio browser tools for creating printable puzzles. |
 | [runapi-cli](https://github.com/runapi-ai/cli-skill/tree/main/skills/runapi-cli) | Generate media and run model jobs through the RunAPI CLI; requires configured billing and authentication. |
 | [ruxi-skill](https://github.com/swaylq/ruxi-skill) | Build a single-file visual novel from selected book scenes with source-linked choices. |
 | [screenbrowser](https://github.com/screenbrowser/skill/tree/main/skills/screenbrowser) | Produce narrated web-app tutorials through the Screen Browser MCP service. |
