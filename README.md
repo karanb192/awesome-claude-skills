@@ -177,6 +177,8 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [apify-remote-startup-jobs](https://github.com/johnisanerd/claude-skill-remote-startup-jobs/tree/main/apify-remote-startup-jobs) | Fetch structured remote startup job listings through a paid Apify actor. |
+| [apify-yc-startup-jobs](https://github.com/johnisanerd/claude-skill-yc-startup-jobs/tree/main/apify-yc-startup-jobs) | Compare published startup salary and equity ranges through a paid Apify actor. |
 | [apitube-news-api](https://github.com/apitube/news-api-skills/tree/main/skills/apitube-news-api) | Search and filter news through APITube, with API authentication, pagination, and error handling. |
 | [claude-ecom](https://github.com/takechanman1228/claude-ecom) | Review ecommerce order CSVs for revenue, retention, and margin patterns. |
 | [invoice-winning-numbers](https://github.com/tahodev/baodao-skill/tree/main/invoice-winning-numbers) | Look up Taiwan invoice winning numbers by period from official sources. |
