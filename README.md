@@ -77,6 +77,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [pr-review](https://github.com/priyank766/OpenSource-SKILL) | Filter a pull request review down to actionable findings. |
 | [receiving-code-review][receiving-review] | Evaluate review feedback and work through requested changes. |
 | [requesting-code-review][requesting-review] | Request a review before work proceeds or merges. |
+| [shipreel](https://github.com/theBstar/shipreel/tree/main/plugins/shipreel/skills/shipreel) | Render a narrated PR walkthrough with diagrams, code panels, and optional app recordings. |
 | [slop-post](https://github.com/useslop/claude-plugins/tree/main/plugins/slop/skills/slop-post) | Create a private Slop draft from a session with a receipt of model, tools, and commits. |
 | [using-git-worktrees][worktrees] | Work in isolated checkouts for separate development tasks. |
 | [writing-plans][writing-plans] | Break a specification into implementation steps. |
