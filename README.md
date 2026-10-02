@@ -38,9 +38,12 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [cue-omni-reader](https://github.com/sensedeal/cue-skills/tree/main/cue-omni-reader) | Parse documents and web sources into text through the Cue Omni Reader MCP service. |
 | [docx][docx] | Create and edit Word documents with tracked changes and comments. |
+| [equalang](https://github.com/equalang/equalang-skill) | Translate files or transcribe recordings through Equalang using an API key and credits. |
 | [pdf][pdf] | Extract text and tables, combine PDFs, and fill forms. |
 | [pptx][pptx] | Create, edit, and inspect PowerPoint presentations. |
+| [translate-book](https://github.com/kcy4334-lgtm/translate-book-arxiv) | Translate papers and books with a LaTeX-source route for preserving arXiv equations and tables. |
 | [xlsx][xlsx] | Build and edit spreadsheets with formulas and formatting. |
 
 <a id="-testing--quality"></a>
@@ -49,8 +52,14 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [agent-qa-authoring](https://github.com/vostride/agent-qa/tree/main/skills/agent-qa-authoring) | Author and validate agent-qa tests and IDs; source license restricts competing use. |
+| [design-fidelity-verify](https://github.com/jeltehomminga/figma-design-skills/tree/main/skills/design-fidelity-verify) | Compare measured values in a running app with a Figma design specification. |
+| [ironloop](https://github.com/edouard-claude/ironloop/tree/main/skills/engineering/ironloop) | Plan Rust work through specifications, tests, simulation, and authorized security checks. |
+| [never-again](https://github.com/malaysherasia-ai/claude-never-again/tree/main/skills/never-again) | Capture repaired bugs as enforceable hooks or brief lessons for future sessions. |
+| [test-checklist](https://github.com/Ifeanyiejindu/qarunbook/tree/main/plugins/qarunbook/skills/test-checklist) | Derive a QA plan from app code with steps and expected results for each platform. |
 | [test-driven-development][tdd] | Write a failing test, implement the change, then refactor. |
 | [webapp-testing][webapp-testing] | Exercise a local web app with Playwright and inspect its behavior. |
+| [what-could-break](https://github.com/stas4000/what-could-break/tree/main/what-could-break) | Trace a change through consumers, stored data and duplicated rules, then design a concrete check for the critical assumption. |
 
 <a id="-debugging--troubleshooting"></a>
 
@@ -68,14 +77,26 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [a2ui-ask](https://github.com/YuniqueUnic/a2ui-ask) | Collect structured user input through a browser form and JSON answer files. |
+| [ai-meeting](https://github.com/bin1874/ai-meeting-skill/tree/main/ai-meeting) | Run structured proposal reviews with CLI agents and preserve each agent session between rounds. |
 | [ax-extract-workflow](https://github.com/Necmttn/ax) | Reconstruct a shipped feature's workflow from local ax session history. |
 | [brainstorming][brainstorming] | Work through requirements and design choices before implementation. |
+| [clueless](https://github.com/ADanMan/clueless/tree/main/skills/clueless) | Name assumptions, irreversible steps, and review gaps when a user needs extra guidance. |
+| [communication-protocol-setup](https://github.com/cez0060405/communication-protocol-setup) | Agree on assistant communication preferences and export a reusable protocol. |
+| [dialog-tree](https://github.com/ikotelkin/claude-skills/tree/main/skills/dialog-tree) | Track conversation branches in an interactive dialogue tree. |
 | [executing-plans][executing-plans] | Carry out an implementation plan with review checkpoints. |
 | [finishing-a-development-branch][finishing] | Decide how to integrate finished work and clean up the branch. |
+| [kgai knowledge-graph](https://github.com/kgaidev/kgai) | Capture project decisions and domain knowledge in a linked graph through the kgai CLI. |
+| [mindpalace](https://github.com/aashutosh396/mindpalace-skill) | Organize a local knowledge vault around resources, project pointers, logs, and runbooks. |
+| [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Inspect recorded agent runs and replay or fork them through Orca MCP. |
 | [pr-review](https://github.com/priyank766/OpenSource-SKILL) | Filter a pull request review down to actionable findings. |
 | [receiving-code-review][receiving-review] | Evaluate review feedback and work through requested changes. |
 | [requesting-code-review][requesting-review] | Request a review before work proceeds or merges. |
+| [shipreel](https://github.com/theBstar/shipreel/tree/main/plugins/shipreel/skills/shipreel) | Render a narrated PR walkthrough with diagrams, code panels, and optional app recordings. |
+| [slop-post](https://github.com/useslop/claude-plugins/tree/main/plugins/slop/skills/slop-post) | Create a private Slop draft from a session with a receipt of model, tools, and commits. |
+| [tlgr](https://github.com/tlgrcli/tlgr/tree/main/plugin/skills/tlgr) | Read, search, and manage a personal Telegram account through a JSON CLI. |
 | [using-git-worktrees][worktrees] | Work in isolated checkouts for separate development tasks. |
+| [working-memory](https://github.com/ikotelkin/claude-skills/tree/main/skills/working-memory) | Preserve a bounded work checkpoint across context compaction. |
 | [writing-plans][writing-plans] | Break a specification into implementation steps. |
 
 <a id="️-development--architecture"></a>
@@ -84,16 +105,32 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [anti-slop-design](https://github.com/wwewtech/anti-slop-design/tree/main/skills/anti-slop-design) | Review and refine UI typography, color tokens, interactions, and accessibility. |
+| [birdview](https://github.com/Qiuner/birdview) | Map architecture, constraints, and planned changes back to source evidence. |
+| [build-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/build-with-better-design) | Select and install a design system through the Better Design MCP service. |
+| [dropthehassle-publish](https://github.com/bosmdavid-gif/dropthehassle-skill/tree/main/skills/dropthehassle-publish) | Publish built static sites through DropTheHassle and connect an existing backend. |
+| [enterprise-architect](https://github.com/rafalr100/enterprise-architect-skill/tree/main/skills/enterprise-architect) | Plan target architectures, capability maps, decision records, and technology roadmaps. |
+| [erupt-admin](https://github.com/plinian/erupt-skill) | Scaffold a Java admin app with the erupt framework, H2, CRUD, and permission models. |
+| [figma-design-extract](https://github.com/jeltehomminga/figma-design-skills/tree/main/skills/figma-design-extract) | Extract Figma values into a design specification mapped to the project tokens. |
+| [keyboard-shortcuts](https://github.com/nparashar150/claude-keyboard-shortcuts/tree/main/skills/keyboard-shortcuts) | Audit and implement web-app shortcuts, command palettes, and keyboard help. |
 | [mcp-builder][mcp-builder] | Build Model Context Protocol servers that connect tools and APIs to Claude. |
+| [pit-stop](https://github.com/Finn763/pit-stop) | Find a small repository maintenance fix, support it with evidence, and review the patch. |
+| [regulex-plus](https://github.com/PipeDream941/regulex-plus) | Render JavaScript regular expressions as SVG, PNG, or Mermaid diagrams through a CLI. |
+| [tastegate](https://github.com/stas4000/tastegate/tree/main/tastegate) | Build a frontend from a design brief, then check layout, contrast and other visible defects with a bundled Playwright browser gate. |
+| [tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-skill) | Recall, capture, audit, and forget durable project memory through Tree Ring Memory. |
+| [unflat](https://github.com/merturl4576/unflat) | Add visual depth to web marketing pages through a bounded CSS treatment. |
 | [web-artifacts-builder][artifacts] | Build web artifacts with React, Tailwind CSS, and shadcn/ui. |
 
 <a id="-security--performance"></a>
 
 ### Security & Performance
 
-Looking for security reviews, dependency audits, or performance work?
-This category has [skill ideas awaiting a source](#skill-ideas), with no
-installable entries yet. [Suggest one][suggest].
+| Skill | Use it to |
+| --- | --- |
+| [awesome-bug-bounty](https://github.com/YangTech-gh/Awesome-Bug-Bounty/tree/main/skills/awesome-bug-bounty) | Plan authorized bug-bounty research with scope checks, vulnerability guides, and report templates. |
+| [claude-security-skills](https://github.com/NovaCode37/claude-security-skills) | Check secrets, Python code, dependencies, containers, JWTs, CORS, and HTTP headers. |
+| [gedik](https://github.com/onur-kesim/gedik/tree/main/skills/gedik) | Audit authorized project surfaces and attach reproducible evidence to security findings. |
+| [SecHelix](https://github.com/omarmohelal/SecHelix/tree/main/skills/sechelix) | Review authorized local code for security issues with evidence and a refutation pass. |
 
 <a id="-documentation--automation"></a>
 
@@ -101,6 +138,8 @@ installable entries yet. [Suggest one][suggest].
 
 | Skill | Use it to |
 | --- | --- |
+| [linkedin-outreach](https://github.com/vanshyadav1408/Omentir/tree/main/plugins/omentir/skills/linkedin-outreach) | Research prospects, draft outreach, and inspect campaigns through Omentir MCP. |
+| [okf](https://github.com/mattjoyce/okf-skill/tree/master/skills/okf) | Author and validate Open Knowledge Format bundles of linked Markdown concept files. |
 | [process-builder](https://github.com/Castaldo-Solutions/process-builder) | Turn a process interview into a BPMN swimlane diagram in a .drawio file. |
 
 <a id="-media--content-creation"></a>
@@ -109,10 +148,16 @@ installable entries yet. [Suggest one][suggest].
 
 | Skill | Use it to |
 | --- | --- |
+| [3d-logo](https://github.com/hasuwini77/3d-logo-skill/tree/main/skills/3d-logo) | Build a rotating 3D logo component with React Three Fiber. |
 | [algorithmic-art][algorithmic-art] | Create generative art with p5.js. |
 | [bria-ai](https://github.com/Bria-AI/bria-skill/tree/dev/skills/bria-ai) | Generate and edit images or remove backgrounds through the Bria API. |
 | [canvas-design][canvas-design] | Create visual designs as PNG and PDF files. |
+| [film-crew](https://github.com/HEOJUNFO/ai-film-crew/tree/master/skills/film-crew) | Plan AI-video shots and write prompts with camera, lighting, and continuity guidance. |
+| [kavel-image](https://github.com/hanshs474/kavel-image-skill) | Generate images through Kavel's anonymous submit-and-poll API within its free allowance; photo edits require a Kavel API key. |
+| [ruxi-skill](https://github.com/swaylq/ruxi-skill) | Build a single-file visual novel from selected book scenes with source-linked choices. |
+| [screenbrowser](https://github.com/screenbrowser/skill/tree/main/skills/screenbrowser) | Produce narrated web-app tutorials through the Screen Browser MCP service. |
 | [slack-gif-creator][slack-gif-creator] | Make animated GIFs sized for Slack. |
+| [table-sheet](https://github.com/netmobster/unstuck-games/tree/main/plugins/table-sheet) | Turn a D&D Beyond character sheet into a play guide and pre-session checklist. |
 
 <a id="-data--analysis"></a>
 
@@ -121,6 +166,8 @@ installable entries yet. [Suggest one][suggest].
 | Skill | Use it to |
 | --- | --- |
 | [claude-ecom](https://github.com/takechanman1228/claude-ecom) | Review ecommerce order CSVs for revenue, retention, and margin patterns. |
+| [invoice-winning-numbers](https://github.com/tahodev/baodao-skill/tree/main/invoice-winning-numbers) | Look up Taiwan invoice winning numbers by period from official sources. |
+| [pvr-inox-radar](https://github.com/karanb192/pvr-inox-radar/tree/main/skills/pvr-inox-radar) | Map PVR INOX showtimes in India with seats-together counts and travel-time estimates. |
 
 <a id="-finance--tax"></a>
 
@@ -129,6 +176,7 @@ installable entries yet. [Suggest one][suggest].
 | Skill | Use it to |
 | --- | --- |
 | [file-itr](https://github.com/shivprime94/file-itr) | Follow a guided walkthrough of India's income-tax filing portal. |
+| [furusato-nozei](https://github.com/tahodev/kurashi-skill/tree/main/furusato-nozei) | Estimate Japan's hometown-tax donation cap with stated assumptions and official sources. |
 | [itr-wala](https://github.com/karanb192/itr-wala) | Prepare Indian income-tax returns using document extraction and Python calculations. |
 
 <a id="️-writing--research"></a>
@@ -139,7 +187,19 @@ installable entries yet. [Suggest one][suggest].
 | --- | --- |
 | [brand-guidelines][brand-guidelines] | Apply Anthropic's brand colors and typography to artifacts. |
 | [business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | Assess a business name across cultures, languages, and target markets. |
+| [goethecoach](https://github.com/janosszaboaipm-design/goethecoach-claude-skill/tree/main/goethecoach) | Practise Goethe exam writing, reading, and speaking with rubric-based feedback. |
+| [grill](https://github.com/mtangoz/grill/tree/main/skills/grill) | Challenge a decision with an outside model and name tests that could settle the doubts. |
+| [grounded](https://github.com/jostelzer/grounded/tree/main/skills/grounded) | Draft scientific literature reviews with live source discovery and citation checks. |
+| [humanize-chinese](https://github.com/swaylq/humanize-chinese) | Edit Chinese prose with rewriting, phrase cleanup, and local checks; non-commercial license. |
+| [humanize-pro](https://github.com/msdanyg/humanize-pro) | Rewrite or audit prose against a saved voice profile and publishing-channel rules. |
+| [humanizer-ru](https://github.com/ilyautov/humanizer-ru) | Edit Russian prose for its audience while preserving facts, voice, and protected text. |
 | [internal-comms][internal-comms] | Draft updates, newsletters, and other internal communications. |
+| [publora-post-ideas](https://github.com/publora-team/publora-post-ideas/tree/main/skills/publora-post-ideas) | Choose among three social-post angles, then draft the one the user selects. |
+| [reading-analysis](https://github.com/shenquan520/reading-analysis) | Analyse English exam passages, answer choices, and recurring errors. Noncommercial license. |
+| [Say it plainly](https://github.com/adjustleads/provenskills-free-packs/tree/main/plain-writing/say-it-plainly) | Rewrite prose for a reader without changing its claims. Noncommercial license. |
+| [structured-gist](https://github.com/domattioli/structured-gist/tree/main/skills/structured-gist) | Format explanations and process recaps as nested outlines for skimming. |
+| [tldr](https://github.com/SurefireStudios/tldr/tree/main/skills/tldr) | Lead with a short summary while preserving full details and critical caveats. |
+| [zh-tw-humanizer](https://github.com/acchuang/zh-tw-humanizer) | Edit Traditional Chinese prose with Taiwan terminology and protected-fact rules. |
 
 <a id="-meta-skills"></a>
 
@@ -147,9 +207,11 @@ installable entries yet. [Suggest one][suggest].
 
 | Skill | Use it to |
 | --- | --- |
+| [prime-worker](https://github.com/alperiox/prime-worker) | Delegate multi-turn tasks to persistent local prime-agent worker sessions. |
 | [skill-creator][creator] | Create skills, evaluate them, and refine their descriptions. |
 | [subagent-driven-development][subagents] | Implement a plan through delegated tasks and review steps. |
 | [template-skill][template] | Start a skill from a minimal `SKILL.md` template. |
+| [whetstone](https://github.com/TbusOS/whetstone) | Distil session lessons into reviewable skill proposals with evidence and duplication checks. |
 | [writing-skills][writing-skills] | Write and test skill instructions before distributing them. |
 
 [Back to categories ↑](#browse-skills)
@@ -163,13 +225,26 @@ Browse these repositories when you want a related set of skills.
 | [Anthropic skills](https://github.com/anthropics/skills) | Document processing, design, development, and skill examples. |
 | [Superpowers](https://github.com/obra/superpowers) | Planning, testing, debugging, and development workflows. |
 | [Affiliate Skills](https://github.com/Affitor/affiliate-skills) | Affiliate research, content, distribution, and analytics. |
+| [Agent Skills English Productivity Pack](https://github.com/alapha888/agent-skills-en) | Meeting notes, proofreading, research, code review, and commit messages. |
+| [agent-pilot-skills](https://github.com/babyGao/agent-pilot-skills) | Cross-model review, parallel research, outbound sales, illustrations, and Chinese-platform workflows. |
+| [AI sales skills](https://github.com/Marchenko-sales/ai-sales-skills) | Company research, sales qualification, and business outreach workflows in Russian. |
+| [Baodao skills](https://github.com/tahodev/baodao-skill) | Taiwan public-service lookups for invoices, weather, alerts, transit, and public data. |
 | [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills) | Local memory recall and writeback for coding sessions. |
 | [claude-fable-5-skills](https://github.com/kpab/claude-fable-5-skills) | Effort calibration, scope control, and subagent orchestration. |
+| [E-commerce skills](https://github.com/mardab96/ecommerce-claude-skills) | Review checkout, product content, margin, inventory, retention, and disputes from store data. |
+| [Growth Cab GTM Skills](https://github.com/federicodon/growthcab-gtm-skills) | Sending-domain checks, cold-email grading, lead-list QA, and meeting benchmarks. |
+| [iOS agents and skills](https://github.com/apexbymanish/claude-ai-agents-ios) | Swift/iOS implementation, testing, accessibility, performance, security, and release checks. |
+| [Kudosity skills](https://github.com/kudosity/skills) | SMS, MMS, WhatsApp, RCS, contact lists, and delivery webhooks through Kudosity. |
+| [Kurashi skills](https://github.com/tahodev/kurashi-skill) | Japan public-service lookups for weather, alerts, holidays, taxes, and libraries. |
+| [Mamba Labs Skills](https://github.com/mambalabsdev/mamba-labs-skills) | Prospect research, CRM operations, email deliverability, and go-to-market workflows; some use Apify. |
 | [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | SEO, copywriting, email, pricing, advertising, and analytics. |
+| [mblode/agent-skills](https://github.com/mblode/agent-skills) | UI, typography, developer experience, documentation, review, and release workflows. |
 | [noizai/skills](https://github.com/noizai/skills) | Text-to-speech dubbing and companion voice presets. |
+| [Novu skills](https://github.com/novuhq/skills) | Build Novu notification workflows, inboxes, preferences, and hosted agent channels. |
 | [Skill Locker](https://skilllocker.ai) | Non-developer-first: business, marketing, career, course creation, and agency operations. |
 | [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Code quality, design, marketing, and shipping. |
 | [superseo-skills](https://github.com/inhouseseo/superseo-skills) | SEO audits, content writing, and link building. |
+| [YYLO skills](https://github.com/yylo-dev/yylo-skills) | Manage tasks, artifacts, benchmarks, and durable work records through the YYLO CLI. |
 
 <a id="how-to-install-skills"></a>
 
@@ -303,6 +378,10 @@ Some entries now live inside other skills or use a different name.
 - [Claude Skills Hub](https://claudeskills.info/)
 - [Claudebin](https://claudebin.com) and its
   [source](https://github.com/wunderlabs-dev/claudebin.com/)
+- [AgentHub](https://myagenthub.cn): offers a Chinese-language directory of MCP
+  servers and agent skills.
+- [Hypit video guide](https://hypit.video/guides/how-to-clone-a-video/): walks
+  through planning and rendering a video from a reference format.
 
 <a id="contributors"></a>
 
