@@ -1,6 +1,7 @@
 # Contributing to awesome-claude-skills
 
-First off, thank you for considering contributing to awesome-claude-skills! It's people like you that make this resource valuable for the Claude community.
+First off, thank you for considering contributing to awesome-claude-skills! It's
+people like you that make this resource valuable for the Claude community.
 
 ## Table of Contents
 
@@ -20,17 +21,20 @@ First off, thank you for considering contributing to awesome-claude-skills! It's
 We're always looking for new skills to add to the list! Here's how:
 
 1. **Fork this repository**
+
    ```bash
    # Click the "Fork" button on GitHub
    ```
 
 2. **Clone your fork**
+
    ```bash
    git clone https://github.com/karanb192/awesome-claude-skills.git
    cd awesome-claude-skills
    ```
 
 3. **Create a branch**
+
    ```bash
    git checkout -b add-skill-name
    ```
@@ -38,12 +42,14 @@ We're always looking for new skills to add to the list! Here's how:
 4. **Add your skill** to the appropriate category in `README.md`
 
 5. **Commit your changes**
+
    ```bash
    git add README.md
    git commit -m "Add [skill-name] to [category]"
    ```
 
 6. **Push to your fork**
+
    ```bash
    git push origin add-skill-name
    ```
@@ -110,7 +116,8 @@ If proposing a skill idea that doesn't exist yet:
 ```markdown
 #### test-driven-development
 **Source:** [obra/superpowers](https://github.com/obra/superpowers)
-**Description:** Implements the RED-GREEN-REFACTOR cycle workflow for test-driven development
+**Description:** Implements the RED-GREEN-REFACTOR cycle workflow for
+test-driven development
 **Use Case:** When building new features with strong test coverage guarantees
 **Stars:** ⭐⭐⭐⭐⭐
 ```
@@ -120,24 +127,31 @@ If proposing a skill idea that doesn't exist yet:
 Choose the most appropriate category for your skill:
 
 ### 🧪 Testing & Quality
+
 Skills related to testing, TDD, code quality, and validation
 
 ### 🐛 Debugging & Troubleshooting
+
 Skills for finding and fixing bugs, performance issues, and system problems
 
 ### 🤝 Collaboration & Workflow
+
 Skills for git workflows, code review, team collaboration, and project management
 
 ### ⚙️ Development & Architecture
+
 Skills for building applications, system design, and architectural patterns
 
 ### 🔒 Security & Performance
+
 Skills for security auditing, vulnerability scanning, and optimization
 
 ### 📚 Documentation & Automation
+
 Skills for generating docs, automating workflows, and CI/CD
 
 ### 🎯 Meta Skills
+
 Skills about creating, testing, and sharing skills themselves
 
 **Not sure which category?** Open a draft PR and ask for guidance!
@@ -246,6 +260,7 @@ Before submitting, verify:
 ### Enforcement
 
 Instances of unacceptable behavior may result in:
+
 1. Warning from maintainers
 2. Temporary ban from contributing
 3. Permanent ban from the project
@@ -262,6 +277,7 @@ Report issues to the repository maintainers.
 ## Recognition
 
 All contributors will be:
+
 - Listed in the repository contributors page
 - Credited in release notes (if applicable)
 - Appreciated by the community!

@@ -38,8 +38,6 @@ Please paste your formatted skill entry here:
 
 Please explain why this skill would be valuable to the Claude community:
 
-
-
 ## Testing
 
 - [ ] I have tested this skill with Claude (Code/Web/API)
@@ -50,11 +48,10 @@ Please explain why this skill would be valuable to the Claude community:
 
 Add any other context, screenshots, or examples about the skill here:
 
-
-
 ---
 
 **By submitting this PR, I confirm that:**
+
 - This contribution is my own work or I have the right to submit it
 - I've read and followed the CONTRIBUTING.md guidelines
 - I understand this project uses the MIT License
