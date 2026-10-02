@@ -216,6 +216,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [humanize-chinese](https://github.com/swaylq/humanize-chinese) | Edit Chinese prose with rewriting, phrase cleanup, and local checks; non-commercial license. |
 | [humanize-pro](https://github.com/msdanyg/humanize-pro) | Rewrite or audit prose against a saved voice profile and publishing-channel rules. |
 | [humanizer-ru](https://github.com/ilyautov/humanizer-ru) | Edit Russian prose for its audience while preserving facts, voice, and protected text. |
+| [humanizing-writing](https://github.com/AshwinSathian/humanize-writing-skill) | Edit prose for generic structure, filler, weak claims, and repeated writing patterns. |
 | [internal-comms][internal-comms] | Draft updates, newsletters, and other internal communications. |
 | [publora-post-ideas](https://github.com/publora-team/publora-post-ideas/tree/main/skills/publora-post-ideas) | Choose among three social-post angles, then draft the one the user selects. |
 | [reading-analysis](https://github.com/shenquan520/reading-analysis) | Analyse English exam passages, answer choices, and recurring errors. Noncommercial license. |
