@@ -192,6 +192,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [humanize-pro](https://github.com/msdanyg/humanize-pro) | Rewrite or audit prose against a saved voice profile and publishing-channel rules. |
 | [humanizer-ru](https://github.com/ilyautov/humanizer-ru) | Edit Russian prose for its audience while preserving facts, voice, and protected text. |
 | [internal-comms][internal-comms] | Draft updates, newsletters, and other internal communications. |
+| [reading-analysis](https://github.com/shenquan520/reading-analysis) | Analyse English exam passages, answer choices, and recurring errors. Noncommercial license. |
 | [Say it plainly](https://github.com/adjustleads/provenskills-free-packs/tree/main/plain-writing/say-it-plainly) | Rewrite prose for a reader without changing its claims. Noncommercial license. |
 | [structured-gist](https://github.com/domattioli/structured-gist/tree/main/skills/structured-gist) | Format explanations and process recaps as nested outlines for skimming. |
 | [tldr](https://github.com/SurefireStudios/tldr/tree/main/skills/tldr) | Lead with a short summary while preserving full details and critical caveats. |
