@@ -469,6 +469,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Naming a company or product across languages; catching a name that reads well at home but fails abroad
 **Stars:** ⭐⭐⭐
 
+#### goethecoach
+**Source:** [janosszaboaipm-design/goethecoach-claude-skill](https://github.com/janosszaboaipm-design/goethecoach-claude-skill) | **Verified:** ⏳
+**Description:** Scores German texts on the 4 Goethe-Zertifikat criteria and explains errors in the learner's native language (A1–C2).
+**Use Case:** Preparing for a Goethe exam; practising Schreiben/Sprechen with examiner-style feedback instead of generic praise
+**Stars:** ⭐⭐⭐
+
 #### internal-comms
 **Source:** Community | **Verified:** ⏳
 **Description:** Draft internal communications, memos, and team announcements.
