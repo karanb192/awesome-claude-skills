@@ -146,6 +146,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [deep-security-audit](https://github.com/ravindrakele/claude-skills/tree/main/plugins/deep-security-audit/skills/deep-security-audit) | Map code attack surfaces and review candidate vulnerabilities with independent verification. |
 | [gedik](https://github.com/onur-kesim/gedik/tree/main/skills/gedik) | Audit authorized project surfaces and attach reproducible evidence to security findings. |
 | [SecHelix](https://github.com/omarmohelal/SecHelix/tree/main/skills/sechelix) | Review authorized local code for security issues with evidence and a refutation pass. |
+| [wp-security-audit](https://github.com/mwstech/wp-security-audit-skill) | Audit WordPress configuration, plugin vulnerabilities, and indicators of compromise. |
 
 <a id="-documentation--automation"></a>
 
