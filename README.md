@@ -305,6 +305,11 @@ Some entries now live inside other skills or use a different name.
 
 <a id="contributors"></a>
 
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
+
 ## Contributing
 
 Add a skill, fix a link, or improve a description. Read the
