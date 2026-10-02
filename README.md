@@ -343,6 +343,7 @@ Browse these repositories when you want a related set of skills.
 | [claude-fable-5-skills](https://github.com/kpab/claude-fable-5-skills) | Effort calibration, scope control, and subagent orchestration. |
 | [Cogny Marketing Skills](https://github.com/cognyai/claude-code-marketing-skills) | Marketing audits and copywriting; live account integrations require a Cogny subscription. |
 | [Cowork Tasks](https://github.com/sabbah13/cowork-tasks) | Create and triage a local task board from authorized Cowork connectors; includes prioritization and board-review skills. |
+| [CreatorSkills Free Skills](https://github.com/calebvbi/creatorskills-free-skills) | Blog outlines, short-video scripts, show notes, chapters, newsletter planning, and social copy. |
 | [dbhq-uk/marketplace](https://github.com/dbhq-uk/marketplace) | Remote diagnostics, code search, repository checks, research, writing, and work-service integrations. |
 | [DurdeuVlad/persona-write](https://github.com/DurdeuVlad/persona-write) | Persona-based drafting, rewriting, sample-based voice extraction, and independent review. |
 | [E-commerce skills](https://github.com/mardab96/ecommerce-claude-skills) | Review checkout, product content, margin, inventory, retention, and disputes from store data. |
