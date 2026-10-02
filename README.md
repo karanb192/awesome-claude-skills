@@ -176,6 +176,12 @@ multimedia integration.
 **Use Case:** Automated slide generation, presentation analysis, template customization
 **Stars:** ⭐⭐⭐⭐
 
+#### sow-pws-builder
+**Source:** [1102tools-dev/federal-contracting-skills](https://github.com/1102tools-dev/federal-contracting-skills/tree/main/skills/sow-pws-builder)
+**Description:** Produces contract-file-ready federal SOW/PWS documents with validated separation and measurable standards.
+**Use Case:** Writing or revising federal work statements before pricing and solicitation development
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### 🧪 Testing & Quality
