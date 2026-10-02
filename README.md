@@ -223,6 +223,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | --- | --- |
 | [prime-worker](https://github.com/alperiox/prime-worker) | Delegate multi-turn tasks to persistent local prime-agent worker sessions. |
 | [rule-architect](https://github.com/moveju112/rule-architect) | Generate modular project rules with a shared index and runtime-specific entrypoints. |
+| [sijiao-skill](https://github.com/swaylq/sijiao-skill) | Build a stateful learning tutor with researched lessons, exercises, and spaced review. |
 | [skill-creator][creator] | Create skills, evaluate them, and refine their descriptions. |
 | [subagent-driven-development][subagents] | Implement a plan through delegated tasks and review steps. |
 | [template-skill][template] | Start a skill from a minimal `SKILL.md` template. |
