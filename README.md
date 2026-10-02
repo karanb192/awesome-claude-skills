@@ -305,6 +305,7 @@ Browse these repositories when you want a related set of skills.
 | [Nero1688/claude-academic-skills](https://github.com/Nero1688/claude-academic-skills) | Academic planning, literature checks, research methods, and replication workflows; mixed licenses. |
 | [noizai/skills](https://github.com/noizai/skills) | Text-to-speech dubbing and companion voice presets. |
 | [Novu skills](https://github.com/novuhq/skills) | Build Novu notification workflows, inboxes, preferences, and hosted agent channels. |
+| [sjh9714/skill-receipts](https://github.com/sjh9714/skill-receipts) | Small code-scope and reproduction-first skills with published admission and rejection evidence. |
 | [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Code quality, design, marketing, and shipping. |
 | [superseo-skills](https://github.com/inhouseseo/superseo-skills) | SEO audits, content writing, and link building. |
 | [YYLO skills](https://github.com/yylo-dev/yylo-skills) | Manage tasks, artifacts, benchmarks, and durable work records through the YYLO CLI. |
