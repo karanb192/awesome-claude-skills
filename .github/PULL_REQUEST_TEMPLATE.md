@@ -27,18 +27,12 @@ Please verify that your submission meets these requirements:
 Please paste your formatted skill entry here:
 
 ```markdown
-#### skill-name
-**Source:** [owner/repo](https://github.com/owner/repo)
-**Description:**
-**Use Case:**
-**Stars:** ⭐⭐⭐⭐⭐
+| [skill-name](https://github.com/owner/repo) | Describe a concrete task. |
 ```
 
 ## Why This Skill is Valuable
 
 Please explain why this skill would be valuable to the Claude community:
-
-
 
 ## Testing
 
@@ -50,11 +44,10 @@ Please explain why this skill would be valuable to the Claude community:
 
 Add any other context, screenshots, or examples about the skill here:
 
-
-
 ---
 
 **By submitting this PR, I confirm that:**
+
 - This contribution is my own work or I have the right to submit it
 - I've read and followed the CONTRIBUTING.md guidelines
 - I understand this project uses the MIT License
