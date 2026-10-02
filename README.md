@@ -262,6 +262,7 @@ Browse these repositories when you want a related set of skills.
 | [Mamba Labs Skills](https://github.com/mambalabsdev/mamba-labs-skills) | Prospect research, CRM operations, email deliverability, and go-to-market workflows; some use Apify. |
 | [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | SEO, copywriting, email, pricing, advertising, and analytics. |
 | [mblode/agent-skills](https://github.com/mblode/agent-skills) | UI, typography, developer experience, documentation, review, and release workflows. |
+| [minxnnu-cloud/make-new-things](https://github.com/minxnnu-cloud/make-new-things) | Claude/Codex visual handoffs, representative frame approval, rework limits, and skill-tree sync. |
 | [noizai/skills](https://github.com/noizai/skills) | Text-to-speech dubbing and companion voice presets. |
 | [Novu skills](https://github.com/novuhq/skills) | Build Novu notification workflows, inboxes, preferences, and hosted agent channels. |
 | [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Code quality, design, marketing, and shipping. |
