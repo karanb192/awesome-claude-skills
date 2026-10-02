@@ -1,696 +1,433 @@
-# awesome-claude-skills
-
-> The definitive collection of Agent Skills for Claude - supercharge your AI workflows across Claude Code, Claude.ai, and API
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![Skills Count](https://img.shields.io/badge/skills-50+-brightgreen)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Verified](https://img.shields.io/badge/verified-community-blue)
-![Updated](https://img.shields.io/badge/updated-daily-success)
-
-**Claude just got Skills!** This is the definitive collection of **50+ Agent Skills** for Claude Code, Claude.ai, and Claude API to boost productivity, enforce best practices, and automate complex workflows.
-
-🎯 **Why this list?** Verified skills ✓ | Active maintenance ✓ | Clear use cases ✓ | Community-driven ✓ | 50+ Skills ✓
-
-> 💡 **New to Skills?** Start with the [Quick Start Guide](#quick-start) • **Looking for something specific?** Use `Ctrl+F` to search • **Want to contribute?** Check [Contributing](#contributing)
-
-## Contents
-
-- [Quick Start](#quick-start)
-- [What are Skills?](#what-are-skills)
-- [Featured Skills](#featured-skills)
-- [How to Install Skills](#how-to-install-skills)
-- [Skills vs MCP vs System Prompts](#skills-vs-mcp-vs-system-prompts)
-- [Skill Categories](#skill-categories)
-  - [📄 Document & File Processing](#-document--file-processing)
-  - [🧪 Testing & Quality](#-testing--quality)
-  - [🐛 Debugging & Troubleshooting](#-debugging--troubleshooting)
-  - [🤝 Collaboration & Workflow](#-collaboration--workflow)
-  - [⚙️ Development & Architecture](#️-development--architecture)
-  - [🔒 Security & Performance](#-security--performance)
-  - [📚 Documentation & Automation](#-documentation--automation)
-  - [🎬 Media & Content Creation](#-media--content-creation)
-  - [📊 Data & Analysis](#-data--analysis)
-  - [💰 Finance & Tax](#-finance--tax)
-  - [✍️ Writing & Research](#️-writing--research)
-  - [🎯 Meta Skills](#-meta-skills)
-- [Skill Collections](#skill-collections)
-- [FAQ](#faq)
-- [Resources](#resources)
-- [Contributors](#contributors)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Quick Start
-
-**Get your first skill running in 30 seconds:**
-
-```bash
-# 1. Install obra's superpowers collection (20+ battle-tested skills)
-git clone https://github.com/obra/superpowers ~/.claude/skills/superpowers
-
-# 2. Try test-driven-development skill
-# In Claude Code, just say: "Let's use TDD to build a user authentication system"
-# Claude will automatically load the TDD skill and guide you through RED-GREEN-REFACTOR!
-```
-
-**That's it!** Skills load automatically when relevant. No configuration needed.
-
-## What are Skills?
-
-**Agent Skills** are modular capabilities that extend Claude's functionality through organized folders containing instructions, scripts, and resources. Each skill teaches Claude how to perform specialized tasks in a repeatable, standardized way.
-
-**Key benefits:**
-- **Efficient:** Skills use only 30-50 tokens until loaded
-- **Portable:** Works across Claude Code CLI, Claude.ai, and API
-- **Composable:** Stack multiple skills together
-- **Context-aware:** Claude automatically identifies relevant skills
-
-Skills are available on Claude Pro, Max, Team, and Enterprise plans with code execution enabled.
-
-## Featured Skills
-
-**Start with these top 10 essential skills:**
-
-| Skill | Why You Need It | Category | Verified |
-|-------|----------------|----------|----------|
-| [test-driven-development](https://github.com/obra/superpowers) | Write bulletproof code with RED-GREEN-REFACTOR workflow | 🧪 Testing | ✅ |
-| [systematic-debugging](https://github.com/obra/superpowers) | Find bugs 10x faster with 4-phase root cause analysis | 🐛 Debugging | ✅ |
-| [using-git-worktrees](https://github.com/obra/superpowers) | Work on multiple features simultaneously without context switching | 🤝 Workflow | ✅ |
-| [mcp-builder](https://github.com/anthropics/skills) | Build custom MCP servers to extend Claude's capabilities | ⚙️ Development | ✅ |
-| [pdf](https://github.com/anthropics/skills) | Extract text, tables, metadata from PDFs with merge & annotation support | 📄 Documents | ✅ |
-| [docx](https://github.com/anthropics/skills) | Create, edit, and analyze Word documents with tracked changes | 📄 Documents | ✅ |
-| [artifacts-builder](https://github.com/anthropics/skills) | Build complex React artifacts with Tailwind CSS and shadcn/ui | ⚙️ Development | ✅ |
-| [skill-creator](https://github.com/anthropics/skills) | Create your own skills and contribute to the ecosystem | 🎯 Meta | ✅ |
-| [requesting-code-review](https://github.com/obra/superpowers) | Pre-review preparation with formatted diffs and clear PR descriptions | 🤝 Workflow | ✅ |
-| [subagent-driven-development](https://github.com/obra/superpowers) | Quality-gated iteration with multi-agent workflows for complex tasks | 🎯 Meta | ✅ |
-
-## How to Install Skills
-
-### Method 1: Git Clone (Recommended)
-
-```bash
-# Linux/macOS
-mkdir -p ~/.claude/skills
-git clone https://github.com/owner/skill-name ~/.claude/skills/skill-name
-
-# Windows (PowerShell)
-mkdir $env:USERPROFILE\.claude\skills
-git clone https://github.com/owner/skill-name $env:USERPROFILE\.claude\skills\skill-name
-```
-
-**Pro tip:** Clone entire skill collections like [obra/superpowers](https://github.com/obra/superpowers) to get 20+ skills at once!
-
-### Method 2: Manual Installation
-
-1. Create a folder in `~/.claude/skills/`
-2. Add a `SKILL.md` file with YAML frontmatter and instructions
-3. (Optional) Include supporting scripts and resources
-
-**Verify installation:**
-```bash
-# Check if skill is loaded
-ls ~/.claude/skills/
-
-# Skills load automatically - just start using Claude!
-```
-
-## Skills vs MCP vs System Prompts
-
-Confused about when to use Skills vs other Claude customization methods? Here's the breakdown:
-
-| Feature | Skills | MCP Servers | System Prompts |
-|---------|--------|-------------|----------------|
-| **Purpose** | Task-specific workflows | External tool integration | General behavior modification |
-| **Setup** | Git clone to `~/.claude/skills/` | Install & configure MCP server | Edit `CLAUDE.md` in project |
-| **Activation** | Automatic (context-aware) | Explicit tool calls | Always active |
-| **Best For** | TDD, debugging, git workflows | APIs, databases, file systems | Project conventions, style guides |
-| **Portability** | Cross-platform (CLI, web, API) | Platform-dependent | Project-specific |
-| **Token Cost** | 30-50 until loaded | Per-call | Always consuming tokens |
-| **Examples** | `test-driven-development` | Weather API, GitHub integration | "Use TypeScript strict mode" |
-
-**When to use what:**
-- ✅ **Skills** → Repeatable workflows (TDD, debugging, code review)
-- ✅ **MCP** → External data/tools (APIs, search, databases)
-- ✅ **System Prompts** → Project-specific rules and conventions
-
-## Skill Categories
-
-### 📄 Document & File Processing
-
-#### pdf
-**Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
-**Description:** Extract text, tables, metadata from PDFs. Merge documents and add annotations.
-**Use Case:** Processing contracts, extracting data from reports, combining PDF files
-**Stars:** ⭐⭐⭐⭐⭐
-
-#### docx
-**Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
-**Description:** Create, edit, and analyze Word documents with support for tracked changes and comments.
-**Use Case:** Automating document generation, processing feedback, extracting structured data
-**Stars:** ⭐⭐⭐⭐⭐
-
-#### xlsx
-**Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
-**Description:** Excel spreadsheet operations including formulas, charts, pivot tables, and data validation.
-**Use Case:** Financial reports, data analysis, automated spreadsheet generation
-**Stars:** ⭐⭐⭐⭐⭐
-
-#### pptx
-**Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
-**Description:** PowerPoint presentation creation with templates, charts, and multimedia integration.
-**Use Case:** Automated slide generation, presentation analysis, template customization
-**Stars:** ⭐⭐⭐⭐
-
----
-
-### 🧪 Testing & Quality
-
-#### test-driven-development
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** RED-GREEN-REFACTOR cycle: write failing tests, implement code, refactor for quality
-**Use Case:** Building new features with strong test coverage guarantees
-**Stars:** ⭐⭐⭐⭐⭐
-
-#### webapp-testing
-**Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
-**Description:** Playwright-based web app testing for UI verification and debugging
-**Use Case:** Testing web UIs, validating user flows, catching visual regressions
-**Stars:** ⭐⭐⭐⭐
-
-#### condition-based-waiting
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Async testing patterns with proper wait conditions to prevent flaky tests
-**Use Case:** Testing asynchronous operations, API calls, animations
-**Stars:** ⭐⭐⭐⭐
-
-#### testing-anti-patterns
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Identifies common testing mistakes: brittle assertions, test interdependence, poor isolation
-**Use Case:** Code reviews, refactoring existing test suites
-**Stars:** ⭐⭐⭐
-
-#### e2e-testing-skill
-**Status:** Community-needed
-**Description:** End-to-end test automation across multiple services and browser environments.
-**Use Case:** Integration testing, cross-browser compatibility validation
-
-#### snapshot-testing
-**Status:** Community-needed
-**Description:** Visual regression testing with component snapshot management.
-**Use Case:** Component libraries, design system maintenance
-
----
-
-### 🐛 Debugging & Troubleshooting
-
-#### agenttrace-session-audit
-**Source:** [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace)
-**Description:** Audits agent sessions for cost, tokens, failures, and latency.
-**Use Case:** Debugging Claude Code, Codex, Gemini, Aider, and Cursor runs.
-**Stars:** ⭐⭐⭐
-
-#### systematic-debugging
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Four-phase root cause process: reproduce, isolate, identify, verify fix.
-**Use Case:** Complex bugs, production issues, multi-component failures
-**Stars:** ⭐⭐⭐⭐⭐
-
-#### root-cause-tracing
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Deep problem investigation with dependency chain analysis.
-**Use Case:** Tracing cascading failures, understanding system interactions
-**Stars:** ⭐⭐⭐⭐
-
-#### verification-before-completion
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Ensures fixes are validated before marking work complete.
-**Use Case:** Bug fixes, refactoring work, feature additions
-**Stars:** ⭐⭐⭐⭐
-
-#### defense-in-depth
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Multiple validation layers for comprehensive error handling.
-**Use Case:** Critical systems, production code, API endpoints
-**Stars:** ⭐⭐⭐
-
-#### performance-profiling
-**Status:** Community-needed
-**Description:** Identify performance bottlenecks, memory leaks, and CPU-intensive operations.
-**Use Case:** Optimization work, scaling applications, investigating slowness
-
----
-
-### 🤝 Collaboration & Workflow
-
-#### ax-extract-workflow
-
-**Source:** [Necmttn/ax](https://github.com/Necmttn/ax) | **Verified:** ⏳
-**Description:** Reconstructs shipped-feature workflows from local ax session history.
-**Use Case:** Replaying the decisions and handoffs behind a finished feature
-**Stars:** ⭐⭐⭐
-
-#### requesting-code-review
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Pre-review preparation and PR best practices with formatted diffs.
-**Use Case:** Before submitting PRs, preparing for team review
-**Stars:** ⭐⭐⭐⭐⭐
-
-#### receiving-code-review
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Constructive feedback integration and iteration on review comments.
-**Use Case:** Responding to PR feedback, implementing requested changes
-**Stars:** ⭐⭐⭐⭐
-
-#### using-git-worktrees
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Parallel development branches for context switching optimization.
-**Use Case:** Juggling multiple features, emergency hotfixes, experimental branches
-**Stars:** ⭐⭐⭐⭐⭐
-
-#### finishing-a-development-branch
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Guides merge/PR decisions and maintaining clean git history.
-**Use Case:** Preparing features for merge, cleaning up commit history
-**Stars:** ⭐⭐⭐⭐
-
-#### brainstorming
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Socratic design refinement and feature exploration through guided questioning.
-**Use Case:** Architecture decisions, API design, feature planning
-**Stars:** ⭐⭐⭐⭐
-
-#### writing-plans
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Creates detailed implementation strategies and architecture documentation.
-**Use Case:** Complex features, system design, technical specs
-**Stars:** ⭐⭐⭐⭐⭐
-
-#### executing-plans
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Batch execution with checkpoints for progress tracking and recovery.
-**Use Case:** Large refactors, multi-step implementations
-**Stars:** ⭐⭐⭐⭐
-
-#### pr-review
-**Source:** [priyank766/OpenSource-SKILL](https://github.com/priyank766/OpenSource-SKILL) | **Verified:** ⏳
-**Description:** Detection-first pull request review; a weighted 10-point filter keeps only the 2-3 findings worth a comment.
-**Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
-**Stars:** ⭐⭐⭐
-
----
-
-### ⚙️ Development & Architecture
-
-#### mcp-builder
-**Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
-**Description:** Create high-quality Model Context Protocol servers for external integrations.
-**Use Case:** Building custom MCP servers, extending Claude's capabilities
-**Stars:** ⭐⭐⭐⭐⭐
-
-#### artifacts-builder
-**Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
-**Description:** Build complex claude.ai HTML artifacts using React, Tailwind CSS, and shadcn/ui.
-**Use Case:** Interactive demos, prototypes, data visualizations
-**Stars:** ⭐⭐⭐⭐
-
-#### novu-agent-skills
-**Source:** [novuhq/skills](https://github.com/novuhq/skills)
-**Description:** Build Novu notification workflows and connect an agent to Slack, Microsoft Teams, WhatsApp, Telegram, and email.
-**Use Case:** Multi-channel notifications, in-app inbox, and agent chat channels
-
-#### api-development
-**Status:** Community-needed
-**Description:** RESTful API design patterns with OpenAPI/Swagger generation.
-**Use Case:** Building backend services, documenting APIs
-
-#### database-migration
-**Status:** Community-needed
-**Description:** Schema version management and safe migration patterns for production.
-**Use Case:** Database evolution, schema changes, data migrations
-
-#### refactoring-patterns
-**Status:** Community-needed
-**Description:** Code smell detection and systematic refactoring techniques.
-**Use Case:** Legacy code modernization, improving code quality
-
----
-
-### 🔒 Security & Performance
-
-#### security-review
-**Status:** Community-needed
-**Description:** Automated vulnerability scanning and OWASP compliance checks.
-**Use Case:** Security audits, pre-deployment checks, compliance validation
-
-#### dependency-audit
-**Status:** Community-needed
-**Description:** Supply chain security analysis with CVE detection in dependencies.
-**Use Case:** Regular security checks, updating vulnerable packages
-
-#### performance-optimization
-**Status:** Community-needed
-**Description:** Algorithmic improvements and resource usage optimization strategies.
-**Use Case:** Improving application speed, reducing memory footprint
-
-#### load-testing
-**Status:** Community-needed
-**Description:** Stress testing patterns and performance benchmarking.
-**Use Case:** Capacity planning, finding breaking points
-
----
-
-### 📚 Documentation & Automation
-
-#### process-builder
-**Source:** [Castaldo-Solutions/process-builder](https://github.com/Castaldo-Solutions/process-builder) | **Verified:** ⏳
-**Description:** Interviews you about a business process and generates a BPMN swimlane diagram as a .drawio file.
-**Use Case:** Process mapping, AS-IS analysis with pain points, TO-BE automation roadmaps
-**Stars:** ⭐⭐⭐
-
-#### documentation-generator
-**Status:** Community-needed
-**Description:** Auto-generate API documentation and keep docs synchronized with code.
-**Use Case:** Maintaining up-to-date documentation, API references
-
-#### changelog-automation
-**Status:** Community-needed
-**Description:** Conventional commits integration with automated release note generation.
-**Use Case:** Release management, version tracking
-
-#### ci-cd-integration
-**Status:** Community-needed
-**Description:** GitHub Actions workflow creation and automated deployment pipelines.
-**Use Case:** DevOps automation, continuous delivery
-
----
-
-### 🎬 Media & Content Creation
-
-#### bria-ai
-**Source:** [Bria-AI/bria-skill](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) | **Verified:** ⏳
-**Description:** Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, transparent PNGs.
-**Use Case:** Hero images, product photos, icons, and cutouts for web, e-commerce, and marketing pipelines
-**Stars:** ⭐⭐⭐⭐
-
-#### canvas-design
-**Source:** Community | **Verified:** ⏳
-**Description:** Create visual designs and graphics using Claude's canvas capabilities.
-**Use Case:** Quick mockups, diagrams, visual brainstorming
-**Stars:** ⭐⭐⭐
-
-#### slack-gif-creator
-**Source:** Community | **Verified:** ⏳
-**Description:** Generate custom GIFs for Slack communication and team engagement.
-**Use Case:** Team communication, visual humor, notifications
-**Stars:** ⭐⭐
-
-#### algorithmic-art
-**Source:** Community | **Verified:** ⏳
-**Description:** Generate procedural art and visualizations using code-based techniques.
-**Use Case:** Creative coding, data visualization, generative design
-**Stars:** ⭐⭐⭐
-
-#### video-editing-helper
-**Status:** Community-needed
-**Description:** Assist with video editing workflows, ffmpeg commands, and transitions.
-**Use Case:** Video production, content creation, media processing
-
----
-
-### 📊 Data & Analysis
-
-#### claude-ecom
-**Source:** [takechanman1228/claude-ecom](https://github.com/takechanman1228/claude-ecom) | **Verified:** ⏳
-**Description:** Ecommerce business review: turn order CSVs into KPI trees, ~30 health checks, RFM cohorts, and action plans across 30d/90d/365d
-**Use Case:** Monthly D2C business reviews, revenue/retention/margin diagnostics, automated consultant-quality analysis
-**Stars:** ⭐⭐⭐
-
-#### data-visualization
-**Status:** Community-needed
-**Description:** Create charts, graphs, and interactive visualizations from datasets.
-**Use Case:** Data exploration, reporting, presentation of insights
-
-#### sql-query-builder
-**Status:** Community-needed
-**Description:** Generate optimized SQL queries with proper indexing and performance tuning.
-**Use Case:** Database queries, data extraction, performance optimization
-
-#### csv-processing
-**Status:** Community-needed
-**Description:** Parse, transform, and analyze CSV files with data cleaning and validation.
-**Use Case:** Data migration, ETL processes, data quality checks
-
----
-
-### 💰 Finance & Tax
-
-#### itr-wala
-**Source:** [karanb192/itr-wala](https://github.com/karanb192/itr-wala) | **Verified:** ✅
-**Description:** Prepares Indian income-tax returns (AY 2026-27): AI reads Form 16/AIS, deterministic Python computes every rupee.
-**Use Case:** Filing ITR-1/2/3/4 yourself: both regimes compared, deductions interviewed, portal walkthrough
-**Stars:** ⭐⭐⭐
-
-#### file-itr
-**Source:** [shivprime94/file-itr](https://github.com/shivprime94/file-itr) | **Verified:** ✅
-**Description:** The first Indian ITR skill: prompt-driven portal walkthrough with hard-won field notes and AIS research.
-**Use Case:** Prompt-based guidance through the income-tax portal for Indian returns
-**Stars:** ⭐⭐⭐
-
----
-
-### ✍️ Writing & Research
-
-#### brand-guidelines
-**Source:** Community | **Verified:** ⏳
-**Description:** Maintain and enforce brand voice, style, and messaging consistency.
-**Use Case:** Content creation, marketing materials, company communications
-**Stars:** ⭐⭐⭐⭐
-
-#### business-name-fit
-**Source:** [Elham-Farajnejad/business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | **Verified:** ⏳
-**Description:** Picks or vets a business name that stays authentic to your culture while working in your target market, via 8 cross-cultural checks.
-**Use Case:** Naming a company or product across languages; catching a name that reads well at home but fails abroad
-**Stars:** ⭐⭐⭐
-
-#### internal-comms
-**Source:** Community | **Verified:** ⏳
-**Description:** Draft internal communications, memos, and team announcements.
-**Use Case:** HR communications, team updates, policy announcements
-**Stars:** ⭐⭐⭐
-
-#### research-assistant
-**Status:** Community-needed
-**Description:** Gather, synthesize, and cite sources for research projects.
-**Use Case:** Academic research, market analysis, competitive intelligence
-
-#### technical-writing
-**Status:** Community-needed
-**Description:** Create clear technical documentation following industry best practices.
-**Use Case:** API docs, user manuals, technical specifications
-
----
-
-### 🎯 Meta Skills
-
-#### skill-creator
-**Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
-**Description:** Teaches methods for developing effective skills following best practices.
-**Use Case:** Building custom skills, contributing to the ecosystem
-**Stars:** ⭐⭐⭐⭐⭐
-
-#### template-skill
-**Source:** [anthropics/skills](https://github.com/anthropics/skills) | **Verified:** ✅
-**Description:** Minimal skeleton for new skill projects with proper structure.
-**Use Case:** Starting new skills from scratch
-**Stars:** ⭐⭐⭐⭐
-
-#### writing-skills
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Creating skills following best practices with proper YAML frontmatter.
-**Use Case:** Contributing new skills, maintaining skill quality
-**Stars:** ⭐⭐⭐⭐
-
-#### sharing-skills
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Contributing skills via branches and pull requests to community repositories.
-**Use Case:** Open-source contributions, sharing expertise
-**Stars:** ⭐⭐⭐
-
-#### testing-skills-with-subagents
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Validating skill quality and effectiveness using subagent-driven testing.
-**Use Case:** Quality assurance for skills, debugging skill behavior
-**Stars:** ⭐⭐⭐⭐
-
-#### subagent-driven-development
-**Source:** [obra/superpowers](https://github.com/obra/superpowers) | **Verified:** ✅
-**Description:** Quality-gated iteration with multi-agent workflows for complex tasks.
-**Use Case:** Large-scale refactoring, parallel development streams
-**Stars:** ⭐⭐⭐⭐⭐
-
----
+# ![Awesome Claude Skills](assets/header.svg)
+
+Find a skill for the task at hand. A community directory for
+[Claude Code](https://code.claude.com/docs/en/skills),
+[Claude.ai and the API][anthropic-install].
+
+**[Browse skills](#browse-skills)** · [Install your first skill](#quick-start) ·
+[Collections](#skill-collections) · [Contribute](CONTRIBUTING.md)
+
+<a id="featured-skills"></a>
+
+## Pick a starting point
+
+| Your next task | Try this |
+| --- | --- |
+| Extract tables from a PDF | [pdf][pdf] |
+| Find why a test keeps failing | [systematic-debugging][debugging] |
+| Build a feature with tests first | [test-driven-development][tdd] |
+| Create a Word document | [docx][docx] |
+| Turn a repeated task into a skill | [skill-creator][creator] |
+
+## Browse skills
+
+| Code | Create | Work |
+| --- | --- | --- |
+| [Testing](#testing--quality) | [Files](#document--file-processing) | [Workflow](#collaboration--workflow) |
+| [Debugging](#debugging--troubleshooting) | [Media](#media--content-creation) | [Data](#data--analysis) |
+| [Build apps](#development--architecture) | [Writing](#writing--research) | [Finance & tax](#finance--tax) |
+| [Security](#security--performance) | [Skills](#meta-skills) | [Automation](#documentation--automation) |
+
+Skill names link to their source. Read the install guide there before enabling
+a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to search.
+
+<a id="skill-categories"></a>
+<a id="-document--file-processing"></a>
+
+### Document & File Processing
+
+| Skill | Use it to |
+| --- | --- |
+| [cue-omni-reader](https://github.com/sensedeal/cue-skills/tree/main/cue-omni-reader) | Parse documents and web sources into text through the Cue Omni Reader MCP service. |
+| [docx][docx] | Create and edit Word documents with tracked changes and comments. |
+| [equalang](https://github.com/equalang/equalang-skill) | Translate files or transcribe recordings through Equalang using an API key and credits. |
+| [pdf][pdf] | Extract text and tables, combine PDFs, and fill forms. |
+| [pptx][pptx] | Create, edit, and inspect PowerPoint presentations. |
+| [translate-book](https://github.com/kcy4334-lgtm/translate-book-arxiv) | Translate papers and books with a LaTeX-source route for preserving arXiv equations and tables. |
+| [xlsx][xlsx] | Build and edit spreadsheets with formulas and formatting. |
+
+<a id="-testing--quality"></a>
+
+### Testing & Quality
+
+| Skill | Use it to |
+| --- | --- |
+| [agent-qa-authoring](https://github.com/vostride/agent-qa/tree/main/skills/agent-qa-authoring) | Author and validate agent-qa tests and IDs; source license restricts competing use. |
+| [design-fidelity-verify](https://github.com/jeltehomminga/figma-design-skills/tree/main/skills/design-fidelity-verify) | Compare measured values in a running app with a Figma design specification. |
+| [ironloop](https://github.com/edouard-claude/ironloop/tree/main/skills/engineering/ironloop) | Plan Rust work through specifications, tests, simulation, and authorized security checks. |
+| [never-again](https://github.com/malaysherasia-ai/claude-never-again/tree/main/skills/never-again) | Capture repaired bugs as enforceable hooks or brief lessons for future sessions. |
+| [test-checklist](https://github.com/Ifeanyiejindu/qarunbook/tree/main/plugins/qarunbook/skills/test-checklist) | Derive a QA plan from app code with steps and expected results for each platform. |
+| [test-driven-development][tdd] | Write a failing test, implement the change, then refactor. |
+| [webapp-testing][webapp-testing] | Exercise a local web app with Playwright and inspect its behavior. |
+| [what-could-break](https://github.com/stas4000/what-could-break/tree/main/what-could-break) | Trace a change through consumers, stored data and duplicated rules, then design a concrete check for the critical assumption. |
+
+<a id="-debugging--troubleshooting"></a>
+
+### Debugging & Troubleshooting
+
+| Skill | Use it to |
+| --- | --- |
+| [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace) | Inspect agent sessions for cost, tokens, failures, and latency. |
+| [systematic-debugging][debugging] | Investigate a bug's cause before attempting a fix. |
+| [verification-before-completion][verification] | Run checks and inspect their output before calling work done. |
+
+<a id="-collaboration--workflow"></a>
+
+### Collaboration & Workflow
+
+| Skill | Use it to |
+| --- | --- |
+| [a2ui-ask](https://github.com/YuniqueUnic/a2ui-ask) | Collect structured user input through a browser form and JSON answer files. |
+| [ai-meeting](https://github.com/bin1874/ai-meeting-skill/tree/main/ai-meeting) | Run structured proposal reviews with CLI agents and preserve each agent session between rounds. |
+| [ax-extract-workflow](https://github.com/Necmttn/ax) | Reconstruct a shipped feature's workflow from local ax session history. |
+| [brainstorming][brainstorming] | Work through requirements and design choices before implementation. |
+| [clueless](https://github.com/ADanMan/clueless/tree/main/skills/clueless) | Name assumptions, irreversible steps, and review gaps when a user needs extra guidance. |
+| [dialog-tree](https://github.com/ikotelkin/claude-skills/tree/main/skills/dialog-tree) | Track conversation branches in an interactive dialogue tree. |
+| [executing-plans][executing-plans] | Carry out an implementation plan with review checkpoints. |
+| [finishing-a-development-branch][finishing] | Decide how to integrate finished work and clean up the branch. |
+| [kgai knowledge-graph](https://github.com/kgaidev/kgai) | Capture project decisions and domain knowledge in a linked graph through the kgai CLI. |
+| [mindpalace](https://github.com/aashutosh396/mindpalace-skill) | Organize a local knowledge vault around resources, project pointers, logs, and runbooks. |
+| [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Inspect recorded agent runs and replay or fork them through Orca MCP. |
+| [pr-review](https://github.com/priyank766/OpenSource-SKILL) | Filter a pull request review down to actionable findings. |
+| [receiving-code-review][receiving-review] | Evaluate review feedback and work through requested changes. |
+| [requesting-code-review][requesting-review] | Request a review before work proceeds or merges. |
+| [shipreel](https://github.com/theBstar/shipreel/tree/main/plugins/shipreel/skills/shipreel) | Render a narrated PR walkthrough with diagrams, code panels, and optional app recordings. |
+| [slop-post](https://github.com/useslop/claude-plugins/tree/main/plugins/slop/skills/slop-post) | Create a private Slop draft from a session with a receipt of model, tools, and commits. |
+| [tlgr](https://github.com/tlgrcli/tlgr/tree/main/plugin/skills/tlgr) | Read, search, and manage a personal Telegram account through a JSON CLI. |
+| [using-git-worktrees][worktrees] | Work in isolated checkouts for separate development tasks. |
+| [working-memory](https://github.com/ikotelkin/claude-skills/tree/main/skills/working-memory) | Preserve a bounded work checkpoint across context compaction. |
+| [writing-plans][writing-plans] | Break a specification into implementation steps. |
+
+<a id="️-development--architecture"></a>
+
+### Development & Architecture
+
+| Skill | Use it to |
+| --- | --- |
+| [anti-slop-design](https://github.com/wwewtech/anti-slop-design/tree/main/skills/anti-slop-design) | Review and refine UI typography, color tokens, interactions, and accessibility. |
+| [birdview](https://github.com/Qiuner/birdview) | Map architecture, constraints, and planned changes back to source evidence. |
+| [build-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/build-with-better-design) | Select and install a design system through the Better Design MCP service. |
+| [dropthehassle-publish](https://github.com/bosmdavid-gif/dropthehassle-skill/tree/main/skills/dropthehassle-publish) | Publish built static sites through DropTheHassle and connect an existing backend. |
+| [enterprise-architect](https://github.com/rafalr100/enterprise-architect-skill/tree/main/skills/enterprise-architect) | Plan target architectures, capability maps, decision records, and technology roadmaps. |
+| [figma-design-extract](https://github.com/jeltehomminga/figma-design-skills/tree/main/skills/figma-design-extract) | Extract Figma values into a design specification mapped to the project tokens. |
+| [keyboard-shortcuts](https://github.com/nparashar150/claude-keyboard-shortcuts/tree/main/skills/keyboard-shortcuts) | Audit and implement web-app shortcuts, command palettes, and keyboard help. |
+| [mcp-builder][mcp-builder] | Build Model Context Protocol servers that connect tools and APIs to Claude. |
+| [pit-stop](https://github.com/Finn763/pit-stop) | Find a small repository maintenance fix, support it with evidence, and review the patch. |
+| [regulex-plus](https://github.com/PipeDream941/regulex-plus) | Render JavaScript regular expressions as SVG, PNG, or Mermaid diagrams through a CLI. |
+| [tastegate](https://github.com/stas4000/tastegate/tree/main/tastegate) | Build a frontend from a design brief, then check layout, contrast and other visible defects with a bundled Playwright browser gate. |
+| [tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-skill) | Recall, capture, audit, and forget durable project memory through Tree Ring Memory. |
+| [unflat](https://github.com/merturl4576/unflat) | Add visual depth to web marketing pages through a bounded CSS treatment. |
+| [web-artifacts-builder][artifacts] | Build web artifacts with React, Tailwind CSS, and shadcn/ui. |
+
+<a id="-security--performance"></a>
+
+### Security & Performance
+
+| Skill | Use it to |
+| --- | --- |
+| [awesome-bug-bounty](https://github.com/YangTech-gh/Awesome-Bug-Bounty/tree/main/skills/awesome-bug-bounty) | Plan authorized bug-bounty research with scope checks, vulnerability guides, and report templates. |
+| [claude-security-skills](https://github.com/NovaCode37/claude-security-skills) | Check secrets, Python code, dependencies, containers, JWTs, CORS, and HTTP headers. |
+| [gedik](https://github.com/onur-kesim/gedik/tree/main/skills/gedik) | Audit authorized project surfaces and attach reproducible evidence to security findings. |
+| [SecHelix](https://github.com/omarmohelal/SecHelix/tree/main/skills/sechelix) | Review authorized local code for security issues with evidence and a refutation pass. |
+
+<a id="-documentation--automation"></a>
+
+### Documentation & Automation
+
+| Skill | Use it to |
+| --- | --- |
+| [linkedin-outreach](https://github.com/vanshyadav1408/Omentir/tree/main/plugins/omentir/skills/linkedin-outreach) | Research prospects, draft outreach, and inspect campaigns through Omentir MCP. |
+| [okf](https://github.com/mattjoyce/okf-skill/tree/master/skills/okf) | Author and validate Open Knowledge Format bundles of linked Markdown concept files. |
+| [process-builder](https://github.com/Castaldo-Solutions/process-builder) | Turn a process interview into a BPMN swimlane diagram in a .drawio file. |
+
+<a id="-media--content-creation"></a>
+
+### Media & Content Creation
+
+| Skill | Use it to |
+| --- | --- |
+| [3d-logo](https://github.com/hasuwini77/3d-logo-skill/tree/main/skills/3d-logo) | Build a rotating 3D logo component with React Three Fiber. |
+| [algorithmic-art][algorithmic-art] | Create generative art with p5.js. |
+| [bria-ai](https://github.com/Bria-AI/bria-skill/tree/dev/skills/bria-ai) | Generate and edit images or remove backgrounds through the Bria API. |
+| [canvas-design][canvas-design] | Create visual designs as PNG and PDF files. |
+| [film-crew](https://github.com/HEOJUNFO/ai-film-crew/tree/master/skills/film-crew) | Plan AI-video shots and write prompts with camera, lighting, and continuity guidance. |
+| [kavel-image](https://github.com/hanshs474/kavel-image-skill) | Generate images through Kavel's anonymous submit-and-poll API within its free allowance; photo edits require a Kavel API key. |
+| [screenbrowser](https://github.com/screenbrowser/skill/tree/main/skills/screenbrowser) | Produce narrated web-app tutorials through the Screen Browser MCP service. |
+| [slack-gif-creator][slack-gif-creator] | Make animated GIFs sized for Slack. |
+| [table-sheet](https://github.com/netmobster/unstuck-games/tree/main/plugins/table-sheet) | Turn a D&D Beyond character sheet into a play guide and pre-session checklist. |
+
+<a id="-data--analysis"></a>
+
+### Data & Analysis
+
+| Skill | Use it to |
+| --- | --- |
+| [claude-ecom](https://github.com/takechanman1228/claude-ecom) | Review ecommerce order CSVs for revenue, retention, and margin patterns. |
+| [invoice-winning-numbers](https://github.com/tahodev/baodao-skill/tree/main/invoice-winning-numbers) | Look up Taiwan invoice winning numbers by period from official sources. |
+| [pvr-inox-radar](https://github.com/karanb192/pvr-inox-radar/tree/main/skills/pvr-inox-radar) | Map PVR INOX showtimes in India with seats-together counts and travel-time estimates. |
+
+<a id="-finance--tax"></a>
+
+### Finance & Tax
+
+| Skill | Use it to |
+| --- | --- |
+| [file-itr](https://github.com/shivprime94/file-itr) | Follow a guided walkthrough of India's income-tax filing portal. |
+| [furusato-nozei](https://github.com/tahodev/kurashi-skill/tree/main/furusato-nozei) | Estimate Japan's hometown-tax donation cap with stated assumptions and official sources. |
+| [itr-wala](https://github.com/karanb192/itr-wala) | Prepare Indian income-tax returns using document extraction and Python calculations. |
+
+<a id="️-writing--research"></a>
+
+### Writing & Research
+
+| Skill | Use it to |
+| --- | --- |
+| [brand-guidelines][brand-guidelines] | Apply Anthropic's brand colors and typography to artifacts. |
+| [business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | Assess a business name across cultures, languages, and target markets. |
+| [goethecoach](https://github.com/janosszaboaipm-design/goethecoach-claude-skill/tree/main/goethecoach) | Practise Goethe exam writing, reading, and speaking with rubric-based feedback. |
+| [grill](https://github.com/mtangoz/grill/tree/main/skills/grill) | Challenge a decision with an outside model and name tests that could settle the doubts. |
+| [grounded](https://github.com/jostelzer/grounded/tree/main/skills/grounded) | Draft scientific literature reviews with live source discovery and citation checks. |
+| [humanize-chinese](https://github.com/swaylq/humanize-chinese) | Edit Chinese prose with rewriting, phrase cleanup, and local checks; non-commercial license. |
+| [humanize-pro](https://github.com/msdanyg/humanize-pro) | Rewrite or audit prose against a saved voice profile and publishing-channel rules. |
+| [humanizer-ru](https://github.com/ilyautov/humanizer-ru) | Edit Russian prose for its audience while preserving facts, voice, and protected text. |
+| [internal-comms][internal-comms] | Draft updates, newsletters, and other internal communications. |
+| [Say it plainly](https://github.com/adjustleads/provenskills-free-packs/tree/main/plain-writing/say-it-plainly) | Rewrite prose for a reader without changing its claims. Noncommercial license. |
+| [structured-gist](https://github.com/domattioli/structured-gist/tree/main/skills/structured-gist) | Format explanations and process recaps as nested outlines for skimming. |
+| [tldr](https://github.com/SurefireStudios/tldr/tree/main/skills/tldr) | Lead with a short summary while preserving full details and critical caveats. |
+| [zh-tw-humanizer](https://github.com/acchuang/zh-tw-humanizer) | Edit Traditional Chinese prose with Taiwan terminology and protected-fact rules. |
+
+<a id="-meta-skills"></a>
+
+### Meta Skills
+
+| Skill | Use it to |
+| --- | --- |
+| [prime-worker](https://github.com/alperiox/prime-worker) | Delegate multi-turn tasks to persistent local prime-agent worker sessions. |
+| [skill-creator][creator] | Create skills, evaluate them, and refine their descriptions. |
+| [subagent-driven-development][subagents] | Implement a plan through delegated tasks and review steps. |
+| [template-skill][template] | Start a skill from a minimal `SKILL.md` template. |
+| [writing-skills][writing-skills] | Write and test skill instructions before distributing them. |
+
+[Back to categories ↑](#browse-skills)
 
 ## Skill Collections
 
-Looking for curated skill bundles? Start with these collections:
+Browse these repositories when you want a related set of skills.
 
-| Collection | Skills | Maintainer | Focus Area |
-|------------|--------|------------|------------|
-| [obra/superpowers](https://github.com/obra/superpowers) | 20+ | @obra | Development workflows & best practices |
-| [anthropics/skills](https://github.com/anthropics/skills) | 10+ | @anthropics | Official skills & document processing |
-| [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | 49 | @coreyhaines31 | Marketing: SEO, copywriting, cold email, pricing, CRO, ads, analytics |
-| [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | 67 | @JasonColapietro | Code quality, design, marketing & shipping |
-| [inhouseseo/superseo-skills](https://github.com/inhouseseo/superseo-skills) | 11 | @inhouseseo | SEO audits, content writing, link building, E-E-A-T |
-| [kpab/claude-fable-5-skills](https://github.com/kpab/claude-fable-5-skills) | 10 | @kpab | Fable 5-native skills: effort calibration, scope guarding & subagent orchestration |
-| [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills) | 3 | @ZengLiangYi | Local-first memory recall and writeback for AI coding sessions |
-| [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) | 45 | @Affitor | Affiliate marketing full funnel: research, content, SEO, landing pages, distribution, analytics, automation |
-| [noizai/skills](https://github.com/noizai/skills) | 2+ | @noizai | TTS dubbing and companion voice presets |
+| Collection | Focus |
+| --- | --- |
+| [Anthropic skills](https://github.com/anthropics/skills) | Document processing, design, development, and skill examples. |
+| [Superpowers](https://github.com/obra/superpowers) | Planning, testing, debugging, and development workflows. |
+| [Affiliate Skills](https://github.com/Affitor/affiliate-skills) | Affiliate research, content, distribution, and analytics. |
+| [Agent Skills English Productivity Pack](https://github.com/alapha888/agent-skills-en) | Meeting notes, proofreading, research, code review, and commit messages. |
+| [AI sales skills](https://github.com/Marchenko-sales/ai-sales-skills) | Company research, sales qualification, and business outreach workflows in Russian. |
+| [Baodao skills](https://github.com/tahodev/baodao-skill) | Taiwan public-service lookups for invoices, weather, alerts, transit, and public data. |
+| [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills) | Local memory recall and writeback for coding sessions. |
+| [claude-fable-5-skills](https://github.com/kpab/claude-fable-5-skills) | Effort calibration, scope control, and subagent orchestration. |
+| [E-commerce skills](https://github.com/mardab96/ecommerce-claude-skills) | Review checkout, product content, margin, inventory, retention, and disputes from store data. |
+| [Growth Cab GTM Skills](https://github.com/federicodon/growthcab-gtm-skills) | Sending-domain checks, cold-email grading, lead-list QA, and meeting benchmarks. |
+| [Kudosity skills](https://github.com/kudosity/skills) | SMS, MMS, WhatsApp, RCS, contact lists, and delivery webhooks through Kudosity. |
+| [Kurashi skills](https://github.com/tahodev/kurashi-skill) | Japan public-service lookups for weather, alerts, holidays, taxes, and libraries. |
+| [Mamba Labs Skills](https://github.com/mambalabsdev/mamba-labs-skills) | Prospect research, CRM operations, email deliverability, and go-to-market workflows; some use Apify. |
+| [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | SEO, copywriting, email, pricing, advertising, and analytics. |
+| [mblode/agent-skills](https://github.com/mblode/agent-skills) | UI, typography, developer experience, documentation, review, and release workflows. |
+| [noizai/skills](https://github.com/noizai/skills) | Text-to-speech dubbing and companion voice presets. |
+| [Novu skills](https://github.com/novuhq/skills) | Build Novu notification workflows, inboxes, preferences, and hosted agent channels. |
+| [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Code quality, design, marketing, and shipping. |
+| [superseo-skills](https://github.com/inhouseseo/superseo-skills) | SEO audits, content writing, and link building. |
+| [YYLO skills](https://github.com/yylo-dev/yylo-skills) | Manage tasks, artifacts, benchmarks, and durable work records through the YYLO CLI. |
 
----
+<a id="how-to-install-skills"></a>
+
+## Quick Start
+
+Install Anthropic's document skills in Claude Code from your terminal.
+
+```bash
+claude plugin marketplace add anthropics/skills
+claude plugin install document-skills@anthropic-agent-skills
+```
+
+Provide a PDF, then ask Claude to extract its form fields. Compare the result
+with your file. [Read Anthropic's installation guide][anthropic-install].
+
+<details>
+<summary><strong>Other collections, standalone skills, and updates</strong></summary>
+
+Use each source repository's install guide. Collections may ship as plugins,
+individual folders, or both. Choose one route for each collection.
+
+For a standalone Claude Code skill, put its folder in
+`~/.claude/skills/<skill-name>/` for personal use, or
+`.claude/skills/<skill-name>/` for one project. Keep `SKILL.md` and its supporting
+files together. See the [Claude Code skill guide][skill-guide].
+
+Follow the [plugin update guide][plugin-updates] for plugin installs.
+For standalone folders, use the source repository's update instructions.
+Cloning this directory does not install the listed skills.
+
+</details>
 
 ## FAQ
 
-### How do I know if a skill is working?
+<a id="what-are-skills"></a>
 
-Skills load automatically when Claude detects they're relevant. You'll see Claude using skill-specific patterns (like RED-GREEN-REFACTOR for TDD). To check installed skills:
-```bash
-ls ~/.claude/skills/
-```
+<details>
+<summary><strong>What is a skill?</strong></summary>
 
-### Can I use multiple skills at once?
+A skill is a folder containing instructions in `SKILL.md`, with optional
+scripts and resources. Claude loads it when relevant to a task, or you can
+invoke it directly. See the [skill guide][skill-guide].
 
-Yes! Skills are composable. Claude automatically loads and coordinates multiple skills as needed. For example, you might use `test-driven-development` + `systematic-debugging` + `using-git-worktrees` simultaneously.
+</details>
 
-### Do skills work on all platforms?
+<details>
+<summary><strong>Does every skill work in every Claude app?</strong></summary>
 
-Yes! Skills use the same format across Claude Code CLI, Claude.ai, and the Claude API. Install once, use everywhere.
+The format is shared, but tools and installation differ by host. A Claude Code
+plugin does not install itself in Claude.ai or the API. Check the source's
+supported environments and [Anthropic's separate install routes][anthropic-install].
 
-### How do I update skills?
+</details>
 
-```bash
-cd ~/.claude/skills/skill-name
-git pull origin main
-```
+<a id="skills-vs-mcp-vs-system-prompts"></a>
 
-### Can I create my own skills?
+<details>
+<summary><strong>Skills, MCP, or project instructions?</strong></summary>
 
-Absolutely! Check out the [skill-creator](https://github.com/anthropics/skills) skill and our [Contributing Guide](CONTRIBUTING.md) for best practices.
+| You need | Use |
+| --- | --- |
+| A repeatable task or workflow | [Skills][skill-guide] |
+| Access to an external service or tool | [Model Context Protocol (MCP)][mcp-guide] |
+| Conventions Claude reads for a project | [Project instructions][memory-guide] |
 
-### Do skills consume tokens?
+</details>
 
-Minimal! Each skill uses only 30-50 tokens until Claude loads it. Once loaded, only relevant portions are used.
+<details>
+<summary><strong>Are the listed skills tested or audited?</strong></summary>
 
-### What's the difference between skills and MCP servers?
+This is a community directory, not a certification program. Read the source
+instructions and scripts, then try the skill on a task whose result you can
+check. Report broken links or incorrect descriptions through [issues][suggest].
 
-See the [comparison table](#skills-vs-mcp-vs-system-prompts) above. TL;DR: Skills for workflows, MCP for external tools.
+</details>
 
-### Where can I find more skills?
+<details>
+<summary><strong>Can I create or contribute a skill?</strong></summary>
 
-- [obra/superpowers](https://github.com/obra/superpowers) - 20+ battle-tested skills
-- [anthropics/skills](https://github.com/anthropics/skills) - Official Anthropic skills
-- [claudeskills.info](https://claudeskills.info/) - Searchable directory
-- This list! Browse the categories above
+Start with [skill-creator][creator] or the [template][template]. To add a
+listing, follow the [contribution guide](CONTRIBUTING.md).
 
-### Can I share my skills?
+</details>
 
-Yes! Submit a PR to this repo or publish your own repository. Use the [sharing-skills](https://github.com/obra/superpowers) skill for guidance.
+## Skill ideas
 
-### Are there any security concerns?
+These are requests for contributions, not skills you can install.
+Know an implementation? [Suggest its source][suggest].
 
-Skills can execute code, so only install from trusted sources. Review the skill's `SKILL.md` and any scripts before installing. Look for the ✅ Verified badge on skills that have been community-reviewed.
+<details>
+<summary><strong>Browse ideas by category</strong></summary>
 
----
+| Category | Ideas awaiting a source |
+| --- | --- |
+| Testing | e2e-testing-skill, snapshot-testing |
+| Debugging | performance-profiling |
+| Development | api-development, database-migration, refactoring-patterns |
+| Security & performance | security-review, dependency-audit, performance-optimization, load-testing |
+| Documentation | documentation-generator, changelog-automation, ci-cd-integration |
+| Media | video-editing-helper |
+| Data | data-visualization, sql-query-builder, csv-processing |
+| Writing | research-assistant, technical-writing |
+
+</details>
+
+<details>
+<summary><strong>Looking for an entry from an older version of this list?</strong></summary>
+
+Some entries now live inside other skills or use a different name.
+
+| Earlier entry | Current source |
+| --- | --- |
+| artifacts-builder | [web-artifacts-builder][artifacts] |
+| condition-based-waiting | [Supporting guide in systematic-debugging][waiting] |
+| defense-in-depth | [Supporting guide in systematic-debugging][defense] |
+| root-cause-tracing | [Supporting guide in systematic-debugging][tracing] |
+| testing-skills-with-subagents | [Supporting guide in writing-skills][testing-skills] |
+| testing-anti-patterns, sharing-skills | No standalone skill found in the [current Superpowers catalog][superpowers-catalog]. |
+
+</details>
 
 ## Resources
 
-### Official Documentation
-- [Agent Skills Documentation](https://docs.claude.com/en/docs/claude-code/skills) - Official Anthropic skills docs
-- [Skills Announcement](https://www.anthropic.com/news/skills) - Claude Skills launch announcement
-- [Engineering Deep Dive](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) - Technical details
+- [Claude Code skill guide][skill-guide]
+- [Agent Skills specification](https://agentskills.io/specification)
+- [How Anthropic designed Skills][skills-deep-dive]
+- [Skills announcement](https://www.anthropic.com/news/skills)
+- [Simon Willison on Claude Skills][simon-skills]
+- [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
+- [awesome-claude](https://github.com/alvinunreal/awesome-claude)
+- [Claude Skills Hub](https://claudeskills.info/)
+- [Claudebin](https://claudebin.com) and its
+  [source](https://github.com/wunderlabs-dev/claudebin.com/)
+- [AgentHub](https://myagenthub.cn): offers a Chinese-language directory of MCP
+  servers and agent skills.
+- [Hypit video guide](https://hypit.video/guides/how-to-clone-a-video/): walks
+  through planning and rendering a video from a reference format.
 
-### Official Repositories
-- [anthropics/skills](https://github.com/anthropics/skills) - Official Anthropic skills repository
-- [obra/superpowers](https://github.com/obra/superpowers) - Battle-tested core skills library (20+ skills)
-
-### Related Awesome Lists
-- [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Commands, workflows, and tools for Claude Code
-- [awesome-claude](https://github.com/alvinunreal/awesome-claude) - General Claude resources
-
-### Community Resources
-- [Claude Skills Hub](https://claudeskills.info/) - Searchable skills directory
-- [Simon Willison's Blog](https://simonwillison.net/2025/Oct/16/claude-skills/) - "Claude Skills are awesome, maybe a bigger deal than MCP"
-- [Claudebin](https://claudebin.com) ([GitHub](https://github.com/wunderlabs-dev/claudebin.com/)) - A minimalistic tool for publishing and sharing Claude coding sessions
-
-### Tools & Utilities
-- [create-claude-skill](https://github.com/anthropics/skills) - Interactive skill creator
-- [template-skill](https://github.com/anthropics/skills) - Minimal skill template
-
----
-
-## Contributors
-
-Thanks to these amazing people who have contributed to this list:
-
-<!-- ALL-CONTRIBUTORS-LIST:START -->
-This awesome list is maintained by the community. Want to see your name here? [Contribute!](#contributing)
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
----
+<a id="contributors"></a>
 
 ## Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+Add a skill, fix a link, or improve a description. Read the
+[contribution guide](CONTRIBUTING.md), then open a pull request.
 
-**Quick contribution checklist:**
-- ✅ Skill has working `SKILL.md` with YAML frontmatter
-- ✅ Clear documentation and use cases
-- ✅ Actively maintained (commits within 6 months)
-- ✅ Relevant to Claude workflows
-- ✅ No security vulnerabilities or malicious code
-
-**Ways to contribute:**
-1. Add new skills to existing categories
-2. Create entirely new categories
-3. Improve skill descriptions
-4. Add usage examples and tutorials
-5. Report broken or outdated skills
-6. Help verify community skills (earn the ✅ badge!)
-
----
+Built with contributions from the [community][contributors], including skills
+from [Anthropic](https://github.com/anthropics/skills) and
+[obra](https://github.com/obra/superpowers).
+Maintained by [Karan Bansal](https://karanbansal.in) · [Blog][blog].
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+[MIT](LICENSE) covers this directory. Each listed skill has its own license.
 
-This awesome list is licensed under MIT. Individual skills maintain their own licenses.
-
----
-
-## Acknowledgments
-
-Special thanks to:
-- **Anthropic** for creating Agent Skills and Claude Code
-- **[@obra](https://github.com/obra)** for the incredible superpowers skills library
-- **The Claude community** for continuous innovation and contributions
-
----
-
-**Star this repo** if you find it helpful! ⭐
-
-**Have a skill to share?** Open a PR or create an issue!
-
-**Questions?** Check the [discussions](../../discussions) or open an issue.
-
----
-
-<div align="center">
-
-### 🚀 Built with skills. For skills. By the community.
-
-**Follow** this repo for updates | **Star** to support | **Contribute** to grow the ecosystem
-
-Maintained by [Karan Bansal](https://karanbansal.in) · [Blog: Claude Code, MCP, production agentic AI](https://karanbansal.in/blog/)
-
-</div>
+[pdf]: https://github.com/anthropics/skills/tree/main/skills/pdf
+[docx]: https://github.com/anthropics/skills/tree/main/skills/docx
+[pptx]: https://github.com/anthropics/skills/tree/main/skills/pptx
+[xlsx]: https://github.com/anthropics/skills/tree/main/skills/xlsx
+[webapp-testing]: https://github.com/anthropics/skills/tree/main/skills/webapp-testing
+[mcp-builder]: https://github.com/anthropics/skills/tree/main/skills/mcp-builder
+[artifacts]: https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder
+[algorithmic-art]: https://github.com/anthropics/skills/tree/main/skills/algorithmic-art
+[canvas-design]: https://github.com/anthropics/skills/tree/main/skills/canvas-design
+[slack-gif-creator]: https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator
+[brand-guidelines]: https://github.com/anthropics/skills/tree/main/skills/brand-guidelines
+[internal-comms]: https://github.com/anthropics/skills/tree/main/skills/internal-comms
+[creator]: https://github.com/anthropics/skills/tree/main/skills/skill-creator
+[template]: https://github.com/anthropics/skills/tree/main/template
+[tdd]: https://github.com/obra/superpowers/tree/main/skills/test-driven-development
+[debugging]: https://github.com/obra/superpowers/tree/main/skills/systematic-debugging
+[verification]: https://github.com/obra/superpowers/tree/main/skills/verification-before-completion
+[brainstorming]: https://github.com/obra/superpowers/tree/main/skills/brainstorming
+[executing-plans]: https://github.com/obra/superpowers/tree/main/skills/executing-plans
+[finishing]: https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch
+[receiving-review]: https://github.com/obra/superpowers/tree/main/skills/receiving-code-review
+[requesting-review]: https://github.com/obra/superpowers/tree/main/skills/requesting-code-review
+[worktrees]: https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees
+[writing-plans]: https://github.com/obra/superpowers/tree/main/skills/writing-plans
+[subagents]: https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development
+[writing-skills]: https://github.com/obra/superpowers/tree/main/skills/writing-skills
+[waiting]: https://raw.githubusercontent.com/obra/superpowers/main/skills/systematic-debugging/condition-based-waiting.md
+[defense]: https://raw.githubusercontent.com/obra/superpowers/main/skills/systematic-debugging/defense-in-depth.md
+[tracing]: https://raw.githubusercontent.com/obra/superpowers/main/skills/systematic-debugging/root-cause-tracing.md
+[testing-skills]: https://raw.githubusercontent.com/obra/superpowers/main/skills/writing-skills/testing-skills-with-subagents.md
+[superpowers-catalog]: https://github.com/obra/superpowers/tree/main/skills
+[anthropic-install]: https://github.com/anthropics/skills#try-in-claude-code-claudeai-and-the-api
+[skill-guide]: https://code.claude.com/docs/en/skills
+[plugin-updates]: https://code.claude.com/docs/en/discover-plugins#keep-plugins-updated
+[mcp-guide]: https://code.claude.com/docs/en/mcp
+[memory-guide]: https://code.claude.com/docs/en/memory
+[skills-deep-dive]: https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills
+[simon-skills]: https://simonwillison.net/2025/Oct/16/claude-skills/
+[suggest]: https://github.com/karanb192/awesome-claude-skills/issues/new/choose
+[contributors]: https://github.com/karanb192/awesome-claude-skills/graphs/contributors
+[blog]: https://karanbansal.in/blog/
