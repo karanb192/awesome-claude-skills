@@ -409,8 +409,8 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 #### kavel-image
 **Source:** [hanshs474/kavel-image-skill](https://github.com/hanshs474/kavel-image-skill) | **Verified:** ⏳
-**Description:** Generate images and edit photos from a prompt with no API key and no account, through Kavel's anonymous endpoint — text-to-image plus face-preserving edits.
-**Use Case:** One-off visuals when no provider key is configured; hairstyle, outfit and expression edits that keep the same face
+**Description:** Generate an image from a prompt with no API key and no account, through Kavel's anonymous endpoint (1K, watermarked, a small free allowance per client id and per IP). Photo edits and video need a Kavel API key, and the skill says so instead of attempting them.
+**Use Case:** One-off visuals when no image provider is configured
 **Stars:** ⭐⭐⭐
 
 #### video-editing-helper
