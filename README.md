@@ -49,6 +49,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [test-checklist](https://github.com/Ifeanyiejindu/qarunbook/tree/main/plugins/qarunbook/skills/test-checklist) | Derive a QA plan from app code with steps and expected results for each platform. |
 | [test-driven-development][tdd] | Write a failing test, implement the change, then refactor. |
 | [webapp-testing][webapp-testing] | Exercise a local web app with Playwright and inspect its behavior. |
 
