@@ -327,7 +327,7 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 
 #### dropthehassle-publish
 **Source:** [bosmdavid-gif/dropthehassle-skill](https://github.com/bosmdavid-gif/dropthehassle-skill)
-**Description:** Publish AI-built sites and web apps to a free HTTPS link or your own domain with one command. Server part? Keep it on Supabase, AWS, DigitalOcean or your own server and link it in the Backend card.
+**Description:** Publish AI-built sites and web apps with one command. Server part on AWS, Google Cloud, DigitalOcean or your own server? Linked in one step.
 **Use Case:** When Claude has built a site and the user wants it online without setting up hosting or DNS
 **Stars:** ⭐⭐⭐
 
