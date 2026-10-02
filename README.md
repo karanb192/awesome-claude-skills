@@ -155,6 +155,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [prime-worker](https://github.com/alperiox/prime-worker) | Delegate multi-turn tasks to persistent local prime-agent worker sessions. |
 | [skill-creator][creator] | Create skills, evaluate them, and refine their descriptions. |
 | [subagent-driven-development][subagents] | Implement a plan through delegated tasks and review steps. |
 | [template-skill][template] | Start a skill from a minimal `SKILL.md` template. |
