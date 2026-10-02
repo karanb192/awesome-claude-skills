@@ -150,6 +150,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | Assess a business name across cultures, languages, and target markets. |
 | [goethecoach](https://github.com/janosszaboaipm-design/goethecoach-claude-skill/tree/main/goethecoach) | Practise Goethe exam writing, reading, and speaking with rubric-based feedback. |
 | [internal-comms][internal-comms] | Draft updates, newsletters, and other internal communications. |
+| [structured-gist](https://github.com/domattioli/structured-gist/tree/main/skills/structured-gist) | Format explanations and process recaps as nested outlines for skimming. |
 
 <a id="-meta-skills"></a>
 
