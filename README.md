@@ -394,6 +394,9 @@ Some entries now live inside other skills or use a different name.
   servers and agent skills.
 - [Hypit video guide](https://hypit.video/guides/how-to-clone-a-video/): walks
   through planning and rendering a video from a reference format.
+-
+  [awesome-claude-code-hooks](https://github.com/loqimean/awesome-claude-code-hooks):
+  Related directory of Claude Code hook workflows.
 
 <a id="contributors"></a>
 
