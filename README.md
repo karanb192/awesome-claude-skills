@@ -167,6 +167,8 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [bria-ai](https://github.com/Bria-AI/bria-skill/tree/dev/skills/bria-ai) | Generate and edit images or remove backgrounds through the Bria API. |
 | [canvas-design][canvas-design] | Create visual designs as PNG and PDF files. |
 | [film-crew](https://github.com/HEOJUNFO/ai-film-crew/tree/master/skills/film-crew) | Plan AI-video shots and write prompts with camera, lighting, and continuity guidance. |
+| [harmonic-mixing](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/harmonic-mixing) | Look up tempo and musical key to plan playlists and DJ transitions. |
+| [identify-song](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/identify-song) | Identify a track from a link or audio file through Song Finder. |
 | [kavel-image](https://github.com/hanshs474/kavel-image-skill) | Generate images through Kavel's anonymous submit-and-poll API within its free allowance; photo edits require a Kavel API key. |
 | [meshy-pose-rigging](https://github.com/rickyworld/rigmeshy-by-ricky/tree/master/meshy-pose-rigging) | Prepare character references and work through Meshy auto-rigging and export troubleshooting. |
 | [publishport](https://github.com/karuha-m/publishport-skill/tree/main/skills/publishport) | Publish and cross-post through connected accounts in the user's PublishPort browser app. |
