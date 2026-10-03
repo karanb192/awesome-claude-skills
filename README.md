@@ -86,7 +86,6 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 ### Collaboration & Workflow
 
 | Skill | Use it to |
-| [workkit](https://github.com/ITW-Creative-Works/workkit/tree/main/skills) | Run GitHub issues as an agent pipeline: interview, spec, build, review, and ship each one with subagents. |
 | --- | --- |
 | [a2ui-ask](https://github.com/YuniqueUnic/a2ui-ask) | Collect structured user input through a browser form and JSON answer files. |
 | [ai-meeting](https://github.com/bin1874/ai-meeting-skill/tree/main/ai-meeting) | Run structured proposal reviews with CLI agents and preserve each agent session between rounds. |
@@ -125,6 +124,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [using-lwc](https://github.com/JanYork/llm-wiki-cli/tree/main/skills/using-lwc) | Recall and preserve source-grounded project knowledge with LWC wiki and graph tools. |
 | [workflow-design](https://github.com/ghorbanies/workflow-design) | Model workflow states, test guards, analyze transition logs, and plan safe flow changes. |
 | [working-memory](https://github.com/ikotelkin/claude-skills/tree/main/skills/working-memory) | Preserve a bounded work checkpoint across context compaction. |
+| [workkit](https://github.com/ITW-Creative-Works/workkit/tree/main/skills) | Run GitHub issues as an agent pipeline: interview, spec, build, review, and ship each one with subagents. |
 | [writing-plans][writing-plans] | Break a specification into implementation steps. |
 
 <a id="️-development--architecture"></a>
