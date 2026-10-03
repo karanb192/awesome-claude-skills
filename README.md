@@ -86,6 +86,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 ### Collaboration & Workflow
 
 | Skill | Use it to |
+| [workkit](https://github.com/ITW-Creative-Works/workkit/tree/main/skills) | Run GitHub issues as an agent pipeline: interview, spec, build, review, and ship each one with subagents. |
 | --- | --- |
 | [a2ui-ask](https://github.com/YuniqueUnic/a2ui-ask) | Collect structured user input through a browser form and JSON answer files. |
 | [ai-meeting](https://github.com/bin1874/ai-meeting-skill/tree/main/ai-meeting) | Run structured proposal reviews with CLI agents and preserve each agent session between rounds. |
