@@ -385,6 +385,7 @@ Browse these repositories when you want a related set of skills.
 | [sjh9714/skill-receipts](https://github.com/sjh9714/skill-receipts) | Small code-scope and reproduction-first skills with published admission and rejection evidence. |
 | [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Code quality, design, marketing, and shipping. |
 | [superseo-skills](https://github.com/inhouseseo/superseo-skills) | SEO audits, content writing, and link building. |
+| [TravelGuide](https://github.com/squiswardplaysuona/TravelGuide) | Modular AI travel agent: 1 orchestrator + 11 specialized skills — research, POI candidates, review analysis, weather, routing, dining, ticket verification, day-by-day planning, independent validation, and in-trip replanning. Pure SKILL.md, MIT. |
 | [Wondel.ai Skills](https://github.com/wondelai/skills) | Apply product, UX, marketing, and software frameworks from published books and style guides. |
 | [YouTube Skills](https://github.com/sergebulaev/youtube-skills) | Draft YouTube titles, descriptions, hooks, thumbnail briefs, and upload plans; optional Publora publishing. |
 | [YYLO skills](https://github.com/yylo-dev/yylo-skills) | Manage tasks, artifacts, benchmarks, and durable work records through the YYLO CLI. |
