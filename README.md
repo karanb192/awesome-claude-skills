@@ -372,6 +372,7 @@ Browse these repositories when you want a related set of skills.
 | [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | SEO, copywriting, email, pricing, advertising, and analytics. |
 | [mblode/agent-skills](https://github.com/mblode/agent-skills) | UI, typography, developer experience, documentation, review, and release workflows. |
 | [minxnnu-cloud/make-new-things](https://github.com/minxnnu-cloud/make-new-things) | Claude/Codex visual handoffs, representative frame approval, rework limits, and skill-tree sync. |
+| [n3wth/skills](https://github.com/n3wth/skills) | AI coding skills for Cursor, Claude Code, Codex (git, monorepo, GSAP, typography, business panel). Catalog: [skills.n3wth.com](https://skills.n3wth.com) |
 | [Nero1688/claude-academic-skills](https://github.com/Nero1688/claude-academic-skills) | Academic planning, literature checks, research methods, and replication workflows; mixed licenses. |
 | [noizai/skills](https://github.com/noizai/skills) | Text-to-speech dubbing and companion voice presets. |
 | [NotFair](https://github.com/nowork-studio/notfair-plugin) | SEO, search visibility, advertising, and analytics workflows with service-specific MCP integrations. |
