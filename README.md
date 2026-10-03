@@ -78,6 +78,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | --- | --- |
 | [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace) | Inspect agent sessions for cost, tokens, failures, and latency. |
 | [debugging-wizard](https://github.com/jeffallan/claude-skills/tree/main/skills/debugging-wizard) | Reproduce failures, test hypotheses, identify root causes, and verify fixes. |
+| [measuring-orchestration-cost](https://github.com/PapiScholz/symphony/tree/main/skills/measuring-orchestration-cost) | Measure what a delegated run consumed in tokens from local transcripts before quoting any cost or saving. |
 | [systematic-debugging][debugging] | Investigate a bug's cause before attempting a fix. |
 | [verification-before-completion][verification] | Run checks and inspect their output before calling work done. |
 
