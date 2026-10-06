@@ -284,6 +284,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | Assess a business name across cultures, languages, and target markets. |
 | [buyer-eval-skill](https://github.com/salespeak-ai/buyer-eval-skill) | Evaluate B2B software vendors by checking claims, contradictions, unanswered questions, and purchase requirements. |
 | [diasporic-intelligence](https://github.com/MinistaJazz/diasporic-intelligence/tree/main/skills/diasporic-intelligence) | Apply an attribution and consent framework to writing about cultural and lineage knowledge. |
+| [email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible) | Build email flows and segments, edit campaign copy, diagnose deliverability, and run a connected ESP through MCP with approval before sends. |
 | [fact-check-x-complete](https://github.com/ASI2030/Fact-Check-X/tree/main/skills/fact-check-x-complete) | Capture AI answers and citations, compare atomic claims, and preserve evidence during verification. |
 | [feynman-pdf](https://github.com/TadTheFisherman/feynman-it) | Create illustrated PDF explainers with plain-language analogies and rendered-page checks. |
 | [goethecoach](https://github.com/janosszaboaipm-design/goethecoach-claude-skill/tree/main/goethecoach) | Practise Goethe exam writing, reading, and speaking with rubric-based feedback. |
