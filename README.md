@@ -200,6 +200,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [project-planning-journaling](https://github.com/mh-mansouri/Project-Planning-Journaling/tree/main/project-planning-journaling) | Scope a project and maintain a resumable journal of decisions, progress, and open work. |
 | [swarmvault](https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault) | Maintain a local Markdown knowledge vault with graph navigation, search, review, and optional model-backed synthesis. |
 | [trace-my-code](https://github.com/kgohil/trace-my-code/tree/main/skills/trace-my-code) | Maintain domain flows, architecture notes, and reuse patterns with code-drift checks. |
+| [agent-webbridge](https://github.com/jeet-dhandha/agent-webbridge) | Read pages, fill forms and click in your real, logged-in Chrome across several profiles, with parallel tabs. |
 
 <a id="-media--content-creation"></a>
 
