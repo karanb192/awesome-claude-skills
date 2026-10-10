@@ -42,6 +42,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [docx][docx] | Create and edit Word documents with tracked changes and comments. |
 | [equalang](https://github.com/equalang/equalang-skill) | Translate files or transcribe recordings through Equalang using an API key and credits. |
 | [humanpen](https://github.com/humanpen/humanpen-skill) | Rewrite, translate, shorten, and restyle citations in files through paid HumanPen APIs. |
+| [kordoc](https://github.com/chrisryugj/kordoc/tree/main/plugins/kordoc/skills/kordoc) | Convert HWP, HWPX, and PDF files to Markdown, fill Korean form templates, and generate official HWPX documents from Markdown. |
 | [mubu-integration](https://github.com/liuboacean/mubu-integration) | Import, export, and organize Mubu outlines and Markdown through an unofficial API. |
 | [pdf][pdf] | Extract text and tables, combine PDFs, and fill forms. |
 | [pptx][pptx] | Create, edit, and inspect PowerPoint presentations. |
