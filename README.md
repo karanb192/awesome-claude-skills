@@ -126,6 +126,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [working-memory](https://github.com/ikotelkin/claude-skills/tree/main/skills/working-memory) | Preserve a bounded work checkpoint across context compaction. |
 | [writing-plans][writing-plans] | Break a specification into implementation steps. |
 
+| [workshopskill](https://github.com/formlm/workshopskill) | Run ready-made facilitation activities in workshops and trainings with a minute-by-minute run sheet, debrief script and pre/post measure. |
 <a id="️-development--architecture"></a>
 
 ### Development & Architecture
