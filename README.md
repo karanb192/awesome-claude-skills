@@ -257,6 +257,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [pvr-inox-radar](https://github.com/karanb192/pvr-inox-radar/tree/main/skills/pvr-inox-radar) | Map PVR INOX showtimes in India with seats-together counts and travel-time estimates. |
 | [shopify-review-triage](https://github.com/alfredtech2026/shopify-app-review-brief/tree/main/docs/skills/shopify-review-triage) | Turn supplied Shopify reviews into source-linked incident, friction, pricing, and feature triage. |
 | [sql-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/sql-pro) | Write and optimize SQL queries, inspect execution plans, and compare database dialects. |
+| [youtube-channel-transcripts](https://github.com/pratie/youtube-transcript-skill/tree/main/skills/youtube-channel-transcripts) | Pull every transcript on a YouTube channel as one background job through BulkTranscripts; requires an API key. |
 | [youtube-full](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-full) | Fetch YouTube transcripts, search results, channel data, and playlists through TranscriptAPI; requires an API key. |
 
 <a id="-finance--tax"></a>
