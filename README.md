@@ -246,6 +246,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [apify-youtube-transcript-api](https://github.com/johnisanerd/claude-skill-youtube-transcript-api/tree/main/apify-youtube-transcript-api) | Fetch YouTube captions and subtitle formats through a paid Apify actor. |
 | [apify-youtube-transcripts-llm-training-data](https://github.com/johnisanerd/claude-skill-youtube-transcripts-llm-training-data/tree/main/apify-youtube-transcripts-llm-training-data) | Build transcript datasets with provenance, language policy, error filtering, and paid Apify usage. |
 | [apitube-news-api](https://github.com/apitube/news-api-skills/tree/main/skills/apitube-news-api) | Search and filter news through APITube, with API authentication, pagination, and error handling. |
+| [claim-checker](https://github.com/deeprdai21-ai/practical-claude-skills/tree/main/skills/claim-checker) | Fact-check text against its cited links, marking each claim verified, partial or unverified with a quote. |
 | [claude-ecom](https://github.com/takechanman1228/claude-ecom) | Review ecommerce order CSVs for revenue, retention, and margin patterns. |
 | [claude-persona](https://github.com/takechanman1228/claude-persona/tree/main/skills/persona) | Simulate persona panels and concept interviews, then summarize themes and comparisons for exploratory research. |
 | [converly](https://github.com/converlyio/converly-agent) | Configure Converly conversion flows and inspect test events and delivered conversions. |
@@ -255,6 +256,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [pandas-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/pandas-pro) | Clean, join, aggregate, and transform pandas DataFrames and time-series data. |
 | [polymarket-tennis](https://github.com/livetennisapi/polymarket-tennis/tree/main/skills/polymarket-tennis) | Build an observe-only tennis market watcher joining market prices to live match scores. |
 | [pvr-inox-radar](https://github.com/karanb192/pvr-inox-radar/tree/main/skills/pvr-inox-radar) | Map PVR INOX showtimes in India with seats-together counts and travel-time estimates. |
+| [reorder-list](https://github.com/deeprdai21-ai/practical-claude-skills/tree/main/skills/reorder-list) | Calculate reorder quantities and spot stock-outs from Tally, Excel or CSV stock and sales exports. |
 | [shopify-review-triage](https://github.com/alfredtech2026/shopify-app-review-brief/tree/main/docs/skills/shopify-review-triage) | Turn supplied Shopify reviews into source-linked incident, friction, pricing, and feature triage. |
 | [sql-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/sql-pro) | Write and optimize SQL queries, inspect execution plans, and compare database dialects. |
 | [youtube-full](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-full) | Fetch YouTube transcripts, search results, channel data, and playlists through TranscriptAPI; requires an API key. |
