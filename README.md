@@ -116,6 +116,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [receiving-code-review][receiving-review] | Evaluate review feedback and work through requested changes. |
 | [requesting-code-review][requesting-review] | Request a review before work proceeds or merges. |
 | [Satori](https://github.com/MetcalfSolutions/Satori) | Guide reflective conversations about emotions, relationships, and purpose, with professional-care boundaries. |
+| [session-handoff](https://github.com/alapha888/session-handoff-kit) | Write a structured end-of-session handoff (goal state, decisions, files touched, open loops, next action) the next session can execute from. |
 | [shipreel](https://github.com/theBstar/shipreel/tree/main/plugins/shipreel/skills/shipreel) | Render a narrated PR walkthrough with diagrams, code panels, and optional app recordings. |
 | [simple-man](https://github.com/Maksim-Burtsev/simple-man/tree/master/skills/simple-man) | Shorten agent replies while preserving findings, fixes, checks, and required facts. |
 | [slop-post](https://github.com/useslop/claude-plugins/tree/main/plugins/slop/skills/slop-post) | Create a private Slop draft from a session with a receipt of model, tools, and commits. |
