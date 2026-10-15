@@ -320,6 +320,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | --- | --- |
 | [CERA Project Memory](https://github.com/miketepUR/cera-reasoning-harness) | Preserve project session maps and curate a shared index for later conversations. |
 | [claude-memory-manager](https://github.com/jau123/claude-memory-manager) | Organize Claude Code auto-memory with placement rules, update guidance, and index-size checks. |
+| [crystallize](https://github.com/2016judea/harvest-harness/tree/main/free/skills/crystallize) | Turn a finished Claude Code session into a skill whose rules carry their why, with a dated grounded line. |
 | [danshari-skill](https://github.com/swaylq/danshari-skill) | Audit installed skills and archive redundant ones after user approval, with a restore path. |
 | [emulo](https://github.com/ohad6k/emulo/tree/main/.agents/skills/emulo) | Mine local agent-session history into a personal working profile after approving the scope and cost. |
 | [prime-worker](https://github.com/alperiox/prime-worker) | Delegate multi-turn tasks to persistent local prime-agent worker sessions. |
