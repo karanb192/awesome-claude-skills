@@ -226,6 +226,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [screenbrowser](https://github.com/screenbrowser/skill/tree/main/skills/screenbrowser) | Produce narrated web-app tutorials through the Screen Browser MCP service. |
 | [seedance-25-prompting](https://github.com/gbeyrouti/seedance-prompting-claude-skill/tree/main/seedance-25-prompting) | Write and troubleshoot Seedance video prompts, reference roles, audio, and shot timing. |
 | [slack-gif-creator][slack-gif-creator] | Make animated GIFs sized for Slack. |
+| [social-video-transcript](https://github.com/diegobruegger-prog/shortformkit-skills/tree/main/social-video-transcript) | Transcribe public Instagram Reels, TikToks and YouTube videos from a link, save SRT or VTT, and check 2026 upload specs; uses the free Shortform Kit API, no key. |
 | [SocialClaw](https://github.com/ndesv21/socialclaw/tree/main/skill) | Schedule and publish social posts through SocialClaw; requires a configured workspace and active plan. |
 | [table-sheet](https://github.com/netmobster/unstuck-games/tree/main/plugins/table-sheet) | Turn a D&D Beyond character sheet into a play guide and pre-session checklist. |
 | [vox-director](https://github.com/Alisa0808/vox-director) | Plan and assemble narrated collage videos through paid Atlas Cloud APIs and local ffmpeg. |
