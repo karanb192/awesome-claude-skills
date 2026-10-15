@@ -250,6 +250,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [claude-persona](https://github.com/takechanman1228/claude-persona/tree/main/skills/persona) | Simulate persona panels and concept interviews, then summarize themes and comparisons for exploratory research. |
 | [converly](https://github.com/converlyio/converly-agent) | Configure Converly conversion flows and inspect test events and delivered conversions. |
 | [formo-analytics](https://github.com/getformo/cli/tree/main/skills/formo-analytics) | Query Formo product and onchain analytics through MCP, CLI, or REST. |
+| [healthcare-job-search](https://github.com/yumaheymans/carejobs-mcp/tree/main/skills/healthcare-job-search) | Find open US healthcare jobs and the hourly pay employers post, through the CareJobs.Now MCP server or JSON API. |
 | [invoice-winning-numbers](https://github.com/tahodev/baodao-skill/tree/main/invoice-winning-numbers) | Look up Taiwan invoice winning numbers by period from official sources. |
 | [octav-api](https://github.com/Octav-Labs/octav-api-skill) | Integrate wallet balances, history and DeFi positions using an API key; selected agent endpoints also support x402 payments. |
 | [pandas-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/pandas-pro) | Clean, join, aggregate, and transform pandas DataFrames and time-series data. |
