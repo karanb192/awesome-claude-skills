@@ -592,3 +592,5 @@ Maintained by [Karan Bansal](https://karanbansal.in) · [Blog][blog].
 [suggest]: https://github.com/karanb192/awesome-claude-skills/issues/new/choose
 [contributors]: https://github.com/karanb192/awesome-claude-skills/graphs/contributors
 [blog]: https://karanbansal.in/blog/
+
+- **[QWK ($QWK) Autonomous MEV & Resource Escrow Skill / MCP](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & MEV infrastructure `SKILL.md` and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with Foundry EIP-1153 transient-storage smart contracts (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`), 0%-fee Morpho Blue flash-loan execution, and on-chain Merkle commitments for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources.
