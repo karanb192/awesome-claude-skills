@@ -138,6 +138,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [AuraKit](https://github.com/smorky850612/Aurakit/tree/main/skills/aura) | Coordinate build, fix, review, and deployment modes with state snapshots and optional local hooks. |
 | [auteur](https://github.com/agiwhitelist/auteur) | Build websites from a written art direction and check design consistency and rendered output. |
 | [birdview](https://github.com/Qiuner/birdview) | Map architecture, constraints, and planned changes back to source evidence. |
+| [prodready](https://github.com/human-stuff/prodready/tree/main/skills/prodready) | Take an app from localhost to production with a clean-room Docker check, migration checks, a tested deploy manual, and live checks. |
 | [build-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/build-with-better-design) | Select and install a design system through the Better Design MCP service. |
 | [building-blog](https://github.com/BuildShipGrowRepeat/nextjs-sanity-blog-skill/tree/main/skills/building-blog) | Add a Next.js and Sanity blog with project discovery, an implementation plan, and SEO guidance. |
 | [clone-team](https://github.com/Varalix-Digitech-Solutions/clone-team/tree/main/skills/clone-team) | Rebuild website interfaces with an agent team, visual checks, and architecture notes. |
