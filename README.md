@@ -193,6 +193,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [devops-engineer](https://github.com/jeffallan/claude-skills/tree/main/skills/devops-engineer) | Configure CI/CD, containers, infrastructure templates, deployment checks, and rollback plans. |
 | [docs-to-book](https://github.com/EliaTolin/docs-to-book-skills/tree/main/docs-to-book) | Crawl technical documentation and compile an offline PDF book with Typst, optionally translated. |
 | [famulor-assistants-history](https://github.com/bekservice/Famulor-Skill/tree/main/claude-store/skills/famulor-assistants-history) | Read Famulor assistant settings and interaction history through its restricted MCP profile. |
+| [howitworks](https://github.com/hariFED/howitworks) | Explain a mechanism or software concept as a sectioned engineering drawing with a live simulation and optional 3D cutaway. |
 | [linkedin-outreach](https://github.com/vanshyadav1408/Omentir/tree/main/plugins/omentir/skills/linkedin-outreach) | Research prospects, draft outreach, and inspect campaigns through Omentir MCP. |
 | [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin/tree/main/skills/llm-wiki) | Ingest sources into a linked Markdown wiki, answer with citations, and check consistency across sessions. |
 | [okf](https://github.com/mattjoyce/okf-skill/tree/master/skills/okf) | Author and validate Open Knowledge Format bundles of linked Markdown concept files. |
