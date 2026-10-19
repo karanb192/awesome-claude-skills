@@ -119,6 +119,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [shipreel](https://github.com/theBstar/shipreel/tree/main/plugins/shipreel/skills/shipreel) | Render a narrated PR walkthrough with diagrams, code panels, and optional app recordings. |
 | [simple-man](https://github.com/Maksim-Burtsev/simple-man/tree/master/skills/simple-man) | Shorten agent replies while preserving findings, fixes, checks, and required facts. |
 | [slop-post](https://github.com/useslop/claude-plugins/tree/main/plugins/slop/skills/slop-post) | Create a private Slop draft from a session with a receipt of model, tools, and commits. |
+| [supervisor](https://github.com/ehnruiz/claude-skills/tree/main/skills/supervisor) | Route each step to the cheapest capable model, verify by exit code, and move a step up a tier after two failures. |
 | [tlgr](https://github.com/tlgrcli/tlgr/tree/main/plugin/skills/tlgr) | Read, search, and manage a personal Telegram account through a JSON CLI. |
 | [using-git-worktrees][worktrees] | Work in isolated checkouts for separate development tasks. |
 | [using-lwc](https://github.com/JanYork/llm-wiki-cli/tree/main/skills/using-lwc) | Recall and preserve source-grounded project knowledge with LWC wiki and graph tools. |
