@@ -59,11 +59,13 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [checkup](https://github.com/agentvitals/checkup/tree/main/checkup) | Run hosted probes and retrieve server-scored results; full mode uploads approved conversation logs. |
 | [crosscheck](https://github.com/moveju112/skill_verify/tree/main/skills/crosscheck) | Compare independent Claude and Codex analysis, reconcile findings, and verify completed work. |
 | [design-fidelity-verify](https://github.com/jeltehomminga/figma-design-skills/tree/main/skills/design-fidelity-verify) | Compare measured values in a running app with a Figma design specification. |
+| [figma-design-compare](https://github.com/WST2002/claude-code-skills/tree/main/skills/figma-design-compare) | Check a built web or mobile screen against its Figma frame using screenshots and exact font, color and spacing values. |
 | [ironloop](https://github.com/edouard-claude/ironloop/tree/main/skills/engineering/ironloop) | Plan Rust work through specifications, tests, simulation, and authorized security checks. |
 | [never-again](https://github.com/malaysherasia-ai/claude-never-again/tree/main/skills/never-again) | Capture repaired bugs as enforceable hooks or brief lessons for future sessions. |
 | [pdp-audit](https://github.com/llizell/pdp-audit) | Audit ecommerce product pages with desktop/mobile evidence and prioritized UX findings. |
 | [playwright-expert](https://github.com/jeffallan/claude-skills/tree/main/skills/playwright-expert) | Write and debug Playwright browser tests with fixtures, page objects, visual checks, and CI integration. |
 | [sim (interview-sim)](https://github.com/chrisjacksonn/interview-sim/tree/main/skills/sim) | Practice timed coding interviews with script-managed clocks and hidden-test grading. |
+| [test-case-generator](https://github.com/WST2002/claude-code-skills/tree/main/skills/test-case-generator) | Turn a requirement or user story into positive, negative, boundary and permission test cases. |
 | [test-checklist](https://github.com/Ifeanyiejindu/qarunbook/tree/main/plugins/qarunbook/skills/test-checklist) | Derive a QA plan from app code with steps and expected results for each platform. |
 | [test-driven-development][tdd] | Write a failing test, implement the change, then refactor. |
 | [test-master](https://github.com/jeffallan/claude-skills/tree/main/skills/test-master) | Plan and implement unit, integration, performance, and security tests with coverage and defect analysis. |
@@ -179,6 +181,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [regulatory-threat-model](https://github.com/Ansvar-Systems/regulatory-threat-model-skill) | Build evidence-cited threat models and selected EU obligation screens through Ansvar Gateway. |
 | [SecHelix](https://github.com/omarmohelal/SecHelix/tree/main/skills/sechelix) | Review authorized local code for security issues with evidence and a refutation pass. |
 | [secure-code-guardian](https://github.com/jeffallan/claude-skills/tree/main/skills/secure-code-guardian) | Implement authentication, authorization, input validation, and secure coding controls. |
+| [security-audit](https://github.com/WST2002/claude-code-skills/tree/main/skills/security-audit) | Find exploitable vulnerabilities in any codebase with file:line evidence, an attack scenario and a fix. |
 | [security-reviewer](https://github.com/jeffallan/claude-skills/tree/main/skills/security-reviewer) | Review code and infrastructure for security issues and produce prioritized remediation guidance. |
 | [wp-security-audit](https://github.com/mwstech/wp-security-audit-skill) | Audit WordPress configuration, plugin vulnerabilities, and indicators of compromise. |
 
