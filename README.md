@@ -299,6 +299,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [no-slop](https://github.com/Byk3y/no-slop) | Review prose for vague attribution, promotional phrasing, repetitive structures, and other writing patterns. |
 | [prospeak](https://github.com/giorgiozamboni/prospeak) | Rewrite existing text for professional audiences with English and Italian register controls. |
 | [publora-post-ideas](https://github.com/publora-team/publora-post-ideas/tree/main/skills/publora-post-ideas) | Choose among three social-post angles, then draft the one the user selects. |
+| [qz-browser-agent](https://github.com/alibaba/qz-browser-agent/tree/main/skills/qz-browser-agent) | Hand cross-site research and data collection to qz in your own Chrome and get tables, files, or reports with sources. |
 | [reading-analysis](https://github.com/shenquan520/reading-analysis) | Analyse English exam passages, answer choices, and recurring errors. Noncommercial license. |
 | [renwei](https://github.com/dbhosbu-dotcom/renwei) | Edit Chinese manuscripts for syntax, chapter rhythm, factual consistency, and generic prose. |
 | [resume-studio](https://github.com/Sidgit11/resume-studio) | Maintain a career evidence corpus and tailor resumes to job requirements without inventing claims. |
