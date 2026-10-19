@@ -225,6 +225,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [ruxi-skill](https://github.com/swaylq/ruxi-skill) | Build a single-file visual novel from selected book scenes with source-linked choices. |
 | [screenbrowser](https://github.com/screenbrowser/skill/tree/main/skills/screenbrowser) | Produce narrated web-app tutorials through the Screen Browser MCP service. |
 | [seedance-25-prompting](https://github.com/gbeyrouti/seedance-prompting-claude-skill/tree/main/seedance-25-prompting) | Write and troubleshoot Seedance video prompts, reference roles, audio, and shot timing. |
+| [sfxmint](https://github.com/flreey/sfxmint-mcp/tree/master/skills/sfxmint) | Find CC0 sound effects by app or game event and download WAV/MP3 into a project; the library needs no API key. |
 | [slack-gif-creator][slack-gif-creator] | Make animated GIFs sized for Slack. |
 | [SocialClaw](https://github.com/ndesv21/socialclaw/tree/main/skill) | Schedule and publish social posts through SocialClaw; requires a configured workspace and active plan. |
 | [table-sheet](https://github.com/netmobster/unstuck-games/tree/main/plugins/table-sheet) | Turn a D&D Beyond character sheet into a play guide and pre-session checklist. |
