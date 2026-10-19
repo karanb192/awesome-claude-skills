@@ -215,6 +215,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [film-crew](https://github.com/HEOJUNFO/ai-film-crew/tree/master/skills/film-crew) | Plan AI-video shots and write prompts with camera, lighting, and continuity guidance. |
 | [harmonic-mixing](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/harmonic-mixing) | Look up tempo and musical key to plan playlists and DJ transitions. |
 | [identify-song](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/identify-song) | Identify a track from a link or audio file through Song Finder. |
+| [image-gen](https://github.com/mijatovicmilan/image-gen/tree/main/skills/image-gen) | Generate and edit images through the Codex CLI's built-in image tool; requires Codex logged in with ChatGPT or an API key. |
 | [kavel-image](https://github.com/hanshs474/kavel-image-skill) | Generate images through Kavel's anonymous submit-and-poll API within its free allowance; photo edits require a Kavel API key. |
 | [keyword-icons](https://github.com/ruthless-coder-ai/keyword-icons) | Create several simple SVG icon concepts and inspect transparent PNG renders at small sizes. |
 | [ltx2-video](https://github.com/patraxo/ltx2-vidgen-skill/tree/main/skills/ltx2-video) | Generate clips from text, images, or video through an LTX-2.3 backend deployed to the user Modal account. |
