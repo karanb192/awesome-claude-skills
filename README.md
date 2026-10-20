@@ -249,6 +249,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [claude-ecom](https://github.com/takechanman1228/claude-ecom) | Review ecommerce order CSVs for revenue, retention, and margin patterns. |
 | [claude-persona](https://github.com/takechanman1228/claude-persona/tree/main/skills/persona) | Simulate persona panels and concept interviews, then summarize themes and comparisons for exploratory research. |
 | [converly](https://github.com/converlyio/converly-agent) | Configure Converly conversion flows and inspect test events and delivered conversions. |
+| [datacircle](https://github.com/waynehamadi/datacircle/tree/main/skills/datacircle) | Download every GTM API plan on Datacircle as one file, with a skill that tells your AI how to query it. |
 | [formo-analytics](https://github.com/getformo/cli/tree/main/skills/formo-analytics) | Query Formo product and onchain analytics through MCP, CLI, or REST. |
 | [invoice-winning-numbers](https://github.com/tahodev/baodao-skill/tree/main/invoice-winning-numbers) | Look up Taiwan invoice winning numbers by period from official sources. |
 | [octav-api](https://github.com/Octav-Labs/octav-api-skill) | Integrate wallet balances, history and DeFi positions using an API key; selected agent endpoints also support x402 payments. |
