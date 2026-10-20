@@ -283,7 +283,6 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [brand-guidelines][brand-guidelines] | Apply Anthropic's brand colors and typography to artifacts. |
 | [business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | Assess a business name across cultures, languages, and target markets. |
 | [buyer-eval-skill](https://github.com/salespeak-ai/buyer-eval-skill) | Evaluate B2B software vendors by checking claims, contradictions, unanswered questions, and purchase requirements. |
-| [citation-verification](https://github.com/KalarisLabs/research-agent-skills/tree/main/skills/citation-verification) | Check every reference in a .bib file against Crossref, OpenAlex and arXiv and flag fabricated or mismatched citations. |
 | [diasporic-intelligence](https://github.com/MinistaJazz/diasporic-intelligence/tree/main/skills/diasporic-intelligence) | Apply an attribution and consent framework to writing about cultural and lineage knowledge. |
 | [fact-check-x-complete](https://github.com/ASI2030/Fact-Check-X/tree/main/skills/fact-check-x-complete) | Capture AI answers and citations, compare atomic claims, and preserve evidence during verification. |
 | [feynman-pdf](https://github.com/TadTheFisherman/feynman-it) | Create illustrated PDF explainers with plain-language analogies and rendered-page checks. |
@@ -380,6 +379,7 @@ Browse these repositories when you want a related set of skills.
 | [Ontoly skills](https://github.com/0xsarwagya/ontoly/tree/main/skills) | Architecture, dependency, refactoring, and documentation workflows grounded in Ontoly graph evidence. |
 | [Pathmode](https://github.com/pathmodeio/claude-plugin) | Turn product ideas into intent specifications, challenge assumptions, and verify implementation evidence. |
 | [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) | Route image briefs, create software assets, and export platform bundles through a CLI and MCP server. |
+| [Research Agent Skills](https://github.com/KalarisLabs/research-agent-skills) | Full academic research lifecycle: literature reviews, hypotheses, experimental design, data analysis, paper writing, citation checks, and peer review. |
 | [RouterBase Agent Skills](https://github.com/zenlee123/routerbase-agent-skills) | Integrate the RouterBase gateway, choose models, and handle media-generation API jobs; requires a RouterBase key. |
 | [Sequenzy skills](https://github.com/Sequenzy/skills) | Run lifecycle, campaign, and transactional email work through the Sequenzy CLI or MCP server; requires a Sequenzy account. |
 | [Shipwise](https://github.com/harmansidhudev/shipwise) | Plan and review webapp launches across validation, design, architecture, quality, security, and operations. |
