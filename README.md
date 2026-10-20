@@ -177,6 +177,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [gedik](https://github.com/onur-kesim/gedik/tree/main/skills/gedik) | Audit authorized project surfaces and attach reproducible evidence to security findings. |
 | [incident-reporting-navigator](https://github.com/Ansvar-Systems/incident-reporting-navigator-skill) | Map EU incident-notification questions to cited duties, authorities, and deadlines through Ansvar Gateway. |
 | [regulatory-threat-model](https://github.com/Ansvar-Systems/regulatory-threat-model-skill) | Build evidence-cited threat models and selected EU obligation screens through Ansvar Gateway. |
+| [revision-de-codigo](https://github.com/jhodz456/revision-de-codigo) | Audit TypeScript, Next.js, and Supabase changes for security, RLS, and accessibility, with a Spanish report and verdict. |
 | [SecHelix](https://github.com/omarmohelal/SecHelix/tree/main/skills/sechelix) | Review authorized local code for security issues with evidence and a refutation pass. |
 | [secure-code-guardian](https://github.com/jeffallan/claude-skills/tree/main/skills/secure-code-guardian) | Implement authentication, authorization, input validation, and secure coding controls. |
 | [security-reviewer](https://github.com/jeffallan/claude-skills/tree/main/skills/security-reviewer) | Review code and infrastructure for security issues and produce prioritized remediation guidance. |
