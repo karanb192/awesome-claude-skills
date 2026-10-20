@@ -348,6 +348,7 @@ Browse these repositories when you want a related set of skills.
 | [Affiliate Skills](https://github.com/Affitor/affiliate-skills) | Affiliate research, content, distribution, and analytics. |
 | [Agent Skills English Productivity Pack](https://github.com/alapha888/agent-skills-en) | Meeting notes, proofreading, research, code review, and commit messages. |
 | [agent-pilot-skills](https://github.com/babyGao/agent-pilot-skills) | Cross-model review, parallel research, outbound sales, illustrations, and Chinese-platform workflows. |
+| [Agents Handbook](https://github.com/0xrome/agentshandbook) | Sourced playbooks for real jobs, each a skill with a prompt, steps, human checkpoints and known failures. |
 | [AI sales skills](https://github.com/Marchenko-sales/ai-sales-skills) | Company research, sales qualification, and business outreach workflows in Russian. |
 | [aigent-OS](https://github.com/wrg32786/aigent-os) | Persistent vault memory, session routines, delegation, hooks, and local maintenance workflows. |
 | [Baodao skills](https://github.com/tahodev/baodao-skill) | Taiwan public-service lookups for invoices, weather, alerts, transit, and public data. |
