@@ -213,6 +213,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [canvas-design][canvas-design] | Create visual designs as PNG and PDF files. |
 | [collage-design](https://github.com/polgarp/collage-design) | Compose collage artwork from licensed or supplied imagery and keep an attribution ledger. |
 | [film-crew](https://github.com/HEOJUNFO/ai-film-crew/tree/master/skills/film-crew) | Plan AI-video shots and write prompts with camera, lighting, and continuity guidance. |
+| [footage-desk](https://github.com/c0t0ber/agent-video-desk/tree/main/skills/footage-desk) | Mark take/skip on a clip's word-level transcript in a local browser page and let the agent turn the takes into a cut list. |
 | [harmonic-mixing](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/harmonic-mixing) | Look up tempo and musical key to plan playlists and DJ transitions. |
 | [identify-song](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/identify-song) | Identify a track from a link or audio file through Song Finder. |
 | [kavel-image](https://github.com/hanshs474/kavel-image-skill) | Generate images through Kavel's anonymous submit-and-poll API within its free allowance; photo edits require a Kavel API key. |
