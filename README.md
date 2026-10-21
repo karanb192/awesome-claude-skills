@@ -101,6 +101,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [fabling](https://github.com/gncdev/fabling/tree/main/fabling) | Apply a work profile for proportionate investigation, visual checks, and task completion. |
 | [finishing-a-development-branch][finishing] | Decide how to integrate finished work and clean up the branch. |
 | [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) | Structure enterprise sales discovery, stakeholder analysis, deal qualification, and account plans. |
+| [golden-frijoles](https://github.com/danybgoode/golden-frijoles) | Turn ideas into bets with a target and read date, ship them behind flags and A/B tests, and report whether each paid off. |
 | [guashuai / junshi](https://github.com/DENGYUFAN0/guashuai-junshi/tree/main/adapters/claude-code/skills) | Coordinate model tiers with either an orchestrator or an occasional expert advisor. |
 | [karpathy-guidelines](https://github.com/swarmclawai/andrej-karpathy-skills/tree/main/skills/karpathy-guidelines) | Surface assumptions, keep coding changes small, and define checks before implementation. |
 | [kgai knowledge-graph](https://github.com/kgaidev/kgai) | Capture project decisions and domain knowledge in a linked graph through the kgai CLI. |
