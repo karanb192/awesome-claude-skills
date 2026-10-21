@@ -255,6 +255,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [pandas-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/pandas-pro) | Clean, join, aggregate, and transform pandas DataFrames and time-series data. |
 | [polymarket-tennis](https://github.com/livetennisapi/polymarket-tennis/tree/main/skills/polymarket-tennis) | Build an observe-only tennis market watcher joining market prices to live match scores. |
 | [pvr-inox-radar](https://github.com/karanb192/pvr-inox-radar/tree/main/skills/pvr-inox-radar) | Map PVR INOX showtimes in India with seats-together counts and travel-time estimates. |
+| [second-deposit-igaming](https://github.com/igamingsychov/second-deposit-igaming) | Find why casino first-time depositors skip a second deposit from local back-office exports and build a CRM win-back list. For 21+ industry teams. |
 | [shopify-review-triage](https://github.com/alfredtech2026/shopify-app-review-brief/tree/main/docs/skills/shopify-review-triage) | Turn supplied Shopify reviews into source-linked incident, friction, pricing, and feature triage. |
 | [sql-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/sql-pro) | Write and optimize SQL queries, inspect execution plans, and compare database dialects. |
 | [youtube-full](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-full) | Fetch YouTube transcripts, search results, channel data, and playlists through TranscriptAPI; requires an API key. |
