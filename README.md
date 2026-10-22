@@ -283,6 +283,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [brand-guidelines][brand-guidelines] | Apply Anthropic's brand colors and typography to artifacts. |
 | [business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | Assess a business name across cultures, languages, and target markets. |
 | [buyer-eval-skill](https://github.com/salespeak-ai/buyer-eval-skill) | Evaluate B2B software vendors by checking claims, contradictions, unanswered questions, and purchase requirements. |
+| [caveman-marketing](https://github.com/lodar/caveman-marketing) | Simplify ads, landing pages and signup screens with one picture, at most 15 words and one button. |
 | [diasporic-intelligence](https://github.com/MinistaJazz/diasporic-intelligence/tree/main/skills/diasporic-intelligence) | Apply an attribution and consent framework to writing about cultural and lineage knowledge. |
 | [fact-check-x-complete](https://github.com/ASI2030/Fact-Check-X/tree/main/skills/fact-check-x-complete) | Capture AI answers and citations, compare atomic claims, and preserve evidence during verification. |
 | [feynman-pdf](https://github.com/TadTheFisherman/feynman-it) | Create illustrated PDF explainers with plain-language analogies and rendered-page checks. |
