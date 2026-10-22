@@ -142,6 +142,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [building-blog](https://github.com/BuildShipGrowRepeat/nextjs-sanity-blog-skill/tree/main/skills/building-blog) | Add a Next.js and Sanity blog with project discovery, an implementation plan, and SEO guidance. |
 | [clone-team](https://github.com/Varalix-Digitech-Solutions/clone-team/tree/main/skills/clone-team) | Rebuild website interfaces with an agent team, visual checks, and architecture notes. |
 | [cohesivity](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/claude/skills/cohesivity) | Provision and manage application backend services through Cohesivity APIs and MCP. |
+| [deed-page](https://github.com/f-o-x11/deed-page-skill/tree/main/skills/deed-page) | Publish an HTML file or static folder to a permanent deed.page URL with one curl request and no account. |
 | [dropthehassle-publish](https://github.com/bosmdavid-gif/dropthehassle-skill/tree/main/skills/dropthehassle-publish) | Publish built static sites through DropTheHassle and connect an existing backend. |
 | [easy-auto-research](https://github.com/wjc2830/Easy-AutoResearch-for-DeepLearning/tree/main/easy-auto-research) | Run a supervised deep-learning experiment loop with versioned code and persistent progress. |
 | [embedded-iot-mentor](https://github.com/mh-mansouri/embedded-iot-mentor/tree/main/embedded-iot-mentor) | Plan embedded and IoT projects, compare hardware, and work from breadboard to firmware. |
