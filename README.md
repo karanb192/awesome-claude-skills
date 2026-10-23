@@ -364,6 +364,7 @@ Browse these repositories when you want a related set of skills.
 | [iOS agents and skills](https://github.com/apexbymanish/claude-ai-agents-ios) | Swift/iOS implementation, testing, accessibility, performance, security, and release checks. |
 | [Kudosity skills](https://github.com/kudosity/skills) | SMS, MMS, WhatsApp, RCS, contact lists, and delivery webhooks through Kudosity. |
 | [Kurashi skills](https://github.com/tahodev/kurashi-skill) | Japan public-service lookups for weather, alerts, holidays, taxes, and libraries. |
+| [lambdasec skills](https://github.com/lambdasec/skills) | Python security scans with Frame, adaptive text classification, pivotal-token analysis, and local MLX models on Apple Silicon. |
 | [leechen298/Code2Skill](https://github.com/leechen298/Code2Skill) | Extract source-based agent tools and independently review generated workflow and source fidelity. |
 | [Lesile-Yin/agent-skills](https://github.com/Lesile-Yin/agent-skills) | Prompt engineering, multi-lens reviews, token budgets, and batch PowerPoint automation. |
 | [Linked API Skills](https://github.com/Linked-API/linkedin-skills) | Read and manage LinkedIn profiles and lead pipelines through Linked API; requires configured credentials. |
