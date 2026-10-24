@@ -265,6 +265,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [doomsday-network](https://github.com/doomsday-network/doomsday) | Lock and claim SHA-256 Proof-of-Escrow sub-agent bounties, settle HTTP 402 micropayments, and manage Base Mainnet `wDOOM` wallets. |
 | [file-itr](https://github.com/shivprime94/file-itr) | Follow a guided walkthrough of India's income-tax filing portal. |
 | [furusato-nozei](https://github.com/tahodev/kurashi-skill/tree/main/furusato-nozei) | Estimate Japan's hometown-tax donation cap with stated assumptions and official sources. |
 | [itr-wala](https://github.com/karanb192/itr-wala) | Prepare Indian income-tax returns using document extraction and Python calculations. |
