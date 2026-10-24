@@ -362,6 +362,7 @@ Browse these repositories when you want a related set of skills.
 | [E-commerce skills](https://github.com/mardab96/ecommerce-claude-skills) | Review checkout, product content, margin, inventory, retention, and disputes from store data. |
 | [Growth Cab GTM Skills](https://github.com/federicodon/growthcab-gtm-skills) | Sending-domain checks, cold-email grading, lead-list QA, and meeting benchmarks. |
 | [iOS agents and skills](https://github.com/apexbymanish/claude-ai-agents-ios) | Swift/iOS implementation, testing, accessibility, performance, security, and release checks. |
+| [KiteGEO skills](https://github.com/Lihaila/kitegeo-skill) | Audit AI-search readiness and write llms.txt, schema and robots.txt fixes; AI-visibility checks require a KiteGEO account. |
 | [Kudosity skills](https://github.com/kudosity/skills) | SMS, MMS, WhatsApp, RCS, contact lists, and delivery webhooks through Kudosity. |
 | [Kurashi skills](https://github.com/tahodev/kurashi-skill) | Japan public-service lookups for weather, alerts, holidays, taxes, and libraries. |
 | [leechen298/Code2Skill](https://github.com/leechen298/Code2Skill) | Extract source-based agent tools and independently review generated workflow and source fidelity. |
