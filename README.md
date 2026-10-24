@@ -279,6 +279,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter/tree/main/plugin/skills/ai-slop-linter) | Lint prose for AI-writing tells and check that a rewrite kept every number, name and link. |
 | [ai-tell-detector](https://github.com/aragossa/ai-tell-detector/tree/main/en/ai-tell-detector) | Audit English or Russian drafts for generic writing patterns and suggest precise edits. |
 | [brand-guidelines][brand-guidelines] | Apply Anthropic's brand colors and typography to artifacts. |
 | [business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | Assess a business name across cultures, languages, and target markets. |
