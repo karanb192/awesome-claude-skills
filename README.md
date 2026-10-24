@@ -214,6 +214,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [collage-design](https://github.com/polgarp/collage-design) | Compose collage artwork from licensed or supplied imagery and keep an attribution ledger. |
 | [film-crew](https://github.com/HEOJUNFO/ai-film-crew/tree/master/skills/film-crew) | Plan AI-video shots and write prompts with camera, lighting, and continuity guidance. |
 | [harmonic-mixing](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/harmonic-mixing) | Look up tempo and musical key to plan playlists and DJ transitions. |
+| [hitpost](https://github.com/Lihaila/hitpost-skill/tree/main/skills/hitpost) | Write three X posts or threads per idea, length-checked the way X counts, with share links. |
 | [identify-song](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/identify-song) | Identify a track from a link or audio file through Song Finder. |
 | [kavel-image](https://github.com/hanshs474/kavel-image-skill) | Generate images through Kavel's anonymous submit-and-poll API within its free allowance; photo edits require a Kavel API key. |
 | [keyword-icons](https://github.com/ruthless-coder-ai/keyword-icons) | Create several simple SVG icon concepts and inspect transparent PNG renders at small sizes. |
