@@ -69,6 +69,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [test-master](https://github.com/jeffallan/claude-skills/tree/main/skills/test-master) | Plan and implement unit, integration, performance, and security tests with coverage and defect analysis. |
 | [webapp-testing][webapp-testing] | Exercise a local web app with Playwright and inspect its behavior. |
 | [what-could-break](https://github.com/stas4000/what-could-break/tree/main/what-could-break) | Trace a change through consumers, stored data and duplicated rules, then design a concrete check for the critical assumption. |
+| [wreck-it](https://github.com/miyannishar/wreck-it/tree/main/skills/wreck-it) | Test a local web app like real users and chaos monkeys, then report reproduced bugs with screenshots, source locations and regression tests. |
 
 <a id="-debugging--troubleshooting"></a>
 
