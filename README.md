@@ -45,6 +45,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [mubu-integration](https://github.com/liuboacean/mubu-integration) | Import, export, and organize Mubu outlines and Markdown through an unofficial API. |
 | [pdf][pdf] | Extract text and tables, combine PDFs, and fill forms. |
 | [pptx][pptx] | Create, edit, and inspect PowerPoint presentations. |
+| [rtl-slides](https://github.com/darajoukar/reveal-rtl/tree/main/plugins/reveal-rtl/skills/rtl-slides) | Build right-to-left Persian and Arabic reveal.js presentations with localized digits, Jalali/Hijri dates, and PDF/PNG export. |
 | [translate-book](https://github.com/kcy4334-lgtm/translate-book-arxiv) | Translate papers and books with a LaTeX-source route for preserving arXiv equations and tables. |
 | [xlsx][xlsx] | Build and edit spreadsheets with formulas and formatting. |
 
