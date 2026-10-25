@@ -592,3 +592,5 @@ Maintained by [Karan Bansal](https://karanbansal.in) · [Blog][blog].
 [suggest]: https://github.com/karanb192/awesome-claude-skills/issues/new/choose
 [contributors]: https://github.com/karanb192/awesome-claude-skills/graphs/contributors
 [blog]: https://karanbansal.in/blog/
+
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
