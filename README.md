@@ -367,6 +367,7 @@ Browse these repositories when you want a related set of skills.
 | [leechen298/Code2Skill](https://github.com/leechen298/Code2Skill) | Extract source-based agent tools and independently review generated workflow and source fidelity. |
 | [Lesile-Yin/agent-skills](https://github.com/Lesile-Yin/agent-skills) | Prompt engineering, multi-lens reviews, token budgets, and batch PowerPoint automation. |
 | [Linked API Skills](https://github.com/Linked-API/linkedin-skills) | Read and manage LinkedIn profiles and lead pipelines through Linked API; requires configured credentials. |
+| [Lintelly HR Deutschland](https://github.com/NicksAdvisory/lintelly-hr-deutschland/tree/main/plugins/claude/skills) | German employment-law workflows for small companies: first hire, sick leave, dismissal prep, and payroll month-end, using a free MCP server. |
 | [Mamba Labs Skills](https://github.com/mambalabsdev/mamba-labs-skills) | Prospect research, CRM operations, email deliverability, and go-to-market workflows; some use Apify. |
 | [MarchTalk/ai-content-skills](https://github.com/MarchTalk/ai-content-skills) | Chinese concept analysis, conversation-to-draft organization, and source-based content review. |
 | [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | SEO, copywriting, email, pricing, advertising, and analytics. |
