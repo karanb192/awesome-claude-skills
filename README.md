@@ -358,6 +358,7 @@ Browse these repositories when you want a related set of skills.
 | [Cowork Tasks](https://github.com/sabbah13/cowork-tasks) | Create and triage a local task board from authorized Cowork connectors; includes prioritization and board-review skills. |
 | [CreatorSkills Free Skills](https://github.com/calebvbi/creatorskills-free-skills) | Blog outlines, short-video scripts, show notes, chapters, newsletter planning, and social copy. |
 | [dbhq-uk/marketplace](https://github.com/dbhq-uk/marketplace) | Remote diagnostics, code search, repository checks, research, writing, and work-service integrations. |
+| [Design Engineer Skills](https://github.com/modeinspect/design-engineer-skills) | Repo setup, component impact, visual QA, reviewable UI pull requests, design review of PRs and design system scoring for designers. |
 | [DurdeuVlad/persona-write](https://github.com/DurdeuVlad/persona-write) | Persona-based drafting, rewriting, sample-based voice extraction, and independent review. |
 | [E-commerce skills](https://github.com/mardab96/ecommerce-claude-skills) | Review checkout, product content, margin, inventory, retention, and disputes from store data. |
 | [Growth Cab GTM Skills](https://github.com/federicodon/growthcab-gtm-skills) | Sending-domain checks, cold-email grading, lead-list QA, and meeting benchmarks. |
