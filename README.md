@@ -154,6 +154,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [legacy-modernizer](https://github.com/jeffallan/claude-skills/tree/main/skills/legacy-modernizer) | Plan incremental migrations and refactor legacy systems with dependency maps and behavior checks. |
 | [mcp-builder][mcp-builder] | Build Model Context Protocol servers that connect tools and APIs to Claude. |
 | [multi-stack-mcp](https://github.com/VovikP/multi-stack-mcp) | Generate hero, pricing, features, and CTA sections for Next.js, Flutter, WordPress, or Vue from shared tokens. |
+| [nopekit](https://github.com/neuman/nopekit/tree/main/skills/nopekit) | Turn physical design claims into checks that must prove they can fail, for CAD, 3D printing, structures, and thermal. |
 | [pit-stop](https://github.com/Finn763/pit-stop) | Find a small repository maintenance fix, support it with evidence, and review the patch. |
 | [postgres-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/postgres-pro) | Analyze PostgreSQL queries, replication, JSONB, extensions, and database maintenance. |
 | [regulex-plus](https://github.com/PipeDream941/regulex-plus) | Render JavaScript regular expressions as SVG, PNG, or Mermaid diagrams through a CLI. |
