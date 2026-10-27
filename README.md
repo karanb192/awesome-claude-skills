@@ -256,6 +256,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [polymarket-tennis](https://github.com/livetennisapi/polymarket-tennis/tree/main/skills/polymarket-tennis) | Build an observe-only tennis market watcher joining market prices to live match scores. |
 | [pvr-inox-radar](https://github.com/karanb192/pvr-inox-radar/tree/main/skills/pvr-inox-radar) | Map PVR INOX showtimes in India with seats-together counts and travel-time estimates. |
 | [shopify-review-triage](https://github.com/alfredtech2026/shopify-app-review-brief/tree/main/docs/skills/shopify-review-triage) | Turn supplied Shopify reviews into source-linked incident, friction, pricing, and feature triage. |
+| [site-traffic-teardown](https://github.com/zhuyansen/site-traffic-teardown/tree/main/skills/site-traffic-teardown) | Find a site's competitors and compare traffic, channel mix, keywords, backlinks, and DR, then name three growth opportunities; paid AIsa data. |
 | [sql-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/sql-pro) | Write and optimize SQL queries, inspect execution plans, and compare database dialects. |
 | [youtube-full](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-full) | Fetch YouTube transcripts, search results, channel data, and playlists through TranscriptAPI; requires an API key. |
 
