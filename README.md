@@ -89,6 +89,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | --- | --- |
 | [a2ui-ask](https://github.com/YuniqueUnic/a2ui-ask) | Collect structured user input through a browser form and JSON answer files. |
 | [ai-meeting](https://github.com/bin1874/ai-meeting-skill/tree/main/ai-meeting) | Run structured proposal reviews with CLI agents and preserve each agent session between rounds. |
+| [autopilot](https://github.com/DecodedXR/claude-workflow-skills/tree/main/skills/autopilot) | Pick the next task that needs no human decision, build it test-first, have a separate verifier attack it, and merge only on green CI. |
 | [ax-extract-workflow](https://github.com/Necmttn/ax) | Reconstruct a shipped feature's workflow from local ax session history. |
 | [before-you-build](https://github.com/bin1874/before-you-build-skill) | Check demand, distribution, scope, and failure risks before building a product or feature. |
 | [brainstorming][brainstorming] | Work through requirements and design choices before implementation. |
