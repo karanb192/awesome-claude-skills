@@ -307,6 +307,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [simmer-tennis-live-gate](https://github.com/livetennisapi/simmer-tennis-live-gate) | Gate simulated tennis market entries on live match state without placing orders. |
 | [stipend](https://github.com/stipend-sh/stipend) | Manage a self-custodied USDC wallet and x402 payments with configurable spending policies. |
 | [stock-analysis](https://github.com/AlenSarangSatheesh/Indian-Stocks-Fundamental-Analysis-SKILL/tree/main/stock-analysis) | Analyze listed companies using primary filings, sector comparisons, and accounting-quality checks. |
+| [swapwallet](https://github.com/SwapWallet/swapwallet-mcp/tree/main/skills/swapwallet) | Check SwapWallet crypto balances and P&L, and request swaps or withdrawals the user approves in Telegram. |
 | [verify-polish-company](https://github.com/bartosz-kuc/skanfirmy-mcp/tree/main/skill) | Look up Polish company registrations, VAT status, bank accounts, and EU VAT numbers. |
 
 <a id="️-writing--research"></a>
