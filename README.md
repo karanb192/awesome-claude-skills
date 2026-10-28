@@ -64,6 +64,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [never-again](https://github.com/malaysherasia-ai/claude-never-again/tree/main/skills/never-again) | Capture repaired bugs as enforceable hooks or brief lessons for future sessions. |
 | [pdp-audit](https://github.com/llizell/pdp-audit) | Audit ecommerce product pages with desktop/mobile evidence and prioritized UX findings. |
 | [playwright-expert](https://github.com/jeffallan/claude-skills/tree/main/skills/playwright-expert) | Write and debug Playwright browser tests with fixtures, page objects, visual checks, and CI integration. |
+| [prove-it-ran](https://github.com/agentkitco/agentkit-dev-skills/tree/main/skills/prove-it-ran) | Show evidence that tests and builds actually ran and covered the change before calling work done. |
 | [sim (interview-sim)](https://github.com/chrisjacksonn/interview-sim/tree/main/skills/sim) | Practice timed coding interviews with script-managed clocks and hidden-test grading. |
 | [test-checklist](https://github.com/Ifeanyiejindu/qarunbook/tree/main/plugins/qarunbook/skills/test-checklist) | Derive a QA plan from app code with steps and expected results for each platform. |
 | [test-driven-development][tdd] | Write a failing test, implement the change, then refactor. |
