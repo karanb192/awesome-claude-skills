@@ -99,6 +99,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [before-you-build](https://github.com/bin1874/before-you-build-skill) | Check demand, distribution, scope, and failure risks before building a product or feature. |
 | [brainstorming][brainstorming] | Work through requirements and design choices before implementation. |
 | [breather](https://github.com/ilandahan/breather/tree/main/skills/breather) | Offer session stopping points with attended-time context and a written handoff. |
+| [call-me](https://github.com/radres/call-me/tree/main/skill) | Call or text the user's iPhone to ask or report, then act on the reply; needs the paid /call-me iPhone app. |
 | [clueless](https://github.com/ADanMan/clueless/tree/main/skills/clueless) | Name assumptions, irreversible steps, and review gaps when a user needs extra guidance. |
 | [communication-protocol-setup](https://github.com/cez0060405/communication-protocol-setup) | Agree on assistant communication preferences and export a reusable protocol. |
 | [cooper-email](https://github.com/cooper-email/cooper-email/tree/main/skills/cooper-email) | Send, read, and search mail from the agent's own inbox, and wait for replies or verification codes, through Cooper Email MCP or HTTP. |
