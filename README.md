@@ -316,6 +316,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | Skill | Use it to |
 | --- | --- |
 | [ai-tell-detector](https://github.com/aragossa/ai-tell-detector/tree/main/en/ai-tell-detector) | Audit English or Russian drafts for generic writing patterns and suggest precise edits. |
+| [b2b-marketing-playbooks](https://github.com/zachbrown29/lintel-marketing-playbooks) | Diagnose a B2B software marketing problem, then answer from the one framework that owns it, with build steps and benchmarks. |
 | [berlin-job-search](https://github.com/umutyesildal/berlin-job-search/tree/main/skills/berlin-job-search) | Search Berlin and German job boards, check German and Blue Card requirements, and draft a Lebenslauf or English CV without inventing claims. |
 | [brand-guidelines][brand-guidelines] | Apply Anthropic's brand colors and typography to artifacts. |
 | [business-name-fit](https://github.com/Elham-Farajnejad/business-name-fit) | Assess a business name across cultures, languages, and target markets. |
