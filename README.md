@@ -138,6 +138,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [unpaid-intern](https://github.com/kevinmmiddleton/unpaid-intern/tree/main/skills/unpaid-intern) | Turn meeting transcripts, docs, and tickets into a morning briefing, meeting prep, and follow-ups in plain files you own. |
 | [using-git-worktrees][worktrees] | Work in isolated checkouts for separate development tasks. |
 | [using-lwc](https://github.com/JanYork/llm-wiki-cli/tree/main/skills/using-lwc) | Recall and preserve source-grounded project knowledge with LWC wiki and graph tools. |
+| [when-not-to-orchestrate](https://github.com/PapiScholz/symphony/tree/main/skills/when-not-to-orchestrate) | Decide whether a task divides before fanning it out, and keep renames, migrations, and sweeps in one pass. |
 | [wise-men-flash](https://github.com/Ali-expandings/wise-men-flash) | Put a hard decision to three subagents, one a Devil's Advocate, and get one checked memo that keeps the best case against it. |
 | [workflow-design](https://github.com/ghorbanies/workflow-design) | Model workflow states, test guards, analyze transition logs, and plan safe flow changes. |
 | [working-memory](https://github.com/ikotelkin/claude-skills/tree/main/skills/working-memory) | Preserve a bounded work checkpoint across context compaction. |
