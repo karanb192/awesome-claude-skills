@@ -229,6 +229,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [slack-gif-creator][slack-gif-creator] | Make animated GIFs sized for Slack. |
 | [SocialClaw](https://github.com/ndesv21/socialclaw/tree/main/skill) | Schedule and publish social posts through SocialClaw; requires a configured workspace and active plan. |
 | [table-sheet](https://github.com/netmobster/unstuck-games/tree/main/plugins/table-sheet) | Turn a D&D Beyond character sheet into a play guide and pre-session checklist. |
+| [veida-image](https://github.com/hanshs474/veida-image-skill) | Generate images from a prompt through Veida AI's anonymous submit-and-poll API, with no API key or account. |
 | [vox-director](https://github.com/Alisa0808/vox-director) | Plan and assemble narrated collage videos through paid Atlas Cloud APIs and local ffmpeg. |
 | [youtube-transcript](https://github.com/tubeagentkit/youtube-transcript-skills/tree/main/skills/youtube-transcript) | Fetch transcripts, video search results, and playlists through the YouTube Transcript API. |
 
