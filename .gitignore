@@ -31,7 +31,6 @@ Desktop.ini
 *~
 
 # Editor directories and files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -52,3 +51,5 @@ LAUNCH_PLAN.md
 LAUNCH_STRATEGY.md
 READY_TO_LAUNCH.md
 KB-Actions.md
+config.bat
+node_modules
