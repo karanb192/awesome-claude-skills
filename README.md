@@ -230,6 +230,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [table-sheet](https://github.com/netmobster/unstuck-games/tree/main/plugins/table-sheet) | Turn a D&D Beyond character sheet into a play guide and pre-session checklist. |
 | [vox-director](https://github.com/Alisa0808/vox-director) | Plan and assemble narrated collage videos through paid Atlas Cloud APIs and local ffmpeg. |
 | [youtube-transcript](https://github.com/tubeagentkit/youtube-transcript-skills/tree/main/skills/youtube-transcript) | Fetch transcripts, video search results, and playlists through the YouTube Transcript API. |
+| [EasySociable](https://github.com/murphywuwu/easysociable-mcp/tree/main/skills/easysociable-slideshow) | Turn a prompt into a branded multi-page carousel for TikTok, Instagram & LinkedIn inside Claude Code, Cursor, or Codex. |
 
 <a id="-data--analysis"></a>
 
