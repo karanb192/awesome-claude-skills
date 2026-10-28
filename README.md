@@ -161,6 +161,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [game-build-team](https://github.com/Varalix-Digitech-Solutions/game-build-team-skill/tree/main/skills/game-build-team) | Build Godot game features with agent roles, headless tests, visual review, and resumable progress. |
 | [keyboard-shortcuts](https://github.com/nparashar150/claude-keyboard-shortcuts/tree/main/skills/keyboard-shortcuts) | Audit and implement web-app shortcuts, command palettes, and keyboard help. |
 | [legacy-modernizer](https://github.com/jeffallan/claude-skills/tree/main/skills/legacy-modernizer) | Plan incremental migrations and refactor legacy systems with dependency maps and behavior checks. |
+| [light-cloud-deploy](https://github.com/light-cloud-com/skills/tree/main/skills/light-cloud-deploy) | Deploy a repo or local folder to Light Cloud, add a database, and read logs or roll back. |
 | [mcp-builder][mcp-builder] | Build Model Context Protocol servers that connect tools and APIs to Claude. |
 | [multi-stack-mcp](https://github.com/VovikP/multi-stack-mcp) | Generate hero, pricing, features, and CTA sections for Next.js, Flutter, WordPress, or Vue from shared tokens. |
 | [pit-stop](https://github.com/Finn763/pit-stop) | Find a small repository maintenance fix, support it with evidence, and review the patch. |
