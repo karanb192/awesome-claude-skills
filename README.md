@@ -171,7 +171,6 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | --- | --- |
 | [16-eyes](https://github.com/kigiela/16-eyes/tree/main/skills/16-eyes) | Audit a repository or PR diff through saved investigation lenses and skeptical verification. |
 | [awesome-bug-bounty](https://github.com/YangTech-gh/Awesome-Bug-Bounty/tree/main/skills/awesome-bug-bounty) | Plan authorized bug-bounty research with scope checks, vulnerability guides, and report templates. |
-| [claude-security-skills](https://github.com/NovaCode37/claude-security-skills) | Check secrets, Python code, dependencies, containers, JWTs, CORS, and HTTP headers. |
 | [cra-vulnerability-obligations](https://github.com/Ansvar-Systems/cra-vulnerability-obligations-skill) | Screen CRA scope and vulnerability-reporting questions using cited provisions through Ansvar Gateway. |
 | [deep-security-audit](https://github.com/ravindrakele/claude-skills/tree/main/plugins/deep-security-audit/skills/deep-security-audit) | Map code attack surfaces and review candidate vulnerabilities with independent verification. |
 | [deep-security-check](https://github.com/give-jd/deep-security-check/tree/main/skills/deep-security-check) | Run local static code, dependency, and secret scans and report their evidence and coverage. |
@@ -213,7 +212,6 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [bria-ai](https://github.com/Bria-AI/bria-skill/tree/dev/skills/bria-ai) | Generate and edit images or remove backgrounds through the Bria API. |
 | [canvas-design][canvas-design] | Create visual designs as PNG and PDF files. |
 | [collage-design](https://github.com/polgarp/collage-design) | Compose collage artwork from licensed or supplied imagery and keep an attribution ledger. |
-| [film-crew](https://github.com/HEOJUNFO/ai-film-crew/tree/master/skills/film-crew) | Plan AI-video shots and write prompts with camera, lighting, and continuity guidance. |
 | [harmonic-mixing](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/harmonic-mixing) | Look up tempo and musical key to plan playlists and DJ transitions. |
 | [identify-song](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/identify-song) | Identify a track from a link or audio file through Song Finder. |
 | [kavel-image](https://github.com/hanshs474/kavel-image-skill) | Generate images through Kavel's anonymous submit-and-poll API within its free allowance; photo edits require a Kavel API key. |
@@ -581,7 +579,7 @@ Maintained by [Karan Bansal](https://karanbansal.in) · [Blog][blog].
 [waiting]: https://raw.githubusercontent.com/obra/superpowers/main/skills/systematic-debugging/condition-based-waiting.md
 [defense]: https://raw.githubusercontent.com/obra/superpowers/main/skills/systematic-debugging/defense-in-depth.md
 [tracing]: https://raw.githubusercontent.com/obra/superpowers/main/skills/systematic-debugging/root-cause-tracing.md
-[testing-skills]: https://raw.githubusercontent.com/obra/superpowers/main/skills/writing-skills/testing-skills-with-subagents.md
+[testing-skills]: https://raw.githubusercontent.com/obra/superpowers/main/skills/writing-skills/references/testing-skills-with-subagents.md
 [superpowers-catalog]: https://github.com/obra/superpowers/tree/main/skills
 [anthropic-install]: https://github.com/anthropics/skills#try-in-claude-code-claudeai-and-the-api
 [skill-guide]: https://code.claude.com/docs/en/skills
