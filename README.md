@@ -320,6 +320,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [tldr](https://github.com/SurefireStudios/tldr/tree/main/skills/tldr) | Lead with a short summary while preserving full details and critical caveats. |
 | [trade-show-prep](https://github.com/DataOrigin/trade-show-prep-skill/tree/main/skills/trade-show-prep) | Plan a B2B trade show, draft meeting requests, qualify booth leads, and write follow-ups. |
 | [unslop](https://github.com/MohamedAbdallah-14/unslop/tree/main/skills/unslop) | Rewrite prose to remove repeated AI writing patterns while preserving technical content. |
+| [upwork-job-hunter](https://github.com/droopboop/flconsole-upwork-mcp/tree/main/skills/upwork-job-hunter) | Check new Upwork jobs through the flconsole MCP server, shortlist the ones that fit, and draft a proposal for review. |
 | [zh-tw-humanizer](https://github.com/acchuang/zh-tw-humanizer) | Edit Traditional Chinese prose with Taiwan terminology and protected-fact rules. |
 
 <a id="-meta-skills"></a>
