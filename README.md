@@ -303,6 +303,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [reading-analysis](https://github.com/shenquan520/reading-analysis) | Analyse English exam passages, answer choices, and recurring errors. Noncommercial license. |
 | [renwei](https://github.com/dbhosbu-dotcom/renwei) | Edit Chinese manuscripts for syntax, chapter rhythm, factual consistency, and generic prose. |
 | [resume-studio](https://github.com/Sidgit11/resume-studio) | Maintain a career evidence corpus and tailor resumes to job requirements without inventing claims. |
+| [rhythm](https://github.com/tadelstein9/editor-flags/tree/main/rhythm) | Give expository prose one thesis and a topic sentence per paragraph; test the thesis and flag sound echoes. |
 | [sales-framework](https://github.com/KudoMetrics-Techologies-Private-Limited/sales-framework/tree/main/skills/sales-framework) | Review sales copy, pitches, and objections against a published persuasion framework. |
 | [Say it plainly](https://github.com/adjustleads/provenskills-free-packs/tree/main/plain-writing/say-it-plainly) | Rewrite prose for a reader without changing its claims. Noncommercial license. |
 | [seo-translator](https://github.com/Skillproofdev/seo-translator) | Localize content with market-specific registers while preserving keywords, links, and structure. |
