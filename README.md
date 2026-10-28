@@ -290,6 +290,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [shopify-review-triage](https://github.com/alfredtech2026/shopify-app-review-brief/tree/main/docs/skills/shopify-review-triage) | Turn supplied Shopify reviews into source-linked incident, friction, pricing, and feature triage. |
 | [site-traffic-teardown](https://github.com/zhuyansen/site-traffic-teardown/tree/main/skills/site-traffic-teardown) | Find a site's competitors and compare traffic, channel mix, keywords, backlinks, and DR, then name three growth opportunities; paid AIsa data. |
 | [sql-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/sql-pro) | Write and optimize SQL queries, inspect execution plans, and compare database dialects. |
+| [url-to-markdown](https://github.com/replynodes/replynodes-agent-skills/tree/main/skills/url-to-markdown) | Fetch public webpages as clean Markdown for LLM context through a zero-auth, read-only HTTP endpoint. |
 | [weread-trial-card-list](https://github.com/C-s-salute/weread-trial-card-list) | Scrape WeRead category and rank pages into a deduplicated list of trial-card readable books, exported as HTML and Excel. |
 | [youtube-full](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-full) | Fetch YouTube transcripts, search results, channel data, and playlists through TranscriptAPI; requires an API key. |
 
