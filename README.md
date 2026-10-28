@@ -84,6 +84,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | Skill | Use it to |
 | --- | --- |
 | [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace) | Inspect agent sessions for cost, tokens, failures, and latency. |
+| [agy-claude-crash-guard-kit](https://github.com/jashory/agy-claude-crash-guard-kit) | Prevent and diagnose HTTP 400 trajectory crashes, encrypted PDF poisoning, and stop-hook loops. |
 | [debugging-wizard](https://github.com/jeffallan/claude-skills/tree/main/skills/debugging-wizard) | Reproduce failures, test hypotheses, identify root causes, and verify fixes. |
 | [solidping-monitoring](https://github.com/fclairamb/solidping-plugin/tree/main/skills/solidping-monitoring) | Find why an uptime check fails, read incidents, and add checks through the SolidPing MCP server. |
 | [systematic-debugging][debugging] | Investigate a bug's cause before attempting a fix. |
@@ -199,6 +200,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [deep-security-check](https://github.com/give-jd/deep-security-check/tree/main/skills/deep-security-check) | Run local static code, dependency, and secret scans and report their evidence and coverage. |
 | [gedik](https://github.com/onur-kesim/gedik/tree/main/skills/gedik) | Audit authorized project surfaces and attach reproducible evidence to security findings. |
 | [incident-reporting-navigator](https://github.com/Ansvar-Systems/incident-reporting-navigator-skill) | Map EU incident-notification questions to cited duties, authorities, and deadlines through Ansvar Gateway. |
+| [mcp-agent-security-auditor](https://github.com/jashory/mcp-agent-security-auditor) | Audit MCP server configs, agent hooks, and SKILL.md files for injection risks and leaked secrets. |
 | [regulatory-threat-model](https://github.com/Ansvar-Systems/regulatory-threat-model-skill) | Build evidence-cited threat models and selected EU obligation screens through Ansvar Gateway. |
 | [SecHelix](https://github.com/omarmohelal/SecHelix/tree/main/skills/sechelix) | Review authorized local code for security issues with evidence and a refutation pass. |
 | [secure-code-guardian](https://github.com/jeffallan/claude-skills/tree/main/skills/secure-code-guardian) | Implement authentication, authorization, input validation, and secure coding controls. |
