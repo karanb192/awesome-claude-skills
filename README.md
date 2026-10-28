@@ -212,6 +212,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [agent-webbridge](https://github.com/jeet-dhandha/agent-webbridge) | Read pages, fill forms and click in your real, logged-in Chrome across several profiles, with parallel tabs. |
 | [brickwise](https://github.com/JCPetrelli/brickwise) | Explain a codebase or topic as an interactive 3D brick model in one HTML page. |
 | [code-documenter](https://github.com/jeffallan/claude-skills/tree/main/skills/code-documenter) | Write docstrings, API specifications, documentation portals, and developer guides. |
 | [devops-engineer](https://github.com/jeffallan/claude-skills/tree/main/skills/devops-engineer) | Configure CI/CD, containers, infrastructure templates, deployment checks, and rollback plans. |
