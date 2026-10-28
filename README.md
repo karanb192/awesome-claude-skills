@@ -281,6 +281,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [converly](https://github.com/converlyio/converly-agent) | Configure Converly conversion flows and inspect test events and delivered conversions. |
 | [datawebot](https://github.com/datawebot/datawebot-mcp/tree/main/skills/datawebot) | Find products across online shops and every seller's price with direct links through the hosted datawebot MCP server. |
 | [formo-analytics](https://github.com/getformo/cli/tree/main/skills/formo-analytics) | Query Formo product and onchain analytics through MCP, CLI, or REST. |
+| [healthcare-job-search](https://github.com/yumaheymans/carejobs-mcp/tree/main/skills/healthcare-job-search) | Find open US healthcare jobs and the hourly pay employers post, through the CareJobs.Now MCP server or JSON API. |
 | [invoice-winning-numbers](https://github.com/tahodev/baodao-skill/tree/main/invoice-winning-numbers) | Look up Taiwan invoice winning numbers by period from official sources. |
 | [market-mirror](https://github.com/DarkWorldCoder/market-mirror/tree/main/plugin/skills/market-mirror) | Test ads, prices and sales pitches on simulated buyers and get a go / iterate / no-go report. |
 | [octav-api](https://github.com/Octav-Labs/octav-api-skill) | Integrate wallet balances, history and DeFi positions using an API key; selected agent endpoints also support x402 payments. |
