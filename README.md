@@ -299,6 +299,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [agent-cost-report](https://github.com/tallyhook/tallyhook-collector/tree/master/skills/agent-cost-report) | Price local Claude Code and Codex sessions per repo, model, or client, and apply a markup to get a billable figure. |
 | [file-itr](https://github.com/shivprime94/file-itr) | Follow a guided walkthrough of India's income-tax filing portal. |
 | [furusato-nozei](https://github.com/tahodev/kurashi-skill/tree/main/furusato-nozei) | Estimate Japan's hometown-tax donation cap with stated assumptions and official sources. |
 | [ipo-offer-document-review](https://github.com/parinshahAIbuilder/ipo-offer-document-review) | Review Indian IPO offer documents (DRHP/RHP) against SEBI ICDR, LODR, Companies Act and Ind AS for disclosure gaps. |
