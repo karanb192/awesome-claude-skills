@@ -159,6 +159,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish) | Publish text, Markdown, HTML, a file or a folder as a site to brewpage.app and return a shareable link, no account. |
 | [build-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/build-with-better-design) | Select and install a design system through the Better Design MCP service. |
 | [building-blog](https://github.com/BuildShipGrowRepeat/nextjs-sanity-blog-skill/tree/main/skills/building-blog) | Add a Next.js and Sanity blog with project discovery, an implementation plan, and SEO guidance. |
+| [cascade](https://github.com/twitchedd/cascade-skill/tree/main/skills/cascade) | Animate Unity UI Toolkit elements with tweens, springs, stagger, and screen transitions using the Cascade library. |
 | [clone-team](https://github.com/Varalix-Digitech-Solutions/clone-team/tree/main/skills/clone-team) | Rebuild website interfaces with an agent team, visual checks, and architecture notes. |
 | [cohesivity](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/claude/skills/cohesivity) | Provision and manage application backend services through Cohesivity APIs and MCP. |
 | [deacon-install](https://github.com/heydeacon/skills/tree/main/skills/deacon-install) | Add the Deacon AI support widget to a site or app, pass in the signed-in user, and check a live page loads it. |
