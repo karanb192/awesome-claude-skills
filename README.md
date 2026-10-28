@@ -247,6 +247,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [ltx2-video](https://github.com/patraxo/ltx2-vidgen-skill/tree/main/skills/ltx2-video) | Generate clips from text, images, or video through an LTX-2.3 backend deployed to the user Modal account. |
 | [make-faceless-video](https://github.com/airdropfi/autoshort-skills/tree/main/skills/make-faceless-video) | Draft, price-check and render faceless short videos through the AutoShort or StoryShort MCP server; needs an account with credits. |
 | [meshy-pose-rigging](https://github.com/rickyworld/rigmeshy-by-ricky/tree/master/meshy-pose-rigging) | Prepare character references and work through Meshy auto-rigging and export troubleshooting. |
+| [opencanviz-json](https://github.com/opencanviz/opencanviz-skills-repo/tree/main/plugins/opencanviz/skills/opencanviz-json) | Write and validate openCanviz explainer video JSON; importing requires a free openCanviz account, MP4 download a plan or one-time purchase. |
 | [publishport](https://github.com/karuha-m/publishport-skill/tree/main/skills/publishport) | Publish and cross-post through connected accounts in the user's PublishPort browser app. |
 | [puzzlegenio](https://github.com/fruitwyatt/puzzlegenio-claude-skill) | Choose a puzzle type and build prefilled links to PuzzleGenio browser tools for creating printable puzzles. |
 | [reels-setup](https://github.com/VishiATChoudhary/reels/tree/main/skills/reels-setup) | Install and verify a Remotion studio that builds 9:16 story reels cut to a song's drop. |
