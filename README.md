@@ -133,6 +133,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [session-handoff](https://github.com/alapha888/session-handoff-kit) | Toolkit for coding agents providing a SKILL.md protocol, context-hygiene checklist, and handoff-note template for structured session transitions. |
 | [shipreel](https://github.com/theBstar/shipreel/tree/main/plugins/shipreel/skills/shipreel) | Render a narrated PR walkthrough with diagrams, code panels, and optional app recordings. |
 | [simple-man](https://github.com/Maksim-Burtsev/simple-man/tree/master/skills/simple-man) | Shorten agent replies while preserving findings, fixes, checks, and required facts. |
+| [size-tracker](https://github.com/Rileyyy-313/claude-size-tracker/tree/main/size-tracker) | Record clothing and shoe sizes by brand and answer which size to order from your own fit history. |
 | [slop-post](https://github.com/useslop/claude-plugins/tree/main/plugins/slop/skills/slop-post) | Create a private Slop draft from a session with a receipt of model, tools, and commits. |
 | [tlgr](https://github.com/tlgrcli/tlgr/tree/main/plugin/skills/tlgr) | Read, search, and manage a personal Telegram account through a JSON CLI. |
 | [unpaid-intern](https://github.com/kevinmmiddleton/unpaid-intern/tree/main/skills/unpaid-intern) | Turn meeting transcripts, docs, and tickets into a morning briefing, meeting prep, and follow-ups in plain files you own. |
