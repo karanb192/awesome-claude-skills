@@ -122,6 +122,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [tlgr](https://github.com/tlgrcli/tlgr/tree/main/plugin/skills/tlgr) | Read, search, and manage a personal Telegram account through a JSON CLI. |
 | [using-git-worktrees][worktrees] | Work in isolated checkouts for separate development tasks. |
 | [using-lwc](https://github.com/JanYork/llm-wiki-cli/tree/main/skills/using-lwc) | Recall and preserve source-grounded project knowledge with LWC wiki and graph tools. |
+| [wise-men-flash](https://github.com/Ali-expandings/wise-men-flash) | Put a hard decision to three subagents, one a Devil's Advocate, and get one checked memo that keeps the best case against it. |
 | [workflow-design](https://github.com/ghorbanies/workflow-design) | Model workflow states, test guards, analyze transition logs, and plan safe flow changes. |
 | [working-memory](https://github.com/ikotelkin/claude-skills/tree/main/skills/working-memory) | Preserve a bounded work checkpoint across context compaction. |
 | [writing-plans][writing-plans] | Break a specification into implementation steps. |
