@@ -195,6 +195,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [16-eyes](https://github.com/kigiela/16-eyes/tree/main/skills/16-eyes) | Audit a repository or PR diff through saved investigation lenses and skeptical verification. |
 | [awesome-bug-bounty](https://github.com/YangTech-gh/Awesome-Bug-Bounty/tree/main/skills/awesome-bug-bounty) | Plan authorized bug-bounty research with scope checks, vulnerability guides, and report templates. |
 | [cra-vulnerability-obligations](https://github.com/Ansvar-Systems/cra-vulnerability-obligations-skill) | Screen CRA scope and vulnerability-reporting questions using cited provisions through Ansvar Gateway. |
+| [darkmoon-pentest](https://github.com/ASCIT31/darkmoon-mcp-server/tree/main/plugins/darkmoon/skills/darkmoon-pentest) | Run authorized AI pentests on a self-hosted Darkmoon Pro over MCP, poll runs, and triage findings. |
 | [deep-security-audit](https://github.com/ravindrakele/claude-skills/tree/main/plugins/deep-security-audit/skills/deep-security-audit) | Map code attack surfaces and review candidate vulnerabilities with independent verification. |
 | [deep-security-check](https://github.com/give-jd/deep-security-check/tree/main/skills/deep-security-check) | Run local static code, dependency, and secret scans and report their evidence and coverage. |
 | [gedik](https://github.com/onur-kesim/gedik/tree/main/skills/gedik) | Audit authorized project surfaces and attach reproducible evidence to security findings. |
