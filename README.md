@@ -267,6 +267,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | Skill | Use it to |
 | --- | --- |
 | [file-itr](https://github.com/shivprime94/file-itr) | Follow a guided walkthrough of India's income-tax filing portal. |
+| [fxmacrodata](https://github.com/fxmacrodata/claude-plugin-fxmacrodata/tree/main/skills/fxmacrodata) | Pull central-bank rates, inflation, jobs data, FX rates and release calendars for 22 currencies through the FXMacroData MCP server. |
 | [furusato-nozei](https://github.com/tahodev/kurashi-skill/tree/main/furusato-nozei) | Estimate Japan's hometown-tax donation cap with stated assumptions and official sources. |
 | [itr-wala](https://github.com/karanb192/itr-wala) | Prepare Indian income-tax returns using document extraction and Python calculations. |
 | [simmer-tennis-live-gate](https://github.com/livetennisapi/simmer-tennis-live-gate) | Gate simulated tennis market entries on live match state without placing orders. |
