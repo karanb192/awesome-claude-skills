@@ -114,6 +114,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) | Structure enterprise sales discovery, stakeholder analysis, deal qualification, and account plans. |
 | [golden-frijoles](https://github.com/danybgoode/golden-frijoles) | Turn ideas into bets with a target and read date, ship them behind flags and A/B tests, and report whether each paid off. |
 | [guashuai / junshi](https://github.com/DENGYUFAN0/guashuai-junshi/tree/main/adapters/claude-code/skills) | Coordinate model tiers with either an orchestrator or an occasional expert advisor. |
+| [guided-goal](https://github.com/luchasarie/guided-goal/tree/main/skills/guided-goal) | Turn rough intent into a completion contract with success criteria, verification, boundaries and stop conditions before work starts. |
 | [karpathy-guidelines](https://github.com/swarmclawai/andrej-karpathy-skills/tree/main/skills/karpathy-guidelines) | Surface assumptions, keep coding changes small, and define checks before implementation. |
 | [kgai knowledge-graph](https://github.com/kgaidev/kgai) | Capture project decisions and domain knowledge in a linked graph through the kgai CLI. |
 | [least-cost-capable](https://github.com/kanibal-studio/least-cost-capable) | Pick the lowest declared cost rank among models that have the capabilities a task needs. |
