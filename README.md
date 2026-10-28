@@ -55,6 +55,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [aeo-check](https://github.com/pchewlo/aeo-check/tree/main/.claude/skills/aeo-check) | Lint a site's code or live URL for what blocks AI search and agents, fix findings in framework order, then re-run to confirm. |
 | [agent-qa-authoring](https://github.com/vostride/agent-qa/tree/main/skills/agent-qa-authoring) | Author and validate agent-qa tests and IDs; source license restricts competing use. |
 | [align](https://github.com/ggrigo/align/tree/main/skills/align) | Collect structured feedback on generated claims in an HTML form and archive corrections for later review. |
 | [benchmark-yylo](https://github.com/yylo-dev/yylo-skills/tree/main/skills/benchmark-yylo) | Prepare reusable cases, compare models/harnesses and independently evaluate retained outputs. |
