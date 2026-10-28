@@ -98,6 +98,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [delegate](https://github.com/aayushpokhrel1/delegation-pipeline/tree/master/skills/delegate) | Delegate a precisely specified coding task to a worker, then review its diff and tests. |
 | [dialog-tree](https://github.com/ikotelkin/claude-skills/tree/main/skills/dialog-tree) | Track conversation branches in an interactive dialogue tree. |
 | [executing-plans][executing-plans] | Carry out an implementation plan with review checkpoints. |
+| [executor](https://github.com/Atri10/executor) | Run an initiative from intake through spec, plan, execution, review, and verification with script-enforced gates. |
 | [fabling](https://github.com/gncdev/fabling/tree/main/fabling) | Apply a work profile for proportionate investigation, visual checks, and task completion. |
 | [finishing-a-development-branch][finishing] | Decide how to integrate finished work and clean up the branch. |
 | [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) | Structure enterprise sales discovery, stakeholder analysis, deal qualification, and account plans. |
