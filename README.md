@@ -291,6 +291,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [site-traffic-teardown](https://github.com/zhuyansen/site-traffic-teardown/tree/main/skills/site-traffic-teardown) | Find a site's competitors and compare traffic, channel mix, keywords, backlinks, and DR, then name three growth opportunities; paid AIsa data. |
 | [sql-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/sql-pro) | Write and optimize SQL queries, inspect execution plans, and compare database dialects. |
 | [weread-trial-card-list](https://github.com/C-s-salute/weread-trial-card-list) | Scrape WeRead category and rank pages into a deduplicated list of trial-card readable books, exported as HTML and Excel. |
+| [youtube-channel-transcripts](https://github.com/pratie/youtube-transcript-skill/tree/main/skills/youtube-channel-transcripts) | Pull every transcript on a YouTube channel as one background job through BulkTranscripts; requires an API key. |
 | [youtube-full](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-full) | Fetch YouTube transcripts, search results, channel data, and playlists through TranscriptAPI; requires an API key. |
 
 <a id="-finance--tax"></a>
