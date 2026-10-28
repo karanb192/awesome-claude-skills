@@ -63,6 +63,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [clousd](https://github.com/Clousd-Android/clousd-sdk/tree/main/skills/clousd) | Test Android apps on cloud phones: run plain-language tasks or drive the screen step by step. |
 | [crosscheck](https://github.com/moveju112/skill_verify/tree/main/skills/crosscheck) | Compare independent Claude and Codex analysis, reconcile findings, and verify completed work. |
 | [design-fidelity-verify](https://github.com/jeltehomminga/figma-design-skills/tree/main/skills/design-fidelity-verify) | Compare measured values in a running app with a Figma design specification. |
+| [figma-design-compare](https://github.com/WST2002/claude-code-skills/tree/main/skills/figma-design-compare) | Check a built web or mobile screen against its Figma frame and get each mismatch with Figma value, built value, file:line and fix. |
 | [fresh-review](https://github.com/roman-s8o/workflow-pack-free/tree/main/.claude/skills/fresh-review) | Review code or a plan against acceptance criteria with an agent that has not seen the conversation, then label each finding. |
 | [ironloop](https://github.com/edouard-claude/ironloop/tree/main/skills/engineering/ironloop) | Plan Rust work through specifications, tests, simulation, and authorized security checks. |
 | [never-again](https://github.com/malaysherasia-ai/claude-never-again/tree/main/skills/never-again) | Capture repaired bugs as enforceable hooks or brief lessons for future sessions. |
