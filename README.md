@@ -58,6 +58,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [aeo-check](https://github.com/pchewlo/aeo-check/tree/main/.claude/skills/aeo-check) | Lint a site's code or live URL for what blocks AI search and agents, fix findings in framework order, then re-run to confirm. |
 | [agent-qa-authoring](https://github.com/vostride/agent-qa/tree/main/skills/agent-qa-authoring) | Author and validate agent-qa tests and IDs; source license restricts competing use. |
 | [align](https://github.com/ggrigo/align/tree/main/skills/align) | Collect structured feedback on generated claims in an HTML form and archive corrections for later review. |
+| [assay](https://github.com/awss1i/assay/tree/main/plugins/assay/skills/checking-a-page) | Open a web page in Chromium, drive every control, and report where the page contradicts itself. |
 | [benchmark-yylo](https://github.com/yylo-dev/yylo-skills/tree/main/skills/benchmark-yylo) | Prepare reusable cases, compare models/harnesses and independently evaluate retained outputs. |
 | [checkup](https://github.com/agentvitals/checkup/tree/main/checkup) | Run hosted probes and retrieve server-scored results; full mode uploads approved conversation logs. |
 | [clousd](https://github.com/Clousd-Android/clousd-sdk/tree/main/skills/clousd) | Test Android apps on cloud phones: run plain-language tasks or drive the screen step by step. |
