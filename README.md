@@ -159,6 +159,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [erupt-admin](https://github.com/plinian/erupt-skill) | Scaffold a Java admin app with the erupt framework, H2, CRUD, and permission models. |
 | [figma-design-extract](https://github.com/jeltehomminga/figma-design-skills/tree/main/skills/figma-design-extract) | Extract Figma values into a design specification mapped to the project tokens. |
 | [game-build-team](https://github.com/Varalix-Digitech-Solutions/game-build-team-skill/tree/main/skills/game-build-team) | Build Godot game features with agent roles, headless tests, visual review, and resumable progress. |
+| [impresario](https://github.com/Shushant17711/impresario) | Invent a subject-specific concept and build an animated website from one sentence, then screenshot and revise it. |
 | [keyboard-shortcuts](https://github.com/nparashar150/claude-keyboard-shortcuts/tree/main/skills/keyboard-shortcuts) | Audit and implement web-app shortcuts, command palettes, and keyboard help. |
 | [legacy-modernizer](https://github.com/jeffallan/claude-skills/tree/main/skills/legacy-modernizer) | Plan incremental migrations and refactor legacy systems with dependency maps and behavior checks. |
 | [light-cloud-deploy](https://github.com/light-cloud-com/skills/tree/main/skills/light-cloud-deploy) | Deploy a repo or local folder to Light Cloud, add a database, and read logs or roll back. |
