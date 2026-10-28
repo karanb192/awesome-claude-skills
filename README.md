@@ -120,6 +120,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [least-cost-capable](https://github.com/kanibal-studio/least-cost-capable) | Pick the lowest declared cost rank among models that have the capabilities a task needs. |
 | [mindpalace](https://github.com/aashutosh396/mindpalace-skill) | Organize a local knowledge vault around resources, project pointers, logs, and runbooks. |
 | [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Inspect recorded agent runs and replay or fork them through Orca MCP. |
+| [orchestrate](https://github.com/aayushpokhrel1/delegation-pipeline/tree/master/skills/orchestrate) | Route each task in a plan to a configured model worker or a subagent, then verify and commit per task. Worker install and provider setup are separate. |
 | [orchestrating-subagents](https://github.com/PapiScholz/symphony/tree/main/skills/orchestrating-subagents) | Choose model tiers for delegated work and review dispatch cost and duration. |
 | [planning-with-files](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files) | Persist plans, findings, and progress across long tasks and context resets. |
 | [pr-review](https://github.com/priyank766/OpenSource-SKILL) | Filter a pull request review down to actionable findings. |
