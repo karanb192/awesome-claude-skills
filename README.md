@@ -70,6 +70,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [playwright-expert](https://github.com/jeffallan/claude-skills/tree/main/skills/playwright-expert) | Write and debug Playwright browser tests with fixtures, page objects, visual checks, and CI integration. |
 | [prove-it-ran](https://github.com/agentkitco/agentkit-dev-skills/tree/main/skills/prove-it-ran) | Show evidence that tests and builds actually ran and covered the change before calling work done. |
 | [sim (interview-sim)](https://github.com/chrisjacksonn/interview-sim/tree/main/skills/sim) | Practice timed coding interviews with script-managed clocks and hidden-test grading. |
+| [slop-popper](https://github.com/J7-Tech/Slop-Popper/tree/main/slop-popper) | Remove dead code, noise comments, and debug prints from AI-written code without changing behavior. |
 | [test-checklist](https://github.com/Ifeanyiejindu/qarunbook/tree/main/plugins/qarunbook/skills/test-checklist) | Derive a QA plan from app code with steps and expected results for each platform. |
 | [test-driven-development][tdd] | Write a failing test, implement the change, then refactor. |
 | [test-master](https://github.com/jeffallan/claude-skills/tree/main/skills/test-master) | Plan and implement unit, integration, performance, and security tests with coverage and defect analysis. |
