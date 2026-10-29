@@ -364,6 +364,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [agent-skills-for-teams](https://github.com/build-with-ai-hq/agent-skills-for-teams) | Write, version, review and roll out SKILL.md files across a team, with a shared skills registry. |
 | [CERA Project Memory](https://github.com/miketepUR/cera-reasoning-harness) | Preserve project session maps and curate a shared index for later conversations. |
 | [claude-memory-manager](https://github.com/jau123/claude-memory-manager) | Organize Claude Code auto-memory with placement rules, update guidance, and index-size checks. |
 | [danshari-skill](https://github.com/swaylq/danshari-skill) | Audit installed skills and archive redundant ones after user approval, with a restore path. |
