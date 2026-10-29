@@ -374,6 +374,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [sijiao-skill](https://github.com/swaylq/sijiao-skill) | Build a stateful learning tutor with researched lessons, exercises, and spaced review. |
 | [skill-creator][creator] | Create skills, evaluate them, and refine their descriptions. |
 | [skill-freshness](https://github.com/kvozianov/skill-freshness) | Audit skills across Claude Code, Codex, Cursor and other agents for broken, outdated, duplicate or now built-in ones, with sources. |
+| [skill-router](https://github.com/gabosa-cajado/skills-cajado/tree/main/skills/skill-router) | Route each task to one installed skill with a table of when not to use the others, kept in sync by a script. |
 | [skill-tuner](https://github.com/DENGYUFAN0/skill-forge/tree/main/skill-tuner) | Refine an installed skill through a small baseline, focused edits, and a rollback decision. |
 | [subagent-driven-development][subagents] | Implement a plan through delegated tasks and review steps. |
 | [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) | Capture task friction and propose reviewed changes to reusable skills. |
