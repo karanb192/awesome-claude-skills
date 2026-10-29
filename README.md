@@ -277,6 +277,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [apify-youtube-transcript-api](https://github.com/johnisanerd/claude-skill-youtube-transcript-api/tree/main/apify-youtube-transcript-api) | Fetch YouTube captions and subtitle formats through a paid Apify actor. |
 | [apify-youtube-transcripts-llm-training-data](https://github.com/johnisanerd/claude-skill-youtube-transcripts-llm-training-data/tree/main/apify-youtube-transcripts-llm-training-data) | Build transcript datasets with provenance, language policy, error filtering, and paid Apify usage. |
 | [apitube-news-api](https://github.com/apitube/news-api-skills/tree/main/skills/apitube-news-api) | Search and filter news through APITube, with API authentication, pagination, and error handling. |
+| [backlink-guard](https://github.com/zhuyansen/backlink-guard/tree/main/skills/backlink-guard) | Vet link sources before you submit a site, verify the live link, and audit backlinks for link spam; free page checks, paid data via Glasser or AIsa. |
 | [claude-ecom](https://github.com/takechanman1228/claude-ecom) | Review ecommerce order CSVs for revenue, retention, and margin patterns. |
 | [claude-persona](https://github.com/takechanman1228/claude-persona/tree/main/skills/persona) | Simulate persona panels and concept interviews, then summarize themes and comparisons for exploratory research. |
 | [converly](https://github.com/converlyio/converly-agent) | Configure Converly conversion flows and inspect test events and delivered conversions. |
