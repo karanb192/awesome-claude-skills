@@ -203,6 +203,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [regulatory-threat-model](https://github.com/Ansvar-Systems/regulatory-threat-model-skill) | Build evidence-cited threat models and selected EU obligation screens through Ansvar Gateway. |
 | [SecHelix](https://github.com/omarmohelal/SecHelix/tree/main/skills/sechelix) | Review authorized local code for security issues with evidence and a refutation pass. |
 | [secure-code-guardian](https://github.com/jeffallan/claude-skills/tree/main/skills/secure-code-guardian) | Implement authentication, authorization, input validation, and secure coding controls. |
+| [secure-llm-apps](https://github.com/build-with-ai-hq/secure-llm-apps) | Audit LLM apps and agents against the OWASP LLM Top 10: leaked keys, prompt injection, tool permissions and PII. |
 | [security-reviewer](https://github.com/jeffallan/claude-skills/tree/main/skills/security-reviewer) | Review code and infrastructure for security issues and produce prioritized remediation guidance. |
 | [unthrottled-route-check](https://github.com/edtrackai/ship-ready-skills/tree/main/skills/unthrottled-route-check) | Flag Next.js API routes that call OpenAI, Anthropic or Stripe Checkout with no rate limiter before abuse runs up the bill. |
 | [wp-security-audit](https://github.com/mwstech/wp-security-audit-skill) | Audit WordPress configuration, plugin vulnerabilities, and indicators of compromise. |
