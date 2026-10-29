@@ -109,9 +109,6 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [orchestrating-subagents](https://github.com/PapiScholz/symphony/tree/main/skills/orchestrating-subagents) | Choose model tiers for delegated work and review dispatch cost and duration. |
 | [planning-with-files](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files) | Persist plans, findings, and progress across long tasks and context resets. |
 | [pr-review](https://github.com/priyank766/OpenSource-SKILL) | Filter a pull request review down to actionable findings. |
-| [pr-screenshots](https://github.com/vasinl124/max-skills/tree/main/skills/pr-screenshots) | Run the app locally, capture before/after shots of every screen a PR changes with changes boxed, and embed them in the PR description. |
-| [pr-summary](https://github.com/vasinl124/max-skills/tree/main/skills/pr-summary) | Summarize a PR or branch into a short, plain-language team update that ends with the PR link, ready to paste into Slack. |
-| [pr-video](https://github.com/vasinl124/max-skills/tree/main/skills/pr-video) | Record a captioned end-to-end demo of a PR's flow, including multi-actor flows, and attach the GIF and MP4 to the PR description. |
 | [product-decision-agent](https://github.com/atdy/maoxuan-product-agent/tree/main/product-decision-agent) | Review product priorities, growth problems, and delivery constraints in Chinese. |
 | [product-manager-skills](https://github.com/Digidai/product-manager-skills) | Critique PRDs, diagnose SaaS metrics, plan roadmaps, and run discovery; source license is CC BY-NC-SA 4.0. |
 | [punchcard](https://github.com/Maksim-Burtsev/punchcard/tree/master/skills/punchcard) | Review a code change for module boundaries, dependencies, data models, and error paths. |
@@ -373,6 +370,7 @@ Browse these repositories when you want a related set of skills.
 | [Mamba Labs Skills](https://github.com/mambalabsdev/mamba-labs-skills) | Prospect research, CRM operations, email deliverability, and go-to-market workflows; some use Apify. |
 | [MarchTalk/ai-content-skills](https://github.com/MarchTalk/ai-content-skills) | Chinese concept analysis, conversation-to-draft organization, and source-based content review. |
 | [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | SEO, copywriting, email, pricing, advertising, and analytics. |
+| [max-skills](https://github.com/vasinl124/max-skills) | Capture PR screenshots and demo videos, write team updates, and bootstrap new projects from research through scaffolding. |
 | [mblode/agent-skills](https://github.com/mblode/agent-skills) | UI, typography, developer experience, documentation, review, and release workflows. |
 | [minxnnu-cloud/make-new-things](https://github.com/minxnnu-cloud/make-new-things) | Claude/Codex visual handoffs, representative frame approval, rework limits, and skill-tree sync. |
 | [Nero1688/claude-academic-skills](https://github.com/Nero1688/claude-academic-skills) | Academic planning, literature checks, research methods, and replication workflows; mixed licenses. |
