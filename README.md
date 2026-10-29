@@ -142,6 +142,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [wise-men-flash](https://github.com/Ali-expandings/wise-men-flash) | Put a hard decision to three subagents, one a Devil's Advocate, and get one checked memo that keeps the best case against it. |
 | [workflow-design](https://github.com/ghorbanies/workflow-design) | Model workflow states, test guards, analyze transition logs, and plan safe flow changes. |
 | [working-memory](https://github.com/ikotelkin/claude-skills/tree/main/skills/working-memory) | Preserve a bounded work checkpoint across context compaction. |
+| [workkit](https://github.com/ITW-Creative-Works/workkit/tree/main/skills) | Run GitHub issues as an agent pipeline: interview, spec, build, review, and ship with subagents; source license restricts competing use. |
 | [writing-plans][writing-plans] | Break a specification into implementation steps. |
 
 <a id="️-development--architecture"></a>
