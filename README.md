@@ -584,6 +584,8 @@ Some entries now live inside other skills or use a different name.
   source](https://github.com/MrSpacemann/polyskill).
 - [Claude Skills 中文市集](https://claudeskill.me): Read Chinese-language tutorials
   for Claude skills and plugins.
+- [omgskills](https://omgskills.com/): searchable directory of 50,000+ agent
+  skills with curated collections, a free macOS app and a public MCP server.
 
 <a id="contributors"></a>
 
