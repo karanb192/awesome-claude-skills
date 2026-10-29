@@ -335,6 +335,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [internal-comms][internal-comms] | Draft updates, newsletters, and other internal communications. |
 | [jd-decoder](https://github.com/landedjobs/ai-job-hunt-os/tree/main/skills/jd-decoder) | Read a job posting for real requirements, salary signals, and ghost-listing risk before applying. |
 | [kochab](https://github.com/btmoriarty/kochab/tree/main/skills/kochab) | Run a resume-based job search with tailored drafts, interview preparation, and pipeline tracking. |
+| [learning-coach-skill](https://github.com/GUOBA250/learning-coach-skill) | Run a personalized interview-prep coach: interview Q&A drilling, algorithm problems with spaced-repetition review loops, project source-code walkthroughs, timeboxed study plans, and mock interviews. Per-user profile system; bilingual (EN + 中文). |
 | [niubiskill](https://github.com/nathanskill/niubiskill/tree/main/skills/niubiskill) | Review business ideas and choose a next monetization test with explicit evidence and assumptions. |
 | [no-slop](https://github.com/Byk3y/no-slop) | Review prose for vague attribution, promotional phrasing, repetitive structures, and other writing patterns. |
 | [prospeak](https://github.com/giorgiozamboni/prospeak) | Rewrite existing text for professional audiences with English and Italian register controls. |
