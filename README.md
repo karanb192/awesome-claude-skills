@@ -200,6 +200,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [deep-security-check](https://github.com/give-jd/deep-security-check/tree/main/skills/deep-security-check) | Run local static code, dependency, and secret scans and report their evidence and coverage. |
 | [gedik](https://github.com/onur-kesim/gedik/tree/main/skills/gedik) | Audit authorized project surfaces and attach reproducible evidence to security findings. |
 | [incident-reporting-navigator](https://github.com/Ansvar-Systems/incident-reporting-navigator-skill) | Map EU incident-notification questions to cited duties, authorities, and deadlines through Ansvar Gateway. |
+| [llm-cost-reduction](https://github.com/build-with-ai-hq/llm-cost-reduction) | Find and cut LLM API spend with model right-sizing, complexity routing, prompt and semantic caching, and budgets. |
 | [regulatory-threat-model](https://github.com/Ansvar-Systems/regulatory-threat-model-skill) | Build evidence-cited threat models and selected EU obligation screens through Ansvar Gateway. |
 | [SecHelix](https://github.com/omarmohelal/SecHelix/tree/main/skills/sechelix) | Review authorized local code for security issues with evidence and a refutation pass. |
 | [secure-code-guardian](https://github.com/jeffallan/claude-skills/tree/main/skills/secure-code-guardian) | Implement authentication, authorization, input validation, and secure coding controls. |
