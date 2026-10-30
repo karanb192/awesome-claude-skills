@@ -333,6 +333,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [humanize-chinese](https://github.com/swaylq/humanize-chinese) | Edit Chinese prose with rewriting, phrase cleanup, and local checks; non-commercial license. |
 | [humanize-pro](https://github.com/msdanyg/humanize-pro) | Rewrite or audit prose against a saved voice profile and publishing-channel rules. |
 | [humanizer-ru](https://github.com/ilyautov/humanizer-ru) | Edit Russian prose for its audience while preserving facts, voice, and protected text. |
+| [humanizer-lint](https://github.com/yanstd888/humanizer-lint) | Lint Indonesian and English prose for repeated AI-style patterns and return local correction instructions. |
 | [humanizer-zh-tw](https://github.com/nagameTW/formosa-humanizer) | Remove AI writing patterns from Traditional Chinese text, replace mainland Chinese terms with Taiwan usage, and keep full-width punctuation. |
 | [humanizing-writing](https://github.com/AshwinSathian/humanize-writing-skill) | Edit prose for generic structure, filler, weak claims, and repeated writing patterns. |
 | [internal-comms][internal-comms] | Draft updates, newsletters, and other internal communications. |
