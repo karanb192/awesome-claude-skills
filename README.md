@@ -175,6 +175,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [keyboard-shortcuts](https://github.com/nparashar150/claude-keyboard-shortcuts/tree/main/skills/keyboard-shortcuts) | Audit and implement web-app shortcuts, command palettes, and keyboard help. |
 | [legacy-modernizer](https://github.com/jeffallan/claude-skills/tree/main/skills/legacy-modernizer) | Plan incremental migrations and refactor legacy systems with dependency maps and behavior checks. |
 | [light-cloud-deploy](https://github.com/light-cloud-com/skills/tree/main/skills/light-cloud-deploy) | Deploy a repo or local folder to Light Cloud, add a database, and read logs or roll back. |
+| [make-parts-now](https://github.com/makepartsnow/skills/tree/main/skills/make-parts-now) | Export CAD, get 3D printing and CNC machining quotes from Make Parts Now, compare quantities, and open a checkout link. |
 | [mcp-builder][mcp-builder] | Build Model Context Protocol servers that connect tools and APIs to Claude. |
 | [multi-stack-mcp](https://github.com/VovikP/multi-stack-mcp) | Generate hero, pricing, features, and CTA sections for Next.js, Flutter, WordPress, or Vue from shared tokens. |
 | [nopekit](https://github.com/neuman/nopekit/tree/main/skills/nopekit) | Turn physical design claims into checks that must prove they can fail, for CAD, 3D printing, structures, and thermal. |
