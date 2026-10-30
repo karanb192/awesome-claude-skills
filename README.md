@@ -329,6 +329,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [feynman-pdf](https://github.com/TadTheFisherman/feynman-it) | Create illustrated PDF explainers with plain-language analogies and rendered-page checks. |
 | [goethecoach](https://github.com/janosszaboaipm-design/goethecoach-claude-skill/tree/main/goethecoach) | Practise Goethe exam writing, reading, and speaking with rubric-based feedback. |
 | [grill](https://github.com/mtangoz/grill/tree/main/skills/grill) | Challenge a decision with an outside model and name tests that could settle the doubts. |
+| [grill-my-work](https://github.com/Minerva67/grill-my-work) | Interview you about your own work to surface decision logic and rejected options, then write retrospective notes. |
 | [grounded](https://github.com/jostelzer/grounded/tree/main/skills/grounded) | Draft scientific literature reviews with live source discovery and citation checks. |
 | [humanize-chinese](https://github.com/swaylq/humanize-chinese) | Edit Chinese prose with rewriting, phrase cleanup, and local checks; non-commercial license. |
 | [humanize-pro](https://github.com/msdanyg/humanize-pro) | Rewrite or audit prose against a saved voice profile and publishing-channel rules. |
