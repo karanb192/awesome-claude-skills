@@ -246,6 +246,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [kavel-image](https://github.com/hanshs474/kavel-image-skill) | Generate images through Kavel's anonymous submit-and-poll API within its free allowance; photo edits require a Kavel API key. |
 | [keyword-icons](https://github.com/ruthless-coder-ai/keyword-icons) | Create several simple SVG icon concepts and inspect transparent PNG renders at small sizes. |
 | [ltx2-video](https://github.com/patraxo/ltx2-vidgen-skill/tree/main/skills/ltx2-video) | Generate clips from text, images, or video through an LTX-2.3 backend deployed to the user Modal account. |
+| [ludo](https://github.com/Ludo-AI/ludo-cli/tree/main/skills/ludo) | Generate game sprites, animations, 3D models and audio with Ludo AI (needs an account), or slice, loop-check and export spritesheets free and offline. |
 | [make-faceless-video](https://github.com/airdropfi/autoshort-skills/tree/main/skills/make-faceless-video) | Draft, price-check and render faceless short videos through the AutoShort or StoryShort MCP server; needs an account with credits. |
 | [meshy-pose-rigging](https://github.com/rickyworld/rigmeshy-by-ricky/tree/master/meshy-pose-rigging) | Prepare character references and work through Meshy auto-rigging and export troubleshooting. |
 | [pro-motion](https://github.com/jack-reson8/pro-motion/tree/main/plugins/pro-motion/skills/pro-motion) | Audio-first motion-graphics launch, brand and TVC films rendered to MP4 in code, cut to a planned music track. |
