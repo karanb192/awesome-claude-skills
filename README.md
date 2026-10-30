@@ -97,6 +97,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | --- | --- |
 | [a2ui-ask](https://github.com/YuniqueUnic/a2ui-ask) | Collect structured user input through a browser form and JSON answer files. |
 | [ai-agency-os-starter](https://github.com/CalebAnderson-Coder/ai-agency-os-starter) | Keep each client's voice, claims and scope isolated, and check client requests against the SOW before doing unbilled work. |
+| [ai-code-review-triage](https://github.com/laulauraluo/ai-code-review-triage/tree/main/skills/ai-code-review-triage) | Review AI-written PRs in three passes: fresh-context bug hunt, context checks (units, history, callers), and a scoped sign-off. |
 | [ai-meeting](https://github.com/bin1874/ai-meeting-skill/tree/main/ai-meeting) | Run structured proposal reviews with CLI agents and preserve each agent session between rounds. |
 | [ax-extract-workflow](https://github.com/Necmttn/ax) | Reconstruct a shipped feature's workflow from local ax session history. |
 | [before-you-build](https://github.com/bin1874/before-you-build-skill) | Check demand, distribution, scope, and failure risks before building a product or feature. |
@@ -248,6 +249,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [make-faceless-video](https://github.com/airdropfi/autoshort-skills/tree/main/skills/make-faceless-video) | Draft, price-check and render faceless short videos through the AutoShort or StoryShort MCP server; needs an account with credits. |
 | [meshy-pose-rigging](https://github.com/rickyworld/rigmeshy-by-ricky/tree/master/meshy-pose-rigging) | Prepare character references and work through Meshy auto-rigging and export troubleshooting. |
 | [postbarrel-scripts](https://github.com/lagudafuadtosin/postbarrel-scripts/tree/main/skills/postbarrel-scripts) | Interview a creator, then write short-form video scripts only from their answers, in their voice. |
+| [pro-motion](https://github.com/jack-reson8/pro-motion/tree/main/plugins/pro-motion/skills/pro-motion) | Audio-first motion-graphics launch, brand and TVC films rendered to MP4 in code, cut to a planned music track. |
 | [publishport](https://github.com/karuha-m/publishport-skill/tree/main/skills/publishport) | Publish and cross-post through connected accounts in the user's PublishPort browser app. |
 | [puzzlegenio](https://github.com/fruitwyatt/puzzlegenio-claude-skill) | Choose a puzzle type and build prefilled links to PuzzleGenio browser tools for creating printable puzzles. |
 | [reels-setup](https://github.com/VishiATChoudhary/reels/tree/main/skills/reels-setup) | Install and verify a Remotion studio that builds 9:16 story reels cut to a song's drop. |
@@ -259,6 +261,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [SocialClaw](https://github.com/ndesv21/socialclaw/tree/main/skill) | Schedule and publish social posts through SocialClaw; requires a configured workspace and active plan. |
 | [table-sheet](https://github.com/netmobster/unstuck-games/tree/main/plugins/table-sheet) | Turn a D&D Beyond character sheet into a play guide and pre-session checklist. |
 | [vox-director](https://github.com/Alisa0808/vox-director) | Plan and assemble narrated collage videos through paid Atlas Cloud APIs and local ffmpeg. |
+| [watch-igaming](https://github.com/igamingsychov/watch-igaming) | Review a video link or local screen recording with transcript and scene-change frames, then build a QA table, UX audit or meeting minutes. |
 | [youtube-transcript](https://github.com/tubeagentkit/youtube-transcript-skills/tree/main/skills/youtube-transcript) | Fetch transcripts, video search results, and playlists through the YouTube Transcript API. |
 
 <a id="-data--analysis"></a>
@@ -373,6 +376,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [sijiao-skill](https://github.com/swaylq/sijiao-skill) | Build a stateful learning tutor with researched lessons, exercises, and spaced review. |
 | [skill-creator][creator] | Create skills, evaluate them, and refine their descriptions. |
 | [skill-freshness](https://github.com/kvozianov/skill-freshness) | Audit skills across Claude Code, Codex, Cursor and other agents for broken, outdated, duplicate or now built-in ones, with sources. |
+| [skill-skill](https://github.com/jack-reson8/skill-skill/tree/main/plugins/skill-skill/skills/skill-skill) | Write skills that change the output, then lint them against the Agent Skills spec with a health score. |
 | [skill-tuner](https://github.com/DENGYUFAN0/skill-forge/tree/main/skill-tuner) | Refine an installed skill through a small baseline, focused edits, and a rollback decision. |
 | [subagent-driven-development][subagents] | Implement a plan through delegated tasks and review steps. |
 | [task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all) | Capture task friction and propose reviewed changes to reusable skills. |
