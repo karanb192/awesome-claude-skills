@@ -586,9 +586,9 @@ Some entries now live inside other skills or use a different name.
   source](https://github.com/MrSpacemann/polyskill).
 - [Claude Skills 中文市集](https://claudeskill.me): Read Chinese-language tutorials
   for Claude skills and plugins.
-- [HowAI](https://howai.build): Browse 450+ agent skills for websites, slide
-  decks, images and launch-motion video, each shown with example output; some
-  packages are free, others need a paid plan.
+- [HowAI](https://howai.build): Directory of 450+ agent skills for websites,
+  slides, images and launch-motion video, with example output and install
+  guides.
 
 <a id="contributors"></a>
 
