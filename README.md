@@ -123,6 +123,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Inspect recorded agent runs and replay or fork them through Orca MCP. |
 | [orchestrating-subagents](https://github.com/PapiScholz/symphony/tree/main/skills/orchestrating-subagents) | Choose model tiers for delegated work and review dispatch cost and duration. |
 | [planning-with-files](https://github.com/OthmanAdi/planning-with-files/tree/master/skills/planning-with-files) | Persist plans, findings, and progress across long tasks and context resets. |
+| [ponder](https://github.com/Quinnod345/ponder/tree/main/skill/ponder) | Review every file or screen in repeated passes until findings stop changing, and refuse to stop while any are ungraded. |
 | [pr-review](https://github.com/priyank766/OpenSource-SKILL) | Filter a pull request review down to actionable findings. |
 | [product-decision-agent](https://github.com/atdy/maoxuan-product-agent/tree/main/product-decision-agent) | Review product priorities, growth problems, and delivery constraints in Chinese. |
 | [product-manager-skills](https://github.com/Digidai/product-manager-skills) | Critique PRDs, diagnose SaaS metrics, plan roadmaps, and run discovery; source license is CC BY-NC-SA 4.0. |
