@@ -245,6 +245,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [identify-song](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/identify-song) | Identify a track from a link or audio file through Song Finder. |
 | [kavel-image](https://github.com/hanshs474/kavel-image-skill) | Generate images through Kavel's anonymous submit-and-poll API within its free allowance; photo edits require a Kavel API key. |
 | [keyword-icons](https://github.com/ruthless-coder-ai/keyword-icons) | Create several simple SVG icon concepts and inspect transparent PNG renders at small sizes. |
+| [line-art-motion](https://github.com/jangtrinh/design-os-svg-animation/tree/main/skills/line-art-motion) | Turn one line drawing or logo into a faithful animated, interactive SVG page with video exports. Free, source-available (PolyForm Shield). |
 | [ltx2-video](https://github.com/patraxo/ltx2-vidgen-skill/tree/main/skills/ltx2-video) | Generate clips from text, images, or video through an LTX-2.3 backend deployed to the user Modal account. |
 | [make-faceless-video](https://github.com/airdropfi/autoshort-skills/tree/main/skills/make-faceless-video) | Draft, price-check and render faceless short videos through the AutoShort or StoryShort MCP server; needs an account with credits. |
 | [meshy-pose-rigging](https://github.com/rickyworld/rigmeshy-by-ricky/tree/master/meshy-pose-rigging) | Prepare character references and work through Meshy auto-rigging and export troubleshooting. |
