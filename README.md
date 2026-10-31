@@ -130,6 +130,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [puzzle-activity-planner](https://github.com/fruitwyatt/puzzle-activity-planner) | Plan puzzle-based activities with timing, difficulty, preparation steps, and links to printable puzzle tools. |
 | [receiving-code-review][receiving-review] | Evaluate review feedback and work through requested changes. |
 | [requesting-code-review][requesting-review] | Request a review before work proceeds or merges. |
+| [resume-tree](https://github.com/RYU-TOMI/resume-tree) | Browse all Claude Code sessions as a folder tree and 3D graph, and copy the command to resume one from its original folder. |
 | [Satori](https://github.com/MetcalfSolutions/Satori) | Guide reflective conversations about emotions, relationships, and purpose, with professional-care boundaries. |
 | [session-handoff](https://github.com/alapha888/session-handoff-kit) | Toolkit for coding agents providing a SKILL.md protocol, context-hygiene checklist, and handoff-note template for structured session transitions. |
 | [shipreel](https://github.com/theBstar/shipreel/tree/main/plugins/shipreel/skills/shipreel) | Render a narrated PR walkthrough with diagrams, code panels, and optional app recordings. |
