@@ -252,6 +252,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [publishport](https://github.com/karuha-m/publishport-skill/tree/main/skills/publishport) | Publish and cross-post through connected accounts in the user's PublishPort browser app. |
 | [puzzlegenio](https://github.com/fruitwyatt/puzzlegenio-claude-skill) | Choose a puzzle type and build prefilled links to PuzzleGenio browser tools for creating printable puzzles. |
 | [reels-setup](https://github.com/VishiATChoudhary/reels/tree/main/skills/reels-setup) | Install and verify a Remotion studio that builds 9:16 story reels cut to a song's drop. |
+| [roundimals](https://github.com/rofldark/roundimals/tree/main/roundimals) | Draw flat, rounded animal mascots as SVG for quiz hosts, game guides and chat avatars, in ten poses and any color. |
 | [runapi-cli](https://github.com/runapi-ai/cli-skill/tree/main/skills/runapi-cli) | Generate media and run model jobs through the RunAPI CLI; requires configured billing and authentication. |
 | [ruxi-skill](https://github.com/swaylq/ruxi-skill) | Build a single-file visual novel from selected book scenes with source-linked choices. |
 | [screenbrowser](https://github.com/screenbrowser/skill/tree/main/skills/screenbrowser) | Produce narrated web-app tutorials through the Screen Browser MCP service. |
