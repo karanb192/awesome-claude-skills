@@ -238,6 +238,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [bria-ai](https://github.com/Bria-AI/bria-skill/tree/dev/skills/bria-ai) | Generate and edit images or remove backgrounds through the Bria API. |
 | [canvas-design][canvas-design] | Create visual designs as PNG and PDF files. |
 | [cliptude-plan](https://github.com/cliptude/cliptude/tree/main/mcp_server/skills/cliptude-plan) | Plan every shot of a YouTube documentary, then have Cliptude voice, source and render it. |
+| [codixel](https://github.com/mankidev/codixel) | Turn a reference image into animated pixel art sprites, and build pixel effects like fire and smoke in code. |
 | [collage-design](https://github.com/polgarp/collage-design) | Compose collage artwork from licensed or supplied imagery and keep an attribution ledger. |
 | [comment-to-dm-cta](https://github.com/commentkeyword/agent-toolkit/tree/main/skills/comment-to-dm-cta) | Plan the "comment KEYWORD" CTA of an Instagram Reel and create its auto-DM in CommentKeyword, which requires an account and API token. |
 | [harmonic-mixing](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/harmonic-mixing) | Look up tempo and musical key to plan playlists and DJ transitions. |
