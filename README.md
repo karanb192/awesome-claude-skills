@@ -269,6 +269,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [ad-research](https://github.com/mesmerlord/lurkapi-claude-plugin/tree/main/skills/ad-research) | Tear down a brand's live ads from the Meta, Google, TikTok and LinkedIn ad libraries into angles, hooks and tests; needs a LurkAPI account. |
 | [adhx](https://github.com/itsmemeworks/adhx/tree/main/skills/adhx) | Read X posts and articles as structured JSON through the ADHX API. |
 | [aligned-delivery](https://github.com/ahnbingbing/aligned-delivery) | Analyze sprint and delivery metrics, diagnose team workload, and forecast completion dates. |
 | [apify-account-mapping](https://github.com/johnisanerd/claude-skill-account-mapping/tree/main/apify-account-mapping) | Map the people currently in named roles at each target account through paid Apify actors. |
