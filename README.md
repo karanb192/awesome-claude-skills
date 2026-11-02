@@ -369,6 +369,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [danshari-skill](https://github.com/swaylq/danshari-skill) | Audit installed skills and archive redundant ones after user approval, with a restore path. |
 | [emulo](https://github.com/ohad6k/emulo/tree/main/.agents/skills/emulo) | Mine local agent-session history into a personal working profile after approving the scope and cost. |
 | [feedback](https://github.com/luchasarie/feedback-loop/tree/main/skills/feedback) | Turn frustration with an agent into an evidence-backed improvement plan that changes nothing until you approve it. |
+| [harness-stocktake](https://github.com/shimo4228/harness-stocktake/tree/main/skills/harness-stocktake) | Audit your Claude Code harness (skills, rules, agents, hooks, CLAUDE.md, ADRs) for stale or contradictory content and change only what you approve. |
 | [prime-worker](https://github.com/alperiox/prime-worker) | Delegate multi-turn tasks to persistent local prime-agent worker sessions. |
 | [reap (skillreaper)](https://github.com/thousandflowers/skillreaper/tree/main/plugins/skillreaper/skills/reap) | Measure unused loaded context from local agent transcripts and review reversible cleanup. |
 | [rule-architect](https://github.com/moveju112/rule-architect) | Generate modular project rules with a shared index and runtime-specific entrypoints. |
