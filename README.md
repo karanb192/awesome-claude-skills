@@ -179,6 +179,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [multi-stack-mcp](https://github.com/VovikP/multi-stack-mcp) | Generate hero, pricing, features, and CTA sections for Next.js, Flutter, WordPress, or Vue from shared tokens. |
 | [nopekit](https://github.com/neuman/nopekit/tree/main/skills/nopekit) | Turn physical design claims into checks that must prove they can fail, for CAD, 3D printing, structures, and thermal. |
 | [pit-stop](https://github.com/Finn763/pit-stop) | Find a small repository maintenance fix, support it with evidence, and review the patch. |
+| [polythis](https://github.com/marquezinii/polythis/tree/main/skills/polythis) | Audit which modules belong in another language (C++, Rust, C#, Go, WASM) and which should stay, with evidence and a scoring rubric. |
 | [postgres-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/postgres-pro) | Analyze PostgreSQL queries, replication, JSONB, extensions, and database maintenance. |
 | [regulex-plus](https://github.com/PipeDream941/regulex-plus) | Render JavaScript regular expressions as SVG, PNG, or Mermaid diagrams through a CLI. |
 | [scrollytelling-brand-site](https://github.com/abdelrhman2007/scrollytelling-brand-site/tree/main/skills/scrollytelling-brand-site) | Build scroll-told company websites with WebGL print-on-scroll 3D, performance budgets, responsive QA, and an optional CMS. |
