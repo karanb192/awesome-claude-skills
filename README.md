@@ -400,6 +400,7 @@ Browse these repositories when you want a related set of skills.
 | [agentsvc.io skills](https://github.com/agentsvc/skills) | Speech to text, web pages to Markdown, email checks, token safety, and document text through paid agentsvc.io APIs. |
 | [AI sales skills](https://github.com/Marchenko-sales/ai-sales-skills) | Company research, sales qualification, and business outreach workflows in Russian. |
 | [aigent-OS](https://github.com/wrg32786/aigent-os) | Persistent vault memory, session routines, delegation, hooks, and local maintenance workflows. |
+| [Artist-Led Events Skills](https://github.com/nickmerich/artist-led-events-skills) | Produce artist-led athletic events: fit and deal terms, budget and P&L, sponsors, permits and risk, run of show, recap. |
 | [Baodao skills](https://github.com/tahodev/baodao-skill) | Taiwan public-service lookups for invoices, weather, alerts, transit, and public data. |
 | [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills) | Local memory recall and writeback for coding sessions. |
 | [Chisanan232/requirement-zero](https://github.com/Chisanan232/requirement-zero) | Review requirement necessity and audit whether existing code still earns its upkeep. |
@@ -423,6 +424,7 @@ Browse these repositories when you want a related set of skills.
 | [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | SEO, copywriting, email, pricing, advertising, and analytics. |
 | [mblode/agent-skills](https://github.com/mblode/agent-skills) | UI, typography, developer experience, documentation, review, and release workflows. |
 | [minxnnu-cloud/make-new-things](https://github.com/minxnnu-cloud/make-new-things) | Claude/Codex visual handoffs, representative frame approval, rework limits, and skill-tree sync. |
+| [Music Tech Growth Skills](https://github.com/nickmerich/music-tech-growth-skills) | Grow plugins, instruments, and music apps: creator research, first-output activation, creator partner programs, launch, pricing, attribution. |
 | [Nero1688/claude-academic-skills](https://github.com/Nero1688/claude-academic-skills) | Academic planning, literature checks, research methods, and replication workflows; mixed licenses. |
 | [noizai/skills](https://github.com/noizai/skills) | Text-to-speech dubbing and companion voice presets. |
 | [NotFair](https://github.com/nowork-studio/notfair-plugin) | SEO, search visibility, advertising, and analytics workflows with service-specific MCP integrations. |
@@ -431,6 +433,7 @@ Browse these repositories when you want a related set of skills.
 | [Pathmode](https://github.com/pathmodeio/claude-plugin) | Turn product ideas into intent specifications, challenge assumptions, and verify implementation evidence. |
 | [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) | Route image briefs, create software assets, and export platform bundles through a CLI and MCP server. |
 | [RouterBase Agent Skills](https://github.com/zenlee123/routerbase-agent-skills) | Integrate the RouterBase gateway, choose models, and handle media-generation API jobs; requires a RouterBase key. |
+| [Run Club Skills](https://github.com/nickmerich/run-club-skills) | Weekly ritual, newcomer welcome, buddy system, drifter saves, bring-a-friend, and an honest attendance scorecard for run clubs. |
 | [Sequenzy skills](https://github.com/Sequenzy/skills) | Run lifecycle, campaign, and transactional email work through the Sequenzy CLI or MCP server; requires a Sequenzy account. |
 | [Shipwise](https://github.com/harmansidhudev/shipwise) | Plan and review webapp launches across validation, design, architecture, quality, security, and operations. |
 | [sjh9714/skill-receipts](https://github.com/sjh9714/skill-receipts) | Small code-scope and reproduction-first skills with published admission and rejection evidence. |
