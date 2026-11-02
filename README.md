@@ -434,6 +434,7 @@ Browse these repositories when you want a related set of skills.
 | [Sequenzy skills](https://github.com/Sequenzy/skills) | Run lifecycle, campaign, and transactional email work through the Sequenzy CLI or MCP server; requires a Sequenzy account. |
 | [Shipwise](https://github.com/harmansidhudev/shipwise) | Plan and review webapp launches across validation, design, architecture, quality, security, and operations. |
 | [sjh9714/skill-receipts](https://github.com/sjh9714/skill-receipts) | Small code-scope and reproduction-first skills with published admission and rejection evidence. |
+| [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) | Free MIT skill library with a deterministic intake router and 61 specialist skills. |
 | [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Code quality, design, marketing, and shipping. |
 | [superseo-skills](https://github.com/inhouseseo/superseo-skills) | SEO audits, content writing, and link building. |
 | [Vibe Coding Rules skills](https://github.com/getvibekits/vibe-coding-rules/tree/main/skills) | Explain errors, add a page, commit, review changes, apply design rules, guard database changes, and run an SEO check. |
