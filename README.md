@@ -226,6 +226,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [readme-atlas](https://github.com/chromoany/readme-atlas) | Write, rewrite, review, and translate project READMEs from repository evidence, dropping claims the repository cannot support. |
 | [swarmvault](https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault) | Maintain a local Markdown knowledge vault with graph navigation, search, review, and optional model-backed synthesis. |
 | [trace-my-code](https://github.com/kgohil/trace-my-code/tree/main/skills/trace-my-code) | Maintain domain flows, architecture notes, and reuse patterns with code-drift checks. |
+| [worktable-create-or-update-docs](https://github.com/worktable/worktable-plugin/tree/main/skills/worktable-create-or-update-docs) | Turn notes into shared Docs and revise plans in Worktable; requires the Worktable MCP server. |
 
 <a id="-media--content-creation"></a>
 
