@@ -310,6 +310,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [simmer-tennis-live-gate](https://github.com/livetennisapi/simmer-tennis-live-gate) | Gate simulated tennis market entries on live match state without placing orders. |
 | [stipend](https://github.com/stipend-sh/stipend) | Manage a self-custodied USDC wallet and x402 payments with configurable spending policies. |
 | [stock-analysis](https://github.com/AlenSarangSatheesh/Indian-Stocks-Fundamental-Analysis-SKILL/tree/main/stock-analysis) | Analyze listed companies using primary filings, sector comparisons, and accounting-quality checks. |
+| [value-investor-skill](https://github.com/AhaSignals/value-investor-skill) | Test per-share valuation scenarios, review source cutoffs, and preserve research revisions when evidence changes. |
 | [verify-polish-company](https://github.com/bartosz-kuc/skanfirmy-mcp/tree/main/skill) | Look up Polish company registrations, VAT status, bank accounts, and EU VAT numbers. |
 
 <a id="️-writing--research"></a>
