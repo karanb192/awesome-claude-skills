@@ -586,6 +586,8 @@ Some entries now live inside other skills or use a different name.
   source](https://github.com/MrSpacemann/polyskill).
 - [Claude Skills 中文市集](https://claudeskill.me): Read Chinese-language tutorials
   for Claude skills and plugins.
+- [hotskills.dev](https://hotskills.dev/): Hourly leaderboard of agent skill
+  repos by GitHub stars, with security levels and token estimates.
 
 <a id="contributors"></a>
 
