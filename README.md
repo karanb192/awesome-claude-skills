@@ -440,6 +440,7 @@ Browse these repositories when you want a related set of skills.
 | [Wondel.ai Skills](https://github.com/wondelai/skills) | Apply product, UX, marketing, and software frameworks from published books and style guides. |
 | [YouTube Skills](https://github.com/sergebulaev/youtube-skills) | Draft YouTube titles, descriptions, hooks, thumbnail briefs, and upload plans; optional Publora publishing. |
 | [YYLO skills](https://github.com/yylo-dev/yylo-skills) | Manage tasks, artifacts, benchmarks, and durable work records through the YYLO CLI. |
+| [CorpusIQ Skills](https://github.com/CorpusIQ/corpusiq-claude-skills) | Business questions answered from the owner's own Stripe, QuickBooks, Shopify, HubSpot and GA4 data, with a citation per figure or an explicit unknown. |
 
 <a id="how-to-install-skills"></a>
 
