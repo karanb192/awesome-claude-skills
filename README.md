@@ -185,6 +185,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [tastegate](https://github.com/stas4000/tastegate/tree/main/tastegate) | Build a frontend from a design brief, then check layout, contrast and other visible defects with a bundled Playwright browser gate. |
 | [tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-skill) | Recall, capture, audit, and forget durable project memory through Tree Ring Memory. |
 | [unflat](https://github.com/merturl4576/unflat) | Add visual depth to web marketing pages through a bounded CSS treatment. |
+| [vicem](https://github.com/RAKKUNN/vicem/tree/main/.agents/skills/vicem) | Compact coding sessions by 80–99% via AST skeletonization, preserve failed-attempt guardrails, and hand off `.vicem/BATON.md` state across agents with on-demand `vicem_rehydrate`. |
 | [web-artifacts-builder][artifacts] | Build web artifacts with React, Tailwind CSS, and shadcn/ui. |
 
 <a id="-security--performance"></a>
