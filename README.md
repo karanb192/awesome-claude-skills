@@ -96,6 +96,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | Skill | Use it to |
 | --- | --- |
 | [a2ui-ask](https://github.com/YuniqueUnic/a2ui-ask) | Collect structured user input through a browser form and JSON answer files. |
+| [agentpace](https://github.com/mohamedzhioua/agentpace/tree/main/skills/agentpace) | Estimate how long agent work will take as measured P50/P80/P90 ranges, with the human part on its own line. |
 | [ai-agency-os-starter](https://github.com/CalebAnderson-Coder/ai-agency-os-starter) | Keep each client's voice, claims and scope isolated, and check client requests against the SOW before doing unbilled work. |
 | [ai-code-review-triage](https://github.com/laulauraluo/ai-code-review-triage/tree/main/skills/ai-code-review-triage) | Review AI-written PRs in three passes: fresh-context bug hunt, context checks (units, history, callers), and a scoped sign-off. |
 | [ai-meeting](https://github.com/bin1874/ai-meeting-skill/tree/main/ai-meeting) | Run structured proposal reviews with CLI agents and preserve each agent session between rounds. |
