@@ -224,6 +224,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [process-builder](https://github.com/Castaldo-Solutions/process-builder) | Turn a process interview into a BPMN swimlane diagram in a .drawio file. |
 | [project-planning-journaling](https://github.com/mh-mansouri/Project-Planning-Journaling/tree/main/project-planning-journaling) | Scope a project and maintain a resumable journal of decisions, progress, and open work. |
 | [readme-atlas](https://github.com/chromoany/readme-atlas) | Write, rewrite, review, and translate project READMEs from repository evidence, dropping claims the repository cannot support. |
+| [sms-verification-codes](https://github.com/alanwtom/fwrd-sms-mcp/tree/main/skills/sms-verification-codes) | Wait for the SMS verification code a site just texted to your iPhone, through the Fwrd app and its MCP server. |
 | [swarmvault](https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault) | Maintain a local Markdown knowledge vault with graph navigation, search, review, and optional model-backed synthesis. |
 | [trace-my-code](https://github.com/kgohil/trace-my-code/tree/main/skills/trace-my-code) | Maintain domain flows, architecture notes, and reuse patterns with code-drift checks. |
 
