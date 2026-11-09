@@ -284,6 +284,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [converly](https://github.com/converlyio/converly-agent) | Configure Converly conversion flows and inspect test events and delivered conversions. |
 | [datawebot](https://github.com/datawebot/datawebot-mcp/tree/main/skills/datawebot) | Find products across online shops and every seller's price with direct links through the hosted datawebot MCP server. |
 | [formo-analytics](https://github.com/getformo/cli/tree/main/skills/formo-analytics) | Query Formo product and onchain analytics through MCP, CLI, or REST. |
+| [google-maps-scraper](https://github.com/maxouf/sherwood-skills/tree/main/skills/google-maps-scraper) | Scrape Google Maps places into CSV; compares an Apify actor, the Places API and a local open-source scraper. |
 | [invoice-winning-numbers](https://github.com/tahodev/baodao-skill/tree/main/invoice-winning-numbers) | Look up Taiwan invoice winning numbers by period from official sources. |
 | [market-mirror](https://github.com/DarkWorldCoder/market-mirror/tree/main/plugin/skills/market-mirror) | Test ads, prices and sales pitches on simulated buyers and get a go / iterate / no-go report. |
 | [octav-api](https://github.com/Octav-Labs/octav-api-skill) | Integrate wallet balances, history and DeFi positions using an API key; selected agent endpoints also support x402 payments. |
@@ -293,8 +294,10 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [shopify-review-triage](https://github.com/alfredtech2026/shopify-app-review-brief/tree/main/docs/skills/shopify-review-triage) | Turn supplied Shopify reviews into source-linked incident, friction, pricing, and feature triage. |
 | [site-traffic-teardown](https://github.com/zhuyansen/site-traffic-teardown/tree/main/skills/site-traffic-teardown) | Find a site's competitors and compare traffic, channel mix, keywords, backlinks, and DR, then name three growth opportunities; paid AIsa data. |
 | [sql-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/sql-pro) | Write and optimize SQL queries, inspect execution plans, and compare database dialects. |
+| [trustpilot-scraper](https://github.com/maxouf/sherwood-skills/tree/main/skills/trustpilot-scraper) | Scrape a company's Trustpilot reviews past the 200-review cap, with incremental syncs, through Apify. |
 | [weread-trial-card-list](https://github.com/C-s-salute/weread-trial-card-list) | Scrape WeRead category and rank pages into a deduplicated list of trial-card readable books, exported as HTML and Excel. |
 | [youtube-full](https://github.com/ZeroPointRepo/youtube-skills/tree/main/skills/youtube-full) | Fetch YouTube transcripts, search results, channel data, and playlists through TranscriptAPI; requires an API key. |
+| [youtube-transcript](https://github.com/maxouf/sherwood-skills/tree/main/skills/youtube-transcript) | Get YouTube transcripts as text, SRT or VTT for videos, channels and playlists, via a free library or Apify. |
 
 <a id="-finance--tax"></a>
 
@@ -392,6 +395,7 @@ Browse these repositories when you want a related set of skills.
 | Collection | Focus |
 | --- | --- |
 | [Anthropic skills](https://github.com/anthropics/skills) | Document processing, design, development, and skill examples. |
+| [Sherwood skills](https://github.com/maxouf/sherwood-skills) | Task skills for scraping and media (Google Maps, Trustpilot, YouTube transcripts, upscaling, TTS) that compare Apify actors with alternatives. |
 | [Superpowers](https://github.com/obra/superpowers) | Planning, testing, debugging, and development workflows. |
 | [adologyai/content-intelligence-plugin](https://github.com/adologyai/content-intelligence-plugin) | Competitive ad research, brand tracking, and audience analysis through Adology hosted MCP tools. |
 | [Affiliate Skills](https://github.com/Affitor/affiliate-skills) | Affiliate research, content, distribution, and analytics. |
