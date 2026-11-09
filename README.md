@@ -1,4 +1,4 @@
-# ![Awesome Claude Skills](assets/header.svg)
+﻿# ![Awesome Claude Skills](assets/header.svg)
 
 Find a skill for the task at hand. A community directory for
 [Claude Code](https://code.claude.com/docs/en/skills),
@@ -83,6 +83,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [agent-tap](https://github.com/nareshh74/agent-tap) | Correlate local coding-agent spans, subagent trees, tool failures, and cron runs in SQLite. |
 | [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace) | Inspect agent sessions for cost, tokens, failures, and latency. |
 | [debugging-wizard](https://github.com/jeffallan/claude-skills/tree/main/skills/debugging-wizard) | Reproduce failures, test hypotheses, identify root causes, and verify fixes. |
 | [solidping-monitoring](https://github.com/fclairamb/solidping-plugin/tree/main/skills/solidping-monitoring) | Find why an uptime check fails, read incidents, and add checks through the SolidPing MCP server. |
