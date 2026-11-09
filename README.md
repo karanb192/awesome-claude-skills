@@ -285,6 +285,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [datawebot](https://github.com/datawebot/datawebot-mcp/tree/main/skills/datawebot) | Find products across online shops and every seller's price with direct links through the hosted datawebot MCP server. |
 | [formo-analytics](https://github.com/getformo/cli/tree/main/skills/formo-analytics) | Query Formo product and onchain analytics through MCP, CLI, or REST. |
 | [invoice-winning-numbers](https://github.com/tahodev/baodao-skill/tree/main/invoice-winning-numbers) | Look up Taiwan invoice winning numbers by period from official sources. |
+| [leadmerlin-leads](https://github.com/HalberdLLC/leadmerlin-skill/tree/main/skills/leads) | Pull local business leads by trade and city with owner names and checked emails, exported as CSV; paid LeadMerlin API. |
 | [market-mirror](https://github.com/DarkWorldCoder/market-mirror/tree/main/plugin/skills/market-mirror) | Test ads, prices and sales pitches on simulated buyers and get a go / iterate / no-go report. |
 | [octav-api](https://github.com/Octav-Labs/octav-api-skill) | Integrate wallet balances, history and DeFi positions using an API key; selected agent endpoints also support x402 payments. |
 | [pandas-pro](https://github.com/jeffallan/claude-skills/tree/main/skills/pandas-pro) | Clean, join, aggregate, and transform pandas DataFrames and time-series data. |
