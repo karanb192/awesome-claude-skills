@@ -427,6 +427,7 @@ Browse these repositories when you want a related set of skills.
 | [noizai/skills](https://github.com/noizai/skills) | Text-to-speech dubbing and companion voice presets. |
 | [NotFair](https://github.com/nowork-studio/notfair-plugin) | SEO, search visibility, advertising, and analytics workflows with service-specific MCP integrations. |
 | [Novu skills](https://github.com/novuhq/skills) | Build Novu notification workflows, inboxes, preferences, and hosted agent channels. |
+| [Nexscope ecommerce skills](https://github.com/nexscope-ai/nexscope-ecommerce-skills) | 127 portable skills for marketplace research, keywords, sourcing, and listing workflows. |
 | [Ontoly skills](https://github.com/0xsarwagya/ontoly/tree/main/skills) | Architecture, dependency, refactoring, and documentation workflows grounded in Ontoly graph evidence. |
 | [Pathmode](https://github.com/pathmodeio/claude-plugin) | Turn product ideas into intent specifications, challenge assumptions, and verify implementation evidence. |
 | [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) | Route image briefs, create software assets, and export platform bundles through a CLI and MCP server. |
