@@ -259,6 +259,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [slack-gif-creator][slack-gif-creator] | Make animated GIFs sized for Slack. |
 | [SocialClaw](https://github.com/ndesv21/socialclaw/tree/main/skill) | Schedule and publish social posts through SocialClaw; requires a configured workspace and active plan. |
 | [table-sheet](https://github.com/netmobster/unstuck-games/tree/main/plugins/table-sheet) | Turn a D&D Beyond character sheet into a play guide and pre-session checklist. |
+| [ugc-director](https://github.com/clipugc/ClipUGC-CLI/tree/main/skills/ugc-director) | Plan a UGC style video for an app (AI influencer casting, hook text, clip prompts) and make it with the ClipUGC CLI; needs an account with credits. |
 | [vox-director](https://github.com/Alisa0808/vox-director) | Plan and assemble narrated collage videos through paid Atlas Cloud APIs and local ffmpeg. |
 | [watch-igaming](https://github.com/igamingsychov/watch-igaming) | Review a video link or local screen recording with transcript and scene-change frames, then build a QA table, UX audit or meeting minutes. |
 | [youtube-transcript](https://github.com/tubeagentkit/youtube-transcript-skills/tree/main/skills/youtube-transcript) | Fetch transcripts, video search results, and playlists through the YouTube Transcript API. |
