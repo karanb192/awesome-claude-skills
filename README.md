@@ -370,6 +370,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [emulo](https://github.com/ohad6k/emulo/tree/main/.agents/skills/emulo) | Mine local agent-session history into a personal working profile after approving the scope and cost. |
 | [feedback](https://github.com/luchasarie/feedback-loop/tree/main/skills/feedback) | Turn frustration with an agent into an evidence-backed improvement plan that changes nothing until you approve it. |
 | [prime-worker](https://github.com/alperiox/prime-worker) | Delegate multi-turn tasks to persistent local prime-agent worker sessions. |
+| [prompt-retro](https://github.com/dylanpulver/claude-skills/tree/main/plugins/thinking/skills/prompt-retro) | Mine your Claude Code chat history for repeated prompts and corrections, then propose the skills and hooks that remove them. |
 | [reap (skillreaper)](https://github.com/thousandflowers/skillreaper/tree/main/plugins/skillreaper/skills/reap) | Measure unused loaded context from local agent transcripts and review reversible cleanup. |
 | [rule-architect](https://github.com/moveju112/rule-architect) | Generate modular project rules with a shared index and runtime-specific entrypoints. |
 | [sijiao-skill](https://github.com/swaylq/sijiao-skill) | Build a stateful learning tutor with researched lessons, exercises, and spaced review. |
