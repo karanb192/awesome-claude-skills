@@ -150,6 +150,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [abap-coding-rules](https://github.com/abapforagents/abap-for-agents-lite/tree/main/skills/abap-coding-rules) | Write SAP ABAP against the target release, without invented objects or unguarded FOR ALL ENTRIES. |
 | [anti-slop-design](https://github.com/wwewtech/anti-slop-design/tree/main/skills/anti-slop-design) | Review and refine UI typography, color tokens, interactions, and accessibility. |
 | [anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) | Define product-specific UI decisions, cover required states, and review rendered interfaces. |
 | [api-designer](https://github.com/jeffallan/claude-skills/tree/main/skills/api-designer) | Design REST and GraphQL contracts with resource models, OpenAPI specifications, and validation. |
