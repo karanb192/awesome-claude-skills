@@ -318,6 +318,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 
 | Skill | Use it to |
 | --- | --- |
+| [ai-interview-practice](https://github.com/DPWonder/ai-interview-practice/tree/main/skills/ai-interview-practice) | Practise an AI screening interview for a developer role, with each answer checked and your own words quoted back. English and Spanish. |
 | [ai-tell-detector](https://github.com/aragossa/ai-tell-detector/tree/main/en/ai-tell-detector) | Audit English or Russian drafts for generic writing patterns and suggest precise edits. |
 | [berlin-job-search](https://github.com/umutyesildal/berlin-job-search/tree/main/skills/berlin-job-search) | Search Berlin and German job boards, check German and Blue Card requirements, and draft a Lebenslauf or English CV without inventing claims. |
 | [brand-guidelines][brand-guidelines] | Apply Anthropic's brand colors and typography to artifacts. |
