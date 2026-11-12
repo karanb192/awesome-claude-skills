@@ -152,6 +152,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | --- | --- |
 | [anti-slop-design](https://github.com/wwewtech/anti-slop-design/tree/main/skills/anti-slop-design) | Review and refine UI typography, color tokens, interactions, and accessibility. |
 | [anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) | Define product-specific UI decisions, cover required states, and review rendered interfaces. |
+| [apex-twin-suite](https://github.com/phanvietanh102/apex-twin-suite) | Turn rough ideas into spec-driven products or audit existing workspaces with C-Suite red-teaming and Python stage-gates. |
 | [api-designer](https://github.com/jeffallan/claude-skills/tree/main/skills/api-designer) | Design REST and GraphQL contracts with resource models, OpenAPI specifications, and validation. |
 | [aria-icons](https://github.com/LeulAria/Aria-Icons/tree/main/skills) | Search ~1.4M open-source SVG icons and add them as SVG or React/Vue/Svelte/Solid components |
 | [AuraKit](https://github.com/smorky850612/Aurakit/tree/main/skills/aura) | Coordinate build, fix, review, and deployment modes with state snapshots and optional local hooks. |
