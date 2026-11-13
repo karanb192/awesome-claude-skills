@@ -306,6 +306,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [furusato-nozei](https://github.com/tahodev/kurashi-skill/tree/main/furusato-nozei) | Estimate Japan's hometown-tax donation cap with stated assumptions and official sources. |
 | [ipo-offer-document-review](https://github.com/parinshahAIbuilder/ipo-offer-document-review) | Review Indian IPO offer documents (DRHP/RHP) against SEBI ICDR, LODR, Companies Act and Ind AS for disclosure gaps. |
 | [itr-wala](https://github.com/karanb192/itr-wala) | Prepare Indian income-tax returns using document extraction and Python calculations. |
+| [office-bookkeeping](https://github.com/Tonymathewz/office-claude-skills/tree/main/skills/office-bookkeeping) | Check supplier invoices, issue invoices, reconcile bank statements and build the accountant's month-end pack, approve-first, for 27 countries. |
 | [open-finance-skills](https://github.com/levelcfo/open-finance-skills) | Review SMB month-end closes, bank reconciliations, 13-week cash forecasts, and 1099 readiness with 20 finance skills. |
 | [simmer-tennis-live-gate](https://github.com/livetennisapi/simmer-tennis-live-gate) | Gate simulated tennis market entries on live match state without placing orders. |
 | [stipend](https://github.com/stipend-sh/stipend) | Manage a self-custodied USDC wallet and x402 payments with configurable spending policies. |
