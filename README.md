@@ -235,6 +235,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | --- | --- |
 | [3d-logo](https://github.com/hasuwini77/3d-logo-skill/tree/main/skills/3d-logo) | Build a rotating 3D logo component with React Three Fiber. |
 | [algorithmic-art][algorithmic-art] | Create generative art with p5.js. |
+| [alphadrama-short-drama-skill](https://github.com/Alwzc/alphadrama-short-drama-skill) | Adapt web novels into 9:16 vertical short-drama scripts, 3-view character sheets, storyboards, and Seedance/Kling/Wan/Veo prompts. |
 | [bria-ai](https://github.com/Bria-AI/bria-skill/tree/dev/skills/bria-ai) | Generate and edit images or remove backgrounds through the Bria API. |
 | [canvas-design][canvas-design] | Create visual designs as PNG and PDF files. |
 | [cliptude-plan](https://github.com/cliptude/cliptude/tree/main/mcp_server/skills/cliptude-plan) | Plan every shot of a YouTube documentary, then have Cliptude voice, source and render it. |
