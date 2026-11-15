@@ -100,6 +100,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [ai-code-review-triage](https://github.com/laulauraluo/ai-code-review-triage/tree/main/skills/ai-code-review-triage) | Review AI-written PRs in three passes: fresh-context bug hunt, context checks (units, history, callers), and a scoped sign-off. |
 | [ai-meeting](https://github.com/bin1874/ai-meeting-skill/tree/main/ai-meeting) | Run structured proposal reviews with CLI agents and preserve each agent session between rounds. |
 | [ax-extract-workflow](https://github.com/Necmttn/ax) | Reconstruct a shipped feature's workflow from local ax session history. |
+| [beautyos](https://github.com/ai-beauty-bot/beauty-os-skill/tree/main/skills/beautyos) | Set up and run a beauty salon in BeautyOS: services, staff, clients, online booking and an AI receptionist, with every change confirmed. |
 | [before-you-build](https://github.com/bin1874/before-you-build-skill) | Check demand, distribution, scope, and failure risks before building a product or feature. |
 | [brainstorming][brainstorming] | Work through requirements and design choices before implementation. |
 | [breather](https://github.com/ilandahan/breather/tree/main/skills/breather) | Offer session stopping points with attended-time context and a written handoff. |
