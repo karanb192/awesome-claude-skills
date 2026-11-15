@@ -400,6 +400,7 @@ Browse these repositories when you want a related set of skills.
 | [agentsvc.io skills](https://github.com/agentsvc/skills) | Speech to text, web pages to Markdown, email checks, token safety, and document text through paid agentsvc.io APIs. |
 | [AI sales skills](https://github.com/Marchenko-sales/ai-sales-skills) | Company research, sales qualification, and business outreach workflows in Russian. |
 | [aigent-OS](https://github.com/wrg32786/aigent-os) | Persistent vault memory, session routines, delegation, hooks, and local maintenance workflows. |
+| [albertskills](https://github.com/BoredHF/albertskills) | Self-critique and quality: red-team your own work, tournament of versions, mistake log, stuck detection, request-vs-result diff. |
 | [Baodao skills](https://github.com/tahodev/baodao-skill) | Taiwan public-service lookups for invoices, weather, alerts, transit, and public data. |
 | [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills) | Local memory recall and writeback for coding sessions. |
 | [Chisanan232/requirement-zero](https://github.com/Chisanan232/requirement-zero) | Review requirement necessity and audit whether existing code still earns its upkeep. |
