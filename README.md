@@ -101,6 +101,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [ai-meeting](https://github.com/bin1874/ai-meeting-skill/tree/main/ai-meeting) | Run structured proposal reviews with CLI agents and preserve each agent session between rounds. |
 | [ax-extract-workflow](https://github.com/Necmttn/ax) | Reconstruct a shipped feature's workflow from local ax session history. |
 | [before-you-build](https://github.com/bin1874/before-you-build-skill) | Check demand, distribution, scope, and failure risks before building a product or feature. |
+| [brainstorm](https://github.com/mh-mansouri/brainstorm-skill/tree/main/brainstorm) | Plan in its own turn: ranked options, one pick with a reason, ordered steps, no execution; asks for a stronger model (switch unconfirmed). |
 | [brainstorming][brainstorming] | Work through requirements and design choices before implementation. |
 | [breather](https://github.com/ilandahan/breather/tree/main/skills/breather) | Offer session stopping points with attended-time context and a written handoff. |
 | [call-me](https://github.com/radres/call-me/tree/main/skill) | Call or text the user's iPhone to ask or report, then act on the reply; needs the paid /call-me iPhone app. |
