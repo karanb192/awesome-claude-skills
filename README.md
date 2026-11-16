@@ -270,6 +270,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | Skill | Use it to |
 | --- | --- |
 | [adhx](https://github.com/itsmemeworks/adhx/tree/main/skills/adhx) | Read X posts and articles as structured JSON through the ADHX API. |
+| [agentready-tools](https://github.com/agentready-tools/skills/tree/main/skills/agentready-tools) | Search a catalog of agent-ready APIs, scrapers, and official MCP servers. |
 | [aligned-delivery](https://github.com/ahnbingbing/aligned-delivery) | Analyze sprint and delivery metrics, diagnose team workload, and forecast completion dates. |
 | [apify-account-mapping](https://github.com/johnisanerd/claude-skill-account-mapping/tree/main/apify-account-mapping) | Map the people currently in named roles at each target account through paid Apify actors. |
 | [apify-linkedin-post-engagement](https://github.com/johnisanerd/claude-skill-linkedin-post-engagement/tree/main/apify-linkedin-post-engagement) | Compare LinkedIn post reactions, comments, and shares through paid Apify data. |
