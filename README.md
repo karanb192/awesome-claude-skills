@@ -186,6 +186,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-skill) | Recall, capture, audit, and forget durable project memory through Tree Ring Memory. |
 | [unflat](https://github.com/merturl4576/unflat) | Add visual depth to web marketing pages through a bounded CSS treatment. |
 | [web-artifacts-builder][artifacts] | Build web artifacts with React, Tailwind CSS, and shadcn/ui. |
+| [stackproof](https://github.com/beingRealFrank/stackproof/tree/main/plugins) | Write a repo-checked CLAUDE.md and run safe migrations in Drupal 11, Next.js + Supabase, Rails or Django. |
 
 <a id="-security--performance"></a>
 
