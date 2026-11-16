@@ -406,6 +406,7 @@ Browse these repositories when you want a related set of skills.
 | [claude-fable-5-skills](https://github.com/kpab/claude-fable-5-skills) | Effort calibration, scope control, and subagent orchestration. |
 | [Cogny Marketing Skills](https://github.com/cognyai/claude-code-marketing-skills) | Marketing audits and copywriting; live account integrations require a Cogny subscription. |
 | [Cowork Tasks](https://github.com/sabbah13/cowork-tasks) | Create and triage a local task board from authorized Cowork connectors; includes prioritization and board-review skills. |
+| [craft3d](https://github.com/yesith0106/craft3d) | Build three.js models to real dimensions with working mechanisms, draw them as technical illustrations, and film them. |
 | [CreatorSkills Free Skills](https://github.com/calebvbi/creatorskills-free-skills) | Blog outlines, short-video scripts, show notes, chapters, newsletter planning, and social copy. |
 | [dbhq-uk/marketplace](https://github.com/dbhq-uk/marketplace) | Remote diagnostics, code search, repository checks, research, writing, and work-service integrations. |
 | [Design Engineer Skills](https://github.com/modeinspect/design-engineer-skills) | Repo setup, component impact, visual QA, reviewable UI pull requests, design review of PRs and design system scoring for designers. |
