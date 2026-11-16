@@ -262,6 +262,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [vox-director](https://github.com/Alisa0808/vox-director) | Plan and assemble narrated collage videos through paid Atlas Cloud APIs and local ffmpeg. |
 | [watch-igaming](https://github.com/igamingsychov/watch-igaming) | Review a video link or local screen recording with transcript and scene-change frames, then build a QA table, UX audit or meeting minutes. |
 | [youtube-transcript](https://github.com/tubeagentkit/youtube-transcript-skills/tree/main/skills/youtube-transcript) | Fetch transcripts, video search results, and playlists through the YouTube Transcript API. |
+| [dj-music-downloader](https://github.com/byohros6/dj-music-downloader-skill) | Cross-platform skill to turn playlists, links, or screenshots into verified 320 kbps MP3s with ID3v2.3 tags and square artwork |
 
 <a id="-data--analysis"></a>
 
