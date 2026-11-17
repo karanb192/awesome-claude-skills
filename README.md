@@ -420,6 +420,7 @@ Browse these repositories when you want a related set of skills.
 | [Linked API Skills](https://github.com/Linked-API/linkedin-skills) | Read and manage LinkedIn profiles and lead pipelines through Linked API; requires configured credentials. |
 | [Mamba Labs Skills](https://github.com/mambalabsdev/mamba-labs-skills) | Prospect research, CRM operations, email deliverability, and go-to-market workflows; some use Apify. |
 | [MarchTalk/ai-content-skills](https://github.com/MarchTalk/ai-content-skills) | Chinese concept analysis, conversation-to-draft organization, and source-based content review. |
+| [Marketing Prompt Hub Skills](https://github.com/zaraonrecord/claude-marketing-skills) | Brand voice, SERP briefs, competitor teardowns, performance readouts, and slop and claims checks for marketers. |
 | [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | SEO, copywriting, email, pricing, advertising, and analytics. |
 | [mblode/agent-skills](https://github.com/mblode/agent-skills) | UI, typography, developer experience, documentation, review, and release workflows. |
 | [minxnnu-cloud/make-new-things](https://github.com/minxnnu-cloud/make-new-things) | Claude/Codex visual handoffs, representative frame approval, rework limits, and skill-tree sync. |
