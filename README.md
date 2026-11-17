@@ -135,6 +135,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [shipreel](https://github.com/theBstar/shipreel/tree/main/plugins/shipreel/skills/shipreel) | Render a narrated PR walkthrough with diagrams, code panels, and optional app recordings. |
 | [simple-man](https://github.com/Maksim-Burtsev/simple-man/tree/master/skills/simple-man) | Shorten agent replies while preserving findings, fixes, checks, and required facts. |
 | [slop-post](https://github.com/useslop/claude-plugins/tree/main/plugins/slop/skills/slop-post) | Create a private Slop draft from a session with a receipt of model, tools, and commits. |
+| [syndesy](https://github.com/jwexler10/syndesy-skill/tree/main/skills/syndesy) | Choose between competing approaches using shared criteria, decisive evidence, tradeoffs, and explicit reversal conditions. |
 | [tlgr](https://github.com/tlgrcli/tlgr/tree/main/plugin/skills/tlgr) | Read, search, and manage a personal Telegram account through a JSON CLI. |
 | [unpaid-intern](https://github.com/kevinmmiddleton/unpaid-intern/tree/main/skills/unpaid-intern) | Turn meeting transcripts, docs, and tickets into a morning briefing, meeting prep, and follow-ups in plain files you own. |
 | [using-git-worktrees][worktrees] | Work in isolated checkouts for separate development tasks. |
