@@ -586,6 +586,8 @@ Some entries now live inside other skills or use a different name.
   source](https://github.com/MrSpacemann/polyskill).
 - [Claude Skills 中文市集](https://claudeskill.me): Read Chinese-language tutorials
   for Claude skills and plugins.
+- [SkillMaxx](https://skillmaxx.gilventures.ai/): Related free directory of skills, plugins and MCP
+  servers, install-tested nightly in Claude Code, Codex, Cursor, Grok Build and Pi.
 
 <a id="contributors"></a>
 
