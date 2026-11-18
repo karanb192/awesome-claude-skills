@@ -262,6 +262,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [vox-director](https://github.com/Alisa0808/vox-director) | Plan and assemble narrated collage videos through paid Atlas Cloud APIs and local ffmpeg. |
 | [watch-igaming](https://github.com/igamingsychov/watch-igaming) | Review a video link or local screen recording with transcript and scene-change frames, then build a QA table, UX audit or meeting minutes. |
 | [youtube-transcript](https://github.com/tubeagentkit/youtube-transcript-skills/tree/main/skills/youtube-transcript) | Fetch transcripts, video search results, and playlists through the YouTube Transcript API. |
+| **[kavel-image](https://github.com/hanshs474/kavel-image-skill)** | Generate images and edit photos from a prompt with no API key and no account, through Kavel's anonymous endpoint — text-to-image plus face-preserving edits |
 
 <a id="-data--analysis"></a>
 
