@@ -586,6 +586,8 @@ Some entries now live inside other skills or use a different name.
   source](https://github.com/MrSpacemann/polyskill).
 - [Claude Skills 中文市集](https://claudeskill.me): Read Chinese-language tutorials
   for Claude skills and plugins.
+- [Little Cups of Claude](https://littlecupsofclaude.com): Short tips for Claude
+  Code, the Claude API, the Agent SDK and MCP, one per weekday.
 
 <a id="contributors"></a>
 
