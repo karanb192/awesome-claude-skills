@@ -586,6 +586,8 @@ Some entries now live inside other skills or use a different name.
   source](https://github.com/MrSpacemann/polyskill).
 - [Claude Skills 中文市集](https://claudeskill.me): Read Chinese-language tutorials
   for Claude skills and plugins.
+- [Video agents list](https://gettakes.app/video-agents): 47 skills, MCP servers
+  and tools for making video with Claude Code, each with its install line.
 
 <a id="contributors"></a>
 
