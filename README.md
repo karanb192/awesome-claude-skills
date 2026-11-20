@@ -251,6 +251,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [pro-motion](https://github.com/jack-reson8/pro-motion/tree/main/plugins/pro-motion/skills/pro-motion) | Audio-first motion-graphics launch, brand and TVC films rendered to MP4 in code, cut to a planned music track. |
 | [publishport](https://github.com/karuha-m/publishport-skill/tree/main/skills/publishport) | Publish and cross-post through connected accounts in the user's PublishPort browser app. |
 | [puzzlegenio](https://github.com/fruitwyatt/puzzlegenio-claude-skill) | Choose a puzzle type and build prefilled links to PuzzleGenio browser tools for creating printable puzzles. |
+| [redya-xiaohongshu](https://github.com/xiaoxuux/redya-skills/tree/73a1529fd3cb9303195b7370d492dbf57a6b7604/skill/redya-xiaohongshu) | Generate illustrated Xiaohongshu posts and Live Photos from a brief or product photo using RedYA credits. |
 | [reels-setup](https://github.com/VishiATChoudhary/reels/tree/main/skills/reels-setup) | Install and verify a Remotion studio that builds 9:16 story reels cut to a song's drop. |
 | [runapi-cli](https://github.com/runapi-ai/cli-skill/tree/main/skills/runapi-cli) | Generate media and run model jobs through the RunAPI CLI; requires configured billing and authentication. |
 | [ruxi-skill](https://github.com/swaylq/ruxi-skill) | Build a single-file visual novel from selected book scenes with source-linked choices. |
