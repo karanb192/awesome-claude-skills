@@ -407,6 +407,7 @@ Browse these repositories when you want a related set of skills.
 | [Cogny Marketing Skills](https://github.com/cognyai/claude-code-marketing-skills) | Marketing audits and copywriting; live account integrations require a Cogny subscription. |
 | [Cowork Tasks](https://github.com/sabbah13/cowork-tasks) | Create and triage a local task board from authorized Cowork connectors; includes prioritization and board-review skills. |
 | [CreatorSkills Free Skills](https://github.com/calebvbi/creatorskills-free-skills) | Blog outlines, short-video scripts, show notes, chapters, newsletter planning, and social copy. |
+| [DataXAPI skills](https://github.com/data-x-api/skills) | Pull comments, competitor posts, mentions, trends, creators, ads and transcripts from Douyin, Xiaohongshu, WeChat, TikTok, X and more. |
 | [dbhq-uk/marketplace](https://github.com/dbhq-uk/marketplace) | Remote diagnostics, code search, repository checks, research, writing, and work-service integrations. |
 | [Design Engineer Skills](https://github.com/modeinspect/design-engineer-skills) | Repo setup, component impact, visual QA, reviewable UI pull requests, design review of PRs and design system scoring for designers. |
 | [DurdeuVlad/persona-write](https://github.com/DurdeuVlad/persona-write) | Persona-based drafting, rewriting, sample-based voice extraction, and independent review. |
