@@ -372,6 +372,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [prime-worker](https://github.com/alperiox/prime-worker) | Delegate multi-turn tasks to persistent local prime-agent worker sessions. |
 | [reap (skillreaper)](https://github.com/thousandflowers/skillreaper/tree/main/plugins/skillreaper/skills/reap) | Measure unused loaded context from local agent transcripts and review reversible cleanup. |
 | [rule-architect](https://github.com/moveju112/rule-architect) | Generate modular project rules with a shared index and runtime-specific entrypoints. |
+| [sharpen-prompt](https://github.com/melthond/sharpen/tree/main/skills/sharpen-prompt) | Turn a rough prompt into a specific one from the conversation, code and installed tools, and hand it back to copy. |
 | [sijiao-skill](https://github.com/swaylq/sijiao-skill) | Build a stateful learning tutor with researched lessons, exercises, and spaced review. |
 | [skill-creator][creator] | Create skills, evaluate them, and refine their descriptions. |
 | [skill-freshness](https://github.com/kvozianov/skill-freshness) | Audit skills across Claude Code, Codex, Cursor and other agents for broken, outdated, duplicate or now built-in ones, with sources. |
