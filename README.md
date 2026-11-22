@@ -584,6 +584,7 @@ Some entries now live inside other skills or use a different name.
   MCP servers, GPTs, and agent tools.
 - [PolySkill](https://polyskill.ai): Skill registry and CLI with [public
   source](https://github.com/MrSpacemann/polyskill).
+- [Dayan Enterprise AI Skills](https://github.com/Kosmoray/dayan-enterprise-ai-skills): Collection of 66 production-tested enterprise skills covering anti-AI-slop editing, executive HTML dashboards, rubric-scored proposals, 4-angle contract audits, and guardrail RAG.
 - [Claude Skills 中文市集](https://claudeskill.me): Read Chinese-language tutorials
   for Claude skills and plugins.
 
