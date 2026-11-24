@@ -84,6 +84,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | Skill | Use it to |
 | --- | --- |
 | [agenttrace-session-audit](https://github.com/luoyuctl/agenttrace) | Inspect agent sessions for cost, tokens, failures, and latency. |
+| [been-there](https://github.com/janehardbot/been-there/tree/main/skills/been-there) | Get an outside second opinion when stuck running an agent system; sends a problem description to an external service. |
 | [debugging-wizard](https://github.com/jeffallan/claude-skills/tree/main/skills/debugging-wizard) | Reproduce failures, test hypotheses, identify root causes, and verify fixes. |
 | [solidping-monitoring](https://github.com/fclairamb/solidping-plugin/tree/main/skills/solidping-monitoring) | Find why an uptime check fails, read incidents, and add checks through the SolidPing MCP server. |
 | [systematic-debugging][debugging] | Investigate a bug's cause before attempting a fix. |
