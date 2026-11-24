@@ -437,6 +437,7 @@ Browse these repositories when you want a related set of skills.
 | [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Code quality, design, marketing, and shipping. |
 | [superseo-skills](https://github.com/inhouseseo/superseo-skills) | SEO audits, content writing, and link building. |
 | [Vibe Coding Rules skills](https://github.com/getvibekits/vibe-coding-rules/tree/main/skills) | Explain errors, add a page, commit, review changes, apply design rules, guard database changes, and run an SEO check. |
+| [Viewlify TikTok skills](https://github.com/benjaminb10/viewlify-mcp) | Find the TikTok videos that beat their creator's usual views in a niche and why, get video ideas modeled on real breakouts, and a weekly brief of rising formats, hashtags, and sounds through Viewlify. |
 | [Wondel.ai Skills](https://github.com/wondelai/skills) | Apply product, UX, marketing, and software frameworks from published books and style guides. |
 | [YouTube Skills](https://github.com/sergebulaev/youtube-skills) | Draft YouTube titles, descriptions, hooks, thumbnail briefs, and upload plans; optional Publora publishing. |
 | [YYLO skills](https://github.com/yylo-dev/yylo-skills) | Manage tasks, artifacts, benchmarks, and durable work records through the YYLO CLI. |
