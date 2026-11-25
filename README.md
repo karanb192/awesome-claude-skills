@@ -156,6 +156,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [aria-icons](https://github.com/LeulAria/Aria-Icons/tree/main/skills) | Search ~1.4M open-source SVG icons and add them as SVG or React/Vue/Svelte/Solid components |
 | [AuraKit](https://github.com/smorky850612/Aurakit/tree/main/skills/aura) | Coordinate build, fix, review, and deployment modes with state snapshots and optional local hooks. |
 | [auteur](https://github.com/agiwhitelist/auteur) | Build websites from a written art direction and check design consistency and rendered output. |
+| [awt-accessible-wordpress-site-builder](https://github.com/useawt/awt-skills/tree/main/skills/awt-accessible-wordpress-site-builder) | Build WordPress pages that target WCAG 2.2 AA and work on mobile and in dark mode, checking each draft for accessibility problems before publishing. |
 | [birdview](https://github.com/Qiuner/birdview) | Map architecture, constraints, and planned changes back to source evidence. |
 | [brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish) | Publish text, Markdown, HTML, a file or a folder as a site to brewpage.app and return a shareable link, no account. |
 | [build-with-better-design](https://github.com/better-designs/better-design-plugin/tree/main/skills/build-with-better-design) | Select and install a design system through the Better Design MCP service. |
