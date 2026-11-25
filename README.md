@@ -586,6 +586,7 @@ Some entries now live inside other skills or use a different name.
   source](https://github.com/MrSpacemann/polyskill).
 - [Claude Skills 中文市集](https://claudeskill.me): Read Chinese-language tutorials
   for Claude skills and plugins.
+- [Gauntlith](https://gauntlith.com): Free directory of Claude Code skills, plugins and MCP connectors, with each version pinned to an exact commit and its checks listed.
 
 <a id="contributors"></a>
 
