@@ -113,6 +113,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [fabling](https://github.com/gncdev/fabling/tree/main/fabling) | Apply a work profile for proportionate investigation, visual checks, and task completion. |
 | [finishing-a-development-branch][finishing] | Decide how to integrate finished work and clean up the branch. |
 | [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) | Structure enterprise sales discovery, stakeholder analysis, deal qualification, and account plans. |
+| [github-stars-organizer](https://github.com/armanckeser/stard/tree/main/skills/github-stars-organizer) | Check the user's GitHub stars before suggesting a library, sort stars into GitHub Lists, and unstar dead repos. |
 | [golden-frijoles](https://github.com/danybgoode/golden-frijoles) | Turn ideas into bets with a target and read date, ship them behind flags and A/B tests, and report whether each paid off. |
 | [guashuai / junshi](https://github.com/DENGYUFAN0/guashuai-junshi/tree/main/adapters/claude-code/skills) | Coordinate model tiers with either an orchestrator or an occasional expert advisor. |
 | [guided-goal](https://github.com/luchasarie/guided-goal/tree/main/skills/guided-goal) | Turn rough intent into a completion contract with success criteria, verification, boundaries and stop conditions before work starts. |
