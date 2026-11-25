@@ -217,6 +217,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [code-documenter](https://github.com/jeffallan/claude-skills/tree/main/skills/code-documenter) | Write docstrings, API specifications, documentation portals, and developer guides. |
 | [devops-engineer](https://github.com/jeffallan/claude-skills/tree/main/skills/devops-engineer) | Configure CI/CD, containers, infrastructure templates, deployment checks, and rollback plans. |
 | [docs-to-book](https://github.com/EliaTolin/docs-to-book-skills/tree/main/docs-to-book) | Crawl technical documentation and compile an offline PDF book with Typst, optionally translated. |
+| [edeka-shopping](https://github.com/StardawnAI/german-grocery-plugins/tree/main/plugins/edeka/skills/edeka-shopping) | Find EDEKA offers, fill a basket from plain words, check the earliest pickup slot, and order after confirmation. |
 | [famulor-assistants-history](https://github.com/bekservice/Famulor-Skill/tree/main/claude-store/skills/famulor-assistants-history) | Read Famulor assistant settings and interaction history through its restricted MCP profile. |
 | [linkedin-outreach](https://github.com/vanshyadav1408/Omentir/tree/main/plugins/omentir/skills/linkedin-outreach) | Research prospects, draft outreach, and inspect campaigns through Omentir MCP. |
 | [llm-wiki](https://github.com/praneybehl/llm-wiki-plugin/tree/main/skills/llm-wiki) | Ingest sources into a linked Markdown wiki, answer with citations, and check consistency across sessions. |
@@ -224,6 +225,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [process-builder](https://github.com/Castaldo-Solutions/process-builder) | Turn a process interview into a BPMN swimlane diagram in a .drawio file. |
 | [project-planning-journaling](https://github.com/mh-mansouri/Project-Planning-Journaling/tree/main/project-planning-journaling) | Scope a project and maintain a resumable journal of decisions, progress, and open work. |
 | [readme-atlas](https://github.com/chromoany/readme-atlas) | Write, rewrite, review, and translate project READMEs from repository evidence, dropping claims the repository cannot support. |
+| [rewe-shopping](https://github.com/StardawnAI/german-grocery-plugins/tree/main/plugins/rewe/skills/rewe-shopping) | Find REWE offers, fill a basket from plain words, check the earliest pickup slot, and order after confirmation. |
 | [swarmvault](https://github.com/swarmclawai/swarmvault/tree/main/skills/swarmvault) | Maintain a local Markdown knowledge vault with graph navigation, search, review, and optional model-backed synthesis. |
 | [trace-my-code](https://github.com/kgohil/trace-my-code/tree/main/skills/trace-my-code) | Maintain domain flows, architecture notes, and reuse patterns with code-drift checks. |
 
