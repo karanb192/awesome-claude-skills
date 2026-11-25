@@ -303,6 +303,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | Skill | Use it to |
 | --- | --- |
 | [file-itr](https://github.com/shivprime94/file-itr) | Follow a guided walkthrough of India's income-tax filing portal. |
+| [frugal](https://github.com/fainir/frugal/tree/main/skills/frugal) | Check free tiers, programs, verified promo codes and cheaper alternatives before paying for anything. |
 | [furusato-nozei](https://github.com/tahodev/kurashi-skill/tree/main/furusato-nozei) | Estimate Japan's hometown-tax donation cap with stated assumptions and official sources. |
 | [ipo-offer-document-review](https://github.com/parinshahAIbuilder/ipo-offer-document-review) | Review Indian IPO offer documents (DRHP/RHP) against SEBI ICDR, LODR, Companies Act and Ind AS for disclosure gaps. |
 | [itr-wala](https://github.com/karanb192/itr-wala) | Prepare Indian income-tax returns using document extraction and Python calculations. |
