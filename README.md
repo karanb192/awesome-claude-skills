@@ -386,6 +386,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 [Back to categories ↑](#browse-skills)
 
 ## Skill Collections
+- [sitetiller/ai-visibility-skills](https://github.com/sitetiller/ai-visibility-skills) - 44 AI visibility & SEO skills + zero-dependency CLI (`npx sitetiller`) with IP-verified AI bot log analysis, GSC vs. Bing comparison, and reversible page measurement (175 offline tests).
 
 Browse these repositories when you want a related set of skills.
 
