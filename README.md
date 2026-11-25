@@ -586,6 +586,9 @@ Some entries now live inside other skills or use a different name.
   source](https://github.com/MrSpacemann/polyskill).
 - [Claude Skills 中文市集](https://claudeskill.me): Read Chinese-language tutorials
   for Claude skills and plugins.
+- [Deploy on MindPal](https://mindpal.space/deploy-on-mindpal): Try any public
+  skill in the browser, then share it as an AI tool people open from a link,
+  without Claude or an AI subscription.
 
 <a id="contributors"></a>
 
