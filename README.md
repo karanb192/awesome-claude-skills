@@ -109,6 +109,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [cooper-email](https://github.com/cooper-email/cooper-email/tree/main/skills/cooper-email) | Send, read, and search mail from the agent's own inbox, and wait for replies or verification codes, through Cooper Email MCP or HTTP. |
 | [delegate](https://github.com/aayushpokhrel1/delegation-pipeline/tree/master/skills/delegate) | Delegate a precisely specified coding task to a worker, then review its diff and tests. |
 | [dialog-tree](https://github.com/ikotelkin/claude-skills/tree/main/skills/dialog-tree) | Track conversation branches in an interactive dialogue tree. |
+| [dopamine-talk](https://github.com/AnnenkovLabs/dopamine-talk) | Cut file-path recaps, hedging, and unasked critic-gates from chat, changelogs, and READMEs (EN and RU). |
 | [executing-plans][executing-plans] | Carry out an implementation plan with review checkpoints. |
 | [fabling](https://github.com/gncdev/fabling/tree/main/fabling) | Apply a work profile for proportionate investigation, visual checks, and task completion. |
 | [finishing-a-development-branch][finishing] | Decide how to integrate finished work and clean up the branch. |
