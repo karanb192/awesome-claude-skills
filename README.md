@@ -131,6 +131,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [receiving-code-review][receiving-review] | Evaluate review feedback and work through requested changes. |
 | [requesting-code-review][requesting-review] | Request a review before work proceeds or merges. |
 | [Satori](https://github.com/MetcalfSolutions/Satori) | Guide reflective conversations about emotions, relationships, and purpose, with professional-care boundaries. |
+| [scope-check-skill](https://github.com/KliporaHQ/scope-check-skill) | Free Agent Skill (SKILL.md) for Claude Code and Cursor that audits vague client briefs for missing scope, hidden assumptions, risks, and acceptance criteria before quoting. |
 | [session-handoff](https://github.com/alapha888/session-handoff-kit) | Toolkit for coding agents providing a SKILL.md protocol, context-hygiene checklist, and handoff-note template for structured session transitions. |
 | [shipreel](https://github.com/theBstar/shipreel/tree/main/plugins/shipreel/skills/shipreel) | Render a narrated PR walkthrough with diagrams, code panels, and optional app recordings. |
 | [simple-man](https://github.com/Maksim-Burtsev/simple-man/tree/master/skills/simple-man) | Shorten agent replies while preserving findings, fixes, checks, and required facts. |
