@@ -344,6 +344,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [publora-post-ideas](https://github.com/publora-team/publora-post-ideas/tree/main/skills/publora-post-ideas) | Choose among three social-post angles, then draft the one the user selects. |
 | [reading-analysis](https://github.com/shenquan520/reading-analysis) | Analyse English exam passages, answer choices, and recurring errors. Noncommercial license. |
 | [renwei](https://github.com/dbhosbu-dotcom/renwei) | Edit Chinese manuscripts for syntax, chapter rhythm, factual consistency, and generic prose. |
+| [research-tracker](https://github.com/zhanglr77/research-tracker) | Track agent research as hypotheses, preregistered experiments, and an error log, with a dashboard that flags missing predictions. |
 | [resume-claim-guard](https://github.com/korey2028-prog/resume-claim-guard) | Interviews candidates to lock a verified fact sheet before tailoring resumes to job descriptions. |
 | [resume-studio](https://github.com/Sidgit11/resume-studio) | Maintain a career evidence corpus and tailor resumes to job requirements without inventing claims. |
 | [sales-framework](https://github.com/KudoMetrics-Techologies-Private-Limited/sales-framework/tree/main/skills/sales-framework) | Review sales copy, pitches, and objections against a published persuasion framework. |
