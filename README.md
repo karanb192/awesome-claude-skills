@@ -586,6 +586,8 @@ Some entries now live inside other skills or use a different name.
   source](https://github.com/MrSpacemann/polyskill).
 - [Claude Skills 中文市集](https://claudeskill.me): Read Chinese-language tutorials
   for Claude skills and plugins.
+- [SkillHey](https://skillhey.com): Curated directory of agent skills for Claude
+  Code, Codex, and Cursor, browsable by category in nine languages.
 
 <a id="contributors"></a>
 
