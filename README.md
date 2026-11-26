@@ -343,6 +343,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [prospeak](https://github.com/giorgiozamboni/prospeak) | Rewrite existing text for professional audiences with English and Italian register controls. |
 | [publora-post-ideas](https://github.com/publora-team/publora-post-ideas/tree/main/skills/publora-post-ideas) | Choose among three social-post angles, then draft the one the user selects. |
 | [reading-analysis](https://github.com/shenquan520/reading-analysis) | Analyse English exam passages, answer choices, and recurring errors. Noncommercial license. |
+| [renhua](https://github.com/jack-reson8/renhua) | Write Chinese posts in a real person's voice, strip AI tells and add humor. |
 | [renwei](https://github.com/dbhosbu-dotcom/renwei) | Edit Chinese manuscripts for syntax, chapter rhythm, factual consistency, and generic prose. |
 | [resume-claim-guard](https://github.com/korey2028-prog/resume-claim-guard) | Interviews candidates to lock a verified fact sheet before tailoring resumes to job descriptions. |
 | [resume-studio](https://github.com/Sidgit11/resume-studio) | Maintain a career evidence corpus and tailor resumes to job requirements without inventing claims. |
