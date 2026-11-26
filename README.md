@@ -436,6 +436,7 @@ Browse these repositories when you want a related set of skills.
 | [sjh9714/skill-receipts](https://github.com/sjh9714/skill-receipts) | Small code-scope and reproduction-first skills with published admission and rejection evidence. |
 | [suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | Code quality, design, marketing, and shipping. |
 | [superseo-skills](https://github.com/inhouseseo/superseo-skills) | SEO audits, content writing, and link building. |
+| [Systematic Review Skills](https://github.com/pinjun99/systematic-review-skills) | Health-intervention systematic reviews from protocol to PRISMA reporting, with human approval at five milestones. |
 | [Vibe Coding Rules skills](https://github.com/getvibekits/vibe-coding-rules/tree/main/skills) | Explain errors, add a page, commit, review changes, apply design rules, guard database changes, and run an SEO check. |
 | [Wondel.ai Skills](https://github.com/wondelai/skills) | Apply product, UX, marketing, and software frameworks from published books and style guides. |
 | [YouTube Skills](https://github.com/sergebulaev/youtube-skills) | Draft YouTube titles, descriptions, hooks, thumbnail briefs, and upload plans; optional Publora publishing. |
