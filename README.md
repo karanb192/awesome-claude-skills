@@ -184,6 +184,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [scrollytelling-brand-site](https://github.com/abdelrhman2007/scrollytelling-brand-site/tree/main/skills/scrollytelling-brand-site) | Build scroll-told company websites with WebGL print-on-scroll 3D, performance budgets, responsive QA, and an optional CMS. |
 | [tastegate](https://github.com/stas4000/tastegate/tree/main/tastegate) | Build a frontend from a design brief, then check layout, contrast and other visible defects with a bundled Playwright browser gate. |
 | [tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-skill) | Recall, capture, audit, and forget durable project memory through Tree Ring Memory. |
+| [ui-design](https://github.com/uxpilot-ai/frontend-design-skill/tree/main/skills/ui-design) | Design UI screens on a UX Pilot canvas through its MCP server, then build them in the project's stack. |
 | [unflat](https://github.com/merturl4576/unflat) | Add visual depth to web marketing pages through a bounded CSS treatment. |
 | [web-artifacts-builder][artifacts] | Build web artifacts with React, Tailwind CSS, and shadcn/ui. |
 
