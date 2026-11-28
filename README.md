@@ -307,6 +307,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [ipo-offer-document-review](https://github.com/parinshahAIbuilder/ipo-offer-document-review) | Review Indian IPO offer documents (DRHP/RHP) against SEBI ICDR, LODR, Companies Act and Ind AS for disclosure gaps. |
 | [itr-wala](https://github.com/karanb192/itr-wala) | Prepare Indian income-tax returns using document extraction and Python calculations. |
 | [open-finance-skills](https://github.com/levelcfo/open-finance-skills) | Review SMB month-end closes, bank reconciliations, 13-week cash forecasts, and 1099 readiness with 20 finance skills. |
+| [setsuzei](https://github.com/ozko00/setsuzei/tree/main/skills/setsuzei) | Estimate Japan's 2026 income and resident tax, year-end savings (furusato nozei, iDeCo) and tax-return boxes via a tested CLI. |
 | [simmer-tennis-live-gate](https://github.com/livetennisapi/simmer-tennis-live-gate) | Gate simulated tennis market entries on live match state without placing orders. |
 | [stipend](https://github.com/stipend-sh/stipend) | Manage a self-custodied USDC wallet and x402 payments with configurable spending policies. |
 | [stock-analysis](https://github.com/AlenSarangSatheesh/Indian-Stocks-Fundamental-Analysis-SKILL/tree/main/stock-analysis) | Analyze listed companies using primary filings, sector comparisons, and accounting-quality checks. |
