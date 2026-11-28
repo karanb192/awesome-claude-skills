@@ -393,6 +393,7 @@ Browse these repositories when you want a related set of skills.
 | --- | --- |
 | [Anthropic skills](https://github.com/anthropics/skills) | Document processing, design, development, and skill examples. |
 | [Superpowers](https://github.com/obra/superpowers) | Planning, testing, debugging, and development workflows. |
+| [AdKit Ads Skills](https://github.com/adkit/ads-skills) | Create, edit, and report on Meta, Google, TikTok, LinkedIn, Microsoft, Reddit, X, and Pinterest ad campaigns via AdKit; requires an AdKit account. |
 | [adologyai/content-intelligence-plugin](https://github.com/adologyai/content-intelligence-plugin) | Competitive ad research, brand tracking, and audience analysis through Adology hosted MCP tools. |
 | [Affiliate Skills](https://github.com/Affitor/affiliate-skills) | Affiliate research, content, distribution, and analytics. |
 | [Agent Skills English Productivity Pack](https://github.com/alapha888/agent-skills-en) | Meeting notes, proofreading, research, code review, and commit messages. |
