@@ -118,6 +118,7 @@ a skill. Inclusion is not a security audit. Use **Cmd+F** or **Ctrl+F** to searc
 | [guided-goal](https://github.com/luchasarie/guided-goal/tree/main/skills/guided-goal) | Turn rough intent into a completion contract with success criteria, verification, boundaries and stop conditions before work starts. |
 | [karpathy-guidelines](https://github.com/swarmclawai/andrej-karpathy-skills/tree/main/skills/karpathy-guidelines) | Surface assumptions, keep coding changes small, and define checks before implementation. |
 | [kgai knowledge-graph](https://github.com/kgaidev/kgai) | Capture project decisions and domain knowledge in a linked graph through the kgai CLI. |
+| [lanes-workflow](https://github.com/srikondapalli1/contract_lanes_plugin/tree/main/plugin/skills/lanes-workflow) | Split a repo into lanes, enforce contracts between them, and ship only when checks are green. |
 | [least-cost-capable](https://github.com/kanibal-studio/least-cost-capable) | Pick the lowest declared cost rank among models that have the capabilities a task needs. |
 | [mindpalace](https://github.com/aashutosh396/mindpalace-skill) | Organize a local knowledge vault around resources, project pointers, logs, and runbooks. |
 | [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | Inspect recorded agent runs and replay or fork them through Orca MCP. |
